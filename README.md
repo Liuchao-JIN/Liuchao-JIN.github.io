@@ -1,115 +1,209 @@
+# Neumorphism <!-- omit in toc -->
 
-[leopard](https://leopardpan.cn) 是一个简洁的博客模板，响应式主题， 适配了电脑、手机各种屏幕，看效果直接点击下面链接
- 
- * [博客链接](https://leopardpan.cn) （部署在国内，访问更快）         
- * [Demo链接](https://leopardpan.github.io/) （部署在github page）         
+> Neumorphism designed Jekyll theme for personal websites, portfolios and resumes.
 
-如果你喜欢请 Star ，你的 Star 是我持续更新的动力, 谢谢 😄.
- 
-### 你在搭建个人博客遇到任何问题都可以找我
+* Featured on [JAMstack Themes](https://jamstackthemes.dev/theme/jekyll-neumorphism/)
+* Featured on [Jekyll Themes](https://jekyll-themes.com/neumorphism/)
+* Featured on [jekyllthemes](http://jekyllthemes.org/themes/neumorphism/)
 
-遇到解决不了的问题 [需要技术支持联系我](https://leopardpan.cn/support/)
+[![Open Issues](https://badgen.net/github/open-issues/longpdo/neumorphism)](https://github.com/longpdo/neumorphism/issues)
+[![License](https://badgen.net/github/license/longpdo/neumorphism)](LICENSE)
+<a href="https://jekyll-themes.com">
+    <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
+</a>
 
+[View Demo](https://longpdo.github.io/neumorphism/) · [Report Bug](https://github.com/longpdo/neumorphism/issues) · [Request Feature](https://github.com/longpdo/neumorphism/issues)
 
-### 环境要求
+<!-- TABLE OF CONTENTS -->
+## Table of Contents <!-- omit in toc -->
 
-* Jekyll 支持: Mac 、Windows、ubuntu 、Linux 操作系统                     
-* Jekyll 需要依赖: Ruby、bundler
+* [About The Project](#about-the-project)
+  * [Built With](#built-with)
+  * [Features](#features)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Usage](#usage)
+  * [Personalize and Customize](#personalize-and-customize)
+    * [_config.yml](#_configyml)
+    * [Github Metadata Plugin](#github-metadata-plugin)
+    * [_data/*.yml](#_datayml)
+    * [Particles.js](#particlesjs)
+* [Contributing](#contributing)
+* [License](#license)
+* [Acknowledgements](#acknowledgements)
 
-### 使用手册
+<!-- ABOUT THE PROJECT -->
 
-[Jekyll搭建个人博客](https://leopardpan.cn/2016/10/jekyll_tutorials1/)  :  使用Jekyll搭建个人博客的教程，及如何把这个博客模板修改成你自己的博客，里面也有大量的评论、Jekyll 搭建博客各种环境出现过的问题。
+## About The Project
 
-[HEXO搭建个人博客](https://leopardpan.cn/2015/08/HEXO%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/) : 使用 HEXO 基于 Github Page 搭建个人博客， 教程里面累计了大量提问和评论，如果你在搭建博客时遇到问题，可以看看这个教程。 
+[![Project Screenshot][product-screenshot]](https://longpdo.github.io/neumorphism/)
 
+This is a personal website built with `Jekyll` and hosted on `Github Pages`, which is based on the new `Neumorphism` design trend and was developed with a mobile-first approach. This can be used by developers, who want to showcase their resume and portfolio. If you want to use this for your own website, fork this repository and then refer to [personalize and customize](#personalize-and-customize).
 
-#### 安装Jekyll
+### Built With
 
-[Jekyll中文官方文档](http://jekyll.bootcss.com/) ， 如果你已经安装过了 Jekyll，可以忽略此处。
+* [Jekyll](https://jekyllrb.com/)
 
-> $ gem install jekyll
+### Features
 
-#### 获取博客模板
+* Mobile-First Responsive Design
+* Animated preloader animation
+* Landing Page with animated background with [particles.js](https://vincentgarreau.com/particles.js/), a Typing Carousel and animated social icons
+* Dark Neumorphism Design on main content
+* [Animations On Scroll](https://michalsnik.github.io/aos/)
+* Filterable *Skills* word cloud
+* [Github's API](https://developer.github.com/v3/) automatically populating the *Open Source Projects* section
+* Gulp dev workflow with [BrowserSync](https://browsersync.io/), [Autoprefixer](https://autoprefixer.github.io/) and `JS` & `SCSS` minifying.
+* [Google Analytics](https://analytics.google.com/)
 
-> $ git clone https://github.com/leopardpan/leopardpan.github.io.git
+<!-- GETTING STARTED -->
 
-或者直接[下载博客](https://github.com/leopardpan/leopardpan.github.io/archive/master.zip)   
+## Getting Started
 
-进leopardpan.github.io/ 目录下， 开启本地服务 
+To get a local copy up and running follow these simple steps.
 
-> $ jekyll server
+`The commands and instructions I provide are for MacOS - please look up the specific commands for your OS on your own.`
 
-在浏览器输入 [127.0.0.1:4000](127.0.0.1:4000) ， 就可以看到博客效果了。
+### Prerequisites
 
+* [NodeJS](https://nodejs.org/en/)
 
-### 提示
+```sh
+brew install node
+```
 
->* 如果你想使用我的模板，请把 _posts/ 目录下的文章都去掉。
->* 修改 _config.yml 文件里面的内容为你自己的个人信息。
+If you need to switch between Node versions regurlarly, I would recommend to install Node via [Node Version Manager](https://github.com/nvm-sh/nvm/blob/master/README.md#manual-install).
 
-如果在部署博客的时候发现问题，可以直接在[Issues](https://github.com/leopardpan/leopardpan.github.io/issues)里面提问。        
+* [Jekyll](https://jekyllrb.com/)
 
+```sh
+gem install bundler jekyll
+```
 
-### 把这个博客变成你自己的博客
+For more information, refer to [this](https://jekyllrb.com/docs/installation/).
 
-根据上面【提示】修改过后，在你的github里创建一个username.github.io的仓库，username指的值你的github的用户名。      
-创建完成后，把我的这个模板使用git push到你的username.github.io仓库下就行了。
-搭建博客如果遇到问题可以看看我教程[Jekyll搭建个人博客](https://leopardpan.cn/2016/10/jekyll_tutorials1/)。
+* [Yarn](https://yarnpkg.com/)
 
+```sh
+npm install -g yarn
+```
 
-### 赞助
+### Installation
 
-你可以通过下方二维码赞助本项目，资金将用于服务器开销以及今后的公共服务
+> Recommended way: If you want to contribute to this theme or open issues due to problems implementing this on your own, I would recommend forking the repository directly. This makes it easier for me to solve open issues and questions or check pull requests.
 
-感谢所有赞助过本项目的朋友，你们都为本项目贡献了自己的一份力量
+1.1: Fork the repository (using the `Fork` button at the top) and then clone the repository
 
-<details>
+```sh
+# Replace {YOUR_USERNAME} with your actual username
+git clone https://github.com/{YOUR_USERNAME}/neumorphism.git
+```
 
-<summary>微信二维码</summary>
-<img width="300" src="https://leopardpan.github.io/images/payimg/weipayimg.jpg" alt="wechat">
-</details>
+or
 
-<details>
+1.2: Create your own repository (using the green `Use this template` button at the top) and then clone the repository
 
-<summary>支付宝二维码</summary>
-<img width="300" src="https://leopardpan.github.io/images/payimg/alipayim.jpg" alt="alipay">
-</details>
+```sh
+# Replace {YOUR_USERNAME}, {YOUR_REPOSITORY} with the actual values
+git clone https://github.com/{YOUR_USERNAME}/{YOUR_REPOSITORY}.git
+```
 
+2: Change directory into neumorphism
 
-### 效果预览
+```sh
+cd neumorphism
+```
 
-#### 头像效果
+3: Install dependencies
 
-![](https://leopardpan.github.io/images/readme/icon.gif)
+```sh
+yarn
+```
 
-如果你只想要我博客里的头像效果，你只需要拿 leopardpan.github.io/_includes/side-panel.html 文件里面 `头像效果` 和 leopardpan.github.io/css/main.css 里面最后面 `头像效果` 部分就行了。
+<!-- USAGE EXAMPLES -->
 
+## Usage
 
-***
+* Run and develop locally with live server at `http://localhost:4000`, this will also build production-ready `JS` and `SCSS` assets with every change
 
-#### 博客首页   
+```sh
+gulp
+```
 
-![](https://leopardpan.github.io//images/readme/img4.png)   
+* After committing and pushing, see the `Settings` page of your repository to see where your site is published at via `Github Pages`.
 
-***  
+### Personalize and Customize
 
-#### 每篇文章下面都支持打赏   
+#### _config.yml
 
-![](https://leopardpan.github.io/images/readme/img3.png)
+Edit `_config.yml` to personalize your site. For documentation, refer to [docs/config.md](https://github.com/longpdo/neumorphism/blob/master/docs/config.md).
 
-#### 文章详情   
+#### Github Metadata Plugin
 
-![](https://leopardpan.github.io/images/readme/img1.png)
+If you want to automatically have your Github repositories pulled for the *Open Source Projects* section, then you also need to authenticate yourself for the Github Metadata plugin to work.
 
+You need to generate a new personal access token on GitHub:
 
-#### 文章支持标签分类 
+* Go to the [Github Token site](https://github.com/settings/tokens/new)
+* Select the scope `public_repository`, and add a description.
+* Confirm and save the settings. Copy the token you see on the page.
+* Create a `.env` file inside your repository and add your generated `JEKYLL_GITHUB_TOKEN`:
 
-![](https://leopardpan.github.io/images/readme/img2.png)
+```text
+JEKYLL_GITHUB_TOKEN=0YOUR0GENERATED0TOKEN0
+```
 
-#### 手机端效果
+To complete the configuration for the Github Metadata plugin, you also need to change the value of `repository` inside `_config.yml`. After this, you should the Github Metadata plugin should work properly.
 
-<img width="300" src="https://leopardpan.github.io/images/readme/img5.png" alt="wechat">
+For optimal results, you should make sure, that every Github project, you want included on this portfolio, has added following informations on Github:
 
-#### 感谢   
+* Description
+* Homepage link, if there is a live version of it
+* Topics
 
-本博客在[Vno Jekyll](https://github.com/onevcat/vno-jekyll)基础上修改的。  
+Example:
+![Github Repository Information Example][github-repo-info]
+
+#### _data/*.yml
+
+Edit files inside `_data` to add information to the portfolio. For documentation, refer to [docs/data.md](https://github.com/longpdo/neumorphism/blob/master/docs/data.md).
+
+#### Particles.js
+
+Edit `assets/particles.json` to customize the landing page backgorund animation. For more information, refer to [this](https://github.com/VincentGarreau/particles.js/#options).
+
+<!-- CONTRIBUTING -->
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<!-- LICENSE -->
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## Acknowledgements
+
+* [Font Awesome](https://fontawesome.com/)
+* [Normalize.css](https://necolas.github.io/normalize.css/)
+* Based Preloader on [Codrin Pavel's](https://codepen.io/zerospree/pen/aCjAz) version
+* Typing Carousel by [Gregory Schier](https://codepen.io/gschier/pen/jkivt)
+* Social Button Animation by [Stéphane Lyver](https://codepen.io/wouwi/pen/Lwrmi)
+* Adapted [Damian Jankowski's](https://codepen.io/dolaron/pen/rNadmOE) color palette for the neumorphism design
+* Based Timeline on [Krishna Babu's](https://codepen.io/krishnab/pen/OPwqbW) version
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[product-screenshot]: https://raw.githubusercontent.com/longpdo/neumorphism/master/docs/screenshot.gif
+[github-repo-info]: https://raw.githubusercontent.com/longpdo/neumorphism/master/docs/github-repo-info.png
