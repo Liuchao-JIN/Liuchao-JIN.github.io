@@ -8,8 +8,8 @@ updated: 2021
 # Landing Page
 username: Liuchao Jin
 typing_text: Mechanical Engineering
-email: long.p.do@fau.de
-github_username: longpdo
+email: LIJ33@pitt.edu
+github_username: Liuchao-Jin
 codepen_username: longpdo
 dev_username:
 linkedin_username: longpdo
@@ -30,7 +30,7 @@ cv_download_link: https://github.com/longpdo/Awesome-CV/blob/master/examples/cv.
 
 # Projects Section
 show_projects_card: true
-show_projects: false
+show_projects: true
 projects_title: Things I Have Built
 show_os_projects: true
 os_projects_title: Things I Contributed To Open Source
@@ -40,17 +40,40 @@ show_contact_card: true
 contact_title: Get In Touch
 
 # Github-Metadata
-repository: longpdo/personal-website
+# repository: longpdo/personal-website
+# projects:
+#   # pushed or stars
+#   sort_by: stars
+#   exclude:
+#     archived: true
+#     forks: true
+#     projects:
+#     # - repo-name
+
+repository: longpdo/neumorphism
 projects:
-  # pushed or stars
-  sort_by: stars
+  # sortby:
+  # > set this to pushed, if you want to sort your github repositories by time.
+  # > set this to stars, if you want to sort your github repositories by stars.
+  sort_by: pushed
   exclude:
+    # archived:
+    # > setting this to true, will exclude archived repositories
+    # > setting this to false, will also display archived repositories
     archived: true
+    # forks:
+    # > setting this to true, will exclude forked repositories
+    # > setting this to false, will also display forked repositories
     forks: true
+    # projects: A list of the repository names you want to exclude from the listing.
     projects:
-    # - repo-name
+    # - repo1-to-be-excluded
+    # - repo2-to-be-excluded
 
 # Google-analytics
+# google-analytics:
+#   id: "UA-158757509-1"
+
 google-analytics:
   id: "UA-158757509-1"
 
