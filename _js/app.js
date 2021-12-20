@@ -7,6 +7,9 @@ $(document).ready(function() {
     window.scrollTo(0, 0);
   });
 
+  /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
+  particlesJS.load('landing', 'assets/particles.json', function() {});
+
   // Typing Text
   var element = document.getElementById('txt-rotate');
   var toRotate = element.getAttribute('data-rotate');
@@ -34,6 +37,7 @@ $(document).ready(function() {
   randomizeOrder();
 });
 
+/* FUNCTIONS */
 /* Preloader */
 
 function fadeOutPreloader(element, duration) {
@@ -45,7 +49,10 @@ function fadeOutPreloader(element, duration) {
       element.style.opacity = 0;
       element.style.filter = 'alpha(opacity = 0)';
 
+      // Allow horizontal scroll
       document.documentElement.style.overflowY = 'auto';
+
+      // Remove preloader div
       document.getElementById('preloader').remove();
 
       clearInterval(interval);
@@ -100,6 +107,8 @@ TxtRotate.prototype.tick = function() {
     that.tick();
   }, delta);
 };
+
+/* Word Cloud */
 
 function randomizeOrder() {
   var parent = document.getElementById('skills');

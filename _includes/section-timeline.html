@@ -36,13 +36,14 @@
           </div>
         </li>
       {% endif %}
+
       {% if event.timeline-side == 'right' %}
         <li>
           <div class="direction-r">
             <div class="flag-wrapper">
               <span class="hexagon"></span>
               <span class="flag neumorphism-button" data-aos="zoom-in-left">
-                <a rel="noreferrer" href="{{event.title-url}}" target="_blank">
+                <a href="{{event.title-url}}" target="_blank" rel="noreferrer">
                   <span>{{event.title}}</span>
                 </a>
               </span>
