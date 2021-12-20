@@ -1,5 +1,6 @@
-source 'https://rubygems.org'
-gem 'jekyll'
-gem 'redcarpet'
-gem 'jekyll-paginate'
-gem 'jekyll-sitemap'
+source "https://rubygems.org"
+
+gem "dotenv"
+gem "github-pages"
+gem "jekyll"
+gem "jekyll-github-metadata"
