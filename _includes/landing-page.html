@@ -1,25 +1,15 @@
-<div class="landing">
-  <div class="landing-logo">
-    <h1>
-      <em>L</em>
-      <em class="planet left">i</em>
-      <em>u</em>
-      <em>c</em>
-      <em>h</em>
-      <em>a</em>
-      <em>o</em>
-      <em>&nbsp;</em>
-      <em>J</em>
-      <em class="planet right">i</em>
-      <em>n</em>
-    </h1>
-  </div>
-
+<div id="landing">
   <div class="landing-title">
+    <h1>Hi, I&#39;m
+      <span class="highlight-title">{{site.username}}</span>,
+    </h1>
     <h1>
-      <span id="txt-rotate" data-period="2000" data-rotate='["{{site.typing_text}}", "scroll down for more."]'>
+      <span id="txt-rotate" data-period="2000"
+        data-rotate='["{{site.typing_text}}", "scroll down for more."]'
+      >
       </span>
     </h1>
+
     <div class="landing-icons">
       {% if site.email != null %}
         <a class="social-link email" aria-label="My E-Mail" href="mailto:{{site.email}}">
