@@ -1,0 +1,29 @@
+- name: Git
+  weight: 4
+
+- name: Zsh
+  weight: 3
+
+- name: MongoDB
+  weight: 1
+
+- name: Scrum
+  weight: 3
+
+- name: Jenkins
+  weight: 2
+
+- name: Chrome DevTools
+  weight: 3
+
+- name: npm
+  weight: 3
+
+- name: gulp
+  weight: 3
+
+- name: Maven
+  weight: 2
+
+- name: Keycloak
+  weight: 1

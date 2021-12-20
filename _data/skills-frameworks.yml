@@ -1,0 +1,32 @@
+- name: Angular
+  weight: 4
+
+- name: AngularJS
+  weight: 4
+
+- name: React Native
+  weight: 2
+
+- name: JBoss
+  weight: 1
+
+- name: Flutter
+  weight: 2
+
+- name: Selenium
+  weight: 3
+
+- name: Jasmine
+  weight: 3
+
+- name: Protractor
+  weight: 3
+
+- name: Jekyll
+  weight: 4
+
+- name: SpringBoot
+  weight: 2
+
+- name: NgRx
+  weight: 2
