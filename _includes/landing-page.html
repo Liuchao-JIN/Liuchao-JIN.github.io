@@ -1,12 +1,19 @@
-<div id="landing">
-  <div class="landing-title">
-    <h1>Hi, I&#39;m
-      <span class="highlight-title">{{site.username}}</span>,
-    </h1>
+<div class="landing">
+  <div class="landing-logo">
     <h1>
-      <span id="txt-rotate" data-period="2000"
-        data-rotate='["{{site.typing_text}}", "scroll down for more."]'
-      >
+      <em>L</em>
+      <em class="planet left">O</em>
+      <em>N</em>
+      <em>G</em>
+      <em>&nbsp;</em>
+      <em>D</em>
+      <em class="planet right">O</em>
+    </h1>
+  </div>
+
+  <div class="landing-title">
+    <h1>
+      <span id="txt-rotate" data-period="2000" data-rotate='["{{site.typing_text}}", "scroll down for more."]'>
       </span>
     </h1>
     <div class="landing-icons">
@@ -17,7 +24,8 @@
           </svg>
           <div class="social">
             <svg class="social-svg" viewBox="0 0 48 48">
-              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/solid.svg#envelope" | prepend: site.baseurl }}""></use>
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48"
+                xlink:href="{{ "/assets/img/solid.svg#envelope" | prepend: site.baseurl }}""></use>
             </svg>
           </div>
           <span class="label">E-Mail</span>
@@ -33,7 +41,8 @@
           </svg>
           <div class="social">
             <svg class="social-svg" viewBox="0 0 48 48">
-              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#github" | prepend: site.baseurl }}"></use>
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48"
+                xlink:href="{{ "/assets/img/brands.svg#github" | prepend: site.baseurl }}"></use>
             </svg>
           </div>
           <span class="label">GitHub</span>
@@ -49,7 +58,8 @@
           </svg>
           <div class="social">
             <svg class="social-svg" viewBox="0 0 48 48">
-              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#codepen" | prepend: site.baseurl }}"></use>
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48"
+                xlink:href="{{ "/assets/img/brands.svg#codepen" | prepend: site.baseurl }}"></use>
             </svg>
           </div>
           <span class="label">CodePen</span>
@@ -65,7 +75,8 @@
           </svg>
           <div class="social">
             <svg class="social-svg" viewBox="0 0 48 48">
-              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#dev" | prepend: site.baseurl }}"></use>
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48"
+                xlink:href="{{ "/assets/img/brands.svg#dev" | prepend: site.baseurl }}"></use>
             </svg>
           </div>
           <span class="label">DEV</span>
@@ -81,7 +92,8 @@
           </svg>
           <div class="social">
             <svg class="social-svg" viewBox="0 0 48 48">
-              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#linkedin-in" | prepend: site.baseurl }}"></use>
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48"
+                xlink:href="{{ "/assets/img/brands.svg#linkedin-in" | prepend: site.baseurl }}"></use>
             </svg>
           </div>
           <span class="label">LinkedIn</span>
@@ -89,15 +101,16 @@
       {% endif %}
 
       {% if site.twitter_username != null %}
-        <a class="social-link twitter" aria-label="My Twitter" target="_blank"
-          rel="noreferrer" href="https://twitter.com/{{site.twitter_username}}"
+        <a class="social-link twitter" aria-label="My Twitter" target="_blank" rel="noreferrer"
+          href="https://twitter.com/{{site.twitter_username}}"
         >
           <svg viewBox="0 0 200 200" class="circle">
             <circle cx="100" cy="100" r="80" />
           </svg>
           <div class="social">
             <svg class="social-svg" viewBox="0 0 48 48">
-              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#twitter" | prepend: site.baseurl }}"></use>
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48"
+                xlink:href="{{ "/assets/img/brands.svg#twitter" | prepend: site.baseurl }}"></use>
             </svg>
           </div>
           <span class="label">Twitter</span>
