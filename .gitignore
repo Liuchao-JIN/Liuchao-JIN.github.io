@@ -1,8 +1,6 @@
-_site
+*.gem
+.bundle
 .sass-cache
-node_modules
-.DS_STORE
-.jekyll-cache
-.env
-.prettierignore
-.jekyll-metadata
+_site
+*.code-workspace
+vendor
