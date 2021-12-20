@@ -78,11 +78,29 @@ function browserSyncReload(done) {
 /**
  * Build Jekyll site
  */
+// function jekyll(done) {
+//   return cp
+//     .spawn(
+//       'bundle',
+//       [ 'exec', 'jekyll', 'build', '--incremental', '--config=_config.yml' ],
+//       {
+//         stdio: 'inherit'
+//       }
+//     )
+//     .on('close', done);
+// }
+
 function jekyll(done) {
   return cp
     .spawn(
       'bundle',
-      [ 'exec', 'jekyll', 'build', '--incremental', '--config=_config.yml' ],
+      [
+        'exec',
+        'jekyll',
+        'build',
+        '--incremental',
+        '--config=_config.yml,_config_dev.yml'
+      ],
       {
         stdio: 'inherit'
       }
