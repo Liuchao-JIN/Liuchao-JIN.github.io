@@ -1,67 +1,31 @@
-# Personal Website <!-- omit in toc -->
+A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
-> This repository is currently used for my personal landing page.
+I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
 
-[![Open Issues](https://badgen.net/github/open-issues/longpdo/longpdo.github.io)](https://github.com/longpdo/longpdo.github.io/issues)
-[![License](https://badgen.net/github/license/longpdo/longpdo.github.io)](LICENSE)
+### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
-[View Demo](https://longpdo.github.io) · [Report Bug](https://github.com/longpdo/longpdo.github.io/issues)
+# Instructions
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents <!-- omit in toc -->
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Check status by going to the repository settings, in the "GitHub pages" section
+1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
-* [About The Project](#about-the-project)
-  * [Built With](#built-with)
-  * [Features](#features)
-* [Getting Started](#getting-started)
-* [License](#license)
-* [Acknowledgements](#acknowledgements)
+See more info at https://academicpages.github.io/
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+## To run locally (not on GitHub Pages, to serve on your own computer)
 
-[![Project Screenshot][product-screenshot]](https://longpdo.github.io)
+1. Clone the repository and made updates as detailed above
+1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
+1. Run `bundle clean` to clean up the directory (no need to run `--force`)
+1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
+1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
-This is my personal website built with `Jekyll` and hosted on `Github Pages`, which is based on the new `Neumorphism` design trend and was developed with a mobile-first approach.. This can be used by developers, who want to showcase their resume and portfolio. If you want to use this for your own portfolio, I have created a boilerplate version of this without my branding, another preloader and [particles.js](https://vincentgarreau.com/particles.js/) integrated into the landing page. Fork the repository [Neumorphism](https://github.com/longpdo/neumorphism) and then refer to the [README](https://github.com/longpdo/neumorphism/blob/master/README.md) for more.
+# Changelog -- bugfixes and enhancements
 
-### Built With
+There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
 
-* [Jekyll](https://jekyllrb.com/)
-
-### Features
-
-* Mobile-First Responsive Design
-* Animated preloader animation
-* Landing Page with my animated Logo, a Typing Carousel and animated social icons
-* Dark Neumorphism Design on main content
-* [Animations On Scroll](https://michalsnik.github.io/aos/)
-* Filterable *Skills* word cloud
-* [Github's API](https://developer.github.com/v3/) automatically populating the *Open Source Projects* section
-* Gulp dev workflow with [BrowserSync](https://browsersync.io/), [Autoprefixer](https://autoprefixer.github.io/) and `JS` & `SCSS` minifying.
-* [Google Analytics](https://analytics.google.com/)
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-> I value keeping my site open source, but as you all know, *plagiarism is bad*. I would appreciate it, if you would give me credit by attribution, similar to how I give credits to other developers at [Acknowledgements](#acknowledgements).
-
-Fork the repository [Neumorphism](https://github.com/longpdo/neumorphism) and then refer to the [README](https://github.com/longpdo/neumorphism/blob/master/README.md) for more.
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* [Font Awesome](https://fontawesome.com/)
-* [Normalize.css](https://necolas.github.io/normalize.css/)
-* Based Preloader on [Anastasiya Kuligina'](https://codepen.io/WebSonata/pen/bRaONB) version
-* Typing Carousel by [Gregory Schier](https://codepen.io/gschier/pen/jkivt)
-* Social Button Animation by [Stéphane Lyver](https://codepen.io/wouwi/pen/Lwrmi)
-* Adapted [Damian Jankowski's](https://codepen.io/dolaron/pen/rNadmOE) color palette for the neumorphism design
-* Based Timeline on [Krishna Babu's](https://codepen.io/krishnab/pen/OPwqbW) version
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: screenshot.gif
+To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
