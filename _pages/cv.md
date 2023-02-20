@@ -59,7 +59,7 @@ Honors & Awards
 * 03/2022 Outstanding Graduate of Sichuan Province
 * 03/2022 Outstanding Communist Party Member of Sichuan University-Pittsburgh Institute
 * 01/2022 A-level Certificate in Comprehensive Quality of University Students in Sichuan Province
-* 12/2021 2020-2021 Academic Year National Scholarship (China) (¥8,000)
+* 12/2021 2020-2021 Academic Year [National Scholarship](https://xsc.scu.edu.cn/WebSite/XG/Home/Detail?npVCXJmTU-kgkhPQEX1DodXwoRsKACEqWkvleYpUOwbYYYXlCbPoJtOgCnPcINVqfIpqw504IvZty7AogOkNAw==.shtml) (China) (¥8,000)
 * 10/2021 Outstanding Graduate of Sichuan University
 * 10/2021 2020-2021 Academic Year Outstanding Student of Sichuan University
 * 10/2021 2020-2021 Academic Year Sichuan University-Pittsburgh Institute Best Academic Achiever Award (¥60,000)
@@ -67,15 +67,15 @@ Honors & Awards
 * 06/2021 Second Prize in [Videos and Voices Short Video Contest](https://scupi.scu.edu.cn/activities/%e5%af%bb%e5%a3%b0%e8%a7%85%e5%bd%b1%e7%9f%ad%e8%a7%86%e9%a2%91%e5%88%9b%e4%bd%9c%e5%a4%a7%e8%b5%9b)
 * 05/2021 Second Prize in The 6th National Academic English Vocabulary Competition (NAEV)
 * 04/2021 Honorable Mention in 2021 Mathematical Contest in Modeling (MCM)
-* 12/2020 2019-2020 Academic Year National Scholarship (China) (¥8,000)
+* 12/2020 2019-2020 Academic Year [National Scholarship](https://xsc.scu.edu.cn/WebSite/XG/Home/Detail?npVCXJmTU-kgkhPQEX1DodTewoFgvtvkDRUuabObDxRckNeLLNJJtDkRK_oha-ac-2oU7cwjNYHUJQV-a7U-mQ==.shtml) (China) (¥8,000)
 * 10/2020 2019-2020 Academic Year Outstanding Student of Sichuan University
 * 09/2020 Excellent Teaching Assistant Award for Sichuan University-Pittsburgh Institute
 * 09/2020 2019-2020 Academic Year Sichuan University-Pittsburgh Institute Academic Star (¥10,000)
-* 12/2019 2018-2019 Academic Year National Scholarship (China) (¥8,000)
+* 12/2019 2018-2019 Academic Year [National Scholarship](https://xsc.scu.edu.cn/WebSite/XG/Home/Detail?npVCXJmTU-kgkhPQEX1DoZODR8VNcZKYj9_aijg8Obar0AVBlyhqy7Yw-WTTKI9ecCzPa3EHjKR5BZVy9t9A7g==.shtml) (China) (¥8,000)
 * 12/2019 Excellent Student in Party School of the Sichuan University Committee of the Communist Party of China
 * 10/2019 2018-2019 Academic Year Outstanding Student of Sichuan University
 * 09/2019 2018-2019 Academic Year Sichuan University-Pittsburgh Institute Best Academic Achiever Award (¥60,000)
-* 07/2019 First Prize in the Special Category of the 9th ”Video Friends Cup” China University TV Awards
+* 07/2019 First Prize in the Special Category of the 9th ”[Video Friends Cup](https://mp.weixin.qq.com/s/LDRg9gwwwKdUBDOkBet5CQ)” China University TV Awards
 * 07/2019 Excellent Student of Military Skills Training in Sichuan University
 * 02/2019 Student Ambassador of Sichuan University-Pittsburgh Institute
 
