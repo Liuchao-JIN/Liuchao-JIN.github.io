@@ -82,21 +82,13 @@ analytics:
 author:
   name             : "Liuchao Jin"
   avatar           : "profile.png"
-<<<<<<< HEAD
   bio              : "PhD students at CUHK"
   location         : "Room 201, William M.W. Mong Engineering Building, The Chinese University of Hong Kong, Hong Kong, 999077, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://https://scholar.google.com/citations?user=iYBWir4AAAAJ&hl=en"
-=======
-  bio              : "PhD Student at CUHK"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=iYBWir4AAAAJ&hl=en"
->>>>>>> ca19119dc5bccdca60fc12af13dddc4eb7cb8a8a
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Liuchao-Jin"
   uri              :
   bitbucket        :
   codepen          :
@@ -104,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Liuchao-JIN"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0001-6204-1922"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "jin_liuchao"
   vine             :
   weibo            :
   xing             :
