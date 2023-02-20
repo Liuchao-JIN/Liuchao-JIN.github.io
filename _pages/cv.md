@@ -16,15 +16,15 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 04/2021-09/2021: [Westlake University](https://en.westlake.edu.cn/), Research Assistant (Supervisor: Prof. [Weicheng Cui](https://en.westlake.edu.cn/faculty/weicheng-cui.html))
+  * Made device design for underwater charging of robotic fishes using marine renewable energy.
+  * Did research on technical solutions and scientific insights that advance engineering and robotics by leveraging the methodologies and design principles of robotic fish.
+  * Wrote a review paper about underwater charging for a school of robotic fishes through renewable energy.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 03/2021-09/2021: [McGill University](https://www.mcgill.ca/), Research Assistant (Supervisor: Prof. [Abdolhamid Akbarzadeh Shafaroudi](https://www.mcgill.ca/bioeng/faculty-and-staff/academic-staff/abdolhamid-akbarzadeh-shafaroudi))
+  * [Mitacs Globalink Research Internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship)
+  * Examined potential energy resources in automotive and aeroplane/helicopter, e.g. vibration of helicopter rotor system, embedded strain in vehicle frame, and solar energy received by the frame.
+  * Developed a methodology for harvesting energy from the wasted resources using lightweight smart cellular solids made of piezoelectric materials or active composites.
 
 Skills
 ======
