@@ -6,6 +6,6 @@ excerpt: 'Nowadays, additive manufacturing (AM) technologies have been widely us
 date: 2022-11-16
 venue: 'Materials Science in Additive Manufacturing'
 paperurl: 'https://www.researchgate.net/profile/Jingchao-Jiang/publication/364813379_A_survey_of_additive_manufacturing_reviews/links/6373467b2f4bca7fd060338a/A-survey-of-additive-manufacturing-reviews.pdf'
-citation: 'Xiaoya Zhai, Liuchao Jin, and Jingchao Jiang. (2022). &quot;A survey of additive manufacturing reviews.&quot; <i>Materials Science in Additive Manufacturing</i>. 1(4), 21.'
-
+citation: 'Xiaoya Zhai, Liuchao Jin, and Jingchao Jiang. (2022). &quot;A survey of additive manufacturing reviews.&quot; <i>Materials Science in Additive Manufacturing</i>. 1(4), 21. '
+---
 [Download paper here](http://Liuchao-JIN.github.io/files/zhai2022survey.pdf)
