@@ -63,8 +63,8 @@ Honors & Awards
 * 10/2021 Outstanding Graduate of Sichuan University
 * 10/2021 2020-2021 Academic Year Outstanding Student of Sichuan University
 * 10/2021 2020-2021 Academic Year Sichuan University-Pittsburgh Institute Best Academic Achiever Award (¥60,000)
-* 09/2021 First Prize in Chinese Tale - English Talk
-* 06/2021 Second Prize in Videos and Voices Short Video Contest
+* 09/2021 First Prize in [Chinese Tale - English Talk](https://scupi.scu.edu.cn/activities/%e4%b8%ad%e6%96%87%e8%a5%bf%e8%ae%b2%e6%bc%94%e8%ae%b2%e6%af%94%e8%b5%9b)
+* 06/2021 Second Prize in [Videos and Voices Short Video Contest](https://scupi.scu.edu.cn/activities/%e5%af%bb%e5%a3%b0%e8%a7%85%e5%bd%b1%e7%9f%ad%e8%a7%86%e9%a2%91%e5%88%9b%e4%bd%9c%e5%a4%a7%e8%b5%9b)
 * 05/2021 Second Prize in The 6th National Academic English Vocabulary Competition (NAEV)
 * 04/2021 Honorable Mention in 2021 Mathematical Contest in Modeling (MCM)
 * 12/2020 2019-2020 Academic Year National Scholarship (China) (¥8,000)
