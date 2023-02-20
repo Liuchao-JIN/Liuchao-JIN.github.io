@@ -1,11 +1,11 @@
 ---
-title: "The Unified Tracking Controller for a Tilt-Rotor Unmanned Aerial Vehicle Based on the Dual Quaternion"
+title: "A survey of additive manufacturing reviews"
 collection: publications
 permalink: /publication/zhai2022survey
-excerpt: 'Tilt-rotor multi-rotor UAV is a rapidly expanding field of research due to its benefits of full actuation, high force and torque capabilities, and great efficiency of hovering. The current controllers of tilt-rotor multi-rotor UAVs are primarily based on the Cartesian coordinate system to describe the position combined with the classical Euler angle approach, the direction cosine matrix or the quaternion to represent the attitude, which makes control lose its mathematical simplicity and has some singularity cases. In this paper, the system modelling of a tilt-rotor multi-rotor UAV using the unit dual quaternion is presented and a novel PID feedback linearization tracker is proposed. The developed controller has advantages of singularity free, attitude/position coupled motion tracking, and robustness to external disturbance. Applying the Laplace transform, the stability analysis is conducted by analyzing the poles and zeros of the closed-loop system. Simulation studies including the 6 DoF trajectory tracking and disturbance rejection are also performed to demonstrate the effectiveness of the proposed method. The simulation results illustrate that the proposed PID feedback linearization tracker has good tracking performance for both position and attitude and strong robustness against disturbance.'
-date: 2022-10-28
-venue: '2022 IEEE International Conference on Unmanned Systems (ICUS)'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/9986880'
-citation: 'Liuchao Jin, Yuchen Lou, Lu-An Chen, and Qi Lu. (2022). &quot;The Unified Tracking Controller for a Tilt-Rotor Unmanned Aerial Vehicle Based on the Dual Quaternion.&quot; <i>2022 IEEE International Conference on Unmanned Systems (ICUS)</i>. pp. 1356-1363. '
+excerpt: 'Nowadays, additive manufacturing (AM) technologies have been widely used in construction, medical, military, aerospace, fashion, etc. The advantages of AM (eg, more design freedom, no restriction on the complexity of parts, and rapid prototyping) have attracted a growing number of researchers. Increasing number of papers are published each year. Until now, thousands of review papers have already been published in the field of AM. It is, therefore, perhaps timely to perform a survey on AM review papers so as to provide an overview and guidance for readers to choose their interested reviews on some specific topics. This survey gives detailed analysis on these reviews, divides these reviews into different groups based on the AM techniques and materials used, highlights some important reviews in this area, and provides some discussions and insights.'
+date: 2022-11-16
+venue: 'Materials Science in Additive Manufacturing'
+paperurl: 'https://accscience.com/journal/MSAM/1/4/10.18063/msam.v1i4.21'
+citation: 'Xiaoya Zhai, Liuchao Jin, and Jingchao Jiang. (2022). &quot;A survey of additive manufacturing reviews.&quot; <i>Materials Science in Additive Manufacturing</i>. 1(4), 21. '
 ---
-[Download paper here](http://Liuchao-JIN.github.io/files/jin2022unified.pdf)
+[Download paper here](http://Liuchao-JIN.github.io/files/zhai2022survey.pdf)
