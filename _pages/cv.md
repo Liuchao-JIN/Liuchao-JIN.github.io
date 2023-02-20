@@ -51,13 +51,45 @@ Teaching
 
 Honors & Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 11/2022 Outstanding Senior Project Award in Sichuan University
+* 10/2022 Best Paper Award in 2022 IEEE International Conference on Unmanned Systems (ICUS)
+* 06/2022 Outstanding Senior Project Award in Sichuan University-Pittsburgh Institute
+* 05/2022 First Prize in The 7th National Academic English Vocabulary Competition (NAEV)
+* 05/2022 Outstanding Senior Project Poster Award in Sichuan University-Pittsburgh Institute
+* 03/2022 Outstanding Graduate of Sichuan Province
+* 03/2022 Outstanding Communist Party Member of Sichuan University-Pittsburgh Institute
+* 01/2022 A-level Certificate in Comprehensive Quality of University Students in Sichuan Province
+* 12/2021 2020-2021 Academic Year National Scholarship (China) (¥8,000)
+* 10/2021 Outstanding Graduate of Sichuan University
+* 10/2021 2020-2021 Academic Year Outstanding Student of Sichuan University
+* 10/2021 2020-2021 Academic Year Sichuan University-Pittsburgh Institute Best Academic Achiever Award (¥60,000)
+* 09/2021 First Prize in Chinese Tale - English Talk
+* 06/2021 Second Prize in Videos and Voices Short Video Contest
+* 05/2021 Second Prize in The 6th National Academic English Vocabulary Competition (NAEV)
+* 04/2021 Honorable Mention in 2021 Mathematical Contest in Modeling (MCM)
+* 12/2020 2019-2020 Academic Year National Scholarship (China) (¥8,000)
+* 10/2020 2019-2020 Academic Year Outstanding Student of Sichuan University
+* 09/2020 Excellent Teaching Assistant Award for Sichuan University-Pittsburgh Institute
+* 09/2020 2019-2020 Academic Year Sichuan University-Pittsburgh Institute Academic Star (¥10,000)
+* 12/2019 2018-2019 Academic Year National Scholarship (China) (¥8,000)
+* 12/2019 Excellent Student in Party School of the Sichuan University Committee of the Communist Party of China
+* 10/2019 2018-2019 Academic Year Outstanding Student of Sichuan University
+* 09/2019 2018-2019 Academic Year Sichuan University-Pittsburgh Institute Best Academic Achiever Award (¥60,000)
+* 07/2019 First Prize in the Special Category of the 9th ”Video Friends Cup” China University TV Awards
+* 07/2019 Excellent Student of Military Skills Training in Sichuan University
+* 02/2019 Student Ambassador of Sichuan University-Pittsburgh Institute
 
-Service and leadership
+Leadership & Extracurricular Activities
 ======
-* Currently signed in to 43 different slack teams
+* 09/2022 - Present, General Administrator, The Postgraduate Halls Residents’ Association.
+* 03/2022 - Present, Ambassador, Mitacs Globalink.
+* 09/2019-09/2020, Sichuan University The 31st Student Congress, Representative.
+* 03/2019-06/2020, Sichuan University Student Television Station, Deputy Director.
+* 09/2018-06/2019, Sichuan University - Pittsburgh Institute Student Council, Member.
+
+Community Contributions
+======
+* 05/2021 & 11/2019, Blood Donor, Chengdu Blood Center.
+* 02/2021, Volunteer, Disaster Risk Management at UNESCO Designated Sites, UNESCO.
+* 07/2020-08/2020, Volunteer, Blue Planet Rescue Plan, GREENPEACE.
+* 02/2019, Participant, SCU – Return to Alma Mater, Social Practice of Winter Vacation.
