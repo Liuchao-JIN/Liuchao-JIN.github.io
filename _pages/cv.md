@@ -81,15 +81,15 @@ Honors & Awards
 
 Leadership & Extracurricular Activities
 ======
-* 09/2022 - Present, General Administrator, The Postgraduate Halls Residents’ Association.
-* 03/2022 - Present, Ambassador, Mitacs Globalink.
+* 09/2022 - Present, [The Postgraduate Halls Residents’ Association](http://www.pgh.cuhk.edu.hk/about/pgh-residents-association/), General Administrator.
+* 03/2022 - Present, [Mitacs Globalink](https://www.mitacs.ca/en/programs/globalink), Ambassador.
 * 09/2019-09/2020, Sichuan University The 31st Student Congress, Representative.
-* 03/2019-06/2020, Sichuan University Student Television Station, Deputy Director.
+* 03/2019-06/2020, [Sichuan University Student Television Station](https://space.bilibili.com/174898254?spm_id_from=333.337.0.0), Deputy Director.
 * 09/2018-06/2019, Sichuan University - Pittsburgh Institute Student Council, Member.
 
 Community Contributions
 ======
-* 05/2021 & 11/2019, Blood Donor, Chengdu Blood Center.
-* 02/2021, Volunteer, Disaster Risk Management at UNESCO Designated Sites, UNESCO.
-* 07/2020-08/2020, Volunteer, Blue Planet Rescue Plan, GREENPEACE.
-* 02/2019, Participant, SCU – Return to Alma Mater, Social Practice of Winter Vacation.
+* 05/2021 & 11/2019, Chengdu Blood Center, Blood Donor.
+* 02/2021, [UNESCO](https://www.unesco.org/en), Disaster Risk Management at UNESCO Designated Sites, Volunteer.
+* 07/2020-08/2020, [GREENPEACE](https://www.greenpeace.org/international/), Blue Planet Rescue Plan, Volunteer.
+* 02/2019, SCU – Return to Alma Mater, Social Practice of Winter Vacation, Participant.
