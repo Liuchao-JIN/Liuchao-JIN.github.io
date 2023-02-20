@@ -9,5 +9,3 @@ paperurl: 'https://www.researchgate.net/profile/Jingchao-Jiang/publication/36481
 citation: 'Xiaoya Zhai, Liuchao Jin, and Jingchao Jiang. (2022). &quot;A survey of additive manufacturing reviews.&quot; <i>Materials Science in Additive Manufacturing</i>. 1(4), 21.'
 
 [Download paper here](http://Liuchao-JIN.github.io/files/zhai2022survey.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
