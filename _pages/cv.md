@@ -13,7 +13,7 @@ Education
 ======
 * BE in Mechanical Engineering, [Sichuan University - Pittsburgh Institute (SCUPI)](https://scupi.scu.edu.cn/en/), 2018-2022
 * Ph.D in Mechanical and Automation Engineering, [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), 2022-2026 (expected)
-  * Award: Hong Kong PhD Fellowship Scheme (HKPFS)
+  * Award: [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (HKPFS)
 
 Work experience
 ======
