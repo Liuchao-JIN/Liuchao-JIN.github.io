@@ -38,6 +38,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+
+Patents
+======
+* China Invention Grant Patent: Tracking Control Method for Tilt-Rotor Multi-Rotor UAV Based on Dual Quaternion. Patent number: ZL 2022 1 0739442.2.
+* China Utility Model Patent: Air Purification Device. Patent number: ZL 2021 2 2679101.4.
+
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
