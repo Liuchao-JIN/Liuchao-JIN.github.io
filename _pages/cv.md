@@ -78,7 +78,7 @@ Honors & Awards
 * 10/2020 2019-2020 Academic Year Outstanding Student of Sichuan University
 * 09/2020 Excellent Teaching Assistant Award for Sichuan University-Pittsburgh Institute
 * 09/2020 2019-2020 Academic Year Sichuan University-Pittsburgh Institute Academic Star (¥10,000)
-* 12/2019 2018-2019 Academic Year [National Scholarship](https://xsc.scu.edu.cn/WebSite/XG/Home/Detail?npVCXJmTU-kgkhPQEX1DoZODR8VNcZKYj9_aijg8Obar0AVBlyhqy7Yw-WTTKI9ecCzPa3EHjKR5BZVy9t9A7g==.shtml) (China) (¥8,000)
+* 12/2019 2018-2019 Academic Year [National Scholarship](http://Liuchao-JIN.github.io/files/Award_NationalScholarship_2018.pdf) (China) (¥8,000)
 * 12/2019 Excellent Student in Party School of the Sichuan University Committee of the Communist Party of China
 * 10/2019 2018-2019 Academic Year Outstanding Student of Sichuan University
 * 09/2019 2018-2019 Academic Year Sichuan University-Pittsburgh Institute Best Academic Achiever Award (¥60,000)
