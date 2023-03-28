@@ -59,7 +59,7 @@ Teaching
 Honors & Awards
 ======
 * 11/2022 Outstanding Senior Project Award in Sichuan University
-* 10/2022 Best Paper Award in 2022 IEEE International Conference on Unmanned Systems (ICUS)
+* 10/2022 [Best Paper Award](http://Liuchao-JIN.github.io/files/JLC_BestPaper_2022.pdf) in 2022 IEEE International Conference on Unmanned Systems (ICUS)
 * 06/2022 Outstanding Senior Project Award in Sichuan University-Pittsburgh Institute
 * 05/2022 First Prize in The 7th National Academic English Vocabulary Competition (NAEV)
 * 05/2022 Outstanding Senior Project Poster Award in Sichuan University-Pittsburgh Institute
