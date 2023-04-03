@@ -84,7 +84,7 @@ Honors & Awards
 * 09/2019 2018-2019 Academic Year Sichuan University-Pittsburgh Institute Best Academic Achiever Award (¥60,000)
 * 07/2019 First Prize in the Special Category of the 9th ”[Video Friends Cup](https://mp.weixin.qq.com/s/LDRg9gwwwKdUBDOkBet5CQ)” China University TV Awards
 * 07/2019 Excellent Student of Military Skills Training in Sichuan University
-* 02/2019 Student Ambassador of Sichuan University-Pittsburgh Institute
+* 02/2019 [Student Ambassador](http://Liuchao-JIN.github.io/files/Award_SCUPIAmb_2019.pdf) of Sichuan University-Pittsburgh Institute
 
 Leadership & Extracurricular Activities
 ======
