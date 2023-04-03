@@ -58,14 +58,14 @@ Teaching
 
 Honors & Awards
 ======
-* 11/2022 Outstanding Senior Project Award in Sichuan University
-* 10/2022 [Best Paper Award](http://Liuchao-JIN.github.io/files/JLC_BestPaper_2022.pdf) in 2022 IEEE International Conference on Unmanned Systems (ICUS)
+* 11/2022 [Outstanding Senior Project Award](http://Liuchao-JIN.github.io/files/Award_UniOutSP_2022.pdf) in Sichuan University
+* 10/2022 [Best Paper Award](http://Liuchao-JIN.github.io/files/Award_BestPaper_2022.pdf) in 2022 IEEE International Conference on Unmanned Systems (ICUS)
 * 06/2022 Outstanding Senior Project Award in Sichuan University-Pittsburgh Institute
 * 05/2022 First Prize in The 7th National Academic English Vocabulary Competition (NAEV)
 * 05/2022 Outstanding Senior Project Poster Award in Sichuan University-Pittsburgh Institute
 * 03/2022 Outstanding Graduate of Sichuan Province
 * 03/2022 Outstanding Communist Party Member of Sichuan University-Pittsburgh Institute
-* 01/2022 A-level Certificate in Comprehensive Quality of University Students in Sichuan Province
+* 01/2022 [A-level Certificate in Comprehensive Quality of University Students](http://Liuchao-JIN.github.io/files/Award_ZongA_2021.pdf) in Sichuan Province
 * 12/2021 2020-2021 Academic Year [National Scholarship](https://xsc.scu.edu.cn/WebSite/XG/Home/Detail?npVCXJmTU-kgkhPQEX1DodXwoRsKACEqWkvleYpUOwbYYYXlCbPoJtOgCnPcINVqfIpqw504IvZty7AogOkNAw==.shtml) (China) (¥8,000)
 * 10/2021 Outstanding Graduate of Sichuan University
 * 10/2021 2020-2021 Academic Year Outstanding Student of Sichuan University
