@@ -1,5 +1,5 @@
 ---
-title: "PhD Materials"
+title: "PhD Course Materials"
 excerpt: ""
 collection: portfolio
 ---
