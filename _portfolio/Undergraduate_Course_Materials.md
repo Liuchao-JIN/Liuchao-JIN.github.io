@@ -18,11 +18,3 @@ ME1020 Mechanical Vibration (Instructor: Prof. Sai Cheong Fok)
   * [Lecture 10: Multi DOF system vibration 2 (Free undamped vibration)](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/ME1020/0ME1020L10.pdf)
   * [Lecture 11: Multi DOF system vibration 3 (Vibration absorber undamped)](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/ME1020/0ME1020L11.pdf)
   * [Lecture 12: Multi DOF system vibration 4 (Damped vibration absorber)](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/ME1020/0ME1020L12.pdf)
-
-
-  mathRenderer.render("\\begin{equation*}"
-  		+ "(1+x)^n = 1 + nx + \\frac{n(n-1)}{2!}x^{\\color{red}2}"
-  		+ "+ \\frac{n(n-1)(n-2)}{3!}x^{\\color{red}3}"
-                  + "+ \\frac{n(n-1)(n-2)(n-3)}{4!}x^{\\color{red}4}"
-                  + "+ \\cdots"
-                  + "\\end{equation*}", stream, options, size);
