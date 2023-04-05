@@ -43,3 +43,6 @@ MAEG5160 Design for Additive Manufacturing (Instructor: Prof. Xu Song)
   * [Lecture 21: Consolidation and tooling design](http://Liuchao-JIN.github.io/files/Graduate_Course_MAEG5160_Lecture_21_Consolidation_and_tooling_design.pdf)
   * [Lecture 22: Post processing and Future of AM](http://Liuchao-JIN.github.io/files/Graduate_Course_MAEG5160_Lecture_22_Post-processing_Future_outlook.pdf)
   * [Lecture 24: Summary](http://Liuchao-JIN.github.io/files/Graduate_Course_MAEG5160_Lecture_24_Summary.pdf)
+* Project
+  * [Guideline of final project](http://Liuchao-JIN.github.io/files/Graduate_Course_MAEG5160_Guideline_of_final_project.pdf)
+  * [Demo video of final project](http://Liuchao-JIN.github.io/files/Graduate_Course_MAEG5160_demo_of_final_project.mp4)
