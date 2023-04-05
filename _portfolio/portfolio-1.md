@@ -10,6 +10,12 @@ ENGG5403 Linear System Theory and Design (Instructor: Prof. Ben M. Chen)
 * Lecture Notes
   * [Part 1: Theory](http://Liuchao-JIN.github.io/files/Graduate_Course_ENGG5403_LectureNotePart1.pdf)
   * [Part 2: Design](http://Liuchao-JIN.github.io/files/Graduate_Course_ENGG5403_LectureNotePart2.pdf)
+* Design project
+  * Project 1: An Unmanned Helicopter System
+    * [Question](http://Liuchao-JIN.github.io/files/Graduate_Course_ENGG5403_DP1.pdf)
+    * [Solution](http://Liuchao-JIN.github.io/files/Graduate_Course_ENGG5403_Design_Project__1.pdf)
+  * Project 2: An HDD Servo System
+    * [Question](http://Liuchao-JIN.github.io/files/Graduate_Course_ENGG5403_DP2.pdf)
 * Assignment
   * [Assignment 1: Linear Algebra, Transfer Function, State Space, Stability](http://Liuchao-JIN.github.io/files/Graduate_Course_ENGG5403_Assignment__1.pdf)
   * [Assignment 2: Controllability, Observability](http://Liuchao-JIN.github.io/files/Graduate_Course_ENGG5403_Assignment__2.pdf)
