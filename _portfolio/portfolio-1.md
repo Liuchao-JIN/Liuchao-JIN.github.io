@@ -46,3 +46,10 @@ MAEG5160 Design for Additive Manufacturing (Instructor: Prof. Xu Song)
 * Project
   * [Guideline of final project](http://Liuchao-JIN.github.io/files/Graduate_Course_MAEG5160_Guideline_of_final_project.pdf)
   <!-- * [Demo video of final project](http://Liuchao-JIN.github.io/files/Graduate_Course_MAEG5160_demo_of_final_project.mp4) -->
+* Homework
+  * Homework 1: TO program for chair
+    * [Question](http://Liuchao-JIN.github.io/files/Graduate_Course_MAEG5160_Homework_1.pdf)
+    * [Solution](http://Liuchao-JIN.github.io/files/Graduate_Course_MAEG5160_Assignment__1.pdf)
+  * Homework 2: Optimization for GE bracket
+    * [Question](http://Liuchao-JIN.github.io/files/Graduate_Course_MAEG5160_Homework_2.pdf)
+    * [Solution](http://Liuchao-JIN.github.io/files/Graduate_Course_MAEG5160_Assignment_2.pdf)
