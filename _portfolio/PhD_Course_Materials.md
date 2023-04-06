@@ -57,3 +57,18 @@ MAEG5160 Design for Additive Manufacturing (Instructor: Prof. Xu Song)
   * Homework 2: Optimization for GE bracket
     * [Question](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Homework_2.pdf)
     * [Solution](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Assignment__2.pdf)
+
+
+
+MAEG5160 Nonlinear Control Systems (Instructor: Prof. Jie Huang)
+* Lecture Notes
+  * [Chapter 0: Overview of Linear Control Systems](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5070/chapter0.pdf)
+  * [Chapter 1: Introduction to Nonlinear Control](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5070/chapter1.pdf)
+  * [Chapter 2: Phase Plane Analysis](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5070/chapter2.pdf)
+  * [Chapter 3: Fundamentals of Lyapunov Theory](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5070/chapter3.pdf)
+  * [Chapter 4: Advanced Stability Theory](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5070/chapter4.pdf)
+  * [Chapter 5: Nonlinear control systems design](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5070/chapter5.pdf)
+  * [Chapter 6: Input-Output linearization](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5070/chapter6.pdf)
+  * [Chapter 7: Sliding Control](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5070/chapter7.pdf)
+  * [Chapter 8: Adaptive Control](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5070/chapter8.pdf)
+* [Assignment](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5070/MAEG5070_Assignment.pdf)
