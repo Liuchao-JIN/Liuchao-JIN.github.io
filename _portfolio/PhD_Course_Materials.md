@@ -72,3 +72,16 @@ MAEG5160 Nonlinear Control Systems (Instructor: Prof. Jie Huang)
   * [Chapter 7: Sliding Control](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5070/chapter7.pdf)
   * [Chapter 8: Adaptive Control](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5070/chapter8.pdf)
 * [Assignment](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5070/MAEG5070_Assignment.pdf)
+
+
+MAEG5080 Smart Materials and Structures (Instructor: Prof. Wei-Hsin Liao)
+* [Syllabus](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/MAEG5080_syllabus.pdf)
+* Lecture Notes
+  * [Lecture Note 1: Introduction](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Notes1.pdf)
+  * [Lecture Note 2: Vibration](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Notes2.pdf)
+  * [Lecture Note 3: Structural Control](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Notes3.pdf)
+  * [Lecture Note 4: MR Fluid Damper](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Notes4.pdf)
+  * [Lecture Note 5: Piezoelectric Actuators/Sensors](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Notes5.pdf)
+  * [Lecture Note 6: Structural Dynamics](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Notes6.pdf)
+  * [Lecture Note 7: A Beam with a Surface Mounted Piezoelectric Element](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Notes7.pdf)
+* [Assignment](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/MAEG5080_Assignment.pdf)
