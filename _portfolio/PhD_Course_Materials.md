@@ -20,6 +20,7 @@ ENGG5403 Linear System Theory and Design (Instructor: Prof. Ben M. Chen)
   * [Assignment 3: System Invertibility, Invariant Zeros, Structural Decompositions](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5403/Assignment__3.pdf)
   * [Assignment 4: Stabilization of Multivariable Systems](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5403/Assignment__4.pdf)
   * [Assignment 5: LQR, LQG, Kalman Filter](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5403/Assignment__5.pdf)
+  * [Assignment 6: H<sub>2</sub> and H infinity control](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5403/Assignment__6.pdf)
 
 MAEG5160 Design for Additive Manufacturing (Instructor: Prof. Xu Song)
 * Lecture Notes
