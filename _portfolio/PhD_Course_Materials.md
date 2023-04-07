@@ -4,7 +4,7 @@ excerpt: ""
 collection: portfolio
 ---
 
-ENGG5403 Linear System Theory and Design (Instructor: Prof. Ben M. Chen)
+ENGG5403 Linear System Theory and Design (Instructor: Prof. [Ben M. Chen](http://www.mae.cuhk.edu.hk/~bmchen/))
 * Lecture Notes
   * [Part 1: Theory](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5403/LectureNotePart1.pdf)
   * [Part 2: Design](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5403/LectureNotePart2.pdf)
@@ -28,7 +28,7 @@ ENGG5403 Linear System Theory and Design (Instructor: Prof. Ben M. Chen)
   * Toolkits
     * [Linear System Toolkits (Linsyskit)](https://github.com/Liuchao-JIN/Liuchao-JIN.github.io/tree/main/files/Course_Materials/Graduate_Course/ENGG5403/Linsyskit)
 
-MAEG5160 Design for Additive Manufacturing (Instructor: Prof. Xu Song)
+MAEG5160 Design for Additive Manufacturing (Instructor: Prof. [Xu Song](https://www4.mae.cuhk.edu.hk/peoples/song-xu/))
 * Lecture Notes
   * [Lecture 0: Introduction to optimization](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_0_Intro_to_optimisation.pdf)
   * [Lecture 1: Introduction to AM and AM economy](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_1_Introduction_SX_2023.pdf)
@@ -67,7 +67,7 @@ MAEG5160 Design for Additive Manufacturing (Instructor: Prof. Xu Song)
 
 
 
-MAEG5160 Nonlinear Control Systems (Instructor: Prof. Jie Huang)
+MAEG5160 Nonlinear Control Systems (Instructor: Prof. [Jie Huang](https://www4.mae.cuhk.edu.hk/peoples/huang-jie/))
 * Lecture Notes
   * [Chapter 0: Overview of Linear Control Systems](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5070/chapter0.pdf)
   * [Chapter 1: Introduction to Nonlinear Control](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5070/chapter1.pdf)
@@ -81,7 +81,7 @@ MAEG5160 Nonlinear Control Systems (Instructor: Prof. Jie Huang)
 * [Assignment](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5070/MAEG5070_Assignment.pdf)
 
 
-MAEG5080 Smart Materials and Structures (Instructor: Prof. Wei-Hsin Liao)
+MAEG5080 Smart Materials and Structures (Instructor: Prof. [Wei-Hsin Liao](https://www4.mae.cuhk.edu.hk/peoples/liao-wei-hsin/))
 * [Syllabus](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/MAEG5080_syllabus.pdf)
 * Lecture Notes
   * [Lecture Note 1: Introduction](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Notes1.pdf)
