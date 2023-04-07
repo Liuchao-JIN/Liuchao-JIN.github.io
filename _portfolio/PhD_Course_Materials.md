@@ -24,6 +24,7 @@ ENGG5403 Linear System Theory and Design (Instructor: Prof. Ben M. Chen)
 * Supplementary Material
   * Book
     * [Hard Disk Drive Servo System](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5403/Hard_disk_drive_servo_system.pdf)
+    * [Robust and H Infinity Control](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5403/Robust_and_H_Infinity_Control.pdf)
   * Toolkits
     * [Linear System Toolkits (Linsyskit)](https://github.com/Liuchao-JIN/Liuchao-JIN.github.io/tree/main/files/Course_Materials/Graduate_Course/ENGG5403/Linsyskit)
 
