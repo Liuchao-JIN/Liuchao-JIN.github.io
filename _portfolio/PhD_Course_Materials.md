@@ -21,11 +21,11 @@ ENGG5403 Linear System Theory and Design (Instructor: Prof. Ben M. Chen)
   * [Assignment 4: Stabilization of Multivariable Systems](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5403/ENGG5403_Assignment__4.pdf)
   * [Assignment 5: LQR, LQG, Kalman Filter](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5403/ENGG5403_Assignment__5.pdf)
   * [Assignment 6: H<sub>2</sub> and H infinity control](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5403/ENGG5403_Assignment__6.pdf)
-* supplementary Material
+* Supplementary Material
   * Book
     * [Hard Disk Drive Servo System](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5403/Hard_disk_drive_servo_system.pdf)
   * Toolkits
-    * Linsyskit
+    * [Linear System Toolkits (Linsyskit)](https://github.com/Liuchao-JIN/Liuchao-JIN.github.io/tree/main/files/Course_Materials/Graduate_Course/ENGG5403/Linsyskit)
 
 MAEG5160 Design for Additive Manufacturing (Instructor: Prof. Xu Song)
 * Lecture Notes
