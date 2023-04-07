@@ -30,7 +30,14 @@ collection: portfolio
 
 Soft Robotics
 ======
-
+* Origami-based integration of robots that sense, decide, and respond
+  * Keywords: origami robots by embedding sensing, computing, and actuating in compliant, conductive materials, without requiring semiconductor-based electronics
+  * Summary: Origami-inspired engineering has enabled intelligent materials and structures to process and react to environmental stimuli. However, it is challenging to achieve complete sense-decide-act loops in origami materials for autonomous interaction with environments, mainly due to the lack of information processing units that can interface with sensing and actuation. Here, we introduce an integrated origami-based process to create autonomous robots by embedding sensing, computing, and actuating in compliant, conductive materials. By combining flexible bistable mechanisms and conductive thermal artificial muscles, we realize origami multiplexed switches and configure them to generate digital logic gates, memory bits, and thus integrated autonomous origami robots. We demonstrate with a flytrap-inspired robot that captures ‘living prey’, an untethered crawler that avoids obstacles, and a wheeled vehicle that locomotes with reprogrammable trajectories. Our method provides routes to achieve autonomy for origami robots through tight functional integration in compliant, conductive materials.
+  * <img src='/images/Essay/yan2023origami.webp'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/yan2023origami.pdf)\] \[[Web](https://www.nature.com/articles/s41467-023-37158-9#citeas)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:E2UKUK3DQvQJ:scholar.google.com/&output=citation&scisdr=Cpv0CX5zEJfovrtsZ-8:AJ9-iYsAAAAAZC9qf-9w7uW5xncsRSnZAYEqgI4&scisig=AJ9-iYsAAAAAZC9qf9oq7OF9bVVNIMo6SxfC2Lk&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Wenzhong Yan, Shuguang Li, Mauricio Deguchi, Zhaoliang Zheng, Daniela Rus, Ankur Mehta
+  * Year: 2023
+  * Journal: Nature Communications
 
 Smart Materials & Structures
 ======
