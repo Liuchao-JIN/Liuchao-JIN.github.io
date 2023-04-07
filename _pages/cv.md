@@ -75,7 +75,7 @@ Honors & Awards
 * 09/2021 First Prize in [Chinese Tale - English Talk](https://scupi.scu.edu.cn/activities/%e4%b8%ad%e6%96%87%e8%a5%bf%e8%ae%b2%e6%bc%94%e8%ae%b2%e6%af%94%e8%b5%9b)
 * 07/2021 [Outstanding Camper](http://Liuchao-JIN.github.io/files/Award/2021_Westlake_Summer_Camp_Outstanding.pdf) in [Westlake University Engineering Summer Camp](http://Liuchao-JIN.github.io/files/Award/2021_Westlake_Summer_Camp.pdf)
 * 06/2021 Second Prize in [Videos and Voices Short Video Contest](https://scupi.scu.edu.cn/activities/%e5%af%bb%e5%a3%b0%e8%a7%85%e5%bd%b1%e7%9f%ad%e8%a7%86%e9%a2%91%e5%88%9b%e4%bd%9c%e5%a4%a7%e8%b5%9b)
-* 05/2021 [Second Prize in The 6th National Academic English Vocabulary](http://Liuchao-JIN.github.io/files/Award/2021_NAEV.pdf) Competition (NAEV)
+* 05/2021 [Second Prize in The 6th National Academic English Vocabulary Competition](http://Liuchao-JIN.github.io/files/Award/2021_NAEV.pdf) (NAEV)
 * 04/2021 [Honorable Mention in 2021 Mathematical Contest in Modeling](http://Liuchao-JIN.github.io/files/Award/2021_MCM.pdf) (MCM)
 * 12/2020 2019-2020 Academic Year [National Scholarship](http://Liuchao-JIN.github.io/files/Award/2020_NationalScholarship.pdf) (China) (¥8,000)
 * 10/2020 2019-2020 Academic Year [Outstanding Student](http://Liuchao-JIN.github.io/files/Award/2020_SCU_Outstanding.pdf) of Sichuan University
