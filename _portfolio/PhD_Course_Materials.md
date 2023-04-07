@@ -86,3 +86,11 @@ MAEG5080 Smart Materials and Structures (Instructor: Prof. Wei-Hsin Liao)
   * [Lecture Note 6: Structural Dynamics](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Notes6.pdf)
   * [Lecture Note 7: A Beam with a Surface Mounted Piezoelectric Element](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Notes7.pdf)
 * [Assignment](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/MAEG5080_Assignment.pdf)
+
+
+Candidacy Examination
+* [2022 May](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/Candidacy_Examination/22_May.pdf)
+* [2021 May](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/Candidacy_Examination/21_May.pdf)
+* [2020 Nov](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/Candidacy_Examination/20_Nov.pdf)
+* [2020 May](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/Candidacy_Examination/20_May.pdf)
+* [2001 May](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/Candidacy_Examination/01_May.pdf)
