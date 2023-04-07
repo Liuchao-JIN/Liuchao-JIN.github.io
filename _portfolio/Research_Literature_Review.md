@@ -36,7 +36,7 @@ collection: portfolio
   * Journal: Nature Communications
 * Green 3D-printed lattice-shaped suspension arms for RC cars
   * Keywords: Suspension system, Sustainable design, Lattice structure, Modal analysis, 3D printing, Fused deposition modelling
-  * Summary: Larson et al. developed a rotational multimaterial 3D printing method for creating helical filaments. Using this new approach, the team designed and fabricated artificial muscles and springy lattices for use in soft robotics and structural applications.
+  * Summary: This study proposes sustainable design recommendations for lattice-shaped plastic suspension arms in remote-controlled automobiles to achieve high performance while minimizing waste. Solid, re-entrant honeycomb, face-centred cubic, hexagonal honeycomb, hexagonal prism diamond, simple cubic, triangular honeycomb, and lattice from a volume mesh are implemented on suspension arms to investigate their effects on flexural strength and frequency response. Finite element analysis and experiments are conducted to examine the deformation and vibration frequency. The results show the relationships between mass, stiffness, and vibration frequency.
   * <img src='/images/Essay/dezaki2023green.webp'>
   * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/dezaki2023green.pdf)\] \[[Web](https://link.springer.com/article/10.1007/s40964-023-00439-2#citeas)\]
   * Author: Mohammadreza Lalegani Dezaki, Mahdi Bodaghi, Ahmad Serjouei, Ali Zolfagharian
