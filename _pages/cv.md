@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* [BE](http://Liuchao-JIN.github.io/files/JLC_BE.pdf) in Mechanical Engineering, [Sichuan University - Pittsburgh Institute (SCUPI)](https://scupi.scu.edu.cn/en/), 2018-2022
 * Ph.D in Mechanical and Automation Engineering, [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), 2022-2026 (expected)
   * Award: [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (HKPFS)
+* [BE](http://Liuchao-JIN.github.io/files/JLC_BE.pdf) in Mechanical Engineering, [Sichuan University - Pittsburgh Institute (SCUPI)](https://scupi.scu.edu.cn/en/), 2018-2022
+  * [GPA: 4.0/4.0](http://Liuchao-JIN.github.io/files/Award/Transcripts_Bachelor.pdf); [Weighted Average Mark: 96.29/100](http://Liuchao-JIN.github.io/files/Award/Transcripts_Bachelor.pdf); [Ranking: 1/79](http://Liuchao-JIN.github.io/files/Award/Ranking.pdf)
+
 
 Work experience
 ======
@@ -75,10 +77,10 @@ Honors & Awards
 * 06/2021 Second Prize in [Videos and Voices Short Video Contest](https://scupi.scu.edu.cn/activities/%e5%af%bb%e5%a3%b0%e8%a7%85%e5%bd%b1%e7%9f%ad%e8%a7%86%e9%a2%91%e5%88%9b%e4%bd%9c%e5%a4%a7%e8%b5%9b)
 * 05/2021 [Second Prize in The 6th National Academic English Vocabulary](http://Liuchao-JIN.github.io/files/Award/2021_NAEV.pdf) Competition (NAEV)
 * 04/2021 [Honorable Mention in 2021 Mathematical Contest in Modeling](http://Liuchao-JIN.github.io/files/Award/2021_MCM.pdf) (MCM)
-* 12/2020 2019-2020 Academic Year [National Scholarship](https://xsc.scu.edu.cn/WebSite/XG/Home/Detail?npVCXJmTU-kgkhPQEX1DodTewoFgvtvkDRUuabObDxRckNeLLNJJtDkRK_oha-ac-2oU7cwjNYHUJQV-a7U-mQ==.shtml) (China) (¥8,000)
-* 10/2020 2019-2020 Academic Year Outstanding Student of Sichuan University
+* 12/2020 2019-2020 Academic Year [National Scholarship](http://Liuchao-JIN.github.io/files/Award/2020_NationalScholarship.pdf) (China) (¥8,000)
+* 10/2020 2019-2020 Academic Year [Outstanding Student](http://Liuchao-JIN.github.io/files/Award/2020_SCU_Outstanding.pdf) of Sichuan University
 * 09/2020 [Excellent Teaching Assistant Award](http://Liuchao-JIN.github.io/files/Award/2020_Outstanding_TA.pdf) for Sichuan University-Pittsburgh Institute
-* 09/2020 2019-2020 Academic Year Sichuan University-Pittsburgh Institute Academic Star (¥10,000)
+* 09/2020 2019-2020 Academic Year Sichuan University-Pittsburgh Institute [Academic Star](http://Liuchao-JIN.github.io/files/Award/2020_Academic_Star.pdf) (¥10,000)
 * 12/2019 2018-2019 Academic Year [National Scholarship](http://Liuchao-JIN.github.io/files/Award/2019_NationalScholarship.pdf) (China) (¥8,000)
 * 12/2019 [Excellent Student in Party School](http://Liuchao-JIN.github.io/files/Award/2019_Party_School.pdf) of the Sichuan University Committee of the Communist Party of China
 * 10/2019 2018-2019 Academic Year [Outstanding Student](http://Liuchao-JIN.github.io/files/Award/2019_SCU_Outstanding.pdf) of Sichuan University
