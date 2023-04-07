@@ -26,7 +26,14 @@ collection: portfolio
 
 3D Printing
 ======
-
+* Rotational multimaterial printing of filaments with subvoxel control
+  * Keywords:origami robots by embedding sensing, computing, and actuating in compliant, conductive materials, without requiring semiconductor-based electronics
+  * Summary: Larson et al. developed a rotational multimaterial 3D printing method for creating helical filaments. Using this new approach, the team designed and fabricated artificial muscles and springy lattices for use in soft robotics and structural applications.
+  * <img src='/images/Essay/larson2023rotational.webp'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/larson2023rotational.pdf)\] \[[Web](https://www.nature.com/articles/s41586-022-05490-7?utm_medium=organic_social&utm_source=wechat&utm_campaign=CONR_PF020_BAWG_AP_CNCM_002E8_natvideo)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:zkiKyUlrWhsJ:scholar.google.com/&output=citation&scisdr=Cpv0CX5zEJfovrt2s30:AJ9-iYsAAAAAZC9wq30LxJhXzECILD_v5JjnyaI&scisig=AJ9-iYsAAAAAZC9wq6LldwDrk4EVFZ6u6A84TQE&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Natalie M. Larson, Jochen Mueller, Alex Chortos, Zoey S. Davidson, David R. Clarke, Jennifer A. Lewis
+  * Year: 2023
+  * Journal: Nature Communications
 
 Soft Robotics
 ======
