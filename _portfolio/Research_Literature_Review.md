@@ -56,3 +56,11 @@ Soft Robotics
 
 Smart Materials & Structures
 ======
+* A stretchable wireless wearable bioelectronic system for multiplexed monitoring and combination treatment of infected chronic wounds
+  * Keywords: wearable bioelectronic system
+  * Summary: Chronic nonhealing wounds are one of the major and rapidly growing clinical complications all over the world. Current therapies frequently require emergent surgical interventions, while abuse and misapplication of therapeutic drugs often lead to an increased morbidity and mortality rate. Here, we introduce a wearable bioelectronic system that wirelessly and continuously monitors the physiological conditions of the wound bed via a custom-developed multiplexed multimodal electrochemical biosensor array and performs noninvasive combination therapy through controlled anti-inflammatory antimicrobial treatment and electrically stimulated tissue regeneration. The wearable patch is fully biocompatible, mechanically flexible, stretchable, and can conformally adhere to the skin wound throughout the entire healing process. Real-time metabolic and inflammatory monitoring in a series of preclinical in vivo experiments showed high accuracy and electrochemical stability of the wearable patch for multiplexed spatial and temporal wound biomarker analysis. The combination therapy enabled substantially accelerated cutaneous chronic wound healing in a rodent model.
+  * <img src='/images/Essay/shirzaei2023stretchable.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/shirzaei2023stretchable.pdf)\] \[[Web](https://www.science.org/doi/10.1126/sciadv.adf7388)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:R6bbbImXpxgJ:scholar.google.com/&output=citation&scisdr=Cpv3NHpNEOusl6nXr7Q:AJ9-iYsAAAAAZDDRt7R3Ke1GutSxHuAgDgdbCiE&scisig=AJ9-iYsAAAAAZDDRt8kkL0rf1Guw1yxSrHnmtFE&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Ehsan Shirzaei Sani, Changhao Xu, Canran Wang, Yu Song, Jihong Min, Jiaobing Tu, Samuel A. Solomon, Jiahong Li, Jaminelli L. Banks, David G. Armstrong, Wei Gao
+  * Year: 2023
+  * Journal: Science Advances
