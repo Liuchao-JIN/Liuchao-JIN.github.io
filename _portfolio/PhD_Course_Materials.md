@@ -42,7 +42,7 @@ MAEG5160 Design for Additive Manufacturing (Instructor: Prof. [Xu Song](https://
   * [Lecture 9: Extensions and Applications 1](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_9_applications.pdf)
   * [Lecture 10: Extensions and Applications 2](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_10_applications_con.pdf)
   * [Lecture 11: Extensions and Applications 3](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_11_app_con_2.pdf)
-  * [Lecture Extensions and Applications 4](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_12_app_con_3.pdf)
+  * [Lecture 12: Extensions and Applications 4](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_12_app_con_3.pdf)
   * [Lecture 13: Design with anisotropic materials 1](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_13_aniso.pdf)
   * [Lecture 14: Design with anisotropic materials 2](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_14_aniso_2.pdf)
   * [Lecture 15: Design with anisotropic materials 3](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_15_aniso_3.pdf)
