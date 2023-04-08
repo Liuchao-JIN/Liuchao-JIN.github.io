@@ -53,3 +53,6 @@ MEMS1028 Mechanical Design 1 (Instructor: Prof. Sai Cheong Fok)
   * [Lecture 11: Fatigue failure (Reversible simple loads)](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/MEMS1028/MEMS1028L11.pdf)
   * [Lecture 12: Fatigue failure (Fluctuating simple loads)](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/MEMS1028/MEMS1028L12.pdf)
   * [Lecture 13: Design codes and misc](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/MEMS1028/MEMS1028L13.pdf)
+* Textbook
+  * [Shigley's Mechanical Engineering Design (10th Edition)](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/MEMS1028/Mechanical_Engineering_Design_10th_Edition.pdf)
+  * [Shigley's Mechanical Engineering Design (10th Edition) Solution Manual](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/MEMS1028/Mechanical_Engineering_Design_10th_Edition_Solution_Manual.pdf)
