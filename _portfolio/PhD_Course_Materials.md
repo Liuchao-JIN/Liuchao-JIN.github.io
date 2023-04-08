@@ -91,6 +91,19 @@ MAEG5080 Smart Materials and Structures (Instructor: Prof. [Wei-Hsin Liao](https
   * [Lecture Note 5: Piezoelectric Actuators/Sensors](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Notes5.pdf)
   * [Lecture Note 6: Structural Dynamics](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Notes6.pdf)
   * [Lecture Note 7: A Beam with a Surface Mounted Piezoelectric Element](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Notes7.pdf)
+* Hand-Written Lecture Notes
+  * [Lecture Note 1: Introduction](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Lecture_Note_01.pdf)
+  * [Lecture Note 2: Smart Materials](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Lecture_Note_02.pdf)
+  * [Lecture Note 3: Vibration](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Lecture_Note_03.pdf)
+  * [Lecture Note 4: Step and Impulse Response](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Lecture_Note_04.pdf)
+  * [Lecture Note 5: Base Excitation](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Lecture_Note_05.pdf)
+  * [Lecture Note 6: Multi DoF Systems](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Lecture_Note_06.pdf)
+  * [Lecture Note 7: General Structunal System (lumped-parameter)](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Lecture_Note_07.pdf)
+  * [Lecture Note 8: Adaptive Structures](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Lecture_Note_08.pdf)
+  * [Lecture Note 9: Piezoelectric Applications Data](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Lecture_Note_09.pdf)
+  * [Lecture Note 10: MR Fluid Damper](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Lecture_Note_10.pdf)
+  * [Lecture Note 11: Structural Dynamics](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Lecture_Note_11.pdf)
+  * [Lecture Note 12: Discretization: (Galerkin’s Method)](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Lecture_Note_12.pdf)
 * [Assignment](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/MAEG5080_Assignment.pdf)
 
 
