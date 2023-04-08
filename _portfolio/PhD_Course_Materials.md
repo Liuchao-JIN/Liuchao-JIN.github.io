@@ -38,7 +38,7 @@ MAEG5160 Design for Additive Manufacturing (Instructor: Prof. [Xu Song](https://
   * [Lecture 5: Finite Element for Topological Optimization](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_5_Finite_Element_for_Topo.pdf)
   * [Lecture 6: Topology Optimization (TO) by distribution of isotropic material 1](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_6_TO_iso.pdf)
   * [Lecture 7: Topology Optimization (TO) by distribution of isotropic material 2](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_7_TO_iso_con.pdf)
-  * [Lecture 8: Topology Optimization (TO) by distribution of isotropic material 3](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_8_TO_iso_con _2.pdf)
+  * [Lecture 8: Topology Optimization (TO) by distribution of isotropic material 3](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_8_TO_iso_con_2.pdf)
   * [Lecture 9: Extensions and Applications 1](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_9_applications.pdf)
   * [Lecture 10: Extensions and Applications 2](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_10_applications_con.pdf)
   * [Lecture 11: Extensions and Applications 3](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_11_app_con_2.pdf)
