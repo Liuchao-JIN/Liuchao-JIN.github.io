@@ -22,6 +22,14 @@ collection: portfolio
   * Author: Cheng Xu, Fan Zhichao, Yao Shenglian, Jin Tianqi, Lv Zengyao, Lan Yu, Bo Renheng, Chen Yitong, Zhang Fan, Shen Zhangming
   * Year: 2023
   * Journal: Science
+* 4D Thermo-Responsive Smart hiPSC-CM Cardiac Construct for Myocardial Cell Therapy
+  * Keywords: 4D printing, shape memory, nanostructure, myocardial regeneration, cellularized patch, minimally invasive
+  * Summary: 4D fabrication techniques have been utilized for advanced biomedical therapeutics due to their ability to create dynamic constructs that can transform into desired shapes on demand. The internal structure of the human cardiovascular system is complex, where the contracting heart has a highly curved surface that changes shape with the heart’s dynamic beating motion. Hence, 4D architectures that adjust their shapes as required are a good candidate to readily deliver cardiac cells into the damaged heart and/or to serve as self-morphing tissue scaffolds/patches for healing cardiac diseases. In this proof-of-concept in vitro study, a two-in-one 4D smart cardiac construct that integrates the functions of minimally invasive cell vehicles and in situ tissue patches was developed for repairing damaged myocardial tissue.
+  * <img src='/images/Essay/hann20234d.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/hann20234d.pdf)\] \[[Web](https://www.tandfonline.com/doi/full/10.2147/IJN.S402855)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:JYnlG9b2wuIJ:scholar.google.com/&output=citation&scisdr=Cpsgw9HhEJfovqWFKpw:AJ9-iYsAAAAAZDGDMpztky0gE3YC7vJVaNd3U5I&scisig=AJ9-iYsAAAAAZDGDMmC57dl2r2RqhKJxPF86XIg&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Sung Yun Hann, Haitao Cui, Timothy Esworthy, Lijie Grace Zhang
+  * Year: 2023
+  * Journal: International Journal of Nanomedicine
 
 
 3D Printing
@@ -53,6 +61,13 @@ Soft Robotics
   * Author: Wenzhong Yan, Shuguang Li, Mauricio Deguchi, Zhaoliang Zheng, Daniela Rus, Ankur Mehta
   * Year: 2023
   * Journal: Nature Communications
+* On the Elastic Stability of Folded Rings in Circular and Straight States
+  * Keywords: Folded Structures
+  * Summary: Single-loop elastic rings can be folded into multi-loop equilibrium configurations. In this paper, the stability of several such multi-loop states which are either circular or straight are investigated analytically and illustrated by experimental demonstrations. The analysis ascertains stability by exploring variations of the elastic energy of the rings for admissible deformations in the vicinity of the equilibrium state. The approach employed is the conventional stability analysis for elastic conservative systems which differs from most of the analyses that have been published on this class of problems, as will be illustrated by reproducing and elaborating on several problems in the literature. In addition to providing solutions to two basic problems, the paper analyes and demonstrates the stability of six-sided rings that fold into straight configurations.
+  * <img src='/images/Essay/leanza2023on.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/leanza2023on.pdf)\]
+  * Author: Sophie Leanza, Ruike Renee Zhao, John W. Hutchinson
+  * Year: 2023
 
 Smart Materials & Structures
 ======
