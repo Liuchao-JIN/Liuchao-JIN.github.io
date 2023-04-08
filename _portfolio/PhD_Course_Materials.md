@@ -50,7 +50,7 @@ MAEG5160 Design for Additive Manufacturing (Instructor: Prof. [Xu Song](https://
   * [Lecture 17: Topology design of truss structures 1](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_17_truss.pdf)
   * [Lecture 18: Topology design of truss structures 2](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_18_truss_2.pdf)
   * [Lecture 19: Topology Optimization for Additive Manufacturing (TO4AM)](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_19_TO4AM.pdf)
-  * [Lecture 20: Digital d esign of lattice and zero mean curvature structures](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_20_Lattice.pdf)
+  * [Lecture 20: Digital design of lattice and zero mean curvature structures](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_20_Lattice.pdf)
   * [Lecture 21: Consolidation and tooling design](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_21_Consolidation_and_tooling_design.pdf)
   * [Lecture 22: Post processing and Future of AM](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_22_Post-processing_Future_outlook.pdf)
   * [Lecture 24: Summary](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_24_Summary.pdf)
