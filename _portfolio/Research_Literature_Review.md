@@ -30,6 +30,14 @@ collection: portfolio
   * Author: Sung Yun Hann, Haitao Cui, Timothy Esworthy, Lijie Grace Zhang
   * Year: 2023
   * Journal: International Journal of Nanomedicine
+* Tough PEGgels by In Situ Phase Separation for 4D Printing
+  * Keywords: 4D printing, materials
+  * Summary: Polymer gels, consisting of cross-linked polymer network systems swollen by a solvent, show great potential in biomedicine, flexible electronics, and artificial muscles, due to their tissue-like mechanical properties. Due to the presence of a large amount of solvent, the improvement of the mechanical properties of the polymer gel is a challenge. Moreover, combining high toughness with useful properties, such as 3D printability or shape-memory, in one polymer gel system is even more challenging. In this study, a simple and efficient method is developed for the fabrication of tough polymer gels by polymerizing 2-hydroxyethyl methacrylate (HEMA) in a mixture of poly(ethylene glycol) (PEG) and poly(propylene glycol) (PPG). The polymerized elastic networkpresents distinct compatibility with PEG (compatible) and PPG (poorly compatible), resulting in in-situ phase separation at the microscale. The resulting phase-separated gel demonstrates high strength (8.0 MPa), favorable fracture strain (430%), and large toughness (17.0 MJ m−3). The separated hard phasewith a high glass transition temperature (75 °C) endows the whole soft polymer gel with the property of shape memory at room temperature. Finally, the fabrication of tunable tough PEGgels is combined with 3D printing as well as with shape memory properties, demonstrating the use of PEGgels for 4D printing.
+  * <img src='/images/Essay/wang2023tough.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/wang2023tough.pdf)\] \[[Web](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202300947)\]
+  * Author: Zhenwu Wang, Matthias Heck, Wenwu Yang, Manfred Wilhelm, Pavel A. Levkin
+  * Year: 2023
+  * Journal: Advanced Functional Materials
 
 
 3D Printing
@@ -50,6 +58,14 @@ collection: portfolio
   * Author: Mohammadreza Lalegani Dezaki, Mahdi Bodaghi, Ahmad Serjouei, Ali Zolfagharian
   * Year: 2023
   * Journal: Progress in Additive Manufacturing
+* Tough, Transparent, 3D-Printable, and Self-Healing Poly(ethylene glycol)-Gel (PEGgel)
+  * Keywords: 3D printing, soft robots
+  * Summary: Polymer gels, such as hydrogels, have been widely used in biomedical applications, flexible electronics, and soft machines. Polymer network design and its contribution to the performance of gels has been extensively studied. In this study, the critical influence of the solvent nature on the mechanical properties and performance of soft polymer gels is demonstrated. A polymer gel platform based on poly(ethylene glycol) (PEG) as solvent is reported (PEGgel). Compared to the corresponding hydrogel or ethylene glycol gel, the PEGgel with physically cross-linked poly(hydroxyethyl methacrylate-co-acrylic acid) demonstrates high stretchability and toughness, rapid self-healing, and long-term stability. Depending on the molecular weight and fraction of PEG, the tensile strength of the PEGgels varies from 0.22 to 41.3 MPa, fracture strain from 12% to 4336%, modulus from 0.08 to 352 MPa, and toughness from 2.89 to 56.23 MJ m–3. Finally, rapid self-healing of the PEGgel is demonstrated and a self-healing pneumatic actuator is fabricated by 3D-printing. The enhanced mechanical properties of the PEGgel system may be extended to other polymer networks (both chemically and physically cross-linked). Such a simple 3D-printable, self-healing, and tough soft material holds promise for broad applications in wearable electronics, soft actuators and robotics.
+  * <img src='/images/Essay/wang2022tough_1.webp'> <img src='/images/Essay/wang2022tough_2.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/wang2022tough.pdf)\] \[[Web](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202107791)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:nf_Z3thBCugJ:scholar.google.com/&output=citation&scisdr=Cpv0CX7WEJfovqaIL2w:AJ9-iYsAAAAAZDKON2yWdjARLPEA5vM9yP6R_ic&scisig=AJ9-iYsAAAAAZDKONz1m8UaGNPNxKkwzuDKRnDo&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Zhenwu Wang, Haijun Cui, Modan Liu, Stephan L. Grage, Maxi Hoffmann, Elaheh Sedghamiz, Wolfgang Wenzel, Pavel A. Levkin
+  * Year: 2022
+  * Journal: Advanced Materials
 
 Soft Robotics
 ======
