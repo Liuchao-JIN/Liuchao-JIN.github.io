@@ -74,6 +74,13 @@ collection: portfolio
   * Author: Zhenwu Wang, Haijun Cui, Modan Liu, Stephan L. Grage, Maxi Hoffmann, Elaheh Sedghamiz, Wolfgang Wenzel, Pavel A. Levkin
   * Year: 2022
   * Journal: Advanced Materials
+* Rheological behaviour of different composite materials for additive manufacturing of 3D bone scaffolds
+  * Keywords: Additive manufacturing, Polymer-ceramic blends, Printability, Rheology
+  * Summary: The aim of the paper is the investigation of rheological behaviour of polymer and composite blends regularly used for the production of scaffolds for bone tissue applications with the use of additive manufacturing. Poly-ε-caprolactone (PCL), hydroxyapatite (HA), β-tri-calcium phosphate (TCP) and Bioglass 45S5 blends containing different ceramic concentrations (10wt%, 15wt% and 20wt%) were prepared with the use of melt blending procedure and investigated with the use of oscillation and rotational rheology tests. Results are showing that all blends are presenting viscoelastic behaviour with higher viscous modulus, compared with elastic modulus for low frequencies, with this difference reducing while the frequency is increasing. All blends are presenting shear-thinning behaviour suitable for use with additive manufacturing methods. Viscous and elastic modulus are increasing by adding ceramic particles. Results are presenting that PCL/HA blends of the same material concentration are presenting higher elastic modulus properties compared with the other blends, while PCL/Bioglass blends are presenting lower loss factor, lower relaxation time and lower shear viscosity making them easier to handle during the printing procedure.
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/daskalakis2023rheological.pdf)\] \[[Web](https://www.sciencedirect.com/science/article/pii/S2238785423006944)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:LXgxqZ4tc3MJ:scholar.google.com/&output=citation&scisdr=CpsWZ19XEJfovqClVSU:AJ9-iYsAAAAAZDSjTSU70EoRxESgXBH6E5FJIak&scisig=AJ9-iYsAAAAAZDSjTbCO8yrojGlXc8FIPmMavvE&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Evangelos Daskalakis, Mohamed H. Hassan, Abdalla M. Omar, Glen Cooper, Andrew Weightman, Paulo Bartolo
+  * Year: 2023
+  * Journal: Journal of Materials Research and Technology
 
 Soft Robotics
 ======
