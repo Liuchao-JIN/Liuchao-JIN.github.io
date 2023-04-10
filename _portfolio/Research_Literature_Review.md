@@ -38,6 +38,14 @@ collection: portfolio
   * Author: Zhenwu Wang, Matthias Heck, Wenwu Yang, Manfred Wilhelm, Pavel A. Levkin
   * Year: 2023
   * Journal: Advanced Functional Materials
+* 4D printing of multiple shape memory polymer and nanocomposites with biocompatible, programmable and selectively actuated properties
+  * Keywords: 3 layer of SMP to control the shape change of materials continuously
+  * Summary: 4D printing of poly (D,L-lactide-co-trimethylene carbonate) (PLMC)/poly (trimethylene carbonate) (PTMC)/Fe3O4 multi-material with multiple shape-changing capabilities under sequential stimuli of remotely magnetic field and heat was achieved. At first, we optimized the composition of pure SMP to fine tune the multiple shape memory effect and quantitatively characterized the shape recovery by stepwise heating. Then with the addition of Fe3O4 nanoparticles, the multi-material distribution of 4D printed structure consisting of multiple-SMP and its nanocomposites was designed. The integration of multi-material additive manufacturing with multiple shape memory effect extends the shape transformation to quintuple complex shapes with accurate and local controllability under selective multi-stimuli. The 4D printed multiple-SMP and its nanocomposites with simultaneously thermo- and magnetic- responsive shape-changing capability also demonstrated excellent biocompatibility. This work thus offers a feasible and robust approach for 4D printing of multi-functional devices for broad applications in entertainment, robotics, biomedical field and beyond.
+  * <img src='/images/Essay/wan20224d.jpg'> <img src='/images/Essay/wan20224d_2.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/wan20224d.pdf)\] \[[Web](https://www.sciencedirect.com/science/article/pii/S221486042200094X?casa_token=BPlauJioENMAAAAA:h4llGSvKvKyO8rii8D6XjHXvunPXbNdZRnyLVK0GtIlc72yXaqw0hRF7nDj4EGGb5zvqR1Lf-do)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:Gr5Wt0bg9DwJ:scholar.google.com/&output=citation&scisdr=Cpv0CX5zEJfovqdnwoA:AJ9-iYsAAAAAZDNh2oBfL00WCMHqXqb0FiUx47U&scisig=AJ9-iYsAAAAAZDNh2iV2M72cE0r4Z_3nIxaacmE&scisf=4&ct=citation&cd=15&hl=en)\]
+  * Author: Xue Wan, Yang He, Yanju Liu, Jinsong Leng
+  * Year: 2022
+  * Journal: Additive Manufacturing
 
 
 3D Printing
