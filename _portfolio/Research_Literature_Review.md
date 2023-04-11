@@ -81,6 +81,13 @@ collection: portfolio
   * Author: Evangelos Daskalakis, Mohamed H. Hassan, Abdalla M. Omar, Glen Cooper, Andrew Weightman, Paulo Bartolo
   * Year: 2023
   * Journal: Journal of Materials Research and Technology
+* MechSense: A Design and Fabrication Pipeline for Integrating Rotary Encoders into 3D Printed Mechanisms
+  * Keywords: 3D printed mechanisms, printed electronics, capacitive sensing.
+  * Summary: Researchers, including Associate Professor Stephanie Mueller, have created a system that enables makers to incorporate sensors directly into rotational mechanisms with only one pass in a 3D printer. This system gives rotational tools like the gears inside a motor the ability to sense their angular position, rotation speed, and direction of rotation.
+  * <img src='/images/Essay/mueller2023mechsense.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/mueller2023mechsense.pdf)\]
+  * Author: Stephanie Mueller
+  * Year: 2023
 
 Soft Robotics
 ======
