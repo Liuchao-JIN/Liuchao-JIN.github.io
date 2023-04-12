@@ -1,7 +1,7 @@
 ---
-permalink: /amateur/
+layout: archive
 title: "Amateur"
-excerpt: ""
+permalink: /amateur/
 author_profile: true
 redirect_from:
   - "/ama/"
