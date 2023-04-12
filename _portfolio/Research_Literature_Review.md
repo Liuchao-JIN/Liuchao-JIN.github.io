@@ -117,3 +117,14 @@ Smart Materials & Structures
   * Author: Ehsan Shirzaei Sani, Changhao Xu, Canran Wang, Yu Song, Jihong Min, Jiaobing Tu, Samuel A. Solomon, Jiahong Li, Jaminelli L. Banks, David G. Armstrong, Wei Gao
   * Year: 2023
   * Journal: Science Advances
+
+Metamaterials
+=====
+* Mechanical metamaterials made of freestanding quasi-BCC nanolattices of gold and copper with ultra-high energy absorption capacity
+  * Keywords: Mechanical metamaterials, ultra-high energy absorption capacity, nm-scale manufacturing & testing
+  * Summary: Nanolattices exhibit attractive mechanical properties such as high strength, high specific strength, and high energy absorption. However, at present, such materials cannot achieve effective fusion of the above properties and scalable production, which hinders their applications in energy conversion and other fields. Herein, we report gold and copper quasi-body centered cubic (quasi-BCC) nanolattices with the diameter of the nanobeams as small as 34 nm. We show that the compressive yield strengths of quasi-BCC nanolattices even exceed those of their bulk counterparts, despite their relative densities below 0.5. Simultaneously, these quasi-BCC nanolattices exhibit ultrahigh energy absorption capacities, i.e., 100 ± 6 MJ m−3 for gold quasi-BCC nanolattice and 110 ± 10 MJ m−3 for copper quasi-BCC nanolattice. Finite element simulations and theoretical calculations reveal that the deformation of quasi-BCC nanolattice is dominated by nanobeam bending. And the anomalous energy absorption capacities substantially stem from the synergy of the naturally high mechanical strength and plasticity of metals, the size reduction-induced mechanical enhancement, and the quasi-BCC nanolattice architecture. Since the sample size can be scaled up to macroscale at high efficiency and affordable cost, the quasi-BCC nanolattices with ultrahigh energy absorption capacity reported in this work may find great potentials in heat transfer, electric conduction, catalysis applications.
+  * <img src='/images/Essay/cheng2023mechanical.webp'> <img src='/images/Essay/cheng2023mechanical_2.webp'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/cheng2023mechanical.pdf)\] \[[Web](https://www.nature.com/articles/s41467-023-36965-4)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:mkUV-pQbLO8J:scholar.google.com/&output=citation&scisdr=Cpu5fbhTEJfovqH11_o:AJ9-iYsAAAAAZDXzz_pYGLRAGLCgzR3m2WlcLmY&scisig=AJ9-iYsAAAAAZDXzzwOZiKd5epfGwuxj5TLAmXA&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Hongwei Cheng, Xiaoxia Zhu, Xiaowei Cheng, Pengzhan Cai, Jie Liu, Huijun Yao, Ling Zhang, Jinglai Duan
+  * Year: 2023
+  * Journal: Nature Communications
