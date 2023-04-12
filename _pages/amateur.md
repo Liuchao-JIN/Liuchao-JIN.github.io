@@ -7,10 +7,8 @@ redirect_from:
   - "/ama/"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+Welcome to the world of my amateur.
 
-Heading 1
+My Reading
 ======
-
-Heading 2
-======
+* [Bodies That Matter: On the discursive limits of "sex"](http://Liuchao-JIN.github.io/files/Amateur/Bodies_That_Matter__On_the_discursive_limits_of_sex.pdf)
