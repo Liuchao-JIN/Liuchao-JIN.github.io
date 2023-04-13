@@ -62,7 +62,7 @@ collection: portfolio
   * Keywords: Suspension system, Sustainable design, Lattice structure, Modal analysis, 3D printing, Fused deposition modelling
   * Summary: This study proposes sustainable design recommendations for lattice-shaped plastic suspension arms in remote-controlled automobiles to achieve high performance while minimizing waste. Solid, re-entrant honeycomb, face-centred cubic, hexagonal honeycomb, hexagonal prism diamond, simple cubic, triangular honeycomb, and lattice from a volume mesh are implemented on suspension arms to investigate their effects on flexural strength and frequency response. Finite element analysis and experiments are conducted to examine the deformation and vibration frequency. The results show the relationships between mass, stiffness, and vibration frequency.
   * <img src='/images/Essay/dezaki2023green.webp'>
-  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/dezaki2023green.pdf)\] \[[Web](https://link.springer.com/article/10.1007/s40964-023-00439-2#citeas)\]
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/dezaki2023green.pdf)\] \[[Web](https://scholar.googleusercontent.com/scholar.bib?q=info:1Hs4alhNO8sJ:scholar.google.com/&output=citation&scisdr=Cpv3NHohEOusl65l2yU:AJ9-iYsAAAAAZDdjwyXDg5uWy5zmkY1CxQRA64k&scisig=AJ9-iYsAAAAAZDdjw_CUfZBBfeVxKzymSaTZes0&scisf=4&ct=citation&cd=0&hl=en)\]
   * Author: Mohammadreza Lalegani Dezaki, Mahdi Bodaghi, Ahmad Serjouei, Ali Zolfagharian
   * Year: 2023
   * Journal: Progress in Additive Manufacturing
