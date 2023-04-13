@@ -138,7 +138,7 @@ Soft Robotics
   * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/gilday2023predictive.pdf)\] \[[Web](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200390)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:oeweRayscRAJ:scholar.google.com/&output=citation&scisdr=Cpv3NHohEOusl66efco:AJ9-iYsAAAAAZDeYZcrCq790ThDfh1TSfCwA70o&scisig=AJ9-iYsAAAAAZDeYZXwP8trd7H7m_bHpKLg_ues&scisf=4&ct=citation&cd=0&hl=en)\]
   * Author: Kieran Gilday, Thomas George-Thuruthel, Fumiya Iida
   * Year: 2023
-  * Journal: Nature Communications
+  * Journal: Advanced Intelligent Systems
 
 Smart Materials & Structures
 ======
@@ -169,3 +169,14 @@ Metamaterials
   * Author: Haitao Ye, Qingjiang Liu, Jianxiang Cheng, Honggeng Li, Bingcong Jian, Rong Wang, Zechu Sun, Yang Lu, Qi Ge
   * Year: 2023
   * Journal: Nature Communications
+
+
+  Topology Optimization
+  =====
+  * Interactive Structural Topology Optimization with Subjective Scoring and Drawing Systems
+    * Keywords: Topology optimization, Subjective preferences, Scoring, Drawing, Structural design
+    * Summary: Topology optimization techniques can create efficient and innovative structural designs by redistributing underutilized materials to the most-needed locations. These techniques are typically performed based purely on structural performance without considering factors like aesthetics and other design requirements. Hence, the obtained structural designs may not be suitable for specific practical applications. This study presents a new topology optimization method, SP-BESO, by considering the subjective preferences (SP) of the designer. Here, subjective scoring and drawing systems are introduced into the popular bi-directional evolutionary structural optimization (BESO) technique. The proposed SP-BESO method allows users to iteratively and interactively create topologically different and structurally efficient solutions by explicitly scoring and drawing their subjective preferences. Hence, users do not need to passively accept the optimization results. A user-friendly digital design tool, iBESO, is developed, which contains four optimizers to simultaneously perform the proposed SP-BESO method to assist in the design exploration task. A variety of 2D examples are tested using the iBESO software to demonstrate the effectiveness of the proposed SP-BESO method. It is found that the combination of parameters used in the scoring and drawing systems controls the formation of final structural topologies toward performance-driven or preference-driven designs. The utilization of the proposed SP-BESO method in potential practical applications is also demonstrated.
+    * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/li2023interactive.pdf)\] \[[Video](https://www.linkedin.com/posts/yi-min-mike-xie-11015b118_topologyoptimization-preferences-structuraldesign-ugcPost-7052119601622519808-4UC7?utm_source=share&utm_medium=member_desktop)\] \[[Web](https://www.sciencedirect.com/science/article/pii/S0010448523000647?dgcid=author)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:yxx10w-xmJQJ:scholar.google.com/&output=citation&scisdr=Cpv3NHohEOusl66fUww:AJ9-iYsAAAAAZDeZSwyoo3b8PF_bxEVeyWHCcYw&scisig=AJ9-iYsAAAAAZDeZSznZIiLMNZ87Grj4adLAouM&scisf=4&ct=citation&cd=0&hl=en)\]
+    * Author: Zhi Li, Ting-Uei Lee, Yi Min Xie
+    * Year: 2023
+    * Journal: Computer-Aided Design
