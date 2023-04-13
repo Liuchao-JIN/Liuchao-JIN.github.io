@@ -96,6 +96,14 @@ collection: portfolio
   * Author: Dimitri Kokkinis, Manuel Schaffner, André R. Studart
   * Year: 2015
   * Journal: Nature Communications
+* A self-healing nanocomposite double network bacterial nanocellulose/gelatin hydrogel for three dimensional printing
+  * Keywords: self-healing nanocomposite, 3D printing hydrogel
+  * Summary: Extrusion-based three-dimensional (3D) printing of gelatin is important for additive manufactured tissue engineering scaffolds, but gelatin's thermal instability has remained an ongoing challenge. The gelatin tends to suddenly collapse at mild temperatures, which is a significant limitation for using it at physiological temperature of 37 °C. Hence, fabrication of a thermo-processable gelatin hydrogel adapted for extrusion-based additive manufacturing is still a challenge. To achieve this, a self-healing nanocomposite double-network (ncDN) gelatin hydrogel was fabricated with high thermo-processability, shear-thinning, mechanical strength, self-healing, self-recovery, and biocompatibility. To do this, amino group-rich gelatin was first created by combining gelatin with carboxyl methyl chitosan. Afterwards, a self-healing ncDN gelatin hydrogel was formed via an in-situ formation of imine bonds between the blend of gelatin/carboxyl methyl chitosan (Gel/CMCh) and dialdehyde-functionalized bacterial nanocellulose (dBNC). dBNC plays as nanofiber cross-linkers capable of simultaneously crosslinking and reinforcing the double networks of Gel/CMCh through formation of dynamic 3D imine bonds. Based on our findings, our self-healing ncDA gelatin hydrogel displayed great potential as a promising ink for additive manufactured tissue engineering scaffolds.
+  * <img src='/images/Essay/heidarian2023self.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/heidarian2023self.pdf)\] \[[Web](https://www.sciencedirect.com/science/article/pii/S0144861723003442)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:e3TgvbybzeMJ:scholar.google.com/&output=citation&scisdr=Cpv3NHohEOusl65nqjE:AJ9-iYsAAAAAZDdhsjFPRa6SHV3HdMWTkkqBln0&scisig=AJ9-iYsAAAAAZDdhsvjaoLB4TGYQiBWFZBoDWsw&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Pejman Heidarian, Abbas Z. Kouzani
+  * Year: 2023
+  * Journal: Carbohydrate Polymers
 
 
 Soft Robotics
