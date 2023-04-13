@@ -139,6 +139,14 @@ Soft Robotics
   * Author: Kieran Gilday, Thomas George-Thuruthel, Fumiya Iida
   * Year: 2023
   * Journal: Advanced Intelligent Systems
+* Self-folding soft-robotic chains with reconfigurable shapes and functionalities
+  * Keywords: Magnetic continuum soft robot
+  * Summary: Magnetic continuum soft robots can actively steer their tip under an external magnetic field, enabling them to effectively navigate in complex in vivo environments and perform minimally invasive interventions. However, the geometries and functionalities of these robotic tools are limited by the inner diameter of the supporting catheter as well as the natural orifices and access ports of the human body. Here, we present a class of magnetic soft-robotic chains (MaSoChains) that can self-fold into large assemblies with stable configurations using a combination of elastic and magnetic energies. By pushing and pulling the MaSoChain relative to its catheter sheath, repeated assembly and disassembly with programmable shapes and functions are achieved. MaSoChains are compatible with state-of-the-art magnetic navigation technologies and provide many desirable features and functions that are difficult to realize through existing surgical tools. This strategy can be further customized and implemented for a wide spectrum of tools for minimally invasive interventions.
+  * <img src='/images/Essay/gu2023self.webp'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/gu2023self.pdf)\] \[[Video](https://ethz.ch/en/news-and-events/eth-news/news/2023/04/how-to-make-self-folding-surgical-tools.html)\] \[[Web](https://www.nature.com/articles/s41467-023-36819-z)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:LXwhgpCjaKMJ:scholar.google.com/&output=citation&scisdr=Cpv3NHohEOusl66tTiA:AJ9-iYsAAAAAZDerViCuW2FGa2JY7nRcyjFGiPQ&scisig=AJ9-iYsAAAAAZDerVtFi2Vyn9GRggHfl-c5FDaE&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Hongri Gu, Marino Möckli, Claas Ehmke, Minsoo Kim, Matthias Wieland, Simon Moser, Clemens Bechinger, Quentin Boehler, Bradley J. Nelson
+  * Year: 2023
+  * Journal: Nature Communications
 
 Smart Materials & Structures
 ======
