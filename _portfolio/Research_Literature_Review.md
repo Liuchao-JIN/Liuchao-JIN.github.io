@@ -106,6 +106,14 @@ Soft Robotics
   * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/leanza2023on.pdf)\]
   * Author: Sophie Leanza, Ruike Renee Zhao, John W. Hutchinson
   * Year: 2023
+* Soft and lightweight fabric enables powerful and high-range pneumatic actuation
+  * Keywords: a series of pneumatic actuators based on soft but less stretchable fabric, grasping force of over 150 N and a grasping range from 70 to 350 millimeters
+  * Summary: Soft structures and actuation allow robots, conventionally consisting of rigid components, to perform more compliant, adaptive interactions similar to living creatures. Although numerous functions of these types of actuators have been demonstrated in the literature, their hyperelastic designs generally suffer from limited workspaces and load-carrying capabilities primarily due to their structural stretchability factor. Here, we describe a series of pneumatic actuators based on soft but less stretchable fabric that can simultaneously perform tunable workspace and bear a high payload. The motion mode of the actuator is programmable, combinable, and predictable and is informed by rapid response to low input pressure. A robotic gripper using three fabric actuators is also presented. The gripper demonstrates a grasping force of over 150 N and a grasping range from 70 to 350 millimeters. The design concept and comprehensive guidelines presented would provide design and analysis foundations for applying less stretchable yet soft materials in soft robots to further enhance their practicality.
+  * <img src='/images/Essay/zhang2023soft.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/zhang2023soft.pdf)\] \[[Web](https://www.science.org/doi/10.1126/sciadv.adg1203)\]
+  * Author: Zhuang Zhang, Yongzhou Long, Genliang Chen, Qichen Wu, Hao Wang, Hanqing Jiang
+  * Year: 2023
+  * Journal: Science Advances
 
 Smart Materials & Structures
 ======
@@ -126,5 +134,13 @@ Metamaterials
   * <img src='/images/Essay/cheng2023mechanical.webp'> <img src='/images/Essay/cheng2023mechanical_2.webp'>
   * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/cheng2023mechanical.pdf)\] \[[Web](https://www.nature.com/articles/s41467-023-36965-4)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:mkUV-pQbLO8J:scholar.google.com/&output=citation&scisdr=Cpu5fbhTEJfovqH11_o:AJ9-iYsAAAAAZDXzz_pYGLRAGLCgzR3m2WlcLmY&scisig=AJ9-iYsAAAAAZDXzzwOZiKd5epfGwuxj5TLAmXA&scisf=4&ct=citation&cd=0&hl=en)\]
   * Author: Hongwei Cheng, Xiaoxia Zhu, Xiaowei Cheng, Pengzhan Cai, Jie Liu, Huijun Yao, Ling Zhang, Jinglai Duan
+  * Year: 2023
+  * Journal: Nature Communications
+* Multimaterial 3D printed self-locking thick-panel origami metamaterials
+  * Keywords: 3D self-locking thick-panel origami structure
+  * Summary: Thick-panel origami has shown great potential in engineering applications. However, the thick-panel origami created by current design methods cannot be readily adopted to structural applications due to the inefficient manufacturing methods. Here, we report a design and manufacturing strategy for creating thick-panel origami structures with excellent foldability and capability of withstanding cyclic loading. We directly print thick-panel origami through a single fused deposition modeling (FDM) multimaterial 3D printer following a wrapping-based fabrication strategy where the rigid panels are wrapped and connected by highly stretchable soft parts. Through stacking two thick-panel origami panels into a predetermined configuration, we develop a 3D self-locking thick-panel origami structure that deforms by following a push-to-pull mode enabling the origami structure to support a load over 11000 times of its own weight and sustain more than 100 cycles of 40% compressive strain. After optimizing geometric parameters through a self-built theoretical model, we demonstrate that the mechanical response of the self-locking thick-panel origami structure is highly programmable, and such multi-layer origami structure can have a substantially improved impact energy absorption for various structural applications.
+  * <img src='/images/Essay/ye2023multimaterial.webp'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/ye2023multimaterial.pdf)\] \[[Web](https://www.nature.com/articles/s41467-023-37343-w)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:ubJGvjctVU4J:scholar.google.com/&output=citation&scisdr=Cpv3NHohEOusl65dBz0:AJ9-iYsAAAAAZDdbHz1aBuVAUSwgXT0shzLNU4U&scisig=AJ9-iYsAAAAAZDdbHz_Uibf-JLdRuSVhF3bHyOw&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Haitao Ye, Qingjiang Liu, Jianxiang Cheng, Honggeng Li, Bingcong Jian, Rong Wang, Zechu Sun, Yang Lu, Qi Ge
   * Year: 2023
   * Journal: Nature Communications
