@@ -131,6 +131,14 @@ Soft Robotics
   * Author: Zhuang Zhang, Yongzhou Long, Genliang Chen, Qichen Wu, Hao Wang, Hanqing Jiang
   * Year: 2023
   * Journal: Science Advances
+* Predictive Learning of Error Recovery with a Sensorized Passivity-Based Soft Anthropomorphic Hand
+  * Keywords: Soft robot sensing
+  * Summary: Manipulation strategies based on the passive dynamics of soft-bodied interactions provide robust performances with limited sensory information. They utilize the kinematic structure and passive dynamics of the body to adapt to objects of varying shapes and properties. However, these soft passive interactions make the state of the robotic device influenced by the environment, making control generation and state estimation difficult. This work presents a closed-loop framework for dynamic interaction-based grasping that relies on two novelties: 1) a wrist-driven passive soft anthropomorphic hand that can generate robust grasp strategies using one-step kinaesthetic teaching and 2) a learning-based perception system that uses temporal data from sparse tactile sensors to predict and adapt to failures before it happens. With the anthropomorphic soft design and wrist-driven control, it is shown that controllers can be generated robust to novel objects and location uncertainty. With the learning-based high-level perception system and 32 sensing receptors, it is shown that failures can be predicted in advance, further improving the robustness of the entire system by more than doubling the grasping success rate. From over 1000 real-world grasping trials, both the control and perception framework are also seen to be transferable to novel objects and conditions. An interactive preprint version of the article can be found here:
+  * <img src='/images/Essay/gilday2023predictive.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/gilday2023predictive.pdf)\] \[[Web](https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200390)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:oeweRayscRAJ:scholar.google.com/&output=citation&scisdr=Cpv3NHohEOusl66efco:AJ9-iYsAAAAAZDeYZcrCq790ThDfh1TSfCwA70o&scisig=AJ9-iYsAAAAAZDeYZXwP8trd7H7m_bHpKLg_ues&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Kieran Gilday, Thomas George-Thuruthel, Fumiya Iida
+  * Year: 2023
+  * Journal: Nature Communications
 
 Smart Materials & Structures
 ======
