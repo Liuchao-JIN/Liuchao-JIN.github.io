@@ -147,6 +147,14 @@ Soft Robotics
   * Author: Hongri Gu, Marino Möckli, Claas Ehmke, Minsoo Kim, Matthias Wieland, Simon Moser, Clemens Bechinger, Quentin Boehler, Bradley J. Nelson
   * Year: 2023
   * Journal: Nature Communications
+* A versatile jellyfish-like robotic platform for effective underwater propulsion and manipulation
+  * Keywords: jellyfish-like robotic fish, high against-gravity speed, low input power
+  * Summary: Underwater devices are critical for environmental applications. However, existing prototypes typically use bulky, noisy actuators and limited configurations. Consequently, they struggle to ensure noise-free and gentle interactions with underwater species when realizing practical functions. Therefore, we developed a jellyfish-like robotic platform enabled by a synergy of electrohydraulic actuators and a hybrid structure of rigid and soft components. Our 16-cm-diameter noise-free prototype could control the fluid flow to propel while manipulating objects to be kept beneath its body without physical contact, thereby enabling safer interactions. Its against-gravity speed was up to 6.1 cm/s, substantially quicker than other examples in literature, while only requiring a low input power of around 100 mW. Moreover, using the platform, we demonstrated contact-based object manipulation, fluidic mixing, shape adaptation, steering, wireless swimming, and cooperation of two to three robots. This study introduces a versatile jellyfish-like robotic platform with a wide range of functions for diverse applications.
+  * <img src='/images/Essay/wang2023versatile.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/wang2023versatile.pdf)\] \[[Web](https://www.science.org/doi/10.1126/sciadv.adg0292)\]
+  * Author: Tianlu Wang, Hyeong-Joon Joo, Shanyuan Song, Wenqi Hu, Christoph Keplinger, Metin Sitti
+  * Year: 2023
+  * Journal: Science Advances
 
 Smart Materials & Structures
 ======
