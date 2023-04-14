@@ -112,6 +112,14 @@ collection: portfolio
   * Author: Sourabh K. Saha, Dien Wang, Vu H. Nguyen, Yina Chang, James S. Oakdale, Shih-Chi Chen
   * Year: 2019
   * Journal: Science
+* Three-dimensional nanofabrication via ultrafast laser patterning and kinetically regulated material assembly
+  * Keywords: three-dimensional nanofabrication
+  * Summary: Han et al. synthesized very finely detailed objects from a wide range of materials using femtosecond light sheets and nanoparticle-laden hydrogels. The strategy works for ceramics, polymers, metals, semiconductors, and other materials while still maintaining fine feature sizes. This technique could enable nanofabrication across different classes of materials.
+  * <img src='/images/Essay/han2022three.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/han2022three.pdf)\] \[[Web](https://www.science.org/doi/full/10.1126/science.abm8420)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:mHG7F_AEqb8J:scholar.google.com/&output=citation&scisdr=Cpv3NHohEOusl6HD1mI:AJ9-iYsAAAAAZDjFzmKFT_Nldu9xiB30hkqBzNs&scisig=AJ9-iYsAAAAAZDjFzk-lZp6sGcOcOVZ3RFPiBgE&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Fei Han, Songyun Gu1, Aleks Klimas, Ni Zhao, Yongxin Zhao, Shih-Chi Chen
+  * Year: 2022
+  * Journal: Science
 
 Soft Robotics
 ======
