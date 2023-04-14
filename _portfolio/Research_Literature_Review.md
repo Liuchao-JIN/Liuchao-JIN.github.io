@@ -104,7 +104,14 @@ collection: portfolio
   * Author: Pejman Heidarian, Abbas Z. Kouzani
   * Year: 2023
   * Journal: Carbohydrate Polymers
-
+* Scalable submicrometer additive manufacturing
+  * Keywords: two-photon lithography
+  * Summary: Saha et al. optimize a new parallel printing methodology that relies on ultrafast lasers. They show the ability to dramatically increase the speed of printing while maintaining submicrometer resolution.
+  * <img src='/images/Essay/saha2019scalable.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/saha2019scalable.pdf)\] \[[Web](https://www.science.org/doi/full/10.1126/science.aax8760)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:cPwbAqbUq3EJ:scholar.google.com/&output=citation&scisdr=Cpv3NHohEOusl6Gq4yY:AJ9-iYsAAAAAZDis-yaGKbYNT-H_D4f2rOR8rh8&scisig=AJ9-iYsAAAAAZDis-2qeUWZrbsJZLFiIdCY5_Eo&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Sourabh K. Saha, Dien Wang, Vu H. Nguyen, Yina Chang, James S. Oakdale, Shih-Chi Chen
+  * Year: 2019
+  * Journal: Science
 
 Soft Robotics
 ======
