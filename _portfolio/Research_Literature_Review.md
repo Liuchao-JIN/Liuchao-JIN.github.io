@@ -104,7 +104,30 @@ collection: portfolio
   * Author: Pejman Heidarian, Abbas Z. Kouzani
   * Year: 2023
   * Journal: Carbohydrate Polymers
-
+* Scalable submicrometer additive manufacturing
+  * Keywords: two-photon lithography
+  * Summary: Saha et al. optimize a new parallel printing methodology that relies on ultrafast lasers. They show the ability to dramatically increase the speed of printing while maintaining submicrometer resolution.
+  * <img src='/images/Essay/saha2019scalable.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/saha2019scalable.pdf)\] \[[Web](https://www.science.org/doi/full/10.1126/science.aax8760)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:cPwbAqbUq3EJ:scholar.google.com/&output=citation&scisdr=Cpv3NHohEOusl6Gq4yY:AJ9-iYsAAAAAZDis-yaGKbYNT-H_D4f2rOR8rh8&scisig=AJ9-iYsAAAAAZDis-2qeUWZrbsJZLFiIdCY5_Eo&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Sourabh K. Saha, Dien Wang, Vu H. Nguyen, Yina Chang, James S. Oakdale, Shih-Chi Chen
+  * Year: 2019
+  * Journal: Science
+* Three-dimensional nanofabrication via ultrafast laser patterning and kinetically regulated material assembly
+  * Keywords: three-dimensional nanofabrication
+  * Summary: Han et al. synthesized very finely detailed objects from a wide range of materials using femtosecond light sheets and nanoparticle-laden hydrogels. The strategy works for ceramics, polymers, metals, semiconductors, and other materials while still maintaining fine feature sizes. This technique could enable nanofabrication across different classes of materials.
+  * <img src='/images/Essay/han2022three.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/han2022three.pdf)\] \[[Web](https://www.science.org/doi/full/10.1126/science.abm8420)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:mHG7F_AEqb8J:scholar.google.com/&output=citation&scisdr=Cpv3NHohEOusl6HD1mI:AJ9-iYsAAAAAZDjFzmKFT_Nldu9xiB30hkqBzNs&scisig=AJ9-iYsAAAAAZDjFzk-lZp6sGcOcOVZ3RFPiBgE&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Fei Han, Songyun Gu1, Aleks Klimas, Ni Zhao, Yongxin Zhao, Shih-Chi Chen
+  * Year: 2022
+  * Journal: Science
+* Ultrafast 3D nanofabrication via digital holography
+  * Keywords: three-dimensional nanofabrication
+  * Summary: There has been a compelling demand of fabricating high-resolution complex three-dimensional (3D) structures in nanotechnology. While two-photon lithography (TPL) largely satisfies the need since its introduction, its low writing speed and high cost make it impractical for many large-scale applications. We report a digital holography-based TPL platform that realizes parallel printing with up to 2000 individually programmable laser foci to fabricate complex 3D structures with 90 nm resolution. This effectively improves the fabrication rate to 2,000,000 voxels/sec. The promising result is enabled by the polymerization kinetics under a low-repetition-rate regenerative laser amplifier, where the smallest features are defined via a single laser pulse at 1 kHz. We have fabricated large-scale metastructures and optical devices of up to centimeter-scale to validate the predicted writing speed, resolution, and cost. The results confirm our method provides an effective solution for scaling up TPL for applications beyond laboratory prototyping.
+  * <img src='/images/Essay/ouyang2023ultrafast.webp'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/ouyang2023ultrafast.pdf)\] \[[Web](https://www.nature.com/articles/s41467-023-37163-y)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:UJsoZ47U0D4J:scholar.google.com/&output=citation&scisdr=Cpv3NHohEOusl6HNCMw:AJ9-iYsAAAAAZDjLEMzVCswPPz8yTz6xLTcdZeE&scisig=AJ9-iYsAAAAAZDjLEBUaBrPH3QpuQa9Y4yrtpcQ&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Wenqi Ouyang, Xiayi Xu, Wanping Lu, Ni Zhao, Fei Han, Shih-Chi Chen
+  * Year: 2023
+  * Journal: Nature Communications
 
 Soft Robotics
 ======
@@ -147,6 +170,14 @@ Soft Robotics
   * Author: Hongri Gu, Marino Möckli, Claas Ehmke, Minsoo Kim, Matthias Wieland, Simon Moser, Clemens Bechinger, Quentin Boehler, Bradley J. Nelson
   * Year: 2023
   * Journal: Nature Communications
+* A versatile jellyfish-like robotic platform for effective underwater propulsion and manipulation
+  * Keywords: jellyfish-like robotic fish, high against-gravity speed, low input power
+  * Summary: Underwater devices are critical for environmental applications. However, existing prototypes typically use bulky, noisy actuators and limited configurations. Consequently, they struggle to ensure noise-free and gentle interactions with underwater species when realizing practical functions. Therefore, we developed a jellyfish-like robotic platform enabled by a synergy of electrohydraulic actuators and a hybrid structure of rigid and soft components. Our 16-cm-diameter noise-free prototype could control the fluid flow to propel while manipulating objects to be kept beneath its body without physical contact, thereby enabling safer interactions. Its against-gravity speed was up to 6.1 cm/s, substantially quicker than other examples in literature, while only requiring a low input power of around 100 mW. Moreover, using the platform, we demonstrated contact-based object manipulation, fluidic mixing, shape adaptation, steering, wireless swimming, and cooperation of two to three robots. This study introduces a versatile jellyfish-like robotic platform with a wide range of functions for diverse applications.
+  * <img src='/images/Essay/wang2023versatile.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/wang2023versatile.pdf)\] \[[Web](https://www.science.org/doi/10.1126/sciadv.adg0292)\]
+  * Author: Tianlu Wang, Hyeong-Joon Joo, Shanyuan Song, Wenqi Hu, Christoph Keplinger, Metin Sitti
+  * Year: 2023
+  * Journal: Science Advances
 
 Smart Materials & Structures
 ======
