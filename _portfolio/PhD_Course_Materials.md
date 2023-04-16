@@ -56,6 +56,7 @@ MAEG5160 Design for Additive Manufacturing (Instructor: Prof. [Xu Song](https://
   * [Lecture 24: Summary](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_24_Summary.pdf)
 * Project
   * [Guideline of final project](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Guideline_of_final_project.pdf)
+  * [Report](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/MAEG5160_Final_Project.pdf)
   <!-- * [Demo video of final project](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/demo_of_final_project.mp4) -->
 * Homework
   * Homework 1: TO program for chair
