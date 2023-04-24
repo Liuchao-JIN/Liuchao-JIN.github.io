@@ -53,6 +53,7 @@ MAEG5160 Design for Additive Manufacturing (Instructor: Prof. [Xu Song](https://
   * [Lecture 20: Digital design of lattice and zero mean curvature structures](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_20_Lattice.pdf)
   * [Lecture 21: Consolidation and tooling design](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_21_Consolidation_and_tooling_design.pdf)
   * [Lecture 22: Post processing and Future of AM](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_22_Post-processing_Future_outlook.pdf)
+  * [Lecture 23: Case study – AM applications in aerospace industry](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_23_Case-study-AM-in-aerospace.pdf)
   * [Lecture 24: Summary](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_24_Summary.pdf)
 * Project
   * [Guideline of final project](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Guideline_of_final_project.pdf)
