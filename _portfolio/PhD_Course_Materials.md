@@ -107,6 +107,24 @@ MAEG5080 Smart Materials and Structures (Instructor: Prof. [Wei-Hsin Liao](https
   * [Lecture Note 12: Discretization: (Galerkin’s Method)](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Lecture_Note_12.pdf)
 * [Assignment](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/MAEG5080_Assignment.pdf)
 
+MAEG5130 Computational Mechanics (Instructor: Prof. [Weizhao Zhang](https://www4.mae.cuhk.edu.hk/peoples/zhang-weizhao/))
+* Lecture Notes
+  * [Chapter 1: Introducation](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/Ch1.pdf)
+  * [Chapter 2: 1D Strong & Weak Forms](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/Ch2.pdf)
+  * [Chapter 3: 1D Approximation](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/Ch3.pdf)
+  * [Chapter 4: 1D Formulation](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/Ch4.pdf)
+  * [Chapter 5: Continuum Mechanics](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/Ch5.pdf)
+  * [Chapter 6: Multidimensional Strong & Weak Forms](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/Ch6.pdf)
+  * [Chapter 7: Multidimensional Trial Solution](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/Ch7.pdf)
+  * [Chapter 8: Multidimensional Formulation](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/Ch8.pdf)
+  * [Chapter 9: 2D Linear Elastic Fields](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/Ch9.pdf)
+  * [Chapter 10: Elasticity](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/Ch10.pdf)
+  * [Chapter 11: Plasticity](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/Ch11.pdf)
+  * [Chapter 12: Stress Update Algorithms](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/Ch12.pdf)
+  * [Chapter 13: Supplementary Infomation for Constitutive Laws](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/Ch13.pdf)
+* Textbook
+  * [A First Course in Finite Elements](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/A_First_Course_in_Finite_Elements.pdf)
+
 
 Candidacy Examination
 * [2022 May](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/Candidacy_Examination/22_May.pdf)
