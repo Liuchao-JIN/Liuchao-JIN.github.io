@@ -69,7 +69,7 @@ MAEG5160 Design for Additive Manufacturing (Instructor: Prof. [Xu Song](https://
 
 
 
-MAEG5160 Nonlinear Control Systems (Instructor: Prof. [Jie Huang](https://www4.mae.cuhk.edu.hk/peoples/huang-jie/))
+MAEG5070 Nonlinear Control Systems (Instructor: Prof. [Jie Huang](https://www4.mae.cuhk.edu.hk/peoples/huang-jie/))
 * Lecture Notes
   * [Chapter 0: Overview of Linear Control Systems](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5070/chapter0.pdf)
   * [Chapter 1: Introduction to Nonlinear Control](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5070/chapter1.pdf)
