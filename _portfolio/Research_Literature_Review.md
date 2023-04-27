@@ -144,6 +144,14 @@ collection: portfolio
   * Author: Jianxiang Cheng, Rong Wang, Zechu Sun, Qingjiang Liu, Xiangnan He, Honggeng Li, Haitao Ye, Xingxin Yang, Xinfeng Wei, Zhenqing Li, Bingcong Jian, Weiwei Deng, Qi Ge
   * Year: 2022
   * Journal: Nature Communications
+* Multimaterial Three-Dimensional Printing of Ultraviolet-Curable Ionic Conductive Elastomers with Diverse Polymers for Multifunctional Flexible Electronics
+  * Keywords: flexible electronics ionic conductive elastomers multimaterial 3D printing digital light processing 4D printing
+  * Summary: Ionic conductive elastomers (ICEs) are emerging stretchable and ionic conductive materials that are solvent-free and thus demonstrate excellent thermal stability. Three-dimensional (3D) printing that creates complex 3D structures in free forms is considered as an ideal approach to manufacture sophisticated ICE-based devices. However, the current technologies constrain 3D printed ICE structures in a single material, which greatly limits functionality and performance of ICE-based devices and machines. Here, we report a digital light processing (DLP)-based multimaterial 3D printing capability to seemly integrate ultraviolet-curable ICE (UV-ICE) with nonconductive materials to create ionic flexible electronic devices in 3D forms with enhanced performance. This unique capability allows us to readily manufacture various 3D flexible electronic devices. To demonstrate this, we printed UV-ICE circuits into polymer substrates with different mechanical properties to create resistive strain and force sensors; we printed flexible capacitive sensors with high sensitivity (2 kPa–1) and a wide range of measured pressures (from 5 Pa to 550 kPa) by creating a complex microstructure in the dielectric layer; we even realized ionic conductor-activated four-dimensional (4D) printing by printing a UV-ICE circuit into a shape memory polymer substrate. The proposed approach paves a new efficient way to realize multifunctional flexible devices and machines by bonding ICEs with other polymers in 3D forms.
+  * <img src='/images/Essay/he2022multimaterial.gif'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/he2022multimaterial.pdf)\] \[[Web](https://pubs.acs.org/doi/full/10.1021/acsami.2c18954)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:xnVLPSJPHYgJ:scholar.google.com/&output=citation&scisdr=Cpv3NO_zEOK0md77rrE:AJ9-iYsAAAAAZEn9trHXEaKxzmow6idlVyw6tPY&scisig=AJ9-iYsAAAAAZEn9tpixL3s6rjHqOsr0aaDN5y0&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Xiangnan He, Jianxiang Cheng, Zhenqing Li, Haitao Ye, Xinfeng Wei, Honggeng Li, Rong Wang, Yuan-Fang Zhang, Hui Ying Yang, Chuanfei Guo, Qi Ge
+  * Year: 2023
+  * Journal: ACS Applied Materials & Interfaces
 
 Soft Robotics
 ======
