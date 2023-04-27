@@ -136,6 +136,14 @@ collection: portfolio
   * Author: Rong Wang, Haitao Ye, Jianxiang Cheng, Honggeng Li, Pengfei Zhu, Bo Li, Rong Fan, Juzheng Chen, Yang Lu, Qi Ge
   * Year: 2023
   * Journal: Additive Manufacturing
+* Centrifugal multimaterial 3D printing of multifunctional heterogeneous objects
+  * Keywords: Multimaterial DLP
+  * Summary: There are growing demands for multimaterial three-dimensional (3D) printing to manufacture 3D object where voxels with different properties and functions are precisely arranged. Digital light processing (DLP) is a high-resolution fast-speed 3D printing technology suitable for various materials. However, multimaterial 3D printing is challenging for DLP as the current multimaterial switching methods require direct contact onto the printed part to remove residual resin. Here we report a DLP-based centrifugal multimaterial (CM) 3D printing method to generate large-volume heterogeneous 3D objects where composition, property and function are programmable at voxel scale. Centrifugal force enables non-contact, high-efficiency multimaterial switching, so that the CM 3D printer can print heterogenous 3D structures in large area (up to 180 mm × 130 mm) made of materials ranging from hydrogels to functional polymers, and even ceramics. Our CM 3D printing method exhibits excellent capability of fabricating digital materials, soft robots, and ceramic devices.
+  * <img src='/images/Essay/cheng2022centrifugal.webp'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/cheng2022centrifugal.pdf)\] \[[Web](https://www.nature.com/articles/s41467-022-35622-6)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:BCJ-veAi6e4J:scholar.google.com/&output=citation&scisdr=Cpv3NO_zEOK0md7x-Bo:AJ9-iYsAAAAAZEn34BpkUNMcnU2jqwY42MDDAPk&scisig=AJ9-iYsAAAAAZEn34MKvH369d_xLf6Bn0i7BxUs&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Jianxiang Cheng, Rong Wang, Zechu Sun, Qingjiang Liu, Xiangnan He, Honggeng Li, Haitao Ye, Xingxin Yang, Xinfeng Wei, Zhenqing Li, Bingcong Jian, Weiwei Deng, Qi Ge
+  * Year: 2022
+  * Journal: Nature Communications
 
 Soft Robotics
 ======
