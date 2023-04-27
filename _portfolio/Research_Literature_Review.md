@@ -237,7 +237,7 @@ Smart Materials & Structures
   * Author: Juntong Xing, Masoud Rezaei, Huliang Dai, Wei-Hsin Liao
   * Year: 2023
   * Journal: Applied Physics Letters
-* Investigating the effect of surface protrusions on galloping energy harvesting Editor’s Pick
+* Tailorable activation of thermoresponsive composite structures incorporating wavy heaters via hybrid manufacturing
   * Keywords: Joule-heating, Tailorable activation of smart materials, Shape-memory polymers, Thermoresponsive composite structures
   * Summary: Herein, we present a concept of embedding a wavy heater into a thermoresponsive material matrix to form a composite structure with parametrically designed thermal activation behavior, through a facile manufacturing approach combining 3D-printing and laser-cutting. We develop a numerical model to predict the transient heat transfer for varying wavy shapes of heater, and experimentally validate the numerical results. The exploration of the design space using the numerical model shows a reduction of up to 82% in heating time using the wavy design compared with the flat design. Finally, we demonstrate experimentally the stiffness tuning in thermoresponsive composite structures. This work paves the way for large-scale thermoresponsive composite structures with applications in aerospace and architecture.
   * <img src='/images/Essay/zhang2023tailorable.jpg'>
