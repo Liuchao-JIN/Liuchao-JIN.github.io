@@ -137,6 +137,7 @@ ENGG5402 Advanced Robotics (Instructor: Prof. [Fei Chen](https://www4.mae.cuhk.e
 
 
 MAEG5130 Computational Mechanics (Instructor: Prof. [Weizhao Zhang](https://www4.mae.cuhk.edu.hk/peoples/zhang-weizhao/))
+* [Syllabus](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/syllabus.pdf)
 * Lecture Notes
   * [Chapter 1: Introducation](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/Ch1.pdf)
   * [Chapter 2: 1D Strong & Weak Forms](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/Ch2.pdf)
