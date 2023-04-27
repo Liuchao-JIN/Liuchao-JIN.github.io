@@ -197,6 +197,14 @@ Smart Materials & Structures
   * Author: Ehsan Shirzaei Sani, Changhao Xu, Canran Wang, Yu Song, Jihong Min, Jiaobing Tu, Samuel A. Solomon, Jiahong Li, Jaminelli L. Banks, David G. Armstrong, Wei Gao
   * Year: 2023
   * Journal: Science Advances
+* Investigating the effect of surface protrusions on galloping energy harvesting Editor’s Pick
+  * Keywords: piezoelectric energy harvester
+  * Summary: This Letter explores the potential effect of implementing different surface protrusions on galloping energy harvesters. Three types of protruded bluff bodies with rectangular, triangular, and elliptical metasurfaces are proposed, and four kinds of surface treatments are deployed to vary their protruded shape. Wind tunnel experiments reveal that adding the protrusions can obviously change the mode of oscillations, and only the backward protrusions can enhance the galloping response. Both the experiments and simulations show that elliptical surface protrusions have the greatest potential to enhance the galloping energy harvesting performance. Specifically, with a backward protruded length of 15 mm, the maximum output power in the experiments is measured to be 0.757 mW, which occurs at 5.1 m/s, and an optimal load resistance of 300 kΩ. In this case, the energy harvester outperforms its counterpart carrying a simple square prism by 157.48%.
+  * <img src='/images/Essay/xing2023investigating.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/xing2023investigating.pdf)\] \[[Web](https://pubs.aip.org/aip/apl/article/122/15/153902/2878606/Investigating-the-effect-of-surface-protrusions-on)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:vDG6Asn3brAJ:scholar.google.com/&output=citation&scisdr=Cpv3NO_zEOK0md7cyco:AJ9-iYsAAAAAZEna0cqC-43JpWXZPZmq4bbCZts&scisig=AJ9-iYsAAAAAZEna0fEL2EfDHQ8bvvv_DUsjkc4&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Juntong Xing, Masoud Rezaei, Huliang Dai, Wei-Hsin Liao
+  * Year: 2023
+  * Journal: Applied Physics Letters
 
 Metamaterials
 =====
