@@ -128,6 +128,14 @@ collection: portfolio
   * Author: Wenqi Ouyang, Xiayi Xu, Wanping Lu, Ni Zhao, Fei Han, Shih-Chi Chen
   * Year: 2023
   * Journal: Nature Communications
+* Ultrastrong and damage-tolerant ceramic architectures via 3D printing
+  * Keywords: Damage tolerance, Ceramic architectures, 3D printing, Mechanical property, In situ compression
+  * Summary: Ceramic materials have high mechanical strength and exceptional environmental stability, but are suboptimal for structural applications due to their inherent brittleness and low damage tolerance. Here, we report ultrastrong and damage-tolerant ceramic architectures that are designed based on Schwarz Primitive structures and manufactured by digital light processing (DLP)-based 3D printing. Through micro-computed tomography imaging and in situ compression experiments, we reveal that the step effect of 3D printing plays a role in crack initiation and propagation of the 3D-printed architectures. When the loading direction is perpendicular to the printing direction, the steps can induce cracks to propagate along the loading direction, which is beneficial to localize the cracks in the outer part of structure and enhance the structural strength and damage tolerance. After optimizing structural design and heat treatment process, the printed ceramic architecture can achieve compressive strength as high as 710 MPa at a relative density of 57.58 %. More importantly, the printed ceramic architecture exhibits excellent damage tolerance. It can bear more 20 cycles of 6 % compressive strain when 28 % of the structures have been damaged. The ceramic architecture can still bear the load without failure even when the degree of damage reaches 44 %. The superior mechanical properties make them have great potential in engineering applications that require high mechanical reliability.
+  * <img src='/images/Essay/wang2023ultrastrong.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/wang2023ultrastrong.pdf)\] \[[Web](https://www.sciencedirect.com/science/article/pii/S2214860422007503)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:tac0zuUXZyMJ:scholar.google.com/&output=citation&scisdr=Cpv3NO_zEOK0md70x6U:AJ9-iYsAAAAAZEny36WbAE0RFEzzRjLN9Fz6yRA&scisig=AJ9-iYsAAAAAZEny3_8_2c977MBj211o0m2FNg4&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Rong Wang, Haitao Ye, Jianxiang Cheng, Honggeng Li, Pengfei Zhu, Bo Li, Rong Fan, Juzheng Chen, Yang Lu, Qi Ge
+  * Year: 2023
+  * Journal: Additive Manufacturing
 
 Soft Robotics
 ======
