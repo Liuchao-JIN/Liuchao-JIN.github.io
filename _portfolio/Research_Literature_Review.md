@@ -178,6 +178,14 @@ Soft Robotics
   * Author: Tianlu Wang, Hyeong-Joon Joo, Shanyuan Song, Wenqi Hu, Christoph Keplinger, Metin Sitti
   * Year: 2023
   * Journal: Science Advances
+* Kirigami-Inspired 3D Printable Soft Pneumatic Actuators with Multiple Deformation Modes for Soft Robotic Applications
+  * Keywords: 3D printing, soft robots, Kirigami
+  * Summary: In this article, a new soft pneumatic actuator (SPA) is proposed taking inspiration from Kirigami. Kirigami-inspired cuts are applied to the actuator design, which enables the SPA to be equipped with multiple deformation modes. The proposed Kirigami-inspired soft pneumatic actuator (KiriSPA) is capable of producing bending motion, stretching motion, contraction motion, combined motion of bending and stretching, and combined motion of bending and contraction. The KiriSPA can be directly manufactured using 3D printers based on the fused deposition modeling technology. Finite element method is used to analyze and predict the deformation modes of the KiriSPA. We also investigated the step response, creep, hysteresis, actuation speed, stroke, workspace, stiffness, power density, and blocked force of the KiriSPA. Moreover, we demonstrated that KiriSPAs can be combined to expand the capabilities of various soft robotic systems including the soft robotic gripper for delicate object manipulation, the soft planar robotic manipulator for picking objects in the confined environment, the quadrupedal soft crawling robot, and the soft robot with the flipping locomotion.
+  * <img src='/images/Essay/guo2023kirigami.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/guo2023kirigami.pdf)\] \[[Web](https://www.liebertpub.com/doi/10.1089/soro.2021.0199)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:7gmaYyUd5o0J:scholar.google.com/&output=citation&scisdr=Cpv3NO_zEOK0md7Ss7A:AJ9-iYsAAAAAZEnUq7D-iVQS19WuJba9wdvcMnI&scisig=AJ9-iYsAAAAAZEnUq18DvmV4pT1joS3FoOl1ROM&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Jin Guo, Zeyu Li, Jin-Huat Low, Qianqian Han, Chao-Yu Chen, Jun Liu, Zhuangjian Liu, Chen-Hua Yeow
+  * Year: 2023
+  * Journal: Soft Robotics
 
 Smart Materials & Structures
 ======
