@@ -152,6 +152,14 @@ collection: portfolio
   * Author: Xiangnan He, Jianxiang Cheng, Zhenqing Li, Haitao Ye, Xinfeng Wei, Honggeng Li, Rong Wang, Yuan-Fang Zhang, Hui Ying Yang, Chuanfei Guo, Qi Ge
   * Year: 2023
   * Journal: ACS Applied Materials & Interfaces
+* Smart structures with embedded flexible sensors fabricated by fused deposition modeling-based multimaterial 3D printing
+  * Keywords: 3D printing smart structures, flexible sensors
+  * Summary: Smart structures have the advantages of high system integrity and diverse sensing capabilities. However, the labor-intensive and time-consuming fabrication process hinders the large-scale adoption of smart structures. Despite recent attempts to develop sensor-embedded structures using 3D printing technologies, the reported smart structures generally suffer from the complex fabrication process, constrained part size, and limited sensing modality. Herein, we propose a workflow to design and fabricate novel smart structures via multimaterial fused deposition modeling (FDM)-based 3D printing. More specifically, conductive filaments with tailorable mechanical and electrical properties, e.g. piezoresistive effects, were developed. Additionally, the printing process was optimized for processing soft filaments with Young’s modulus around 2 MPa, resolving the issue of filament buckling. Furthermore, the potential applications of the proposed workflow were showcased using three design cases, i.e. biaxial strain sensor, smart tire, and cable-driven soft finger with multiple sensing capabilities. This workflow provides a cost-effective and rapid solution for developing novel smart structures with soft materials.
+  * <img src='/images/Essay/ren2022smart.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/ren2022smart.pdf)\] \[[Web](https://www.tandfonline.com/doi/full/10.1080/19475411.2022.2095454)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:a3Rwa1xeTmUJ:scholar.google.com/&output=citation&scisdr=Cpv3NO_zEOK0md0XQxc:AJ9-iYsAAAAAZEoRWxfWNRnBILL3ZOZml1fkU5k&scisig=AJ9-iYsAAAAAZEoRW7Dq7zJvyLkK_01Yb7iGfGY&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Huilin Ren, Xiaodan Yang, Zhenhu Wang, Xuguang Xu,R ong Wang, Qi Ge, Yi Xiong
+  * Year: 2022
+  * Journal: International Journal of Smart and Nano Materials
 
 Soft Robotics
 ======
