@@ -61,6 +61,22 @@ collection: portfolio
   * Author: Zeang Zhao, Xiao Kuang, Chao Yuan, H. Jerry Qi, Daining Fang
   * Year: 2018
   * Journal: ACS applied materials & interfaces
+* Responsive cellulose-hydrogel composite ink for 4D printing
+  * Keywords: 4D materialsAdditive manufacturingComposite morphingStimuli-responsiveCellulose-hydrogel
+  * Summary: Sustainable and cost-effective solutions are crucial for the widespread adoption of 4D printing technology. This paper focuses on the development of a cellulose-hydrogel composite ink for additive manufacture, presenting the development and physical characterisation (stability, swelling potential and rheology) of the cellulose-hydrogel composite to establish its suitability for 4D printing of responsive structures. The use of a carboxymethyl cellulose (CMC) hydrocolloid with incorporated cellulose pulp fibres resulted in an ink with a high total cellulose content (fibre volume fraction ≈50% for the dehydrated composite) and good dispersion of fibres within the hydrogel matrix. The composite ink formulation developed in this study permitted smooth extrusion using an open source 3D printer to achieve controlled material placement in 3D space while retaining the functionality of the cellulose. The addition of montmorillonite clay not only resulted in enhanced storage stability of the composite ink formulations but also had a beneficial effect on the extrusion characteristics. The ability to precisely apply the ink via 3D printing was demonstrated through fabrication of a complex structure capable of morphing according to pre-determined design rules in response to hydration/dehydration.
+  * <img src='/images/Essay/mulakkal2018responsive.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/mulakkal2018responsive.pdf)\] \[[Web](https://www.sciencedirect.com/science/article/pii/S0264127518307032?pes=vor)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:J-S7069GTeoJ:scholar.google.com/&output=citation&scisdr=Cpv0CX7WEJfovt-efaQ:AJ9-iYsAAAAAZEuYZaT1n865NPdnO_4I7_FFaLQ&scisig=AJ9-iYsAAAAAZEuYZfyEHmiBcbuUfmwoclCW85I&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Manu C. Mulakkal, Richard S. Trask, Valeska P. Ting, Annela M. Seddon
+  * Year: 2018
+  * Journal: Materials & Design
+<!-- *
+  * Keywords:
+  * Summary:
+  * <img src='/images/Essay/.'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/.pdf)\] \[[Web]()\] \[[BibTeX]()\]
+  * Author:
+  * Year:
+  * Journal:  -->
 
 3D Printing
 ======
