@@ -53,6 +53,7 @@ MAEG5160 Design for Additive Manufacturing (Instructor: Prof. [Xu Song](https://
   * [Lecture 20: Digital design of lattice and zero mean curvature structures](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_20_Lattice.pdf)
   * [Lecture 21: Consolidation and tooling design](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_21_Consolidation_and_tooling_design.pdf)
   * [Lecture 22: Post processing and Future of AM](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_22_Post-processing_Future_outlook.pdf)
+  * [Lecture 23: Case study – AM applications in aerospace industry](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_23_Case-study-AM-in-aerospace.pdf)
   * [Lecture 24: Summary](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_24_Summary.pdf)
 * Project
   * [Guideline of final project](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Guideline_of_final_project.pdf)
@@ -65,10 +66,12 @@ MAEG5160 Design for Additive Manufacturing (Instructor: Prof. [Xu Song](https://
   * Homework 2: Optimization for GE bracket
     * [Question](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Homework_2.pdf)
     * [Solution](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Assignment__2.pdf)
+* Textbook
+  * [An Introduction to Structural Optimization](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/christensen2008an.pdf)
 
 
 
-MAEG5160 Nonlinear Control Systems (Instructor: Prof. [Jie Huang](https://www4.mae.cuhk.edu.hk/peoples/huang-jie/))
+MAEG5070 Nonlinear Control Systems (Instructor: Prof. [Jie Huang](https://www4.mae.cuhk.edu.hk/peoples/huang-jie/))
 * Lecture Notes
   * [Chapter 0: Overview of Linear Control Systems](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5070/chapter0.pdf)
   * [Chapter 1: Introduction to Nonlinear Control](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5070/chapter1.pdf)
@@ -107,7 +110,34 @@ MAEG5080 Smart Materials and Structures (Instructor: Prof. [Wei-Hsin Liao](https
   * [Lecture Note 12: Discretization: (Galerkin’s Method)](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/Lecture_Note_12.pdf)
 * [Assignment](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5080/MAEG5080_Assignment.pdf)
 
+ENGG5402 Advanced Robotics (Instructor: Prof. [Fei Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-fei/))
+* [Outline](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/ENGG5402_AdvancedRobotics_Outline_Y2223_T2v4.pdf)
+* Lecture Notes
+  * [Lecture 0: Course Outline](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/L0.pdf)
+  * [Lecture 1: Introduction to robotics](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/L1.pdf)
+  * [Lecture 2: Position and Orientation of Rigid Bodies](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/L2.pdf)
+  * [Lecture 3: Euler and roll pitch yaw angles](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/L3.pdf)
+  * [Lecture 4: Direct kinematics](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/L4.pdf)
+  * [Lecture 5: Inverse kinematics](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/L5.pdf)
+  * [Lecture 6: Differential Kinematics](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/L6.pdf)
+  * [Lecture 7: Inverse differential kinematics Statics and force transformations](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/L7.pdf)
+  * [Lecture 8: Dynamic model of robots: Lagrangian approach](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/L8.pdf)
+  * [Lecture 9: Dynamic model of robots: Newton-Euler approach](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/L9.pdf)
+  * [Lecture 10: Introduction to Control](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/L10.pdf)
+  * [Lecture 11: Position Regulation (with an introduction to stability)](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/L11.pdf)
+  * [Lecture 12: Interative Learning for Gravity Compensation](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/L12.pdf)
+  * [Lecture 13: Trajectory Tracking Control](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/L13.pdf)
+  * [Lecture 14: Adaptive Trajectory Control](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/L14.pdf)
+  * [Lecture 15: Control in the Cartesian Space](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/L15.pdf)
+  * [Lecture Supplementary: Robot Actuators and Sensors](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/LS.pdf)
+  * [Midterm Revision](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/16_3_23revision.pdf)
+* Textbook
+  * [Robotics Modeling, Planning and Control](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/siciliano2009robotics.pdf)
+  * [Robot Dynamics and Control](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/spong2004robot.pdf)
+
+
 MAEG5130 Computational Mechanics (Instructor: Prof. [Weizhao Zhang](https://www4.mae.cuhk.edu.hk/peoples/zhang-weizhao/))
+* [Syllabus](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/syllabus.pdf)
 * Lecture Notes
   * [Chapter 1: Introducation](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/Ch1.pdf)
   * [Chapter 2: 1D Strong & Weak Forms](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/Ch2.pdf)
