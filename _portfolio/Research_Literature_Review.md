@@ -77,6 +77,15 @@ collection: portfolio
   * Author: A. Sydney Gladman, Elisabetta A. Matsumoto, Ralph G. Nuzzo, L. Mahadevan, Jennifer A. Lewis
   * Year: 2016
   * Journal: Nature materials
+* Active Printed Materials for Complex Self-Evolving Deformations
+  * Keywords: hydrogel 4D printing
+  * Summary: We propose a new design of complex self-evolving structures that vary over time due to environmental interaction. In conventional 3D printing systems, materials are meant to be stable rather than active and fabricated models are designed and printed as static objects. Here, we introduce a novel approach for simulating and fabricating self-evolving structures that transform into a predetermined shape, changing property and function after fabrication. The new locally coordinated bending primitives combine into a single system, allowing for a global deformation which can stretch, fold and bend given environmental stimulus.
+  * <img src='/images/Essay/raviv2014active.webp'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/raviv2014active.pdf)\] \[[Web](https://www.nature.com/articles/srep07422)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:sSBJd7LKmfIJ:scholar.google.com/&output=citation&scisdr=Cpv0CX7WEJfovt-bCFY:AJ9-iYsAAAAAZEudEFZJeyybfmUh_Eyxdbe1XiE&scisig=AJ9-iYsAAAAAZEudEEfPNuI7FMRfUstvCL5ZriY&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Dan Raviv, Wei Zhao, Carrie McKnelly, Athina Papadopoulou, Achuta Kadambi, Boxin Shi, Shai Hirsch, Daniel Dikovsky, Michael Zyracki, Carlos Olguin, Ramesh Raskar, Skylar Tibbits
+  * Year: 2014
+  * Journal: Scientific reports
+
 
 <!-- *
   * Keywords:
