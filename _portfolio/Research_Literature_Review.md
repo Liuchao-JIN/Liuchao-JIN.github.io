@@ -53,6 +53,14 @@ collection: portfolio
   * Author: Mathilde Champeau, Daniel Alves Heinze, Thiago Nunes Viana, Edcarlos Rodrigues de Souza, Anne Cristine Chinellato, Silvia Titotto
   * Year: 2020
   * Journal: Advanced Functional Materials
+* Hydrophilic/Hydrophobic Composite Shape-Shifting Structures
+  * Keywords: active structures solvent-responsive structures digital light processing 3D printing 4D printing
+  * Summary: Swelling-induced shape transformation has been widely investigated and applied to the design and fabrication of smart polymer devices, such as soft robotics, biomedical devices, and origami patterns. Previous shape-shifting designs using soft hydrogels have several limitations, including relatively small actuation force, slow responsive speed, and relatively complicated fabrication process. In this paper, we develop a novel hydrophilic/hydrophobic composite structure by using photopolymers. The rubbery nature of the materials used in this composite provides desirable actuation speed and actuation force. The photocurable polymer system could be easily patterned by using the digital light processing technique. Experiments and theoretical analysis were conducted to study the actuation process. We also fabricated several three-dimensional water-responsive shape-shifting structures, including structures with sequential actuation behavior. Finally, the directional bending behavior of the hydrophilic/hydrophobic bilayer plate was investigated.
+  * <img src='/images/Essay/zhao2018hydrophilic.gif'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/zhao2018hydrophilic.pdf)\] \[[Web](https://pubs.acs.org/doi/10.1021/acsami.8b02444)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:dEc1nsVY6v8J:scholar.google.com/&output=citation&scisdr=Cpv0CX7WEJfovt-VmWA:AJ9-iYsAAAAAZEuTgWATdIYoVenvbmUJpFg5DvM&scisig=AJ9-iYsAAAAAZEuTgauNKZ9N2TTexf6WG07EpUc&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Zeang Zhao, Xiao Kuang, Chao Yuan, H. Jerry Qi, Daining Fang
+  * Year: 2018
+  * Journal: ACS applied materials & interfaces
 
 3D Printing
 ======
