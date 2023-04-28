@@ -62,13 +62,22 @@ collection: portfolio
   * Year: 2018
   * Journal: ACS applied materials & interfaces
 * Responsive cellulose-hydrogel composite ink for 4D printing
-  * Keywords: 4D materialsAdditive manufacturingComposite morphingStimuli-responsiveCellulose-hydrogel
+  * Keywords: 4D materials, Additive manufacturing, Composite morphing, Stimuli-responsive, Cellulose-hydrogel
   * Summary: Sustainable and cost-effective solutions are crucial for the widespread adoption of 4D printing technology. This paper focuses on the development of a cellulose-hydrogel composite ink for additive manufacture, presenting the development and physical characterisation (stability, swelling potential and rheology) of the cellulose-hydrogel composite to establish its suitability for 4D printing of responsive structures. The use of a carboxymethyl cellulose (CMC) hydrocolloid with incorporated cellulose pulp fibres resulted in an ink with a high total cellulose content (fibre volume fraction ≈50% for the dehydrated composite) and good dispersion of fibres within the hydrogel matrix. The composite ink formulation developed in this study permitted smooth extrusion using an open source 3D printer to achieve controlled material placement in 3D space while retaining the functionality of the cellulose. The addition of montmorillonite clay not only resulted in enhanced storage stability of the composite ink formulations but also had a beneficial effect on the extrusion characteristics. The ability to precisely apply the ink via 3D printing was demonstrated through fabrication of a complex structure capable of morphing according to pre-determined design rules in response to hydration/dehydration.
   * <img src='/images/Essay/mulakkal2018responsive.jpg'>
   * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/mulakkal2018responsive.pdf)\] \[[Web](https://www.sciencedirect.com/science/article/pii/S0264127518307032?pes=vor)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:J-S7069GTeoJ:scholar.google.com/&output=citation&scisdr=Cpv0CX7WEJfovt-efaQ:AJ9-iYsAAAAAZEuYZaT1n865NPdnO_4I7_FFaLQ&scisig=AJ9-iYsAAAAAZEuYZfyEHmiBcbuUfmwoclCW85I&scisf=4&ct=citation&cd=0&hl=en)\]
   * Author: Manu C. Mulakkal, Richard S. Trask, Valeska P. Ting, Annela M. Seddon
   * Year: 2018
   * Journal: Materials & Design
+* Biomimetic 4D printing
+  * Keywords: hydrogel 4D printing
+  * Summary: Shape-morphing systems can be found in many areas, including smart textiles, autonomous robotics, biomedical devices, drug delivery and tissue engineering. The natural analogues of such systems are exemplified by nastic plant motions, where a variety of organs such as tendrils, bracts, leaves and flowers respond to environmental stimuli (such as humidity, light or touch) by varying internal turgor, which leads to dynamic conformations governed by the tissue composition and microstructural anisotropy of cell walls. Inspired by these botanical systems, we printed composite hydrogel architectures that are encoded with localized, anisotropic swelling behaviour controlled by the alignment of cellulose fibrils along prescribed four-dimensional printing pathways. When combined with a minimal theoretical framework that allows us to solve the inverse problem of designing the alignment patterns for prescribed target shapes, we can programmably fabricate plant-inspired architectures that change shape on immersion in water, yielding complex three-dimensional morphologies.
+  * <img src='/images/Essay/sydney2016biomimetic.webp'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/sydney2016biomimetic.pdf)\] \[[Web](https://www.nature.com/articles/nmat4544)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:YB6rkHle8lQJ:scholar.google.com/&output=citation&scisdr=Cpv0CX7WEJfovt-dCZk:AJ9-iYsAAAAAZEubEZlZksx2gJpyerErF_4xPGc&scisig=AJ9-iYsAAAAAZEubERgGOLMVzcUFoXIbhGXXV7E&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: A. Sydney Gladman, Elisabetta A. Matsumoto, Ralph G. Nuzzo, L. Mahadevan, Jennifer A. Lewis
+  * Year: 2016
+  * Journal: Nature materials
+
 <!-- *
   * Keywords:
   * Summary:
