@@ -46,7 +46,13 @@ collection: portfolio
   * Author: Xue Wan, Yang He, Yanju Liu, Jinsong Leng
   * Year: 2022
   * Journal: Additive Manufacturing
-
+* 4D Printing of Hydrogels: A Review
+  * Keywords: 4D Printing, Hydrogels, review
+  * Summary: 3D printing permits the construction of objects by layer-by-layer deposition of material, resulting in precise control of the dimensions and properties of complex printed structures. Although 3D printing fabricates inanimate objects, the emerging technology of 4D printing allows for animated structures that change their shape, function, or properties over time when exposed to specific external stimuli after fabrication. Among the materials used in 4D printing, hydrogels have attracted growing interest due to the availability of various smart hydrogels. The reversible shape-morphing in 4D printed hydrogel structures is driven by a stress mismatch arising from the different swelling degrees in the parts of the structure upon application of a stimulus. This review provides the state-of-the-art of 4D printing of hydrogels from the materials perspective. First, the main 3D printing technologies employed are briefly depicted, and, for each one, the required physico-chemical properties of the precursor material. Then, the hydrogels that have been printed are described, including stimuli-responsive hydrogels, non-responsive hydrogels that are sensitive to solvent absorption/desorption, and multimaterial structures that are totally hydrogel-based. Finally, the current and future applications of this technology are presented, and the requisites and avenues of improvement in terms of material properties are discussed.
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/champeau20204d.pdf)\] \[[Web](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201910606?casa_token=-IZ6jdDGeLoAAAAA%3Aoop7ndD0sXeg8nrU-9PpMrcMutFFkBPaiAReB-HVmhnw67MpyVX8PdtX9F7YYJGmLxl-pqd2tFHEkE_5Fw)\] \[[BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:JkogG9tz0m8J:scholar.google.com/&output=citation&scisdr=Cpv0CX7WEJfovt-NPQA:AJ9-iYsAAAAAZEuLJQCz7nQlvRkleu4uRNtMKzA&scisig=AJ9-iYsAAAAAZEuLJVvIRuJ0LFtjFcrv2bdfktc&scisf=4&ct=citation&cd=0&hl=en)\]
+  * Author: Mathilde Champeau, Daniel Alves Heinze, Thiago Nunes Viana, Edcarlos Rodrigues de Souza, Anne Cristine Chinellato, Silvia Titotto
+  * Year: 2020
+  * Journal: Advanced Functional Materials
 
 3D Printing
 ======
