@@ -323,3 +323,17 @@ Metamaterials
     * Author: Zhi Li, Ting-Uei Lee, Yi Min Xie
     * Year: 2023
     * Journal: Computer-Aided Design
+
+
+
+
+  @article{raviv2014active,
+    title={Active printed materials for complex self-evolving deformations},
+    author={Raviv, Dan and Zhao, Wei and McKnelly, Carrie and Papadopoulou, Athina and Kadambi, Achuta and Shi, Boxin and Hirsch, Shai and Dikovsky, Daniel and Zyracki, Michael and Olguin, Carlos and others},
+    journal={Scientific reports},
+    volume={4},
+    number={1},
+    pages={1--8},
+    year={2014},
+    publisher={Springer}
+  }
