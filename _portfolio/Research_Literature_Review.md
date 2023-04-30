@@ -244,18 +244,26 @@ collection: portfolio
   * Keywords:Nanotechnology, Nanofabrication, Electron-beam lithography, Ice lithography, 3D nanofabrication, Additive manufacturing, Organic ice
   * Summary: Nanotechnology and nanoscience are enabled by nanofabrication. Electron-beam lithography, which makes 2D patterns down to a few nanometers, is one of the fundamental pillars of nanofabrication. Recently, significant progress in 3D electron-beam-based nanofabrication has been made, such as the emerging ice lithography technology, in which ice thin-films are patterned by a focused electron-beam. Here, we review the history and progress of ice lithography, and focus on its applications in efficient 3D nanofabrication and additive manufacturing or nanoscale 3D printing. The finest linewidth made using frozen octane is below 5 nm, and nanostructures can be fabricated in selected areas on non-planar surfaces such as freely suspended nanotubes or nanowires. As developing custom instruments is required to advance this emerging technology, we discuss the evolution of ice lithography instruments and highlight major instrumentation advances. Finally, we present the perspectives of 3D printing of functional materials using organic ices. We believe that we barely scratched the surface of this new and exciting research area, and we hope that this review will stimulate cutting-edge and interdisciplinary research that exploits the undiscovered potentials of ice lithography for 3D photonics, electronics and 3D nanodevices for biology and medicine.
   * <img src='/files/Essay/zhao2019ice.jpg'>
-  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/zhao2019ice.pdf)\] \[[Web]()\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/zhao2019ice.txt)\]
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/zhao2019ice.pdf)\] \[[Web](https://www.sciencedirect.com/science/article/pii/S209592731930324X)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/zhao2019ice.txt)\]
   * Author: Ding Zhao, Anpan Han, Min Qiu
   * Year: 2019
   * Journal: Science Bulletin
 * Ice Lithography for Nanodevices
   * Keywords: Carbon nanotube e-beam lithography nanodevice field effect transistor
   * Summary: We report the successful application of a new approach, ice lithography (IL), to fabricate nanoscale devices. The entire IL process takes place inside a modified scanning electron microscope (SEM), where a vapor-deposited film of water ice serves as a resist for e-beam lithography, greatly simplifying and streamlining device fabrication. We show that labile nanostructures such as carbon nanotubes can be safely imaged in an SEM when coated in ice. The ice film is patterned at high e-beam intensity and serves as a mask for lift-off without the device degradation and contamination associated with e-beam imaging and polymer resist residues. We demonstrate the IL preparation of carbon nanotube field effect transistors with high-quality trans-conductance properties.
-  * <img src='/files/Essay/.'>
-  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/.pdf)\] \[[Web]()\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/.txt)\]
+  * <img src='/files/Essay/han2010ice.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/han2010ice.pdf)\] \[[Web](https://pubs.acs.org/doi/full/10.1021/nl1032815?casa_token=SOdhJB3z-mYAAAAA%3Ai6ESmLu1frRXJU0OpZ8T0Of-g1K5tzqY7fogXaKpoZl714o2Nk-jLMi_5av3KFROHekfOEwBCu7ial9naQ)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/han2010ice.txt)\]
   * Author: Anpan Han, Dimitar Vlassarev, Jenny Wang, Jene A. Golovchenko, Daniel Branton
   * Year: 2010
   * Journal: Nano letters
+* Theoretical modeling of ice lithography on amorphous solid water
+  * Keywords: ice lithography
+  * Summary: Due to the perfection of the nanofabrication in nanotechnology and nanoscience, ice lithography (IL) by patterning ice thin-films with a focused electron beam, as a significant derivative technology of electron beam lithography (EBL), is attracting growing attention, evoked by its advantages over traditional EBL with respects of in situ-fabrication, high efficiency, high accuracy, limited proximity effect, three-dimensional (3D) profiling capability, etc. However, theoretical modeling of ice lithography for replicated profiles on the ice resist (amorphous solid water, ASW) has rarely been reported so far. As the result, the development of ice lithography still stays at the experimental stage. The shortage of modeling methods limits our insight into the ice lithography capability, as well as theoretical anticipations for future developments of this emerging technique. In this work, an e-beam induced etching ice model based on the Monte Carlo algorithm for point/line spread functions is established to calculate the replicated profiles of the resist by ice lithography. To testify the fidelity of the modeling method, systematic simulations of the ice lithography property under the processing parameters of the resist thickness, electron accelerating voltage and actual patterns are performed. Theoretical comparisons between the IL on ASW and the conventional EBL on polymethyl methacrylate (PMMA) show superior properties of IL over EBL in terms of the minimum feature size, the highest aspect ratio, 3D nanostructure/devices, etc. The success in developing a modeling method for ice lithography, as reported in this paper, offers a powerful tool in characterizing ice lithography up to the theoretical level and down to molecular scales.
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/liu2022theoretical.pdf)\] \[[Web](https://pubs.rsc.org/en/content/articlelanding/2022/nr/d2nr00594h/unauth)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/liu2022theoretical.txt)\]
+  * Author: Tao Liu, Xujie Tong, Shuoqiu Tian, Yuying Xie, Mingsai Zhu, Bo Feng, Xiaohang Pan, Rui Zheng, Shan Wu, Ding Zhao, Yifang Chen, Bingrui Lu, Min Qiu
+  * Year: 2022
+  * Journal: Nanoscale
+
 
 <!-- *
   * Keywords:
