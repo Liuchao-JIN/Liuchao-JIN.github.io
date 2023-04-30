@@ -1,0 +1,7 @@
+@article{daskalakis2023rheological,
+  title={Rheological behaviour of different composite materials for additive manufacturing of 3D bone scaffolds},
+  author={Daskalakis, Evangelos and Hassan, Mohamed H and Omar, Abdalla M and Cooper, Glen and Weightman, Andrew and Bartolo, Paulo},
+  journal={Journal of Materials Research and Technology},
+  year={2023},
+  publisher={Elsevier}
+}

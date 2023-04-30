@@ -1,0 +1,10 @@
+@article{gu2023self,
+  title={Self-folding soft-robotic chains with reconfigurable shapes and functionalities},
+  author={Gu, Hongri and M{\"o}ckli, Marino and Ehmke, Claas and Kim, Minsoo and Wieland, Matthias and Moser, Simon and Bechinger, Clemens and Boehler, Quentin and Nelson, Bradley J},
+  journal={Nature Communications},
+  volume={14},
+  number={1},
+  pages={1263},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
+}

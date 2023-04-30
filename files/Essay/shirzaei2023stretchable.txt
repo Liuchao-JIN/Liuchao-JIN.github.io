@@ -1,0 +1,10 @@
+@article{shirzaei2023stretchable,
+  title={A stretchable wireless wearable bioelectronic system for multiplexed monitoring and combination treatment of infected chronic wounds},
+  author={Shirzaei Sani, Ehsan and Xu, Changhao and Wang, Canran and Song, Yu and Min, Jihong and Tu, Jiaobing and Solomon, Samuel A and Li, Jiahong and Banks, Jaminelli L and Armstrong, David G and others},
+  journal={Science Advances},
+  volume={9},
+  number={12},
+  pages={eadf7388},
+  year={2023},
+  publisher={American Association for the Advancement of Science}
+}

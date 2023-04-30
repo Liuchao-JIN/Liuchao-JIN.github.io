@@ -1,0 +1,8 @@
+@article{gilday2023predictive,
+  title={Predictive Learning of Error Recovery with a Sensorized Passivity-Based Soft Anthropomorphic Hand},
+  author={Gilday, Kieran and George-Thuruthel, Thomas and Iida, Fumiya},
+  journal={Advanced Intelligent Systems},
+  pages={2200390},
+  year={2023},
+  publisher={Wiley Online Library}
+}

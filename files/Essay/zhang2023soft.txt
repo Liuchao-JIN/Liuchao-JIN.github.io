@@ -1,0 +1,10 @@
+@article{zhang2023soft,
+  title={Soft and lightweight fabric enables powerful and high-range pneumatic actuation},
+  author={Zhang, Zhuang and Long, Yongzhou and Chen, Genliang and Wu, Qichen and Wang, Hao and Jiang, Hanqing},
+  journal={Science Advances},
+  volume={9},
+  number={15},
+  pages={eadg1203},
+  year={2023},
+  publisher={American Association for the Advancement of Science}
+}

@@ -1,0 +1,6 @@
+@article{leanza2023elastic,
+  title={On the elastic stability of folded rings in circular and straight states},
+  author={Leanza, Sophie and Zhao, Ruike Renee and Hutchinson, John W},
+  journal={arXiv preprint arXiv:2304.02518},
+  year={2023}
+}

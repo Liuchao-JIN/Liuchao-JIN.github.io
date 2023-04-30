@@ -1,0 +1,7 @@
+@article{guo2023kirigami,
+  title={Kirigami-Inspired 3D Printable Soft Pneumatic Actuators with Multiple Deformation Modes for Soft Robotic Applications},
+  author={Guo, Jin and Li, Zeyu and Low, Jin-Huat and Han, Qianqian and Chen, Chao-Yu and Liu, Jun and Liu, Zhuangjian and Yeow, Chen-Hua},
+  journal={Soft Robotics},
+  year={2023},
+  publisher={Mary Ann Liebert, Inc., publishers 140 Huguenot Street, 3rd Floor New~…}
+}

@@ -1,0 +1,7 @@
+@inproceedings{alalawi2023mechsense,
+  title={MechSense: A Design and Fabrication Pipeline for Integrating Rotary Encoders into 3D Printed Mechanisms},
+  author={Alalawi, Marwa and Pacik-Nelson, Noah and Zhu, Junyi and Greenspan, Ben and Doan, Andrew and Wong, Brandon M and Owen-Block, Benjamin and Mickens, Shanti Kaylene and Schoeman, Wilhelm Jacobus and Wessely, Michael and others},
+  booktitle={Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems},
+  pages={1--14},
+  year={2023}
+}

@@ -1,0 +1,8 @@
+@article{lalegani2023green,
+  title={Green 3D-printed lattice-shaped suspension arms for RC cars},
+  author={Lalegani Dezaki, Mohammadreza and Bodaghi, Mahdi and Serjouei, Ahmad and Zolfagharian, Ali},
+  journal={Progress in Additive Manufacturing},
+  pages={1--15},
+  year={2023},
+  publisher={Springer}
+}

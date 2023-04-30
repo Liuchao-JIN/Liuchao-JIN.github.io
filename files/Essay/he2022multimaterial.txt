@@ -1,0 +1,7 @@
+@article{he2022multimaterial,
+  title={Multimaterial Three-Dimensional Printing of Ultraviolet-Curable Ionic Conductive Elastomers with Diverse Polymers for Multifunctional Flexible Electronics},
+  author={He, Xiangnan and Cheng, Jianxiang and Li, Zhenqing and Ye, Haitao and Wei, Xinfeng and Li, Honggeng and Wang, Rong and Zhang, Yuan-Fang and Yang, Hui Ying and Guo, Chuanfei and others},
+  journal={ACS Applied Materials \& Interfaces},
+  year={2022},
+  publisher={ACS Publications}
+}
