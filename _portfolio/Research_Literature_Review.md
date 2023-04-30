@@ -216,6 +216,17 @@ collection: portfolio
   * Author: Pushkar Prakash Kamble, Subodh Chavan, Rajendra Hodgir, Gopal Gote, K.P. Karunakaran
   * Year: 2022
   * Journal: Rapid Prototyping Journal
+* Water/ice as sprayable sacrificial materials in low-temperature 3D printing for biomedical applications
+  * Keywords: 3D printing, Additive manufacturing, Tissue engineering, Sacrificial process, Support structure, Low-temperature deposition
+  * Summary: A spray-valve-based sacrificial process and “water/ice” support materials were developed in this study, based on the phase changes of water and low-temperature AM technology. The process entails utilizing the three phases of water to effectively and rapidly generate support structures that can also be efficiently removed completely after fabrication. Two scaffold materials, polycaprolactone-based waterborne polyurethane and chitosan, were tested. Moreover, ethanol or ethylene glycol was employed as the additive of pure water for facilitating the removal of excess support materials during fabrication. To verify the proposed sacrificial process, three complex and large scaffolds were fabricated, including a Y-type tubular scaffold, a square scaffold with dual inverted T-type inner channels, and a three-layer tapered scaffold. Results revealed that the properties of the printed complex structures were properly maintained and the adhesion between the layers was firm enough to resist elastic deformation.
+  * <img src='/files/Essay/liao2018water.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/liao2018water.pdf)\] \[[Web](https://www.sciencedirect.com/science/article/pii/S0264127518307640)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/liao2018water.txt)\]
+  * Author: Chao-Yaug Liao, Wei-Jen Wu, Cheng-Tien Hsieh, Hung-Ching Yang, Ching-Shiow Tseng, Shan-hui Hsu
+  * Year: 2018
+  * Journal: Materials & Design
+
+
+
 
 
 <!-- *
