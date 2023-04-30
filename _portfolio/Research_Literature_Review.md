@@ -73,7 +73,7 @@ collection: portfolio
 * Biomimetic 4D printing
   * Keywords: hydrogel 4D printing
   * Summary: Shape-morphing systems can be found in many areas, including smart textiles, autonomous robotics, biomedical devices, drug delivery and tissue engineering. The natural analogues of such systems are exemplified by nastic plant motions, where a variety of organs such as tendrils, bracts, leaves and flowers respond to environmental stimuli (such as humidity, light or touch) by varying internal turgor, which leads to dynamic conformations governed by the tissue composition and microstructural anisotropy of cell walls. Inspired by these botanical systems, we printed composite hydrogel architectures that are encoded with localized, anisotropic swelling behaviour controlled by the alignment of cellulose fibrils along prescribed four-dimensional printing pathways. When combined with a minimal theoretical framework that allows us to solve the inverse problem of designing the alignment patterns for prescribed target shapes, we can programmably fabricate plant-inspired architectures that change shape on immersion in water, yielding complex three-dimensional morphologies.
-  * <img src='/files/Essay/sydney2016biomimetic.webp'>
+  * <img src='/files/Essay/sydney2016biomimetic.webp'> <img src='/files/Essay/sydney2016biomimetic_1.webp'>
   * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/sydney2016biomimetic.pdf)\] \[[Web](https://www.nature.com/articles/nmat4544)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/sydney2016biomimetic.txt)\]
   * Author: A. Sydney Gladman, Elisabetta A. Matsumoto, Ralph G. Nuzzo, L. Mahadevan, Jennifer A. Lewis
   * Year: 2016
@@ -89,8 +89,8 @@ collection: portfolio
 * Multimaterial 4D Printing with Tailorable Shape Memory Polymers
   * Keywords: Multimaterial 4D Printing
   * Summary: We present a new 4D printing approach that can create high resolution (up to a few microns), multimaterial shape memory polymer (SMP) architectures. The approach is based on high resolution projection microstereolithography (PμSL) and uses a family of photo-curable methacrylate based copolymer networks. We designed the constituents and compositions to exhibit desired thermomechanical behavior (including rubbery modulus, glass transition temperature and failure strain which is more than 300% and larger than any existing printable materials) to enable controlled shape memory behavior. We used a high resolution, high contrast digital micro display to ensure high resolution of photo-curing methacrylate based SMPs that requires higher exposure energy than more common acrylate based polymers. An automated material exchange process enables the manufacture of 3D composite architectures from multiple photo-curable SMPs. In order to understand the behavior of the 3D composite microarchitectures, we carry out high fidelity computational simulations of their complex nonlinear, time-dependent behavior and study important design considerations including local deformation, shape fixity and free recovery rate. Simulations are in good agreement with experiments for a series of single and multimaterial components and can be used to facilitate the design of SMP 3D structures.
-  * <img src='/files/Essay/.'>
-  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/.pdf)\] \[[Web]()\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/.txt)\]
+  * <img src='/files/Essay/ge2016multimaterial.webp'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/ge2016multimaterial.pdf)\] \[[Web]()\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/ge2016multimaterial.txt)\]
   * Author: Qi Ge, Amir Hosein Sakhaei, Howon Lee, Conner K. Dunn, Nicholas X. Fang, Martin L. Dunn
   * Year: 2016
   * Journal: Scientific Reports
