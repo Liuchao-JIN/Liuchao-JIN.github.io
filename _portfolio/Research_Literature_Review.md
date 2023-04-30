@@ -240,7 +240,14 @@ collection: portfolio
   * Author: Fengyi Zheng, Zhongyan Wang, Jiasheng Huang, Zhihong Li
   * Year: 2020
   * Journal: Microsystems & Nanoengineering
-
+* Ice lithography for 3D nanofabrication
+  * Keywords:Nanotechnology, Nanofabrication, Electron-beam lithography, Ice lithography, 3D nanofabrication, Additive manufacturing, Organic ice
+  * Summary: Nanotechnology and nanoscience are enabled by nanofabrication. Electron-beam lithography, which makes 2D patterns down to a few nanometers, is one of the fundamental pillars of nanofabrication. Recently, significant progress in 3D electron-beam-based nanofabrication has been made, such as the emerging ice lithography technology, in which ice thin-films are patterned by a focused electron-beam. Here, we review the history and progress of ice lithography, and focus on its applications in efficient 3D nanofabrication and additive manufacturing or nanoscale 3D printing. The finest linewidth made using frozen octane is below 5 nm, and nanostructures can be fabricated in selected areas on non-planar surfaces such as freely suspended nanotubes or nanowires. As developing custom instruments is required to advance this emerging technology, we discuss the evolution of ice lithography instruments and highlight major instrumentation advances. Finally, we present the perspectives of 3D printing of functional materials using organic ices. We believe that we barely scratched the surface of this new and exciting research area, and we hope that this review will stimulate cutting-edge and interdisciplinary research that exploits the undiscovered potentials of ice lithography for 3D photonics, electronics and 3D nanodevices for biology and medicine.
+  * <img src='/files/Essay/zhao2019ice.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/zhao2019ice.pdf)\] \[[Web]()\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/zhao2019ice.txt)\]
+  * Author: Ding Zhao, Anpan Han, Min Qiu
+  * Year: 2019
+  * Journal: Science Bulletin
 
 
 <!-- *

@@ -1,0 +1,10 @@
+@article{zhao2019ice,
+  title={Ice lithography for 3D nanofabrication},
+  author={Zhao, Ding and Han, Anpan and Qiu, Min},
+  journal={Science Bulletin},
+  volume={64},
+  number={12},
+  pages={865--871},
+  year={2019},
+  publisher={Elsevier}
+}
