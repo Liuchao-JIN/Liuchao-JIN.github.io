@@ -1,0 +1,8 @@
+@article{wang2023tough,
+  title={Tough PEGgels by In Situ Phase Separation for 4D Printing},
+  author={Wang, Zhenwu and Heck, Matthias and Yang, Wenwu and Wilhelm, Manfred and Levkin, Pavel A},
+  journal={Advanced Functional Materials},
+  pages={2300947},
+  year={2023},
+  publisher={Wiley Online Library}
+}
