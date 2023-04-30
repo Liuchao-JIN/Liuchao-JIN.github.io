@@ -209,6 +209,23 @@ collection: portfolio
   * Author: Huilin Ren, Xiaodan Yang, Zhenhu Wang, Xuguang Xu,R ong Wang, Qi Ge, Yi Xiong
   * Year: 2022
   * Journal: International Journal of Smart and Nano Materials
+* Multi-jet ice 3D printing
+  * Keywords: 3D printer development, Cryogenic additive manufacturing, Ice 3D printing, Multi-jet 3D printing
+  * Summary: Multi-jet deposition of the materials is a matured technology used for graphic printing and 3 D printing for a wide range of materials. The multi-jet technology is fine-tuned for liquids with a specific range of viscosity and surface tension. However, the use of multi-jet for low viscosity fluids like water is not very popular. This paper aims to demonstrate the technique, particularly for the water-ice 3 D printing. 3 D printed ice parts can be used as patterns for investment casting, templates for microfluidic channel fabrication, support material for polymer 3 D printing, etc. Multi-jet ice 3 D printing is a novel technique for producing ice parts by selective deposition and freezing water layers. The paper confers the design, embodiment and integration of various subsystems of multi-jet ice 3 D printer. The outcomes of the machine trials are reported as case studies with elaborate details. The prismatic geometries are realized by ice 3 D printing. The accuracy of 0.1 mm is found in the build direction. The part height tends to increase due to volumetric expansion during the phase change. The present paper gives a novel architecture of the ice 3 D printer that produces the ice parts with good accuracy. The potential applications of the process are deliberated in this paper.
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/kamble2022multi.pdf)\] \[[Web](https://www.emerald.com/insight/content/doi/10.1108/RPJ-03-2021-0065/full/html?casa_token=Slpi9Fgpm30AAAAA:nz8355nNcRZBHklO726J5s4S9XQaPIXTKyde5ZWGjdhJVev6zNPWHdvX1_qz53bfUCu5h-VmLJ8oS8yRnBkM32ElgE3pTIpuOlXgXwpLMnWueUkbUGeUbQ)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/kamble2022multi.txt)\]
+  * Author: Pushkar Prakash Kamble, Subodh Chavan, Rajendra Hodgir, Gopal Gote, K.P. Karunakaran
+  * Year: 2022
+  * Journal: Rapid Prototyping Journal
+
+
+<!-- *
+  * Keywords:
+  * Summary:
+  * <img src='/files/Essay/.'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/.pdf)\] \[[Web]()\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/.txt)\]
+  * Author:
+  * Year:
+  * Journal:  -->
 
 Soft Robotics
 ======
