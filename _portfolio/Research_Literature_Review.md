@@ -248,7 +248,14 @@ collection: portfolio
   * Author: Ding Zhao, Anpan Han, Min Qiu
   * Year: 2019
   * Journal: Science Bulletin
-
+* Ice Lithography for Nanodevices
+  * Keywords: Carbon nanotube e-beam lithography nanodevice field effect transistor
+  * Summary: We report the successful application of a new approach, ice lithography (IL), to fabricate nanoscale devices. The entire IL process takes place inside a modified scanning electron microscope (SEM), where a vapor-deposited film of water ice serves as a resist for e-beam lithography, greatly simplifying and streamlining device fabrication. We show that labile nanostructures such as carbon nanotubes can be safely imaged in an SEM when coated in ice. The ice film is patterned at high e-beam intensity and serves as a mask for lift-off without the device degradation and contamination associated with e-beam imaging and polymer resist residues. We demonstrate the IL preparation of carbon nanotube field effect transistors with high-quality trans-conductance properties.
+  * <img src='/files/Essay/.'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/.pdf)\] \[[Web]()\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/.txt)\]
+  * Author: Anpan Han, Dimitar Vlassarev, Jenny Wang, Jene A. Golovchenko, Daniel Branton
+  * Year: 2010
+  * Journal: Nano letters
 
 <!-- *
   * Keywords:
