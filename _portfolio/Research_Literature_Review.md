@@ -4,6 +4,9 @@ excerpt: ""
 collection: portfolio
 ---
 
+
+\[[TXT](http://Liuchao-JIN.github.io/files/Essay/Test.txt)\]
+
 4D Printing
 ======
 * Codesign of Biobased Cellulose-Filled Filaments and Mesostructures for 4D Printing Humidity Responsive Smart Structures
