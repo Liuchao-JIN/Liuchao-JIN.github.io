@@ -232,7 +232,14 @@ collection: portfolio
   * Author: Akash Garg, Saigopalakrishna S. Yerneni, Phil Campbell, Philip R. LeDuc, O. Burak Ozdoganlar
   * Year: 2022
   * Journal: Advanced Science
-
+* Inkjet printing-based fabrication of microscale 3D ice structures
+  * Keywords: microscale 3D printing ice structures
+  * Summary: This study proposed a method for fabricating 3D microstructures of ice without a supporting material. The inkjet printing process was performed in a low humidity environment to precisely control the growth direction of the ice crystals. In the printing process, water droplets (volume = hundreds of picoliters) were deposited onto the previously formed ice structure, after which they immediately froze. Different 3D structures (maximum height = 2000 µm) could be formed by controlling the substrate temperature, ejection frequency and droplet size. The growth direction was dependent on the landing point of the droplet on the previously formed ice structure; thus, 3D structures could be created with high degrees of freedom.
+  * <img src='/files/Essay/zheng2020inkjet.webp'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/zheng2020inkjet.pdf)\] \[[Web](https://www.nature.com/articles/s41378-020-00199-x)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/zheng2020inkjet.txt)\]
+  * Author: Fengyi Zheng, Zhongyan Wang, Jiasheng Huang, Zhihong Li
+  * Year: 2020
+  * Journal: Microsystems & Nanoengineering
 
 
 
