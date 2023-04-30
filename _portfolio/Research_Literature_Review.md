@@ -86,6 +86,15 @@ collection: portfolio
   * Author: Dan Raviv, Wei Zhao, Carrie McKnelly, Athina Papadopoulou, Achuta Kadambi, Boxin Shi, Shai Hirsch, Daniel Dikovsky, Michael Zyracki, Carlos Olguin, Ramesh Raskar, Skylar Tibbits
   * Year: 2014
   * Journal: Scientific reports
+* Multimaterial 4D Printing with Tailorable Shape Memory Polymers
+  * Keywords: Multimaterial 4D Printing
+  * Summary: We present a new 4D printing approach that can create high resolution (up to a few microns), multimaterial shape memory polymer (SMP) architectures. The approach is based on high resolution projection microstereolithography (PμSL) and uses a family of photo-curable methacrylate based copolymer networks. We designed the constituents and compositions to exhibit desired thermomechanical behavior (including rubbery modulus, glass transition temperature and failure strain which is more than 300% and larger than any existing printable materials) to enable controlled shape memory behavior. We used a high resolution, high contrast digital micro display to ensure high resolution of photo-curing methacrylate based SMPs that requires higher exposure energy than more common acrylate based polymers. An automated material exchange process enables the manufacture of 3D composite architectures from multiple photo-curable SMPs. In order to understand the behavior of the 3D composite microarchitectures, we carry out high fidelity computational simulations of their complex nonlinear, time-dependent behavior and study important design considerations including local deformation, shape fixity and free recovery rate. Simulations are in good agreement with experiments for a series of single and multimaterial components and can be used to facilitate the design of SMP 3D structures.
+  * <img src='/files/Essay/.'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/.pdf)\] \[[Web]()\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/.txt)\]
+  * Author: Qi Ge, Amir Hosein Sakhaei, Howon Lee, Conner K. Dunn, Nicholas X. Fang, Martin L. Dunn
+  * Year: 2016
+  * Journal: Scientific Reports
+
 
 
 <!-- *
