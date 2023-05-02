@@ -386,6 +386,24 @@ Metamaterials
   * Author: Haitao Ye, Qingjiang Liu, Jianxiang Cheng, Honggeng Li, Bingcong Jian, Rong Wang, Zechu Sun, Yang Lu, Qi Ge
   * Year: 2023
   * Journal: Nature Communications
+* Encoding and Storage of Information in Mechanical Metamaterials
+  * Keywords: Metamaterials, encoding and storage information
+  * Summary: Information processing using material's own properties has gained increasing interest. Mechanical metamaterials, due to their diversity of deformation modes and wide design space, can be used to realize information processing, such as computing and storage. Here a mechanical metamaterial system is demonstrated for material-based encoding and storage of data through programmed reconfigurations of the metamaterial's structured building blocks. Sequential encoding and decoding are achieved in the three-dimensional (3D) printed pixelated mechanical metamaterial via kirigami-based “pixels” with programmable, temperature-dependent bistability. The mechanical metamaterial is demonstrated via a multistep deformation of encoding messages of texts and surfaces with arrays of binary data, and then decoding them by applying a predetermined stretching and heating regimen to sequentially retrieve layers of stored information and display them on its surface. This approach serves as a general framework to enable the encoding and storage of data with mechanical metamaterials.
+  * <img src='/files/Essay/meng2023encoding.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/meng2023encoding.pdf)\] \[[Web](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202301581)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/meng2023encoding.txt)\]
+  * Author: Zhiqiang Meng, Hujie Yan, Mingchao Liu, Wenkai Qin, Guy M. Genin, Chang Qing Chen
+  * Year: 2023
+  * Journal: Advanced Science
+
+
+<!-- *
+  * Keywords:
+  * Summary:
+  * <img src='/files/Essay/.'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/.pdf)\] \[[Web]()\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/.txt)\]
+  * Author:
+  * Year:
+  * Journal:  -->
 
 
   Topology Optimization
