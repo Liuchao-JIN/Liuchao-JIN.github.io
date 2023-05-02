@@ -94,7 +94,14 @@ collection: portfolio
   * Author: Qi Ge, Amir Hosein Sakhaei, Howon Lee, Conner K. Dunn, Nicholas X. Fang, Martin L. Dunn
   * Year: 2016
   * Journal: Scientific Reports
-
+* Advances in 4D printed shape memory composites and structures: Actuation and application
+  * Keywords: 4D printing, shape memory composites
+  * Summary: Shape memory polymer composites (SMPCs) are a type of smart material that can change shapes under the stimulation of the external environment, and they have great potential in aerospace, biomedical, robotics, and electronic devices due to their advantages of high strength and toughness, lightweight, impact resistance, corrosion resistance, and aging resistance. 4D printing technology has provided new opportunities for the further development of smart materials. The addition of various fillers enriches the variety of printable materials and provides composites with different properties and functions. The combination of SMPCs and printing technologies realizes the structure-function integration. This paper introduces the emergence and development of 4D printing technologies, the preparation methods and properties of SMPCs for 4D printing; as well as the research progress and potential application of 4D printable SMPCs in recent years in terms of thermal, electrical, magnetic, and optical driving. Finally, the existing problems and future development of 4D printable SMPCs are discussed.
+  * <img src='/files/Essay/wang2023advances.png'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/wang2023advances.pdf)\] \[[Web](https://link.springer.com/article/10.1007/s11431-022-2255-0)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/wang2023advances.txt)\]
+  * Author: LinLin Wang, FengHua Zhang, ShanYi Du, JinSong Leng
+  * Year: 2023
+  * Journal: Science China Technological Sciences
 
 
 <!-- *
