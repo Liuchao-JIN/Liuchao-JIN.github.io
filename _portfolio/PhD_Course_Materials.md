@@ -30,6 +30,7 @@ ENGG5403 Linear System Theory and Design (Instructor: Prof. [Ben M. Chen](http:/
     * [Linear System Toolkits (Linsyskit)](https://github.com/Liuchao-JIN/Liuchao-JIN.github.io/tree/main/files/Course_Materials/Graduate_Course/ENGG5403/Linsyskit)
 
 MAEG5160 Design for Additive Manufacturing (Instructor: Prof. [Xu Song](https://www4.mae.cuhk.edu.hk/peoples/song-xu/))
+* [Syllabus](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/syllabus.pdf)
 * Lecture Notes
   * [Lecture 0: Introduction to optimization](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_0_Intro_to_optimisation.pdf)
   * [Lecture 1: Introduction to AM and AM economy](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Lecture_1_Introduction_SX_2023.pdf)
