@@ -102,7 +102,13 @@ collection: portfolio
   * Author: LinLin Wang, FengHua Zhang, ShanYi Du, JinSong Leng
   * Year: 2023
   * Journal: Science China Technological Sciences
-
+* 4D Printing: A Review on Recent Progresses
+  * Keywords: four-dimensional (4D) printing, additive manufacturing, smart materials, shape memory polymer
+  * Summary: Since the late 1980s, additive manufacturing (AM), commonly known as three-dimensional (3D) printing, has been gradually popularized. However, the microstructures fabricated using 3D printing is static. To overcome this challenge, four-dimensional (4D) printing which defined as fabricating a complex spontaneous structure that changes with time respond in an intended manner to external stimuli. 4D printing originates in 3D printing, but beyond 3D printing. Although 4D printing is mainly based on 3D printing and become an branch of additive manufacturing, the fabricated objects are no longer static and can be transformed into complex structures by changing the size, shape, property and functionality under external stimuli, which makes 3D printing alive. Herein, recent major progresses in 4D printing are reviewed, including AM technologies for 4D printing, stimulation method, materials and applications. In addition, the current challenges and future prospects of 4D printing were highlighted.
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/chu20204d.pdf)\] \[[Web]()\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/chu20204d.txt)\]
+  * Author: Honghui Chu, Wenguang Yang, Lujing Sun, Shuxiang Cai, Rendi Yang, Wenfeng Liang, Haibo Yu, Lianqing Liu
+  * Year: 2020
+  * Journal: Micromachines
 
 <!-- *
   * Keywords:
