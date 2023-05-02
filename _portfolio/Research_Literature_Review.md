@@ -90,7 +90,7 @@ collection: portfolio
   * Keywords: Multimaterial 4D Printing
   * Summary: We present a new 4D printing approach that can create high resolution (up to a few microns), multimaterial shape memory polymer (SMP) architectures. The approach is based on high resolution projection microstereolithography (PμSL) and uses a family of photo-curable methacrylate based copolymer networks. We designed the constituents and compositions to exhibit desired thermomechanical behavior (including rubbery modulus, glass transition temperature and failure strain which is more than 300% and larger than any existing printable materials) to enable controlled shape memory behavior. We used a high resolution, high contrast digital micro display to ensure high resolution of photo-curing methacrylate based SMPs that requires higher exposure energy than more common acrylate based polymers. An automated material exchange process enables the manufacture of 3D composite architectures from multiple photo-curable SMPs. In order to understand the behavior of the 3D composite microarchitectures, we carry out high fidelity computational simulations of their complex nonlinear, time-dependent behavior and study important design considerations including local deformation, shape fixity and free recovery rate. Simulations are in good agreement with experiments for a series of single and multimaterial components and can be used to facilitate the design of SMP 3D structures.
   * <img src='/files/Essay/ge2016multimaterial.webp'>
-  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/ge2016multimaterial.pdf)\] \[[Web]()\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/ge2016multimaterial.txt)\]
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/ge2016multimaterial.pdf)\] \[[Web](https://www.nature.com/articles/srep31110)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/ge2016multimaterial.txt)\]
   * Author: Qi Ge, Amir Hosein Sakhaei, Howon Lee, Conner K. Dunn, Nicholas X. Fang, Martin L. Dunn
   * Year: 2016
   * Journal: Scientific Reports
@@ -105,7 +105,7 @@ collection: portfolio
 * 4D Printing: A Review on Recent Progresses
   * Keywords: four-dimensional (4D) printing, additive manufacturing, smart materials, shape memory polymer
   * Summary: Since the late 1980s, additive manufacturing (AM), commonly known as three-dimensional (3D) printing, has been gradually popularized. However, the microstructures fabricated using 3D printing is static. To overcome this challenge, four-dimensional (4D) printing which defined as fabricating a complex spontaneous structure that changes with time respond in an intended manner to external stimuli. 4D printing originates in 3D printing, but beyond 3D printing. Although 4D printing is mainly based on 3D printing and become an branch of additive manufacturing, the fabricated objects are no longer static and can be transformed into complex structures by changing the size, shape, property and functionality under external stimuli, which makes 3D printing alive. Herein, recent major progresses in 4D printing are reviewed, including AM technologies for 4D printing, stimulation method, materials and applications. In addition, the current challenges and future prospects of 4D printing were highlighted.
-  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/chu20204d.pdf)\] \[[Web]()\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/chu20204d.txt)\]
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/chu20204d.pdf)\] \[[Web](https://www.mdpi.com/2072-666X/11/9/796)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/chu20204d.txt)\]
   * Author: Honghui Chu, Wenguang Yang, Lujing Sun, Shuxiang Cai, Rendi Yang, Wenfeng Liang, Haibo Yu, Lianqing Liu
   * Year: 2020
   * Journal: Micromachines
@@ -357,7 +357,7 @@ Soft Robotics
   * Keywords:
   * Summary: Robotics has undergone a profound revolution in the past 50 years, moving from the laboratory and research institute to the factory and home. Kinematics and dynamics theories have been developed as the foundation for robot design and control, based on the conventional definition of robots: a kinematic chain of rigid links.
   * <img src='/files/Essay/chen2020design.gif'>
-  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/chen2020design.pdf)\] \[[Web]()\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/chen2020design.txt)\]
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/chen2020design.pdf)\] \[[Web](https://ieeexplore.ieee.org/document/9237112)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/chen2020design.txt)\]
   * Author: Feifei Chen, Michael Yu Wang
   * Year: 2020
   * Journal: IEEE Robotics & Automation Magazine
