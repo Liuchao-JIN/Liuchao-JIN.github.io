@@ -425,7 +425,14 @@ Metamaterials
   * Author: Zhiqiang Meng, Hujie Yan, Mingchao Liu, Wenkai Qin, Guy M. Genin, Chang Qing Chen
   * Year: 2023
   * Journal: Advanced Science
-
+* Design of a programmable particle filtering medium using a novel auxetic metamaterial
+  * Keywords: Auxetic, Metamaterial, Additive manufacturing, Particle filter, Programmable, Genetic algorithm, Optimization
+  * Summary: This manuscript aims to design and develop a 2D auxetic filtering medium with programmable geometric features specifically designed to vary under in-plane tensile strain. This feature empowers the filtering medium to control the particles separation. A novel design and optimisation algorithm developed in Matlab® determines the final optimized geometry of the filtering medium based on the desired particle size input. Upon thorough numerical investigation, an empirical relationship between the linear elastic in-plane tensile strain and aperture size of the proposed metamaterial is revealed. This empirical relation can be used in mechatronic and control systems to steer the proposed filtering medium. A prototype of such filtering medium capable of classification of particles of size 4mm to 4.5mm, when subjected to linear strain, is fabricated through Fused Deposition Modelling (FDM) process. The developed geometry configurations in this research are scalable, providing a potential cost-effective and efficient solution for industrial applications including reconfigurable filtration and segregation systems.
+  * <img src='/files/Essay/ali2023design.'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/ali2023design.pdf)\] \[[Web]()\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/ali2023design.txt)\]
+  * Author: Hafiz Muhammad Asad Ali, Meisam Abdi, Sayyed Abolfazl Zahedi, Yong Sun
+  * Year: 2023
+  * Journal: Smart Materials and Structures
 
 <!-- *
   * Keywords:
