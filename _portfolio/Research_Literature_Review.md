@@ -353,6 +353,24 @@ Soft Robotics
   * Author: Jin Guo, Zeyu Li, Jin-Huat Low, Qianqian Han, Chao-Yu Chen, Jun Liu, Zhuangjian Liu, Chen-Hua Yeow
   * Year: 2023
   * Journal: Soft Robotics
+* Design Optimization of Soft Robots: A Review of the State of the Art
+  * Keywords:
+  * Summary: Robotics has undergone a profound revolution in the past 50 years, moving from the laboratory and research institute to the factory and home. Kinematics and dynamics theories have been developed as the foundation for robot design and control, based on the conventional definition of robots: a kinematic chain of rigid links.
+  * <img src='/files/Essay/chen2020design.gif'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/chen2020design.pdf)\] \[[Web]()\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/chen2020design.txt)\]
+  * Author: Feifei Chen, Michael Yu Wang
+  * Year: 2020
+  * Journal: IEEE Robotics & Automation Magazine
+
+
+<!-- *
+  * Keywords:
+  * Summary:
+  * <img src='/files/Essay/.'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/.pdf)\] \[[Web]()\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/.txt)\]
+  * Author:
+  * Year:
+  * Journal:  -->
 
 Smart Materials & Structures
 ======
