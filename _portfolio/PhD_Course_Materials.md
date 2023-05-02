@@ -14,6 +14,7 @@ ENGG5403 Linear System Theory and Design (Instructor: Prof. [Ben M. Chen](http:/
     * [Solution](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5403/Design_Project__1.pdf)
   * Project 2: An HDD Servo System
     * [Question](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5403/DP2.pdf)
+    * [Solution](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5403/Design_Project__2.pdf)
 * Assignment
   * [Assignment 1: Linear Algebra, Transfer Function, State Space, Stability](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5403/ENGG5403_Assignment__1.pdf)
   * [Assignment 2: Controllability, Observability](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5403/ENGG5403_Assignment__2.pdf)
@@ -58,7 +59,10 @@ MAEG5160 Design for Additive Manufacturing (Instructor: Prof. [Xu Song](https://
 * Project
   * [Guideline of final project](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Guideline_of_final_project.pdf)
   * [Report](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/MAEG5160_Final_Project.pdf)
+
+
   <!-- * [Demo video of final project](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/demo_of_final_project.mp4) -->
+
 * Homework
   * Homework 1: TO program for chair
     * [Question](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5160/Homework_1.pdf)
