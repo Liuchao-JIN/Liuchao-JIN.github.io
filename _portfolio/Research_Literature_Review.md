@@ -466,12 +466,30 @@ Metamaterials
   * Journal:  -->
 
 
-  Topology Optimization
-  =====
-  * Interactive Structural Topology Optimization with Subjective Scoring and Drawing Systems
-    * Keywords: Topology optimization, Subjective preferences, Scoring, Drawing, Structural design
-    * Summary: Topology optimization techniques can create efficient and innovative structural designs by redistributing underutilized materials to the most-needed locations. These techniques are typically performed based purely on structural performance without considering factors like aesthetics and other design requirements. Hence, the obtained structural designs may not be suitable for specific practical applications. This study presents a new topology optimization method, SP-BESO, by considering the subjective preferences (SP) of the designer. Here, subjective scoring and drawing systems are introduced into the popular bi-directional evolutionary structural optimization (BESO) technique. The proposed SP-BESO method allows users to iteratively and interactively create topologically different and structurally efficient solutions by explicitly scoring and drawing their subjective preferences. Hence, users do not need to passively accept the optimization results. A user-friendly digital design tool, iBESO, is developed, which contains four optimizers to simultaneously perform the proposed SP-BESO method to assist in the design exploration task. A variety of 2D examples are tested using the iBESO software to demonstrate the effectiveness of the proposed SP-BESO method. It is found that the combination of parameters used in the scoring and drawing systems controls the formation of final structural topologies toward performance-driven or preference-driven designs. The utilization of the proposed SP-BESO method in potential practical applications is also demonstrated.
-    * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/li2023interactive.pdf)\] \[[Video](https://www.linkedin.com/posts/yi-min-mike-xie-11015b118_topologyoptimization-preferences-structuraldesign-ugcPost-7052119601622519808-4UC7?utm_source=share&utm_medium=member_desktop)\] \[[Web](https://www.sciencedirect.com/science/article/pii/S0010448523000647?dgcid=author)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/li2023interactive.txt)\]
-    * Author: Zhi Li, Ting-Uei Lee, Yi Min Xie
-    * Year: 2023
-    * Journal: Computer-Aided Design
+Topology Optimization
+=====
+* Interactive Structural Topology Optimization with Subjective Scoring and Drawing Systems
+  * Keywords: Topology optimization, Subjective preferences, Scoring, Drawing, Structural design
+  * Summary: Topology optimization techniques can create efficient and innovative structural designs by redistributing underutilized materials to the most-needed locations. These techniques are typically performed based purely on structural performance without considering factors like aesthetics and other design requirements. Hence, the obtained structural designs may not be suitable for specific practical applications. This study presents a new topology optimization method, SP-BESO, by considering the subjective preferences (SP) of the designer. Here, subjective scoring and drawing systems are introduced into the popular bi-directional evolutionary structural optimization (BESO) technique. The proposed SP-BESO method allows users to iteratively and interactively create topologically different and structurally efficient solutions by explicitly scoring and drawing their subjective preferences. Hence, users do not need to passively accept the optimization results. A user-friendly digital design tool, iBESO, is developed, which contains four optimizers to simultaneously perform the proposed SP-BESO method to assist in the design exploration task. A variety of 2D examples are tested using the iBESO software to demonstrate the effectiveness of the proposed SP-BESO method. It is found that the combination of parameters used in the scoring and drawing systems controls the formation of final structural topologies toward performance-driven or preference-driven designs. The utilization of the proposed SP-BESO method in potential practical applications is also demonstrated.
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/li2023interactive.pdf)\] \[[Video](https://www.linkedin.com/posts/yi-min-mike-xie-11015b118_topologyoptimization-preferences-structuraldesign-ugcPost-7052119601622519808-4UC7?utm_source=share&utm_medium=member_desktop)\] \[[Web](https://www.sciencedirect.com/science/article/pii/S0010448523000647?dgcid=author)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/li2023interactive.txt)\]
+  * Author: Zhi Li, Ting-Uei Lee, Yi Min Xie
+  * Year: 2023
+  * Journal: Computer-Aided Design
+* 3D-printed high-toughness composite structures by anisotropic topology optimization
+  * Keywords: Polymer-matrix composites (PMCs), Carbon fibers, Anisotropy3D printing
+  * Summary: The toughness of structures is essential to prevent catastrophic failure. This study introduced a design framework to improve the toughness of 3D-printed carbon fiber-reinforced composite structures by local latticing utilizing the intermediate material fraction obtained in the topology optimization. The framework was based on anisotropic topology optimization considering material fraction and material orientation. The optimized results were de-homogenized by the phase field-based technique to determine the 3D printing path. Experimental validations were carried out on a three-point bending beam problem. As a result, it was shown that the framework endowed toughness for the 3D-printed carbon fiber-reinforced composite structure.
+  * <img src='/files/Essay/ichihara20233d_1.jpg'> <img src='/files/Essay/ichihara20233d_2.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/ichihara20233d.pdf)\] \[[Web](https://www.sciencedirect.com/science/article/pii/S1359836823000756)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/ichihara20233d.txt)\]
+  * Author: Naruki Ichihara, Masahito Ueda
+  * Year: 2023
+  * Journal: Composites Part B: Engineering
+
+
+  <!-- *
+    * Keywords:
+    * Summary:
+    * <img src='/files/Essay/.'>
+    * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/.pdf)\] \[[Web]()\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/.txt)\]
+    * Author:
+    * Year:
+    * Journal:  -->

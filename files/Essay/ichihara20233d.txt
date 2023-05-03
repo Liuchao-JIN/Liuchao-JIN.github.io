@@ -1,0 +1,9 @@
+@article{ichihara20233d,
+  title={3D-printed high-toughness composite structures by anisotropic topology optimization},
+  author={Ichihara, Naruki and Ueda, Masahito},
+  journal={Composites Part B: Engineering},
+  volume={253},
+  pages={110572},
+  year={2023},
+  publisher={Elsevier}
+}
