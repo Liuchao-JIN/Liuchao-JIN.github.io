@@ -109,6 +109,14 @@ collection: portfolio
   * Author: Honghui Chu, Wenguang Yang, Lujing Sun, Shuxiang Cai, Rendi Yang, Wenfeng Liang, Haibo Yu, Lianqing Liu
   * Year: 2020
   * Journal: Micromachines
+* 4D Printing in Pharmaceutics and Biomedical Applications
+  * Keywords: 4D Printing, Pharmaceutics, Biomedical
+  * Summary: 3D printing (3DP) has made significant advancements in the past decade in the fabrication of complex objects that are based on biomaterials. Although 3D-printed constructs were promising for biomedical applications, they fell short due to their inability to accurately mimic dynamic human tissues. 4D printing (4DP) is a breakthrough delivery system that integrates “time” into the conventional concept of 3DP to address the dynamic healing and regeneration of human tissues. In that way, additive manufacturing (AM) goes from 3DP to 4DP and implicates the use of stimuli-responsive materials. With its ability to create a wide range of useful biomedical products, 4DP has become an important tool in biomedical engineering. The purpose of this chapter is to present the concept of 4D bioprinting and the recent developments in smart materials, which can be actuated by different stimuli and can be used to develop biomimicry materials and structures with significant implications for pharmaceutics and biomedical research, as well as perspectives for the future.
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/naniz20234d.pdf)\] \[[Web](https://link.springer.com/chapter/10.1007/978-3-031-26908-0_9)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/naniz20234d.txt)\]
+  * Author: Moqaddaseh Afzali Naniz, Mohsen Askari, Ali Zolfagharian, Mahdi Bodaghi
+  * Year: 2023
+  * Book: Nano-and Microfabrication Techniques in Drug Delivery: Recent Developments and Future Prospects
+
 
 <!-- *
   * Keywords:
