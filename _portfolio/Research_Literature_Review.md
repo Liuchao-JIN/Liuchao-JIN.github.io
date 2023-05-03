@@ -116,7 +116,14 @@ collection: portfolio
   * Author: Moqaddaseh Afzali Naniz, Mohsen Askari, Ali Zolfagharian, Mahdi Bodaghi
   * Year: 2023
   * Book: Nano-and Microfabrication Techniques in Drug Delivery: Recent Developments and Future Prospects
-
+* Flexible, biocompatible and highly conductive MXene-graphene oxide film for smart actuator and humidity sensor
+  * Keywords: MXene, Graphene oxide, Actuator, Moisture gradient, Monitoring respiration, Humidity sensor
+  * Summary: The evaporation of water occurs ubiquitously on earth. Hence, smart materials that can directly convert signals generated via water stimulation into mechanical motion have attracted wide attention. However, it is still a challenge to develop novel functional materials with fast response, large scale deformation, and long-term stability for moisture-gradient actuators. Here, a flexible, conductive, layer-structured homogenous Ti3C2TX MXene-graphene oxide (MGO) film-based moisture-driven actuator and humidity sensor were fabricated. The oxygen groups and d-spacing could be effectively adjusted by MXene/GO composition ratio, thereby tuning the actuation performance. MGO3 (MXene/GO = 3) displayed a large bending angle, and reversible deformation. And the bending speed of MGO3 is up to 32°s−1. Furthermore, MGO3 actuation displayed long-term stability via suppression of MXene oxidation by the introduction of GO and showed good cycling stability. MGO3 actuators are constructed, which could mimic the blooming of flower, lifting and carrying objects, and be used as a non-contact control switch. In addition, MGO3 showed a linear sensitive response to humidity and excellent biocompatibility which make it suitable for respiratory monitoring. This work demonstrated that flexible, biocompatibility and conductive MGO films have broad application prospects in the fields of smart actuators, sensing devices, and biology and health care.
+  * <img src='/files/Essay/jia2021flexible.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/jia2021flexible.pdf)\] \[[Web]()\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/jia2021flexible.txt)\]
+  * Author: Guangwen Jia, Ao Zheng, Xiao Wang, Lu Zhang, Ling Li, Chenxing Li, Yan Zhang, Lingyan Cao
+  * Year: 2021
+  * Journal: Sensors and Actuators B: Chemical
 
 <!-- *
   * Keywords:
