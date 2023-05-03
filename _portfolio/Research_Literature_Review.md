@@ -300,14 +300,7 @@ collection: portfolio
   * Author: Tao Liu, Xujie Tong, Shuoqiu Tian, Yuying Xie, Mingsai Zhu, Bo Feng, Xiaohang Pan, Rui Zheng, Shan Wu, Ding Zhao, Yifang Chen, Bingrui Lu, Min Qiu
   * Year: 2022
   * Journal: Nanoscale
-* Advanced Soft Robotic System for In Situ 3D Bioprinting and Endoscopic Surgery
-  * Keywords: Soft Robotic, 3D Bioprinting, Surgery
-  * Summary: Three-dimensional (3D) bioprinting technology offers great potential in the treatment of tissue and organ damage. Conventional approaches generally rely on a large form factor desktop bioprinter to create in vitro 3D living constructs before introducing them into the patient's body, which poses several drawbacks such as surface mismatches, structure damage, and high contamination along with tissue injury due to transport and large open-field surgery. In situ bioprinting inside a living body is a potentially transformational solution as the body serves as an excellent bioreactor. This work introduces a multifunctional and flexible in situ 3D bioprinter (F3DB), which features a high degree of freedom soft printing head integrated into a flexible robotic arm to deliver multilayered biomaterials to internal organs/tissues. The device has a master-slave architecture and is operated by a kinematic inversion model and learning-based controllers. The 3D printing capabilities with different patterns, surfaces, and on a colon phantom are also tested with different composite hydrogels and biomaterials. The F3DB capability to perform endoscopic surgery is further demonstrated with fresh porcine tissue. The new system is expected to bridge a gap in the field of in situ bioprinting and support the future development of advanced endoscopic surgical robots.
-  * <img src='/files/Essay/thai2023advanced.jpg'>
-  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/thai2023advanced.pdf)\] \[[Web](https://onlinelibrary.wiley.com/doi/10.1002/advs.202205656)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/thai2023advanced.txt)\]
-  * Author: Mai Thanh Thai, Phuoc Thien Phan, Hien Anh Tran, Chi Cong Nguyen, Trung Thien Hoang, James Davies, Jelena Rnjak-Kovacina, Hoang-Phuong Phan, Nigel Hamilton Lovell, Thanh Nho Do
-  * Year: 2023
-  * Journal: Advanced Science
+
 
 <!-- *
   * Keywords:
@@ -383,7 +376,14 @@ Soft Robotics
   * Author: Feifei Chen, Michael Yu Wang
   * Year: 2020
   * Journal: IEEE Robotics & Automation Magazine
-
+* Advanced Soft Robotic System for In Situ 3D Bioprinting and Endoscopic Surgery
+  * Keywords: Soft Robotic, 3D Bioprinting, Surgery
+  * Summary: Three-dimensional (3D) bioprinting technology offers great potential in the treatment of tissue and organ damage. Conventional approaches generally rely on a large form factor desktop bioprinter to create in vitro 3D living constructs before introducing them into the patient's body, which poses several drawbacks such as surface mismatches, structure damage, and high contamination along with tissue injury due to transport and large open-field surgery. In situ bioprinting inside a living body is a potentially transformational solution as the body serves as an excellent bioreactor. This work introduces a multifunctional and flexible in situ 3D bioprinter (F3DB), which features a high degree of freedom soft printing head integrated into a flexible robotic arm to deliver multilayered biomaterials to internal organs/tissues. The device has a master-slave architecture and is operated by a kinematic inversion model and learning-based controllers. The 3D printing capabilities with different patterns, surfaces, and on a colon phantom are also tested with different composite hydrogels and biomaterials. The F3DB capability to perform endoscopic surgery is further demonstrated with fresh porcine tissue. The new system is expected to bridge a gap in the field of in situ bioprinting and support the future development of advanced endoscopic surgical robots.
+  * <img src='/files/Essay/thai2023advanced.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/thai2023advanced.pdf)\] \[[Web](https://onlinelibrary.wiley.com/doi/10.1002/advs.202205656)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/thai2023advanced.txt)\]
+  * Author: Mai Thanh Thai, Phuoc Thien Phan, Hien Anh Tran, Chi Cong Nguyen, Trung Thien Hoang, James Davies, Jelena Rnjak-Kovacina, Hoang-Phuong Phan, Nigel Hamilton Lovell, Thanh Nho Do
+  * Year: 2023
+  * Journal: Advanced Science
 
 <!-- *
   * Keywords:
