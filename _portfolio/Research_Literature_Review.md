@@ -483,7 +483,14 @@ Topology Optimization
   * Author: Naruki Ichihara, Masahito Ueda
   * Year: 2023
   * Journal: Composites Part B: Engineering
-
+* Double-Spirals Offer the Development of Preprogrammable Modular Metastructures
+  * Keywords: Preprogrammable Modular Metastructures
+  * Summary: Metamaterials with adjustable, sometimes unusual properties offer advantages over conventional materials with predefined mechanical properties in many technological applications. A group of metamaterials, called modular metamaterials or metastructures, are developed through the arrangement of multiple, mostly similar building blocks. These modular structures can be assembled using prefabricated modules and reconfigured to promote efficiency and functionality. Herein, a novel modular metastructure is developed by taking advantage of the high compliance of preprogrammable double-spirals. First, the mechanical behavior of a four-module metastructure under tension, compression, rotation, and sliding is simulated using the finite-element method. Then, 3D printing and mechanical testing are used to illustrate the tunable anisotropic and asymmetric behavior of the spiral-based metastructures in practice. The results show the simple reconfiguration of the presented metastructure toward the desired functions. The mechanical behavior of single double-spirals and the characteristics that can be achieved through their combinations make our modular metastructure suitable for various applications in robotics, aerospace, and medical engineering.
+  * <img src='/files/Essay/jafarpour2023double.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/jafarpour2023double.pdf)\] \[[Web](https://onlinelibrary.wiley.com/doi/full/10.1002/adem.202300102)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/jafarpour2023double.txt)\]
+  * Author: Mohsen Jafarpour, Stanislav N. Gorb, Hamed Rajabi
+  * Year: 2023
+  * Journal: Advanced Engineering Materials
 
   <!-- *
     * Keywords:

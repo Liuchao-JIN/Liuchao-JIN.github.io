@@ -1,0 +1,7 @@
+@article{jafarpour2023double,
+  title={Double-spirals offer the development of pre-programmable modular metastructures},
+  author={Jafarpour, Mohsen and Gorb, Stanislav N and Rajabi, Hamed},
+  journal={Advanced Engineering Materials},
+  year={2023},
+  publisher={Wiley Online Library}
+}
