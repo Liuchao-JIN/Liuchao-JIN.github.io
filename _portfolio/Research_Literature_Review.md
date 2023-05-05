@@ -491,6 +491,15 @@ Topology Optimization
   * Author: Mohsen Jafarpour, Stanislav N. Gorb, Hamed Rajabi
   * Year: 2023
   * Journal: Advanced Engineering Materials
+* Active Materials for Functional Origami
+  * Keywords: Active Materials, Functional Origami, Review
+  * Summary: In recent decades, origami has been explored to aid in the design of engineering structures. These structures span multiple scales and have been demonstrated to be used towards various areas such as aerospace, metamaterial, biomedical, robotics, and architectural applications. Conventionally, origami or deployable structures have been actuated by hands, motors, or pneumatic actuators, which can result in heavy or bulky structures. On the other hand, active materials, which reconfigure in response to external stimulus, eliminate the need for external mechanical loads and bulky actuation systems. Thus, in recent years, active materials incorporated with deployable structures have shown promise for remote actuation of light weight, programmable origami. In this review, active materials such as shape memory polymers and alloys, hydrogels, liquid crystal elastomers, magnetic soft materials, and covalent adaptable network polymers, their actuation mechanisms, as well as how they have been utilized for active origami and where these structures are applicable is discussed. Additionally, the state-of-the-art fabrication methods to construct active origami are highlighted. The existing structural modeling strategies for origami, the constitutive models used to describe active materials, and the largest challenges and future directions for active origami research are summarized.
+  * <img src='/files/Essay/leanza2023active.png'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/leanza2023active.pdf)\] \[[Web](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202302066)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/leanza2023active.txt)\]
+  * Author: Sophie Leanza, Shuai Wu, Xiaohao Sun, H. Jerry Qi, Ruike Renee Zhao
+  * Year: 2023
+  * Journal: Advanced Materials
+
 
   <!-- *
     * Keywords:
