@@ -300,7 +300,14 @@ collection: portfolio
   * Author: Tao Liu, Xujie Tong, Shuoqiu Tian, Yuying Xie, Mingsai Zhu, Bo Feng, Xiaohang Pan, Rui Zheng, Shan Wu, Ding Zhao, Yifang Chen, Bingrui Lu, Min Qiu
   * Year: 2022
   * Journal: Nanoscale
-
+* 3D-Printed Phase-Change Artificial Muscles with Autonomous Vibration Control
+  * Keywords: 3D printing, soft robot actuator, vibration control
+  * Summary: Currently, additive manufacturing is utilized to fabricate many different actuators suited for soft robots. However, an effective controller paradigm is essential to benefit from the advantages of soft robots in terms of power consumption, production costs, weight, and safety while operating near living systems. In this work, an artificial muscle is additively manufactured with soft silicone elastomer material capable of demonstrating several levels of stiffness. The 3D-printed muscle is equipped with carbon fibers to receive a stimulus signal and develop a programmable joint that can present different stiffnesses. A nonlinear controller is developed to autonomously control the variable stiffness joint based on a reinforcement learning algorithm. The controller exhibits a slight increase in settling time; however, it demonstrates a decrease in fluctuation amplitude by 33% and a substantial reduction in power consumption by 41% in comparison to the optimized proportional integral derivative controller. At the same time, it is adaptable to and reliable in new conditions. The variable stiffness muscle is also used as a controllable mechanism to suppress the low frequency vibration. The study shows that the muscle can successfully attenuate the vibration autonomously when it is increased.
+  * <img src='/files/Essay/mohammadi20233d.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/mohammadi20233d.pdf)\] \[[Web](https://onlinelibrary.wiley.com/doi/full/10.1002/admt.202300199)\]
+  * Author: Moslem Mohammadi, Abbas Z. Kouzani, Mahdi Bodaghi, Yong Xiang, Ali Zolfagharian
+  * Year: 2023
+  * Journal: Advanced Materials Technologies
 
 <!-- *
   * Keywords:
