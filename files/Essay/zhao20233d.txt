@@ -1,0 +1,10 @@
+@article{zhao20233d,
+  title={3D printing of unsupported multi-scale and large-span ceramic via near-infrared assisted direct ink writing},
+  author={Zhao, Yongqin and Zhu, Junzhe and He, Wangyan and Liu, Yu and Sang, Xinxin and Liu, Ren},
+  journal={Nature Communications},
+  volume={14},
+  number={1},
+  pages={2381},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
+}

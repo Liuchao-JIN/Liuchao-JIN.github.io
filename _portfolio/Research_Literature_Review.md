@@ -308,6 +308,14 @@ collection: portfolio
   * Author: Moslem Mohammadi, Abbas Z. Kouzani, Mahdi Bodaghi, Yong Xiang, Ali Zolfagharian
   * Year: 2023
   * Journal: Advanced Materials Technologies
+* 3D printing of unsupported multi-scale and large-span ceramic via near-infrared assisted direct ink writing
+  * Keywords: unsupported 3D Printing, Ceramic
+  * Summary: In the three-dimensional printing process of ceramic with low-angle structures, additional supporting structures are usually employed to avoid collapse of overhanging parts. However, the extra supporting structures not only affect printing efficiency, but the problems caused by their removal are also a matter of concern. Herein, we present a ceramic printing method, which can realize printing of unsupported multi-scale and large-span ceramics through the combination of direct ink writing and near-infrared induced up-conversion particles-assisted photopolymerization. This printing technology enables in-situ curing of multi-scale filaments with diameters ranging from 410 µm to 3.50 mm, and ceramic structures of torsion spring, three-dimensional bending and cantilever beam were successfully constructed through unsupported printing. This method will bring more innovation to the unsupported 3D manufacturing of complex shape ceramics.
+  * <img src='/files/Essay/zhao20233d.webp'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/zhao20233d.pdf)\] \[[Web](https://www.nature.com/articles/s41467-023-38082-8)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/zhao20233d.txt)\]
+  * Author: Yongqin Zhao, Junzhe Zhu, Wangyan He, Yu Liu, Xinxin Sang, Ren Liu
+  * Year: 2023
+  * Journal: Nature Communications
 
 <!-- *
   * Keywords:
