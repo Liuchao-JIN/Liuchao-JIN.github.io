@@ -1,0 +1,6 @@
+@article{romanembedded,
+  title={Embedded 3D Printing of Architected Ceramics via Microwave-activated Polymerization},
+  author={Rom{\'a}n-Manso, Benito and Weeks, Robert D and Truby, Ryan L and Lewis, Jennifer A},
+  journal={Advanced materials (Deerfield Beach, Fla.)},
+  pages={e2209270}
+}

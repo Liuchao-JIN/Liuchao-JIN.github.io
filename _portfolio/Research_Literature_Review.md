@@ -316,6 +316,16 @@ collection: portfolio
   * Author: Yongqin Zhao, Junzhe Zhu, Wangyan He, Yu Liu, Xinxin Sang, Ren Liu
   * Year: 2023
   * Journal: Nature Communications
+* Embedded 3D Printing of Architected Ceramics via Microwave-Activated Polymerization
+  * Keywords: Ceramics 3D Printing
+  * Summary: Light- and ink-based 3D printing methods have vastly expanded the design space and geometric complexity of architected ceramics. However, light-based methods are typically confined to a relatively narrow range of preceramic and particle-laden resins, while ink-based methods are limited in geometric complexity due to layerwise assembly. Here, embedded 3D printing is combined with microwave-activated curing to generate architected ceramics with spatially controlled composition in freeform shapes. Aqueous colloidal inks are printed within a support matrix, rapidly cured via microwave-activated polymerization, and subsequently dried and sintered into dense architectures composed of one or more oxide materials. This integrated manufacturing method opens new avenues for the design and fabrication of complex ceramic architectures with programmed composition, density, and form for myriad applications.
+  * <img src='/files/Essay/romanembedded.jpg'> <img src='/files/Essay/romanembedded_1.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/romanembedded.pdf)\] \[[Web](https://onlinelibrary.wiley.com/doi/10.1002/adma.202209270)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/romanembedded.txt)\]
+  * Author: Benito Román-Manso, Robert D. Weeks, Ryan L. Truby, Jennifer A. Lewis
+  * Year: 2023
+  * Journal: Advanced Materials
+
+
 
 <!-- *
   * Keywords:
