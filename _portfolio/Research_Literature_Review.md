@@ -332,7 +332,13 @@ collection: portfolio
   * Author: Guoquan Zhang,Yaohui Wang,Ziwen Chen,Xuguang Xu,Ke Dong, Yi Xiong
   * Year: 2023
   * Journal: Virtual and Physical Prototyping
-
+* 3D short fibre orientation for universal structures and geometries in material extrusion additive manufacturing
+  * Keywords: 3D printing, Short fibre orientation, Fibre distribution, Fibre composites, Extruded filament geometry
+  * Summary: Fibre orientation critically affects properties in material extrusion additive manufacturing. This study developed new understanding of 3D short-fibre orientation in representative structures intended to capture most features of typical tool-paths. The parametric representative structures included straight paths, curved paths, corners, a range of intersection types, and the start/end of paths. Fibre orientation tensors were used to quantify 3D fibre alignment along the direction of printed filaments (F-alignment), lateral to the in-plane filament direction (F-lat alignment), and normal to the print-platform (Z-alignment). Overall, fibres were highly aligned along the filament direction in both straight paths and curved paths but less aligned at corners and intersections. However, recovery of fibre orientation was found after corners and intersections. To assess fibre orientation uniformity throughout the layer thickness, specimens were sectioned normal to the print platform in seven planes throughout the thickness of a single extruded filament. High fibre orientation (F-alignment) was found intra-filament, but it gradually decreased from upper section to bottom section. Interlayer region showed both high F-alignment and Z-alignment. In addition, extruded-filament width and height critically affected fibre orientation: increasing extrusion width and layer height led to decreased F-alignment. Case studies showed the results are translatable to more complicated structures and a different polymer material. This study provides new understanding of 3D fibre orientation in additive manufacturing and will allow more informed design, analysis and optimisation of short-fibre-reinforced structures to improve performance.
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/yan20233d.pdf)\] \[[Web](https://www.sciencedirect.com/science/article/pii/S2214860423001483)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/yan20233d.txt)\]
+  * Author: Jiongyi Yan, Emrah Demirci, Andrew Gleadall
+  * Year: 2023
+  * Journal: Additive Manufacturing
 
 <!-- *
   * Keywords:
