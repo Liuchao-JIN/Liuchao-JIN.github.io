@@ -324,7 +324,14 @@ collection: portfolio
   * Author: Benito Román-Manso, Robert D. Weeks, Ryan L. Truby, Jennifer A. Lewis
   * Year: 2023
   * Journal: Advanced Materials
-
+* Robot-assisted conformal additive manufacturing for continuous fibre-reinforced grid-stiffened shell structures
+  * Keywords: Robotic system; grid stiffened shell structure; continuous fibre-reinforced polymer additive manufacturing; surface conformal toolpath
+  * Summary: The advents in continuous fibre-reinforced polymer additive manufacturing (CFRP-AM) present unprecedented opportunities for the rapid development of next-generation high-performance composites with selectively and spatially distributed reinforcement. However, the widely adopted 3-degree-of-freedom motion configuration in current CFRP-AM systems hinders the exploration of composite structures with non-planar fibre layouts. This work presents a novel conformal CFRP-AM system to fabricate grid-stiffened shell structures leveraging its multi-DoF motion to pattern spatial features. The system integrates a 6-axis robot with an optimally designed co-extrusion module and operates through a design-to-manufacturing workflow. The proposed workflow includes three steps: system calibration, conformal toolpath generation, and process implementation. The conformal toolpath generation is a surface-mapping-based method that allows a simultaneous exploration of various geometric designs and their toolpaths. Experimental comparisons were made between parts fabricated by different processes, i.e., planar and conformal based, with different toolpaths, i.e., shells filled with zigzag and arc-offset patterns, and with various geometric designs, i.e., stiffener ribs with different crossline angles. The results manifest that the proposed system can significantly improve the compression strength and stiffness of grid-stiffened shell structures. Meanwhile, the additional design freedom on process and structure opens up a new possibility to customise their mechanical performance.
+  * <img src='/files/Essay/zhang2023robot.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/zhang2023robot.pdf)\] \[[Web](https://www.tandfonline.com/doi/full/10.1080/17452759.2023.2203695)\]
+  * Author: Guoquan Zhang,Yaohui Wang,Ziwen Chen,Xuguang Xu,Ke Dong, Yi Xiong
+  * Year: 2023
+  * Journal: Virtual and Physical Prototyping
 
 
 <!-- *
