@@ -137,7 +137,9 @@ ENGG5402 Advanced Robotics (Instructor: Prof. [Fei Chen](https://www4.mae.cuhk.e
   * [Lecture Supplementary: Robot Actuators and Sensors](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/LS.pdf)
   * [Midterm Revision](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/16_3_23revision.pdf)
 * Textbook
-  * [Robotics Modeling, Planning and Control](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/siciliano2009robotics.pdf)
+  * Robotics Modeling, Planning and Control
+    * [Book](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/siciliano2009robotics.pdf)
+    * [Solution Manual](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/siciliano2009robotics_solution.pdf)
   * [Robot Dynamics and Control](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5402/spong2004robot.pdf)
 
 
