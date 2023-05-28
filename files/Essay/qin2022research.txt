@@ -1,0 +1,9 @@
+@article{qin2022research,
+  title={Research and application of machine learning for additive manufacturing},
+  author={Qin, Jian and Hu, Fu and Liu, Ying and Witherell, Paul and Wang, Charlie CL and Rosen, David W and Simpson, Timothy W and Lu, Yan and Tang, Qian},
+  journal={Additive Manufacturing},
+  volume={52},
+  pages={102691},
+  year={2022},
+  publisher={Elsevier}
+}
