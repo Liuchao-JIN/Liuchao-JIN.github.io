@@ -161,6 +161,16 @@ MAEG5130 Computational Mechanics (Instructor: Prof. [Weizhao Zhang](https://www4
   * [Chapter 13: Supplementary Infomation for Constitutive Laws](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/Ch13.pdf)
 * Textbook
   * [A First Course in Finite Elements](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/A_First_Course_in_Finite_Elements.pdf)
+* Project
+  * Project 1: solve the truss problems using MATLAB
+    * [Project Description](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/Project_1_Description.pdf)
+    * [Finite Element Programming with MATLAB](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/afirstcourseinfiniteelements-ch12-matlab.pdf)
+  * Project 2: Linear Isotropic and Linear kinematic Plasticity with Abaqus Candidacy_Examination
+    * [Project Description](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/Project_2_Description.pdf)
+    * [ABAQUS CAE Tutorial – Beam&in&bending](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/ABAQUS_CAE_Tutorial.pdf)
+    * [Software Resource and Example](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/Software_Resource_and_Example.pdf)
+  * Project 3: Application of MATLAB for linear isotopic and kinematic hardening
+    * [Project Description](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/Project_3_Description.pdf)
 
 
 Candidacy Examination
