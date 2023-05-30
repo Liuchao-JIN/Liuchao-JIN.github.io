@@ -339,6 +339,14 @@ collection: portfolio
   * Author: Jiongyi Yan, Emrah Demirci, Andrew Gleadall
   * Year: 2023
   * Journal: Additive Manufacturing
+* Research and application of machine learning for additive manufacturing
+  * Keywords: Review, Additive manufacturing, 3D Printing, Rapid prototyping, Machine learning, Deep learning, Digital manufacturing, Intelligent manufacturing
+  * Summary: Additive manufacturing (AM) is poised to bring a revolution due to its unique production paradigm. It offers the prospect of mass customization, flexible production, on-demand and decentralized manufacturing. However, a number of challenges stem from not only the complexity of manufacturing systems but the demand for increasingly complex and high-quality products, in terms of design principles, standardization and quality control. These challenges build up barriers to the widespread adoption of AM in the industry and the in-depth research of AM in academia. To tackle the challenges, machine learning (ML) technologies rise to play a critical role as they are able to provide effective ways to quality control, process optimization, modelling of complex systems, and energy management. Hence, this paper employs a systematic literature review method as it is a defined and methodical way of identifying, assessing, and analysing published literature. Then, a keyword co-occurrence and cluster analysis are employed for analysing relevant literature. Several aspects of AM, including Design for AM (DfAM), material analytics, in situ monitoring and defect detection, property prediction and sustainability, have been clustered and summarized to present state-of-the-art research in the scope of ML for AM. Finally, the challenges and opportunities of ML for AM are uncovered and discussed.
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/qin2022research.pdf)\] \[[Web](https://doi.org/10.1016/j.addma.2022.102691)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/qin2022research.txt)\]
+  * Author: Jian Qin, Fu Hu, Ying Liu, Paul Witherell, Charlie C.L. Wang, David W. Rosen, Timothy W. Simpson, Yan Lu, Qian Tang
+  * Year: 2022
+  * Journal: Additive Manufacturing
+
 
 <!-- *
   * Keywords:
