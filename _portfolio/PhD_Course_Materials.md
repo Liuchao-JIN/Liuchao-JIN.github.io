@@ -167,7 +167,7 @@ MAEG5130 Computational Mechanics (Instructor: Prof. [Weizhao Zhang](https://www4
     * [Finite Element Programming with MATLAB](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/afirstcourseinfiniteelements-ch12-matlab.pdf)
   * Project 2: Linear Isotropic and Linear kinematic Plasticity with Abaqus Candidacy_Examination
     * [Project Description](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/Project_2_Description.pdf)
-    * [ABAQUS CAE Tutorial – Beam&in&bending](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/ABAQUS_CAE_Tutorial.pdf)
+    * [ABAQUS CAE Tutorial – Beam in bending](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/ABAQUS_CAE_Tutorial.pdf)
     * [Software Resource and Example](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/Software_Resource_and_Example.pdf)
   * Project 3: Application of MATLAB for linear isotopic and kinematic hardening
     * [Project Description](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/MAEG5130/Project_3_Description.pdf)
