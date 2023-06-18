@@ -430,6 +430,14 @@ Soft Robotics
   * Author: Mai Thanh Thai, Phuoc Thien Phan, Hien Anh Tran, Chi Cong Nguyen, Trung Thien Hoang, James Davies, Jelena Rnjak-Kovacina, Hoang-Phuong Phan, Nigel Hamilton Lovell, Thanh Nho Do
   * Year: 2023
   * Journal: Advanced Science
+* Liquid metal droplets bouncing higher on thicker water layer
+  * Keywords: Liquid metal
+  * Summary: Liquid metal (LM) has gained increasing attention for a wide range of applications, such as flexible electronics, soft robots, and chip cooling devices, owing to its low melting temperature, good flexibility, and high electrical and thermal conductivity. In ambient conditions, LM is susceptible to the coverage of a thin oxide layer, resulting in unwanted adhesion with underlying substrates that undercuts its originally high mobility. Here, we discover an unusual phenomenon characterized by the complete rebound of LM droplets from the water layer with negligible adhesion. More counterintuitively, the restitution coefficient, defined as the ratio between the droplet velocities after and before impact, increases with water layer thickness. We reveal that the complete rebound of LM droplets originates from the trapping of a thinly low-viscosity water lubrication film that prevents droplet-solid contact with low viscous dissipation, and the restitution coefficient is modulated by the negative capillary pressure in the lubrication film as a result of the spontaneous spreading of water on the LM droplet. Our findings advance the fundamental understanding of complex fluids’ droplet dynamics and provide insights for fluid control.
+  * <img src='/files/Essay/dai2023liquid.webp'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/dai2023liquid.pdf)\] \[[Web](https://doi.org/10.1038/s41467-023-39348-x)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/dai2023liquid.txt)\]
+  * Author: Yuhang Dai, Minfei Li, Bingqiang Ji, Xiong Wang, Siyan Yang, Peng Yu, Steven Wang, Chonglei Hao, Zuankai Wang
+  * Year: 2023
+  * Journal: Nature Communications
 
 <!-- *
   * Keywords:
