@@ -6,7 +6,7 @@ collection: portfolio
 
 ME1020 Mechanical Vibration (Instructor: Prof. Sai Cheong Fok)
 * Lecture Notes
-  * [Lecture 1: Introduction & revision](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/ME1020/0ME1020L1.pdf)
+  * [Lecture 1: Introduction & revision](http://jinliuchao.github.io/files/Course_Materials/Undergraduate_Course/ME1020/0ME1020L1.pdf)
   * [Lecture 2: Free vibration (undamped 1DOF system)](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/ME1020/0ME1020L2.pdf)
   * [Lecture 3: Free vibration (damped 1DOF system)](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/ME1020/0ME1020L3.pdf)
   * [Lecture 4: Response to harmonic excitation (1DOF system)](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/ME1020/0ME1020L4.pdf)
