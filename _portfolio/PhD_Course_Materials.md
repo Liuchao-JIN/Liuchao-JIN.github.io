@@ -21,7 +21,7 @@ ENGG5403 Linear System Theory and Design (Instructor: Prof. [Ben M. Chen](http:/
   * [Assignment 3: System Invertibility, Invariant Zeros, Structural Decompositions](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5403/ENGG5403_Assignment__3.pdf)
   * [Assignment 4: Stabilization of Multivariable Systems](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5403/ENGG5403_Assignment__4.pdf)
   * [Assignment 5: LQR, LQG, Kalman Filter](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5403/ENGG5403_Assignment__5.pdf)
-  * [Assignment 6: H<sub>2</sub> and $H_{infty}$ control](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5403/ENGG5403_Assignment__6.pdf)
+  * [Assignment 6: H<sub>2</sub> and $H_{\infty}$ control](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5403/ENGG5403_Assignment__6.pdf)
 * Supplementary Material
   * Book
     * [Hard Disk Drive Servo System](http://Liuchao-JIN.github.io/files/Course_Materials/Graduate_Course/ENGG5403/Hard_disk_drive_servo_system.pdf)
