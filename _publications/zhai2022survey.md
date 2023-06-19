@@ -8,4 +8,4 @@ venue: 'Materials Science in Additive Manufacturing'
 paperurl: 'https://accscience.com/journal/MSAM/1/4/10.18063/msam.v1i4.21'
 citation: 'Xiaoya Zhai, Liuchao Jin, and Jingchao Jiang. (2022). &quot;A survey of additive manufacturing reviews.&quot; <i>Materials Science in Additive Manufacturing</i>. 1(4), 21. '
 ---
-[Download paper here](http://Liuchao-JIN.github.io/files/zhai2022survey.pdf)
+[Download paper here](http://Liuchao-JIN.github.io/files/My_Essay/zhai2022survey.pdf)
