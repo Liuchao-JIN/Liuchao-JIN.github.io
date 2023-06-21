@@ -56,3 +56,8 @@ MEMS1028 Mechanical Design 1 (Instructor: Prof. Sai Cheong Fok)
 * Textbook
   * [Shigley's Mechanical Engineering Design (10th Edition)](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/MEMS1028/Mechanical_Engineering_Design_10th_Edition.pdf)
   * [Shigley's Mechanical Engineering Design (10th Edition) Solution Manual](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/MEMS1028/Mechanical_Engineering_Design_10th_Edition_Solution_Manual.pdf)
+
+
+  MEMS1028 Mechanical Design 2 (Instructor: Prof. Ping-Chun Sui)
+  * [Syllabus](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/MEMS1028/MEMS1029_Syllabus.pdf)
+  * Lecture Notes
