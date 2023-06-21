@@ -56,3 +56,20 @@ MEMS1028 Mechanical Design 1 (Instructor: Prof. Sai Cheong Fok)
 * Textbook
   * [Shigley's Mechanical Engineering Design (10th Edition)](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/MEMS1028/Mechanical_Engineering_Design_10th_Edition.pdf)
   * [Shigley's Mechanical Engineering Design (10th Edition) Solution Manual](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/MEMS1028/Mechanical_Engineering_Design_10th_Edition_Solution_Manual.pdf)
+
+
+  MEMS1029 Mechanical Design 2 (Instructor: Prof. Ping-Chun Sui)
+  * [Syllabus](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/MEMS1028/MEMS1029_Syllabus.pdf)
+  * Lecture Notes
+    * [Lecture 0: Course Overview](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/MEMS1029/LN00.pdf)
+    * [Lecture 1: Interference-Fit Design](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/MEMS1029/LN01.pdf)
+    * [Lecture 2: Failure Resulting from Static Loading](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/MEMS1029/LN02.pdf)
+    * [Lecture 3A: Fatigue Failure Analysis from Fluctuating Loading](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/MEMS1029/LN03A.pdf)
+    * [Lecture 3B: Fatigue Failure Analysis from Fluctuating Loading (Supplement)](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/MEMS1029/LN03B.pdf)
+    * [Lecture 4: Shafts and Shaft Components](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/MEMS1029/LN04.pdf)
+    * [Lecture 5A: Rolling Contact Bearings - Ball Bearings](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/MEMS1029/LN05A.pdf)
+    * [Lecture 5B: Rolling Contact Bearings - Tapered Roller Bearings](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/MEMS1029/LN05B.pdf)
+    * [Lecture 6: Lubrication and Journal Bearings](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/MEMS1029/LN06.pdf)
+    * [Lecture 7: Nonpermanent Joints](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/MEMS1029/LN07.pdf)
+    * [Lecture 8A: Gears General and Spur Gears](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/MEMS1029/LN08A.pdf)
+    * [Lecture 8B: Spur Gear Structural Design Analysis](http://Liuchao-JIN.github.io/files/Course_Materials/Undergraduate_Course/MEMS1029/LN08B.pdf)
