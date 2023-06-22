@@ -438,6 +438,16 @@ Soft Robotics
   * Author: Yuhang Dai, Minfei Li, Bingqiang Ji, Xiong Wang, Siyan Yang, Peng Yu, Steven Wang, Chonglei Hao, Zuankai Wang
   * Year: 2023
   * Journal: Nature Communications
+* Desktop fabrication of monolithic soft robotic devices with embedded fluidic control circuits
+  * Keywords:
+  * Summary:
+  * <img src='/files/Essay/.'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/.pdf)\] \[[Web]()\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/.txt)\]
+  * Author:
+  * Year:
+  * Journal:
+
+
 
 <!-- *
   * Keywords:
