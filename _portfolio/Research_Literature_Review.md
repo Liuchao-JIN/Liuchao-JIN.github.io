@@ -439,13 +439,13 @@ Soft Robotics
   * Year: 2023
   * Journal: Nature Communications
 * Desktop fabrication of monolithic soft robotic devices with embedded fluidic control circuits
-  * Keywords:
-  * Summary:
-  * <img src='/files/Essay/.'>
-  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/.pdf)\] \[[Web]()\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/.txt)\]
-  * Author:
-  * Year:
-  * Journal:
+  * Keywords: 3D printing pneumatic soft robots
+  * Summary: Most soft robots are pneumatically actuated and fabricated by molding and assembling processes that typically require many manual operations and limit complexity. Furthermore, complex control components (for example, electronic pumps and microcontrollers) must be added to achieve even simple functions. Desktop fused filament fabrication (FFF) three-dimensional printing provides an accessible alternative with less manual work and the capability of generating more complex structures. However, because of material and process limitations, FFF-printed soft robots often have a high effective stiffness and contain a large number of leaks, limiting their applications. We present an approach for the design and fabrication of soft, airtight pneumatic robotic devices using FFF to simultaneously print actuators with embedded fluidic control components. We demonstrated this approach by printing actuators an order of magnitude softer than those previously fabricated using FFF and capable of bending to form a complete circle. Similarly, we printed pneumatic valves that control a high-pressure airflow with low control pressure. Combining the actuators and valves, we demonstrated a monolithically printed electronics-free autonomous gripper. When connected to a constant supply of air pressure, the gripper autonomously detected and gripped an object and released the object when it detected a force due to the weight of the object acting perpendicular to the gripper. The entire fabrication process of the gripper required no posttreatment, postassembly, or repair of manufacturing defects, making this approach highly repeatable and accessible. Our proposed approach represents a step toward complex, customized robotic systems and components created at distributed fabricating facilities.
+  * <img src='/files/Essay/zhai2023desktop.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/zhai2023desktop.pdf)\] \[[Web](https://doi.org/10.1126/scirobotics.adg3792)\]
+  * Author: Yichen Zhai, Albert De Boer, Jiayao Yan, Benjamin Shih, Martin Faber, Joshua Speros, Rohini Gupta, Michael T. Tolley
+  * Year: 2023
+  * Journal: Science Robotics
 
 
 
