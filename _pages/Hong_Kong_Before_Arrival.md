@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "来港攻略"
+title: "新生指南"
 permalink: /Hong_Kong_Before_Arrival/
 author_profile: true
 redirect_from:
@@ -64,6 +64,7 @@ redirect_from:
 - 内地：办理中行储蓄卡和信用卡，方便购汇、换汇
 - 香港：
   - 推荐办理中行储蓄卡和信用卡，因为中行的智能化以及服务都是香港最好的。中行可以直接去沙田办理，坐两站地铁就到了，也可以坐个小巴去沙田第一城。另外，宿舍确认交押金时建议选择自行每月付宿舍费，因为中行信用卡有返现，基本上付一个月宿舍费就能返100HKD
+  - 中银卡在东亚银行和渣打银行的ATM取钱不要手续费，但是恒生和汇丰的ATM要手续费，学校里面有东亚银行的ATM，学校地铁站有中银的ATM
   - 也可以再办一张恒生银行的储蓄卡和信用卡，因为校园里面就有一家恒生银行，遇到啥急着用钱的事情方便一些
 - 办理银行卡时需要提供一些所需材料
   - 内地身份证+港澳通行证
@@ -109,6 +110,8 @@ redirect_from:
 - 校园食堂微信小程序：中大今天吃什么
   - 可以看食堂的分布以及看当天哪些食堂是开着的
 - [校园地图](https://www.cuhk.edu.hk/english/campus/cuhk-campus-map.html)
+- [吃货推荐](https://docs.qq.com/sheet/DTWV2Sk5wS3dSS1pK)
+- [学生机购买](https://www.eduoffer.com/online/catalog/otherProductList/apple/tg/63?sid=63&ot=0&hu=1)
 
 
 以上是抵达香港后需要办理的事务汇总。希望这份攻略对你有所帮助！未完待续，后续会加一些补充。如有任何其他问题，请随时在群上提问。
