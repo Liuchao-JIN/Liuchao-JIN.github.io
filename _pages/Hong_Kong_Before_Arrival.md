@@ -7,8 +7,6 @@ redirect_from:
   - "/Hong_Kong_Before_Arrive/"
 ---
 
-# 香港留学攻略
-
 ## 抵港前准备
 
 ### 行李清单
