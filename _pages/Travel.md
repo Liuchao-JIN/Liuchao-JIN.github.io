@@ -11,6 +11,23 @@ redirect_from:
 
 Qingdao is a breathtaking destination in Shandong that left me in awe. The trip to Qingdao was an enchanting experience, surrounded by stunning landscapes and captivating cityscapes.
 
+
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  td {
+    padding: 0;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+  }
+</style>
+
 <table>
   <tr>
     <td><img src='/files/Trip/2023_Shandong/Shandong_1.jpg'></td>
