@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Travels & Trips"
+title: "Liuchao Jin's Travels & Trips"
 permalink: /travels/
 author_profile: true
 redirect_from:
