@@ -124,6 +124,13 @@ collection: portfolio
   * Author: Guangwen Jia, Ao Zheng, Xiao Wang, Lu Zhang, Ling Li, Chenxing Li, Yan Zhang, Lingyan Cao
   * Year: 2021
   * Journal: Sensors and Actuators B: Chemical
+* 4D printing soft robotics for biomedical applications
+  * Keywords: 4D printing, soft robotics, biomedical applications, review
+  * Summary: Soft robotics has grown rapidly as an attractive manufacturing technique at micro/nanoscales, especially in the field of biomedical engineering, due to its mobility and compact size. As an emerging additive manufacturing technique, four-dimensional (4D) printing can replicate natural physio-mechanical changes over time leading the transition from static to dynamic. As such, 4D printing is widely investigated and applied in fields ranging from mechanical engineering and material science, to biomedical engineering. By combining the unique ability of 4D printing to create dynamic morphological changes under certain stimuli and biocompatible soft material based micro-/nanorobots, a new promising platform with precise controllability and unlimited reversible actuation is expected to enhance the role of 4D printing for biomedical applications. In this review, we systematically introduce soft robots and further summarize current 4D printing approaches to fabricate soft robots. Moreover, a broad scope of potential applications of 4D soft robots in biomedical engineering is exclusively discussed. We finally conclude with current challenges and limitations, as well as future directions, for 4D printing soft robot technology.
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/hann20204d.pdf)\] \[[Web](https://doi.org/10.1016/j.addma.2020.101567)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/hann20204d.txt)\]
+  * Author: Sung Yun Hann, Haitao Cui, Margaret Nowicki, Lijie Grace Zhang
+  * Year: 2020
+  * Journal: Additive Manufacturing
 
 <!-- *
   * Keywords:
