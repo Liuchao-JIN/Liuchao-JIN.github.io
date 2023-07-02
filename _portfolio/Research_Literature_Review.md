@@ -131,12 +131,23 @@ collection: portfolio
   * Author: Sung Yun Hann, Haitao Cui, Margaret Nowicki, Lijie Grace Zhang
   * Year: 2020
   * Journal: Additive Manufacturing
+* Programming a crystalline shape memory polymer network with thermo- and photo-reversible bonds toward a single-component soft robot
+  * Keywords: 4D printing, soft robotics
+  * Summary: The need to support the two most basic functions [three-dimensional (3D)–shaped support and actuation] independently for a typical robot demands that at least two components should be used in its construction. Therefore, component assembly is unavoidable despite the ultimate dream of creating assembly-free robots. We devise a strategy that uses a programmable crystalline shape memory polymer with thermo- and photo-reversible bonds to create a single-component robot. The global 3D-shaped structural support is fabricated via a plasticity-based origami technique enabled by the thermo-reversible bonds. More critically, **precisely controlled localized actuation can be programmed into the 3D origami via spatially defined reversible shape memory using the photo-reversible bonds. The overall result is that a polymer thin film can be programmed into various soft robots including a 3D crane and an elephant**. Besides reversible shape memory, other types of actuation mechanisms can be potentially introduced via a similar principle. Thus, our strategy represents a general method to create single-component soft robots.
+  * <img src='/files/Essay/jin2018programming.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/jin2018programming.pdf)\] \[[Web](https://doi.org/10.1126/sciadv.aao3865)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/jin2018programming.txt)\]
+  * Author: Binjie Jin, Huijie Song, Ruiqi Jiang, Jizhou Song, Qian Zhao, Tao Xie
+  * Year: 2018
+  * Journal: Science Advanced
+
+
+
 
 <!-- *
   * Keywords:
   * Summary:
   * <img src='/files/Essay/.'>
-  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/.pdf)\] \[[Web]()\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/.txt)\]
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/.pdf)\] \[[Web](https://doi.org/)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/.txt)\]
   * Author:
   * Year:
   * Journal:  -->
