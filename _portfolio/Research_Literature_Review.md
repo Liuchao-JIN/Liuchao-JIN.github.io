@@ -346,6 +346,14 @@ collection: portfolio
   * Author: Jian Qin, Fu Hu, Ying Liu, Paul Witherell, Charlie C.L. Wang, David W. Rosen, Timothy W. Simpson, Yan Lu, Qian Tang
   * Year: 2022
   * Journal: Additive Manufacturing
+* Light-based vat-polymerization bioprinting
+  * Keywords: vat-polymerization, review
+  * Summary: Light-based vat-polymerization bioprinting enables computer-aided patterning of 3D cell-laden structures in a point-by-point, layer-by-layer or volumetric manner, using vat (vats) filled with photoactivatable bioresin (bioresins). This collection of technologies — divided by their modes of operation into stereolithography, digital light processing and volumetric additive manufacturing — has been extensively developed over the past few decades, leading to broad applications in biomedicine. In this Primer, we illustrate the methodology of light-based vat-polymerization 3D bioprinting from the perspectives of hardware, software and bioresin selections. We follow with discussions on methodological variations of these technologies, including their latest advancements, as well as elaborating on key assessments utilized towards ensuring qualities of the bioprinting procedures and products. We conclude by providing insights into future directions of light-based vat-polymerization methods.
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/levato2023light.pdf)\] \[[Web](https://doi.org/10.1038/s43586-023-00231-0)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/levato2023light.txt)\]
+  * Author: Riccardo Levato, Oksana Dudaryeva, Carlos Ezio Garciamendez-Mijares, Bruce E. Kirkpatrick, Riccardo Rizzo, Jacob Schimelman, Kristi S. Anseth, Shaochen Chen, Marcy Zenobi-Wong, Yu Shrike Zhang
+  * Year: 2023
+  * Journal: Nature Reviews Methods Primers
+
 
 
 <!-- *
