@@ -139,7 +139,13 @@ collection: portfolio
   * Author: Binjie Jin, Huijie Song, Ruiqi Jiang, Jizhou Song, Qian Zhao, Tao Xie
   * Year: 2018
   * Journal: Science Advanced
-
+* Closed-loop 4D-printed soft robots
+  * Keywords: 4D printing, soft robotics, review
+  * Summary: Soft robotics is a recent and rapidly growing field of research that encompasses emerging advances in functional materials, fabrication, modelling, and performance control with important applications in the manipulation of fragile objects. The incorporation of three-dimensional (3D) printing into the fabrication of soft robots facilitates the customisation of their functions by the strategic placement of functional materials into locations that may be inaccessible by conventional manufacturing methods. Most current 3D-printed soft robots, however, are fabricated without considering their autonomy. In four-dimensional (4D) printing, the functionality of a soft robot is introduced during the printing process. To control this functionality, specific functional materials are embedded in desired locations. Four-dimensional printing and machine learning techniques provide new possibilities for developing stand-alone closed-loop 4D-printed soft robots. This review paper presents the current approaches employed to design and construct 4D-printed soft robots with customised geometrical, functional, and control properties.
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/zolfagharian2020closed.pdf)\] \[[Web](https://doi.org/10.1016/j.matdes.2019.108411)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essayzolfagharian2020closed/.txt)\]
+  * Author: Ali Zolfagharian, Akif Kaynak, Abbas Kouzani
+  * Year: 2020
+  * Journal: Materials & Design
 
 
 
