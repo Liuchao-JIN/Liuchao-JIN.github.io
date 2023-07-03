@@ -478,14 +478,21 @@ Soft Robotics
   * Author: Yichen Zhai, Albert De Boer, Jiayao Yan, Benjamin Shih, Martin Faber, Joshua Speros, Rohini Gupta, Michael T. Tolley
   * Year: 2023
   * Journal: Science Robotics
-
+* Caterpillar-inspired soft crawling robot with distributed programmable thermal actuation
+  * Keywords: Caterpillar, soft robots
+  * Summary: Many inspirations for soft robotics are from the natural world, such as octopuses, snakes, and caterpillars. Here, we report a caterpillar-inspired, energy-efficient crawling robot with multiple crawling modes, enabled by joule heating of a patterned soft heater consisting of silver nanowire networks in a liquid crystal elastomer (LCE)–based thermal bimorph actuator. With patterned and distributed heaters and programmable heating, different temperature and hence curvature distribution along the body of the robot are achieved, enabling bidirectional locomotion as a result of the friction competition between the front and rear end with the ground. The thermal bimorph behavior is studied to predict and optimize the local curvature of the robot under thermal stimuli. The bidirectional actuation modes with the crawling speeds are investigated. The capability of passing through obstacles with limited spacing are demonstrated. The strategy of distributed and programmable heating and actuation with thermal responsive materials offers unprecedented capabilities for smart and multifunctional soft robots.
+  * <img src='/files/Essay/wu2023caterpillar.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/wu2023caterpillar.pdf)\] \[[Web](https://doi.org/10.1126/sciadv.adf8014)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/wu2023caterpillar.txt)\]
+  * Author: Shuang Wu, Yaoye Hong, Yao Zhao, Jie Yin, Yong Zhu
+  * Year: 2023
+  * Journal: Science Advanced
 
 
 <!-- *
   * Keywords:
   * Summary:
   * <img src='/files/Essay/.'>
-  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/.pdf)\] \[[Web]()\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/.txt)\]
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/.pdf)\] \[[Web](https://doi.org/)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/.txt)\]
   * Author:
   * Year:
   * Journal:  -->
