@@ -151,9 +151,18 @@ collection: portfolio
   * Summary: We present a general strategy for enabling reversible shape transformation in semicrystalline shape memory (SM) materials, which integrates three different SM behaviors: conventional one-way SM, two-way reversible SM, and one-way reversible SM. While two-way reversible shape memory (RSM) is observed upon heating and cooling cycles, the one-way RSM occurs upon heating only. Shape reversibility is achieved through partial melting of a crystalline scaffold which secures memory of a temporary shape by leaving a latent template for recrystallization. This behavior is neither mechanically nor structurally constrained, thereby allowing for multiple switching between encoded shapes without applying any external force, which was demonstrated for different shapes including hairpin, coil, origami, and a robotic gripper. Fraction of reversible strain increases with cross-linking density, reaching a maximum of ca. 70%, and then decreases at higher cross-linking densities. This behavior has been shown to correlate with efficiency of securing the temporary shape.
   * <img src='/files/Essay/zhou2014shapeshifting.png'>
   * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/zhou2014shapeshifting.pdf)\] \[[Web](https://doi.org/10.1021/ma4023185)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/zhou2014shapeshifting.txt)\]
-  * Author: Jing Zhou, Sara A. Turner, Sarah M. Brosnan, Qiaoxi Li, Jan-Michael Y. Carrillo, Dmytro Nykypanchuk, Oleg Gang, Valerie S. Ashby, Andrey V. Dobrynin, and Sergei S. Sheiko
+  * Author: Jing Zhou, Sara A. Turner, Sarah M. Brosnan, Qiaoxi Li, Jan-Michael Y. Carrillo, Dmytro Nykypanchuk, Oleg Gang, Valerie S. Ashby, Andrey V. Dobrynin, Sergei S. Sheiko
   * Year: 2014
   * Journal: Macromolecules
+* Switchable Micropatterned Surface Topographies Mediated by Reversible Shape Memory
+  * Keywords: **Reversible Shape Memory**
+  * Summary: Reversibly switching topography on micrometer length scales greatly expands the functionality of stimuli-responsive substrates. Here we report the first usage of reversible shape memory for the actuation of two-way transitions between microscopically patterned substrates, resulting in corresponding modulations of the wetting properties. Reversible switching of the surface topography is achieved through partial melting and recrystallization of a semi-crystalline polyester embossed with microscopic features. This behavior is monitored with atomic force microscopy (AFM) and contact angle measurements. We demonstrate that the magnitude of the contact angle variations depends on the embossment pattern.
+  * <img src='/files/Essay/turner2014switchable.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/turner2014switchable.pdf)\] \[[Web](https://doi.org/10.1021/am501970d)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/turner2014switchable.txt)\]
+  * Author: Sara A. Turner, Jing Zhou, Sergei S. Sheiko, Valerie Sheares Ashby
+  * Year: 2014
+  * Journal: Macromolecules
+
 
 
 <!-- *
