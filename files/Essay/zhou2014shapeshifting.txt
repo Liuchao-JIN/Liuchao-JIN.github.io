@@ -1,0 +1,10 @@
+@article{zhou2014shapeshifting,
+  title={Shapeshifting: Reversible shape memory in semicrystalline elastomers},
+  author={Zhou, Jing and Turner, Sara A and Brosnan, Sarah M and Li, Qiaoxi and Carrillo, Jan-Michael Y and Nykypanchuk, Dmytro and Gang, Oleg and Ashby, Valerie S and Dobrynin, Andrey V and Sheiko, Sergei S},
+  journal={Macromolecules},
+  volume={47},
+  number={5},
+  pages={1768--1776},
+  year={2014},
+  publisher={ACS Publications}
+}

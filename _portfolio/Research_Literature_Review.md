@@ -146,7 +146,14 @@ collection: portfolio
   * Author: Ali Zolfagharian, Akif Kaynak, Abbas Kouzani
   * Year: 2020
   * Journal: Materials & Design
-
+* Shapeshifting: Reversible Shape Memory in Semicrystalline Elastomers
+  * Keywords: Reversible Shape Memory
+  * Summary: We present a general strategy for enabling reversible shape transformation in semicrystalline shape memory (SM) materials, which integrates three different SM behaviors: conventional one-way SM, two-way reversible SM, and one-way reversible SM. While two-way reversible shape memory (RSM) is observed upon heating and cooling cycles, the one-way RSM occurs upon heating only. Shape reversibility is achieved through partial melting of a crystalline scaffold which secures memory of a temporary shape by leaving a latent template for recrystallization. This behavior is neither mechanically nor structurally constrained, thereby allowing for multiple switching between encoded shapes without applying any external force, which was demonstrated for different shapes including hairpin, coil, origami, and a robotic gripper. Fraction of reversible strain increases with cross-linking density, reaching a maximum of ca. 70%, and then decreases at higher cross-linking densities. This behavior has been shown to correlate with efficiency of securing the temporary shape.
+  * <img src='/files/Essay/zhou2014shapeshifting.png'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/zhou2014shapeshifting.pdf)\] \[[Web](https://doi.org/10.1021/ma4023185)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/zhou2014shapeshifting.txt)\]
+  * Author: Jing Zhou, Sara A. Turner, Sarah M. Brosnan, Qiaoxi Li, Jan-Michael Y. Carrillo, Dmytro Nykypanchuk, Oleg Gang, Valerie S. Ashby, Andrey V. Dobrynin, and Sergei S. Sheiko
+  * Year: 2014
+  * Journal: Macromolecules
 
 
 <!-- *
