@@ -162,7 +162,14 @@ collection: portfolio
   * Author: Sara A. Turner, Jing Zhou, Sergei S. Sheiko, Valerie Sheares Ashby
   * Year: 2014
   * Journal: Macromolecules
-
+* Photothermally and magnetically controlled reconfiguration of polymer composites for soft robotics
+  * Keywords: 4D printing, soft robotics, reversible
+  * Summary: New materials are advancing the field of soft robotics. Composite films of magnetic iron microparticles dispersed in a shape memory polymer matrix are demonstrated for reconfigurable, remotely actuated soft robots. The composite films simultaneously respond to magnetic fields and light. Temporary shapes obtained through combined magnetic actuation and photothermal heating can be locked by switching off the light and magnetic field. Subsequent illumination in the absence of the magnetic field drives recovery of the permanent shape. In cantilevers and flowers, multiple cycles of locking and unlocking are demonstrated. Scrolls show that the permanent shape of the film can be programmed, and they can be frozen in intermediate configurations. Bistable snappers can be magnetically and optically actuated, as well as biased, by controlling the permanent shape. Grabbers can pick up and release objects repeatedly. Simulations of combined photothermal heating and magnetic actuation are useful for guiding the design of new devices.
+  * <img src='/files/Essay/miao20164d.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/miao20164d.pdf)\] \[[Web](https://doi.org/10.1126/sciadv.aaw2897)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/miao20164d.txt)\]
+  * Author: Jessica A.-C. Liu, Jonathan H. Gillen, Sumeet R. Mishra, Benjamin A. Evans, Joseph B. Tracy
+  * Year: 2019
+  * Journal: Science Advances
 
 
 <!-- *
