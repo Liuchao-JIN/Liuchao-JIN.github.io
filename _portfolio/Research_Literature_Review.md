@@ -170,7 +170,14 @@ collection: portfolio
   * Author: Jessica A.-C. Liu, Jonathan H. Gillen, Sumeet R. Mishra, Benjamin A. Evans, Joseph B. Tracy
   * Year: 2019
   * Journal: Science Advances
-
+* Computational design for 4D printing of topology optimized multi-material active composites
+  * Keywords: topology optimization for 4D printing
+  * Summary: Recent efforts on design for four-dimensional (4D) printing have considered the spatial arrangement of smart materials and energy stimuli. The development of multifunctional structures and their desired mechanical/actuation performances require tackling 4D printing from a multi-material design perspective. With the materials distributions there is an opportunity to increase the spectrum of design concepts with computational approaches. The main goal being to achieve the “best” distribution of material properties in a voxelized structure, a computational framework that consists of a finite element analysis-based evolutionary algorithm is presented. It fuses the advantages of optimizing both the materials distribution and material layout within a design space via topology optimization to solve the inverse design problem of finding an optimal design to achieve a target shape change by integrating void voxels. The results demonstrate the efficacy of the proposed method in providing a highly capable tool for the design of 4D-printed active composites.
+  * <img src='/files/Essay/athinarayanarao2023computational.webp'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/Essay/athinarayanarao2023computational.pdf)\] \[[Web](https://doi.org/10.1038/s41524-022-00962-w)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/Essay/athinarayanarao2023computational.txt)\]
+  * Author: Darshan Athinarayanarao, Romaric Prod’hon, Dominique Chamoret, H. Jerry Qi, Mahdi Bodaghi, Jean-Claude André, Frédéric Demoly
+  * Year: 2023
+  * Journal: npj Computational Materials
 
 <!-- *
   * Keywords:
