@@ -127,6 +127,7 @@ redirect_from:
 ### 8. 学业相关
 - [成绩单和在读证明申请](https://www.gs.cuhk.edu.hk/page/requestofficialdocuments)
 - [CUHK博士项目要求](http://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx)
+- [23-24中大校历](http://www.res.cuhk.edu.hk/zh-tw/general-information/university-almanac/university-almanac-for-2023-24/course-registration-dates-inauguration-ceremony-congregation-and-holidays)，[2023香港公众假期](https://www.gov.hk/tc/about/abouthk/holiday/2023.htm)
 
 
 以上是抵达香港前后需要办理的事务汇总。希望这份攻略对你有所帮助！未完待续，后续会加一些补充。如有任何其他问题，请随时在群上提问。
