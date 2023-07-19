@@ -57,7 +57,7 @@ redirect_from:
   - 港澳通行证
   - 入境签证+小白条（很重要）
 - 第三步：审核材料后拿到筹号，进入“橙色区域”填表
-- 第四步：二次审核资料、录指纹、拍照，领取临时身份证
+- 第四步：二次审核资料、录指纹、拍照，领取[临时身份证](http://Liuchao-JIN.github.io/files/affairs/Temporary_ID.pdf)
 - 正式身份证会在1-2周后领取，等待邮件通知
 
 ### 3. 办理学生证
@@ -116,7 +116,7 @@ redirect_from:
   - 行政楼、三十九区、敬文书院（研究生宿舍）、三四苑、逸夫堂、科学馆 这些地方要么有上行或者下行的区别，要么同一个地方有两个相距很近的校巴站，要注意区分。上行和下行的区别是，一辆车在绕来绕去的时候会两次经过这个地方，第一次经过这个地方的时候就停上行站，第二次经过这个地方的时候就停下行站，反正就是不要坐错了
 - 校园食堂微信小程序：中大今天吃什么
   - 可以看食堂的分布以及看当天哪些食堂是开着的
-- 校园地图：[网页版](https://www.cuhk.edu.hk/english/campus/cuhk-campus-map.html)，[PDF版](http://Liuchao-JIN.github.io/files/Affairs/CUHK_Map_Detail.pdf)
+- 校园地图：[网页版](https://www.cuhk.edu.hk/english/campus/cuhk-campus-map.html)，[PDF版](http://Liuchao-JIN.github.io/files/affairs/CUHK_Map_Detail.pdf)
 - [吃货推荐](https://docs.qq.com/sheet/DTWV2Sk5wS3dSS1pK)
 - [学生机购买](https://www.eduoffer.com/online/catalog/otherProductList/apple/tg/63?sid=63&ot=0&hu=1)
 - [CU PIN码查询](http://www.cuhk.edu.hk/culink/pin)：进出39区旁小门以及节假日进出伍何曼原楼和康本学术园要用，刷CU Link Card然后输入自己的PIN
