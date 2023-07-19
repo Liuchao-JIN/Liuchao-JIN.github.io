@@ -74,7 +74,7 @@ redirect_from:
   - 中银卡在东亚银行和渣打银行的ATM取钱不要手续费，但是恒生和汇丰的ATM要手续费，学校里面有东亚银行的ATM，学校地铁站有中银的ATM
   - 也可以再办一张恒生银行的储蓄卡和信用卡，因为校园里面就有一家恒生银行，遇到啥急着用钱的事情方便一些
 - 办理银行卡时需要提供一些所需材料
-  - 内地身份证+港澳通行证
+  - 香港身份证（如有），内地身份证+港澳通行证
   - 录取通知书
   - 入境小白条
   - 住址证明（校内住宿舍的可以直接找宿管拿，校外租房的稍微麻烦点，可以问问房东）
@@ -119,6 +119,10 @@ redirect_from:
 - 校园地图：[网页版](https://www.cuhk.edu.hk/english/campus/cuhk-campus-map.html)，[PDF版](http://Liuchao-JIN.github.io/files/Affairs/CUHK_Map_Detail.pdf)
 - [吃货推荐](https://docs.qq.com/sheet/DTWV2Sk5wS3dSS1pK)
 - [学生机购买](https://www.eduoffer.com/online/catalog/otherProductList/apple/tg/63?sid=63&ot=0&hu=1)
+- [CU PIN码查询](http://www.cuhk.edu.hk/culink/pin)：进出39区旁小门以及节假日进出伍何曼原楼和康本学术园要用，刷CU Link Card然后输入自己的PIN
+
+### 8. 学业相关
+- [成绩单和在读证明申请](https://www.gs.cuhk.edu.hk/page/requestofficialdocuments)
 
 
 以上是抵达香港前后需要办理的事务汇总。希望这份攻略对你有所帮助！未完待续，后续会加一些补充。如有任何其他问题，请随时在群上提问。
