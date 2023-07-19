@@ -123,6 +123,7 @@ redirect_from:
 - [大学保健处](https://www1.uhs.cuhk.edu.hk/)：免费看病
   - [预约入口](https://www.uhs.cuhk.edu.hk/booking/), 或者可以电话预约：3943 6439。
   - 注：第一次去不能预约，需要直接walk in
+- [大学宾馆预定](https://www.cuhk.edu.hk/ugh/index.html)
 
 ### 8. 学业相关
 - [成绩单和在读证明申请](https://www.gs.cuhk.edu.hk/page/requestofficialdocuments)
