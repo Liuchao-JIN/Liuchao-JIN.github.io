@@ -122,7 +122,7 @@ redirect_from:
 - [学生机购买](https://www.eduoffer.com/online/catalog/otherProductList/apple/tg/63?sid=63&ot=0&hu=1)
 - [CU PIN码查询](http://www.cuhk.edu.hk/culink/pin)：进出39区旁小门以及节假日进出伍何曼原楼和康本学术园要用，刷CU Link Card然后输入自己的PIN
 - [大学保健处](https://www1.uhs.cuhk.edu.hk/)：免费看病
-  - [预约入口](https://www.uhs.cuhk.edu.hk/booking/), 或者可以电话预约：3943 6439。
+  - [预约入口](https://www.uhs.cuhk.edu.hk/booking/)，或者可以电话预约：3943 6439。
   - 注：第一次去不能预约，需要直接walk in
 - [大学宾馆预定](https://www.cuhk.edu.hk/ugh/index.html)
 
