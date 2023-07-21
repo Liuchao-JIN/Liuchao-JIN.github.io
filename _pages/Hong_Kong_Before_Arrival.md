@@ -126,6 +126,7 @@ redirect_from:
   - [预约入口](https://www.uhs.cuhk.edu.hk/booking/)，或者可以电话预约：3943 6439。
   - 注：第一次去不能预约，需要直接walk in
 - [大学宾馆预定](https://www.cuhk.edu.hk/ugh/index.html)
+- [研究生宿舍官网](http://pgh.cuhk.edu.hk/)
 
 ### 8. 学业相关
 - [成绩单和在读证明申请](https://www.gs.cuhk.edu.hk/page/requestofficialdocuments)
