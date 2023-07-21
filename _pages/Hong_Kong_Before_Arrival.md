@@ -23,6 +23,7 @@ redirect_from:
   - 夏天：正常夏装
   - 冬天：温度在几度到十几度，一般毛衣，棉衣或薄款羽绒服（穿不到很厚的羽绒服），但是羽绒服最好备一件
 - 香港可以用淘宝，所以建议来的时候少带点东西，大夏天的香港很热，而且港中文的地形比较陡峭，所以带点生活必需品就好了，其他东西都可以淘宝买过来。值得注意的是，一定要带双拖鞋！！！不然第一天来的时候洗澡很尴尬。一次性的或者不是一次性的都可以，我刚来香港的时候逛了一圈都没找到买正常生活拖鞋的地方。
+- [口岸违禁品清单](http://Liuchao-JIN.github.io/files/affairs/crossborder_contraband.pdf)
 
 ### 关于金钱和银行卡
 
@@ -122,7 +123,7 @@ redirect_from:
 - [学生机购买](https://www.eduoffer.com/online/catalog/otherProductList/apple/tg/63?sid=63&ot=0&hu=1)
 - [CU PIN码查询](http://www.cuhk.edu.hk/culink/pin)：进出39区旁小门以及节假日进出伍何曼原楼和康本学术园要用，刷CU Link Card然后输入自己的PIN
 - [大学保健处](https://www1.uhs.cuhk.edu.hk/)：免费看病
-  - [预约入口](https://www.uhs.cuhk.edu.hk/booking/), 或者可以电话预约：3943 6439。
+  - [预约入口](https://www.uhs.cuhk.edu.hk/booking/)，或者可以电话预约：3943 6439。
   - 注：第一次去不能预约，需要直接walk in
 - [大学宾馆预定](https://www.cuhk.edu.hk/ugh/index.html)
 
