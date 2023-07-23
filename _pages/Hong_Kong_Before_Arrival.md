@@ -132,9 +132,9 @@ redirect_from:
 - [CUHK研究生学习总则](http://Liuchao-JIN.github.io/files/affairs/General_Regulations_Pg.pdf)
 - [Postgraduate Student Handbook](https://www.gs.cuhk.edu.hk/page/PostgraduateStudentHandbook)
 - [研究型研究生学习业务守则](http://Liuchao-JIN.github.io/files/affairs/COP_RPg.pdf)
+- [研究生院学生平台](https://www.gradsch.cuhk.edu.hk/pgstudent/login_cwem.aspx)
 - [成绩单和在读证明申请](https://www.gs.cuhk.edu.hk/page/requestofficialdocuments)
 - [CUHK博士项目要求查询](http://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx)
-- [研究生院学生平台](https://www.gradsch.cuhk.edu.hk/pgstudent/login_cwem.aspx)
 - [23-24中大校历](http://Liuchao-JIN.github.io/files/affairs/UniversityAlmanac202324.pdf)，[2023香港公众假期](https://www.gov.hk/tc/about/abouthk/holiday/2023.htm)
 - [请假流程](http://Liuchao-JIN.github.io/files/affairs/Leave_Guide_Student.pdf)，[年假请假表格](http://Liuchao-JIN.github.io/files/affairs/Form_Leave_RPg_annual_2023.pdf)
 - 学术会议相关
