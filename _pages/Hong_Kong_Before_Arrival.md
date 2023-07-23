@@ -129,9 +129,20 @@ redirect_from:
 - [研究生宿舍官网](http://pgh.cuhk.edu.hk/)
 
 ### 8. 学业相关
+- [CUHK研究生学习总则](http://Liuchao-JIN.github.io/files/affairs/General_Regulations_Pg.pdf)
+- [Postgraduate Student Handbook](https://www.gs.cuhk.edu.hk/page/PostgraduateStudentHandbook)
+- [研究型研究生学习业务守则](http://Liuchao-JIN.github.io/files/affairs/COP_RPg.pdf)
 - [成绩单和在读证明申请](https://www.gs.cuhk.edu.hk/page/requestofficialdocuments)
-- [CUHK博士项目要求](http://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx)
-- [23-24中大校历](http://www.res.cuhk.edu.hk/zh-tw/general-information/university-almanac/university-almanac-for-2023-24/course-registration-dates-inauguration-ceremony-congregation-and-holidays)，[2023香港公众假期](https://www.gov.hk/tc/about/abouthk/holiday/2023.htm)
+- [CUHK博士项目要求查询](http://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx)
+- [研究生院学生平台](https://www.gradsch.cuhk.edu.hk/pgstudent/login_cwem.aspx)
+- [23-24中大校历](http://Liuchao-JIN.github.io/files/affairs/UniversityAlmanac202324.pdf)，[2023香港公众假期](https://www.gov.hk/tc/about/abouthk/holiday/2023.htm)
+- [请假流程](http://Liuchao-JIN.github.io/files/affairs/Leave_Guide_Student.pdf)，[年假请假表格](http://Liuchao-JIN.github.io/files/affairs/Form_Leave_RPg_annual_2023.pdf)
+- 学术会议相关
+  - [Notes for Applicants](http://Liuchao-JIN.github.io/files/affairs/Notes_for_applicants.pdf)
+  - [Application Form for Academic Conferences](http://Liuchao-JIN.github.io/files/affairs/App_form_Conf.pdf)
+  - [Application Form for Academic Activities](http://Liuchao-JIN.github.io/files/affairs/App_form_Activity.pdf)
+  - [Frequently Asked Questions (FAQ)](http://Liuchao-JIN.github.io/files/affairs/PG_Grants_FAQ.pdf)
+- [毕业流程](https://www.gs.cuhk.edu.hk/page/Graduation)
 
 
 以上是抵达香港前后需要办理的事务汇总。希望这份攻略对你有所帮助！未完待续，后续会加一些补充。如有任何其他问题，请随时在群上提问。
