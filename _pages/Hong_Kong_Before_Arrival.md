@@ -118,7 +118,7 @@ redirect_from:
   - [校巴丢失物品报失系统](https://transport.cuhk.edu.hk/tc/report-lost-items/)
 - 校园食堂微信小程序：中大今天吃什么
   - 可以看食堂的分布以及看当天哪些食堂是开着的
-- 校园地图：[网页版](https://www.cuhk.edu.hk/english/campus/cuhk-campus-map.html)，[PDF版](http://Liuchao-JIN.github.io/files/affairs/CUHK_Map_Detail.pdf)
+- 校园地图：[网页版](https://www.cuhk.edu.hk/english/campus/cuhk-campus-map.html)，[PDF版](http://Liuchao-JIN.github.io/files/affairs/CUHK_Map_Detail.pdf)。[校园楼宇缩写总结](http://www.res.cuhk.edu.hk/zh-tw/teaching-timetable-classroom-booking/teaching-timetable/full-time-undergraduate-teaching-timetable/useful-information/buildings-halls)
 - [吃货推荐](https://docs.qq.com/sheet/DTWV2Sk5wS3dSS1pK)
 - [学生机购买](https://www.eduoffer.com/online/catalog/otherProductList/apple/tg/63?sid=63&ot=0&hu=1)
 - [CU PIN码查询](http://www.cuhk.edu.hk/culink/pin)：进出39区旁小门以及节假日进出伍何曼原楼和康本学术园要用，刷CU Link Card然后输入自己的PIN
