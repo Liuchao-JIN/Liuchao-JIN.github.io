@@ -121,7 +121,7 @@ redirect_from:
 - 校园地图：[网页版](https://www.cuhk.edu.hk/english/campus/cuhk-campus-map.html)，[PDF版](http://Liuchao-JIN.github.io/files/affairs/CUHK_Map_Detail.pdf)。[校园楼宇缩写总结](https://liuchao-jin.github.io/buildings_halls_in_cuhk/)
 - [吃货推荐](https://docs.qq.com/sheet/DTWV2Sk5wS3dSS1pK)
 - 香港教育优惠
-  - [苹果学生优惠](https://www.apple.com/hk-zh-hiEd/shop/back-to-school?afid=p238%7Cs0JL3lckA-dc_mtid_18707vxu38484_pcrid_661089417739_pgrid_15185283557_pntwk_g_pchan__pexid_91742715482_&cid=aos-hk-kwgo-brand--slid-kavPWRLV--product-)：iPad和MacBook
+  - [苹果学生优惠](https://www.apple.com/hk-zh-hiEd/store)：iPad和MacBook
   - [学生笔记本购买](https://www.eduoffer.com/online/catalog/otherProductList/apple/tg/63?sid=63&ot=0&hu=1)
 - [CU PIN码查询](http://www.cuhk.edu.hk/culink/pin)：进出39区旁小门以及节假日进出伍何曼原楼和康本学术园要用，刷CU Link Card然后输入自己的PIN
 - [大学保健处](https://www1.uhs.cuhk.edu.hk/)：免费看病
