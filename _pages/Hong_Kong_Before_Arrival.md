@@ -132,6 +132,9 @@ redirect_from:
 - 香港八校通申请
   - [注意事项](https://www.lib.cuhk.edu.hk/sc/use/other-libraries/julac/)
   - [在线申请](https://cas.lib.cuhk.edu.hk/passweb/application.aspx)
+- 天气相关
+  - [香港天文台](https://www.hko.gov.hk/tc/index.html)：台风天密切关注香港天文台，看什么时候挂8号风球学校就放假，校巴也停止运行
+  - [实时台风路径](https://tf.istrongcloud.com/)：观察和监控台风动向
 
 ### 8. 学业相关
 - [CUHK研究生学习总则](http://Liuchao-JIN.github.io/files/affairs/General_Regulations_Pg.pdf)
