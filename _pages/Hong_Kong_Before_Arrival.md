@@ -79,10 +79,10 @@ redirect_from:
   - 录取通知书
   - 入境小白条
   - 住址证明（校内住宿舍的可以直接找宿管拿，校外租房的稍微麻烦点，可以问问房东）
-- 直接到银行现场办理，大约1-2周可取卡并在ATM机激活
+- 直接到银行现场办理，去办银行卡当天就能拿到银行卡号就可以上报给学校，大约1-2周会收到实体卡
 - 去年经验，去沙田第一城的中国银行办理储蓄卡不需要hkid，不过拿到hkid以后需要去银行更新身份信息
 - 如果在第一次发工资前未完成银行卡办理，可前往兆龙楼（大学图书馆前面）的1层领取支票。然后在附近的恒生银行（百佳超市后面，1楼，中大买纪念品的地方坐电梯上去，大膳堂旁边）把支票里面的钱以现金的形式取出来
-- 把银行卡号登记给学校用于接收奖学金：拿到银行卡号以后，填写[Postgraduate Studentship Payment Instruction](http://Liuchao-JIN.github.io/files/affairs/PGS_Payment_Instruction_form_May 23.pdf)表格，填好后交到1/F, Sui-Loong Pao Building或者发送电子版至[aou@cuhk.edu.hk](mailto:aou@cuhk.edu.hk).
+- 把银行卡号登记给学校用于接收奖学金：拿到银行卡号以后，填写[Postgraduate Studentship Payment Instruction](http://Liuchao-JIN.github.io/files/affairs/PGS_Payment_Instruction_form_May 23.pdf)表格，填好后交到1/F, Sui-Loong Pao Building或者发送电子版至[aou@cuhk.edu.hk](mailto:aou@cuhk.edu.hk)。最好在8月底之前完成这步操作，这样学校能把第一个月的奖学金打在银行卡上，否则需要去取支票。
 
 ### 5. 办理电话卡
 
