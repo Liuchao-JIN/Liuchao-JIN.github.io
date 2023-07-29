@@ -120,7 +120,7 @@ redirect_from:
 - 校园食堂微信小程序：中大今天吃什么
   - 可以看食堂的分布以及看当天哪些食堂是开着的
 - 校园地图：[网页版](https://www.cuhk.edu.hk/english/campus/cuhk-campus-map.html)，[PDF版](http://Liuchao-JIN.github.io/files/affairs/CUHK_Map_Detail.pdf)。[校园楼宇缩写总结](https://liuchao-jin.github.io/buildings_halls_in_cuhk/)
-- [吃货推荐](https://docs.qq.com/sheet/DSkVjYVptQ2Z0aW1G?tab=BB08J2)
+- [香港&深圳吃货推荐](https://docs.qq.com/sheet/DSkVjYVptQ2Z0aW1G?tab=BB08J2)
 - 香港教育优惠
   - [苹果学生优惠](https://www.apple.com/hk-zh-hiEd/store)：iPad和MacBook
   - [学生笔记本购买](https://www.eduoffer.com/online/catalog/otherProductList/apple/tg/63?sid=63&ot=0&hu=1)
