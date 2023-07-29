@@ -4,7 +4,7 @@ title: "校园出行指南"
 permalink: /go_to_cuhk/
 author_profile: true
 redirect_from:
-  - "/go_to_cuhk/"
+  - "/go_cuhk/"
 ---
 
 
