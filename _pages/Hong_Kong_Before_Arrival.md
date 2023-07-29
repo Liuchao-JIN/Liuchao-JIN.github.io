@@ -119,7 +119,7 @@ redirect_from:
   - [校巴丢失物品报失系统](https://transport.cuhk.edu.hk/tc/report-lost-items/)
 - 校园食堂微信小程序：中大今天吃什么
   - 可以看食堂的分布以及看当天哪些食堂是开着的
-- 校园地图：[网页版](https://www.cuhk.edu.hk/english/campus/cuhk-campus-map.html)，[PDF版](http://Liuchao-JIN.github.io/files/affairs/CUHK_Map_Detail.pdf)。[校园楼宇缩写总结](https://liuchao-jin.github.io/buildings_halls_in_cuhk/)
+- 校园地图：[网页版](https://www.cuhk.edu.hk/english/campus/cuhk-campus-map.html)，[PDF版](http://Liuchao-JIN.github.io/files/affairs/CUHK_Map_Detail.pdf) | [校园楼宇缩写总结](https://liuchao-jin.github.io/buildings_halls_in_cuhk/) | [校园出行指南](https://liuchao-jin.github.io/go_to_cuhk/)
 - [香港&深圳吃货推荐](https://docs.qq.com/sheet/DSkVjYVptQ2Z0aW1G?tab=BB08J2)
 - 香港教育优惠
   - [苹果学生优惠](https://www.apple.com/hk-zh-hiEd/store)：iPad和MacBook
