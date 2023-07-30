@@ -142,6 +142,7 @@ redirect_from:
 - [Postgraduate Student Handbook](https://www.gs.cuhk.edu.hk/page/PostgraduateStudentHandbook)
 - [研究型研究生学习业务守则](http://Liuchao-JIN.github.io/files/affairs/COP_RPg.pdf)
 - [研究生院学生平台](https://www.gradsch.cuhk.edu.hk/pgstudent/login_cwem.aspx)
+- [CUSIS使用手册](https://www.cuhk.edu.hk/cusis/faqs.html)
 - [成绩单和在读证明申请](https://www.gs.cuhk.edu.hk/page/requestofficialdocuments)
 - [CUHK博士项目要求查询](http://rgsntl.rgs.cuhk.edu.hk/aqs_prd_applx/Public/tt_dsp_acad_prog.aspx)
 - [23-24中大校历](http://Liuchao-JIN.github.io/files/affairs/UniversityAlmanac202324.pdf)，[2023香港公众假期](https://www.gov.hk/tc/about/abouthk/holiday/2023.htm)
