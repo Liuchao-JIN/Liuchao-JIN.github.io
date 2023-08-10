@@ -8,4 +8,4 @@ venue: 'Additive Manufacturing'
 paperurl: 'https://doi.org/10.1016/j.addma.2023.103633'
 citation: 'Jingchao Jiang, Xiaoya Zhai, Kang Zhang, Liuchao Jin, Qitao Lu, Zhichao Shen, and Wei-Hsin Liao (2023). &quot;Low-melting-point alloys integrated extrusion additive manufacturing.&quot; <i>Additive Manufacturing</i>. 103633. '
 ---
-[Download paper here](http://Liuchao-JIN.github.io/files/My_Essay/jiang2023low.pdf)
+[Download paper here](http://Liuchao-JIN.github.io/files/my_essay/jiang2023low.pdf)

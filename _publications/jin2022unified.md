@@ -8,4 +8,4 @@ venue: '2022 IEEE International Conference on Unmanned Systems (ICUS)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9986880'
 citation: 'Liuchao Jin, Yuchen Lou, Lu-An Chen, and Qi Lu. (2022). &quot;The Unified Tracking Controller for a Tilt-Rotor Unmanned Aerial Vehicle Based on the Dual Quaternion.&quot; <i>2022 IEEE International Conference on Unmanned Systems (ICUS)</i>. pp. 1356-1363. '
 ---
-[Download paper here](http://Liuchao-JIN.github.io/files/My_Essay/jin2022unified.pdf)
+[Download paper here](http://Liuchao-JIN.github.io/files/my_essay/jin2022unified.pdf)
