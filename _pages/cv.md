@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Mechanical and Automation Engineering, [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), 2022-2026 (expected)
-  * Research Direction: 3D/4D Printing, Soft Robotics. Award: [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (HKPFS). Supervisor : Prof. [Wei-Hsin Liao](https://www4.mae.cuhk.edu.hk/peoples/liao-wei-hsin/)
-  * Joint Training at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech). Co-Supervisor : Prof. [Qi Ge](https://faculty.sustech.edu.cn/?tagid=geq&iscss=1&snapid=1&orderby=date&go=1&lang=en)
+  * Research Direction: 3D/4D Printing, Soft Robotics. Award: [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (HKPFS). Supervisor: Prof. [Wei-Hsin Liao](https://www4.mae.cuhk.edu.hk/peoples/liao-wei-hsin/)
+  * Joint Training at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech). Co-Supervisor: Prof. [Qi Ge](https://faculty.sustech.edu.cn/?tagid=geq&iscss=1&snapid=1&orderby=date&go=1&lang=en)
 * [BE](http://Liuchao-JIN.github.io/files/JLC_BE.pdf) in Mechanical Engineering, [Sichuan University - Pittsburgh Institute (SCUPI)](https://scupi.scu.edu.cn/en/), 2018-2022
   * [GPA: 4.0/4.0](http://Liuchao-JIN.github.io/files/Award/Transcripts_Bachelor.pdf); [Weighted Average Mark: 96.29/100](http://Liuchao-JIN.github.io/files/Award/Transcripts_Bachelor.pdf); [Ranking: 1/79](http://Liuchao-JIN.github.io/files/Award/Ranking.pdf)
 
