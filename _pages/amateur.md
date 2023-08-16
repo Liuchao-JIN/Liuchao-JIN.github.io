@@ -25,3 +25,5 @@ My Video Production
 * [A Discussion on Female Characters in Science Fiction Movies](https://www.bilibili.com/video/BV1N5411x71K/?spm_id_from=333.999.0.0&vd_source=2c30e5be5b16e81e5e9d55ca932d919b)
 * News Report Liuchao Jin Produced on TV Station
   * [Floating clouds are in the sky, discussing cloudy and sunny](https://youtu.be/oEgAy98JnBU)
+  * [Internet + Education, Sichuan University Invites You to Get on The Bus](https://youtu.be/xyUnZaI6moE)
+  * [Globalization Forum at Sichuan University - Pittsburgh Institute](https://youtu.be/35hdpaS5UXE)
