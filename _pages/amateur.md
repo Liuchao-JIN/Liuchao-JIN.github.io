@@ -29,3 +29,4 @@ My Video Production
   * [Globalization Forum at Sichuan University - Pittsburgh Institute](https://youtu.be/35hdpaS5UXE)
   * [Have You Watched The Graduation Drama of The Academy of Arts?](https://youtu.be/tHhPA187ogE)
   * [In Sichuan University, Have You Slept Well?](https://youtu.be/cubDTsCbvvw)
+  * [The Red Movie Viewing Event Was Successfully Held in Jiang'an Campus Sichuan University](https://youtu.be/GArH4fv_qVY)
