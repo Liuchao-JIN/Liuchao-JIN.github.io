@@ -23,3 +23,5 @@ My Video Production
 * [Paintbrush on Manhole Cover](https://youtu.be/knf8QAuXiSw)
 * [The Meaning of Military Training](https://youtu.be/d3bo9BFm_Cs)
 * [A Discussion on Female Characters in Science Fiction Movies](https://www.bilibili.com/video/BV1N5411x71K/?spm_id_from=333.999.0.0&vd_source=2c30e5be5b16e81e5e9d55ca932d919b)
+* News Report Liuchao Jin Produced on TV Station
+  * [Floating clouds are in the sky, discussing cloudy and sunny](https://youtu.be/oEgAy98JnBU)
