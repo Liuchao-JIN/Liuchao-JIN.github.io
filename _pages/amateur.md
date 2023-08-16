@@ -28,3 +28,4 @@ My Video Production
   * [Internet + Education, Sichuan University Invites You to Get on The Bus](https://youtu.be/xyUnZaI6moE)
   * [Globalization Forum at Sichuan University - Pittsburgh Institute](https://youtu.be/35hdpaS5UXE)
   * [Have You Watched The Graduation Drama of The Academy of Arts?](https://youtu.be/tHhPA187ogE)
+  * [In Sichuan University, Have You Slept Well?](https://youtu.be/cubDTsCbvvw)
