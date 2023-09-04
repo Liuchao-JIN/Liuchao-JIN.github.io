@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[CV PDF](http://Liuchao-JIN.github.io/files/affairs/cv_liuchao_jin.pdf)
+
 Education
 ======
 * Ph.D in Mechanical and Automation Engineering, [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), 2022-2026 (expected)
