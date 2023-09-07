@@ -8,6 +8,7 @@ tags:
   - finite elements
 ---
 
+In this blog, I will describe how to automate Abaqus Finite Element Analyses using python script on example of optimization plain panel from composite material under the temperature change.
 
 Introduction
 ======
@@ -28,3 +29,5 @@ Useful information
   * [Efficient Finite Element Modelling - Automated model generation & evaluation using Simulia Abaqus](http://Liuchao-JIN.github.io/files/research/abq_python.pdf)
 * Videos
   * [How to create Python scripts automatically using ABAQUS CAE](https://www.youtube.com/watch?v=1zT2xGLv01E)
+* Websites
+  * [Automatization of Abaqus FEA using python](https://balashov-artem.github.io/Portfolio/projects/automatization-of-abaqus-fea-using-python/)
