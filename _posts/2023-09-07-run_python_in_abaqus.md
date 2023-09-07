@@ -19,3 +19,10 @@ Traditionally, creating finite element models for complex structures or simulati
 However, by leveraging Python's scripting capabilities, you can significantly reduce the time and effort required to set up these models. This not only enhances productivity but also ensures consistency and accuracy in your simulations.
 
 In this tutorial, we will walk you through the fundamentals of automating the process of generating finite element models in ABAQUS. Whether you are a seasoned FEA practitioner looking to optimize your workflow or a newcomer eager to explore the potential of automation, this guide will provide you with the knowledge and tools to get started.
+
+
+Useful information
+======
+
+* Book
+  * [Efficient Finite Element Modelling - Automated model generation & evaluation using Simulia Abaqus](http://Liuchao-JIN.github.io/files/research/abq_python.pdf)
