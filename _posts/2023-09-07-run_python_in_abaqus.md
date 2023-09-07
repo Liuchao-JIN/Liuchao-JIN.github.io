@@ -1,6 +1,6 @@
 ---
 title: "How to generate FE model automatically by python in ABAQUS"
-date: 2023-08-08
+date: 2023-09-07
 permalink: /posts/2023/09/python_abaqus/
 tags:
   - python
