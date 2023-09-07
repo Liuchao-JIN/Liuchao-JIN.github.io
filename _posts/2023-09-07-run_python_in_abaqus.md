@@ -24,5 +24,7 @@ In this tutorial, we will walk you through the fundamentals of automating the pr
 Useful information
 ======
 
-* Book
+* Books
   * [Efficient Finite Element Modelling - Automated model generation & evaluation using Simulia Abaqus](http://Liuchao-JIN.github.io/files/research/abq_python.pdf)
+* Videos
+  * [How to create Python scripts automatically using ABAQUS CAE](https://www.youtube.com/watch?v=1zT2xGLv01E)
