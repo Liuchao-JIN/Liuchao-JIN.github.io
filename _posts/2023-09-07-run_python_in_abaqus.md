@@ -31,3 +31,4 @@ Useful information
   * [How to create Python scripts automatically using ABAQUS CAE](https://www.youtube.com/watch?v=1zT2xGLv01E)
 * Websites
   * [Automatization of Abaqus FEA using python](https://balashov-artem.github.io/Portfolio/projects/automatization-of-abaqus-fea-using-python/)
+  * [Using the Partition toolset in Abaqus](https://abaqus-docs.mit.edu/2017/English/SIMACAECAERefMap/simacae-c-parstart.htm)
