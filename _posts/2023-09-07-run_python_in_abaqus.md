@@ -22,7 +22,7 @@ However, by leveraging Python's scripting capabilities, you can significantly re
 In this tutorial, we will walk you through the fundamentals of automating the process of generating finite element models in ABAQUS. Whether you are a seasoned FEA practitioner looking to optimize your workflow or a newcomer eager to explore the potential of automation, this guide will provide you with the knowledge and tools to get started.
 
 
-``` python
+~~~python
 # -*- coding: mbcs -*-
 # Do not delete the following import lines
 from abaqus import *
@@ -525,7 +525,7 @@ mdb.Job(name='heatupjob', model='Model-1', description='', type=ANALYSIS,
     scratch='', resultsFormat=ODB, numThreadsPerMpiProcess=1,
     multiprocessingMode=DEFAULT, numCpus=1, numGPUs=0)
 mdb.jobs['heatupjob'].submit(consistencyChecking=OFF)
-```
+~~~
 
 Useful information
 ======
