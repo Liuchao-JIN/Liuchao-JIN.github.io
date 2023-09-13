@@ -29,7 +29,7 @@ Useful information
   * [Efficient Finite Element Modelling - Automated model generation & evaluation using Simulia Abaqus](http://Liuchao-JIN.github.io/files/research/abq_python.pdf)
 * Videos
   * [How to create Python scripts automatically using ABAQUS CAE](https://www.youtube.com/watch?v=1zT2xGLv01E)
-  * [Abaqus Python Scripting 03/10 - Use coordinate instead of get Sequence from mask for material assign](https://www.youtube.com/watch?v=LVwKZnwh9W4)
+  * [Use coordinate instead of get Sequence from mask for material assign](https://www.youtube.com/watch?v=LVwKZnwh9W4)
 * Websites
   * [Automatization of Abaqus FEA using python](https://balashov-artem.github.io/Portfolio/projects/automatization-of-abaqus-fea-using-python/)
   * [Using the Partition toolset in Abaqus](https://abaqus-docs.mit.edu/2017/English/SIMACAECAERefMap/simacae-c-parstart.htm)
