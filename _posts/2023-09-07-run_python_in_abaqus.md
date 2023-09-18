@@ -538,6 +538,7 @@ Useful information
   * [How to do ABAQUS Scripting; Simulating a Simple Disk Compression Test](https://www.youtube.com/watch?v=dKXgYoe3UPo)
   * [Learn ABAQUS Scripting; Export Results Automatically from ODB Files](https://www.youtube.com/watch?v=a5hT9oSPJKQ)
   * [How to READ and UNDERSTAND ABAQUS Files](https://www.youtube.com/watch?v=au7cQQU2rmE)
+  * [How to get node labels labels in ABAQUS](https://www.youtube.com/watch?v=J3mzux9sQus)
 * Websites
   * [Automatization of Abaqus FEA using python](https://balashov-artem.github.io/Portfolio/projects/automatization-of-abaqus-fea-using-python/)
   * [Using the Partition toolset in Abaqus](https://abaqus-docs.mit.edu/2017/English/SIMACAECAERefMap/simacae-c-parstart.htm)
