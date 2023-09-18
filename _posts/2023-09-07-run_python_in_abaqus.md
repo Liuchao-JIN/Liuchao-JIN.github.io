@@ -543,3 +543,4 @@ Useful information
   * [Automatization of Abaqus FEA using python](https://balashov-artem.github.io/Portfolio/projects/automatization-of-abaqus-fea-using-python/)
   * [Using the Partition toolset in Abaqus](https://abaqus-docs.mit.edu/2017/English/SIMACAECAERefMap/simacae-c-parstart.htm)
   * [ABAQUS/CAE User's Manual](https://classes.engineering.wustl.edu/2009/spring/mase5513/abaqus/docs/v6.6/books/usi/default.htm?startat=pt06ch44s04.html)
+  * [Abaqus FEA Scripting with python](https://ifcuriousthenlearn.com/blog/2015/04/02/Abaqus-FEA-Scripting-with-python/)
