@@ -34,4 +34,4 @@ author_profile: true
 - PHYS0175: [Physics for Science and Engineering 2](http://Liuchao-JIN.github.io/files/teaching/2020F_PHYS0175.pdf) (Fall 2020)
 - ENGR0011: [Introduction to Engineering Analysis](http://Liuchao-JIN.github.io/files/teaching/2020F_ENGR0011.pdf) (Fall 2020)
 - MATH0240: [Analytic Geometry and Calculus 3](http://Liuchao-JIN.github.io/files/teaching/2020S_MATH0240.pdf) (Spring 2020)
-- HYS0174: [Physics for Science and Engineering 1](http://Liuchao-JIN.github.io/files/teaching/2020S_PHYS0174.pdf) (Spring 2020)
+- PHYS0174: [Physics for Science and Engineering 1](http://Liuchao-JIN.github.io/files/teaching/2020S_PHYS0174.pdf) (Spring 2020)
