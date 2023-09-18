@@ -6,6 +6,6 @@ excerpt: 'Robotic fish will become the next generation of submersibles due to th
 date: 2023-08-10
 venue: 'Ships and Offshore Structures'
 paperurl: 'https://doi.org/10.1080/17445302.2023.2245164'
-citation: 'Liuchao Jin and Weicheng Cui. (2023). &quot;On technical issues for underwater charging of robotic fish schools using ocean renewable energy.&quot; <i>Ships and Offshore Structures</i>. '
+citation: 'Liuchao Jin and Weicheng Cui. (2023). &quot;On technical issues for underwater charging of robotic fish schools using ocean renewable energy.&quot; <i>Ships and Offshore Structures</i>. 1-11. '
 ---
 [Download paper here](http://Liuchao-JIN.github.io/files/my_essay/jin2023on.pdf)
