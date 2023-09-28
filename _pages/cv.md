@@ -17,17 +17,17 @@ Education
   * Research Direction: 3D/4D Printing, Soft Robotics. Award: [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (HKPFS). Supervisor: Prof. [Wei-Hsin Liao](https://www4.mae.cuhk.edu.hk/peoples/liao-wei-hsin/)
   * Joint Training at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech). Co-Supervisor: Prof. [Qi Ge](https://faculty.sustech.edu.cn/?tagid=geq&iscss=1&snapid=1&orderby=date&go=1&lang=en)
 * [BE](http://Liuchao-JIN.github.io/files/JLC_BE.pdf) in Mechanical Engineering, [Sichuan University - Pittsburgh Institute (SCUPI)](https://scupi.scu.edu.cn/en/), 2018-2022
-  * [GPA: 4.0/4.0](http://Liuchao-JIN.github.io/files/Award/Transcripts_Bachelor.pdf); [Weighted Average Mark: 96.29/100](http://Liuchao-JIN.github.io/files/Award/Transcripts_Bachelor.pdf); [Ranking: 1/79](http://Liuchao-JIN.github.io/files/Award/Ranking.pdf)
+  * [GPA: 4.0/4.0](http://Liuchao-JIN.github.io/files/award/Transcripts_Bachelor.pdf); [Weighted Average Mark: 96.29/100](http://Liuchao-JIN.github.io/files/award/Transcripts_Bachelor.pdf); [Ranking: 1/79](http://Liuchao-JIN.github.io/files/award/Ranking.pdf)
 
 
 Work experience
 ======
-* 04/2021-09/2021: [Westlake University](https://en.westlake.edu.cn/), [Research Assistant](http://Liuchao-JIN.github.io/files/Award/2021_Westlake_Research_Intern.pdf) (Supervisor: Prof. [Weicheng Cui](https://en.westlake.edu.cn/faculty/weicheng-cui.html))
+* 04/2021-09/2021: [Westlake University](https://en.westlake.edu.cn/), [Research Assistant](http://Liuchao-JIN.github.io/files/award/2021_Westlake_Research_Intern.pdf) (Supervisor: Prof. [Weicheng Cui](https://en.westlake.edu.cn/faculty/weicheng-cui.html))
   * Made device design for underwater charging of robotic fishes using marine renewable energy.
   * Did research on technical solutions and scientific insights that advance engineering and robotics by leveraging the methodologies and design principles of robotic fish.
   * Wrote a review paper about underwater charging for a school of robotic fishes through renewable energy.
 
-* 03/2021-09/2021: [McGill University](https://www.mcgill.ca/), [Research Assistant](http://Liuchao-JIN.github.io/files/Award/2021_Mitacs.pdf) (Supervisor: Prof. [Abdolhamid Akbarzadeh Shafaroudi](https://www.mcgill.ca/bioeng/faculty-and-staff/academic-staff/abdolhamid-akbarzadeh-shafaroudi))
+* 03/2021-09/2021: [McGill University](https://www.mcgill.ca/), [Research Assistant](http://Liuchao-JIN.github.io/files/award/2021_Mitacs.pdf) (Supervisor: Prof. [Abdolhamid Akbarzadeh Shafaroudi](https://www.mcgill.ca/bioeng/faculty-and-staff/academic-staff/abdolhamid-akbarzadeh-shafaroudi))
   * [Mitacs Globalink Research Internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship)
   * Examined potential energy resources in automotive and aeroplane/helicopter, e.g. vibration of helicopter rotor system, embedded strain in vehicle frame, and solar energy received by the frame.
   * Developed a methodology for harvesting energy from the wasted resources using lightweight smart cellular solids made of piezoelectric materials or active composites.
@@ -81,34 +81,34 @@ ME1020: [Mechanical Vibration](http://Liuchao-JIN.github.io/files/teaching/2022S
 
 Honors & Awards
 ======
-* 11/2022 [Outstanding Senior Project Award](http://Liuchao-JIN.github.io/files/Award/2022_UniOutSP.pdf) in Sichuan University
-* 10/2022 [Best Paper Award](http://Liuchao-JIN.github.io/files/Award/2022_BestPaper.pdf) in 2022 IEEE International Conference on Unmanned Systems (ICUS)
+* 11/2022 [Outstanding Senior Project Award](http://Liuchao-JIN.github.io/files/award/2022_UniOutSP.pdf) in Sichuan University
+* 10/2022 [Best Paper Award](http://Liuchao-JIN.github.io/files/award/2022_BestPaper.pdf) in 2022 IEEE International Conference on Unmanned Systems (ICUS)
 * 06/2022 Outstanding Senior Project Award in Sichuan University-Pittsburgh Institute
-* 05/2022 [First Prize in The 7th National Academic English Vocabulary Competition](http://Liuchao-JIN.github.io/files/Award/2022_NAEV.pdf) (NAEV)
+* 05/2022 [First Prize in The 7th National Academic English Vocabulary Competition](http://Liuchao-JIN.github.io/files/award/2022_NAEV.pdf) (NAEV)
 * 05/2022 Outstanding Senior Project Poster Award in Sichuan University-Pittsburgh Institute
 * 03/2022 Outstanding Graduate of Sichuan Province
 * 03/2022 Outstanding Communist Party Member of Sichuan University-Pittsburgh Institute
-* 01/2022 [A-level Certificate in Comprehensive Quality of University Students](http://Liuchao-JIN.github.io/files/Award/2022_ZongA.pdf) in Sichuan Province
+* 01/2022 [A-level Certificate in Comprehensive Quality of University Students](http://Liuchao-JIN.github.io/files/award/2022_ZongA.pdf) in Sichuan Province
 * 12/2021 2020-2021 Academic Year [National Scholarship](https://xsc.scu.edu.cn/WebSite/XG/Home/Detail?npVCXJmTU-kgkhPQEX1DodXwoRsKACEqWkvleYpUOwbYYYXlCbPoJtOgCnPcINVqfIpqw504IvZty7AogOkNAw==.shtml) (China) (¥8,000)
 * 10/2021 Outstanding Graduate of Sichuan University
 * 10/2021 2020-2021 Academic Year Outstanding Student of Sichuan University
 * 10/2021 2020-2021 Academic Year Sichuan University-Pittsburgh Institute Best Academic Achiever Award (¥60,000)
 * 09/2021 First Prize in [Chinese Tale - English Talk](https://scupi.scu.edu.cn/activities/%e4%b8%ad%e6%96%87%e8%a5%bf%e8%ae%b2%e6%bc%94%e8%ae%b2%e6%af%94%e8%b5%9b)
-* 07/2021 [Outstanding Camper](http://Liuchao-JIN.github.io/files/Award/2021_Westlake_Summer_Camp_Outstanding.pdf) in [Westlake University Engineering Summer Camp](http://Liuchao-JIN.github.io/files/Award/2021_Westlake_Summer_Camp.pdf)
+* 07/2021 [Outstanding Camper](http://Liuchao-JIN.github.io/files/award/2021_Westlake_Summer_Camp_Outstanding.pdf) in [Westlake University Engineering Summer Camp](http://Liuchao-JIN.github.io/files/award/2021_Westlake_Summer_Camp.pdf)
 * 06/2021 Second Prize in [Videos and Voices Short Video Contest](https://scupi.scu.edu.cn/activities/%e5%af%bb%e5%a3%b0%e8%a7%85%e5%bd%b1%e7%9f%ad%e8%a7%86%e9%a2%91%e5%88%9b%e4%bd%9c%e5%a4%a7%e8%b5%9b)
-* 05/2021 [Second Prize in The 6th National Academic English Vocabulary Competition](http://Liuchao-JIN.github.io/files/Award/2021_NAEV.pdf) (NAEV)
-* 04/2021 [Honorable Mention in 2021 Mathematical Contest in Modeling](http://Liuchao-JIN.github.io/files/Award/2021_MCM.pdf) (MCM)
-* 12/2020 2019-2020 Academic Year [National Scholarship](http://Liuchao-JIN.github.io/files/Award/2020_NationalScholarship.pdf) (China) (¥8,000)
-* 10/2020 2019-2020 Academic Year [Outstanding Student](http://Liuchao-JIN.github.io/files/Award/2020_SCU_Outstanding.pdf) of Sichuan University
-* 09/2020 [Excellent Teaching Assistant Award](http://Liuchao-JIN.github.io/files/Award/2020_Outstanding_TA.pdf) for Sichuan University-Pittsburgh Institute
-* 09/2020 2019-2020 Academic Year Sichuan University-Pittsburgh Institute [Academic Star](http://Liuchao-JIN.github.io/files/Award/2020_Academic_Star.pdf) (¥10,000)
-* 12/2019 2018-2019 Academic Year [National Scholarship](http://Liuchao-JIN.github.io/files/Award/2019_NationalScholarship.pdf) (China) (¥8,000)
-* 12/2019 [Excellent Student in Party School](http://Liuchao-JIN.github.io/files/Award/2019_Party_School.pdf) of the Sichuan University Committee of the Communist Party of China
-* 10/2019 2018-2019 Academic Year [Outstanding Student](http://Liuchao-JIN.github.io/files/Award/2019_SCU_Outstanding.pdf) of Sichuan University
-* 09/2019 2018-2019 Academic Year Sichuan University-Pittsburgh Institute [Best Academic Achiever Award](http://Liuchao-JIN.github.io/files/Award/2019_Best_Academic.pdf) (¥60,000)
-* 07/2019 [First Prize](http://Liuchao-JIN.github.io/files/Award/2019_Video_Friend.pdf) in the Special Category of the 9th ”[Video Friends Cup](https://mp.weixin.qq.com/s/LDRg9gwwwKdUBDOkBet5CQ)” China University TV Awards
-* 07/2019 [Excellent Student of Military Skills Training](http://Liuchao-JIN.github.io/files/Award/2019_Military.pdf) in Sichuan University
-* 02/2019 [Student Ambassador](http://Liuchao-JIN.github.io/files/Award/2019_SCUPIAmb.pdf) of Sichuan University-Pittsburgh Institute
+* 05/2021 [Second Prize in The 6th National Academic English Vocabulary Competition](http://Liuchao-JIN.github.io/files/award/2021_NAEV.pdf) (NAEV)
+* 04/2021 [Honorable Mention in 2021 Mathematical Contest in Modeling](http://Liuchao-JIN.github.io/files/award/2021_MCM.pdf) (MCM)
+* 12/2020 2019-2020 Academic Year [National Scholarship](http://Liuchao-JIN.github.io/files/award/2020_NationalScholarship.pdf) (China) (¥8,000)
+* 10/2020 2019-2020 Academic Year [Outstanding Student](http://Liuchao-JIN.github.io/files/award/2020_SCU_Outstanding.pdf) of Sichuan University
+* 09/2020 [Excellent Teaching Assistant Award](http://Liuchao-JIN.github.io/files/award/2020_Outstanding_TA.pdf) for Sichuan University-Pittsburgh Institute
+* 09/2020 2019-2020 Academic Year Sichuan University-Pittsburgh Institute [Academic Star](http://Liuchao-JIN.github.io/files/award/2020_Academic_Star.pdf) (¥10,000)
+* 12/2019 2018-2019 Academic Year [National Scholarship](http://Liuchao-JIN.github.io/files/award/2019_NationalScholarship.pdf) (China) (¥8,000)
+* 12/2019 [Excellent Student in Party School](http://Liuchao-JIN.github.io/files/award/2019_Party_School.pdf) of the Sichuan University Committee of the Communist Party of China
+* 10/2019 2018-2019 Academic Year [Outstanding Student](http://Liuchao-JIN.github.io/files/award/2019_SCU_Outstanding.pdf) of Sichuan University
+* 09/2019 2018-2019 Academic Year Sichuan University-Pittsburgh Institute [Best Academic Achiever Award](http://Liuchao-JIN.github.io/files/award/2019_Best_Academic.pdf) (¥60,000)
+* 07/2019 [First Prize](http://Liuchao-JIN.github.io/files/award/2019_Video_Friend.pdf) in the Special Category of the 9th ”[Video Friends Cup](https://mp.weixin.qq.com/s/LDRg9gwwwKdUBDOkBet5CQ)” China University TV Awards
+* 07/2019 [Excellent Student of Military Skills Training](http://Liuchao-JIN.github.io/files/award/2019_Military.pdf) in Sichuan University
+* 02/2019 [Student Ambassador](http://Liuchao-JIN.github.io/files/award/2019_SCUPIAmb.pdf) of Sichuan University-Pittsburgh Institute
 
 Leadership & Extracurricular Activities
 ======
