@@ -1,8 +1,0 @@
-@article{hann20234d,
-  title={4D Thermo-Responsive Smart hiPSC-CM Cardiac Construct for Myocardial Cell Therapy},
-  author={Hann, Sung Yun and Cui, Haitao and Esworthy, Timothy and Zhang, Lijie Grace},
-  journal={International Journal of Nanomedicine},
-  pages={1809--1821},
-  year={2023},
-  publisher={Taylor \& Francis}
-}

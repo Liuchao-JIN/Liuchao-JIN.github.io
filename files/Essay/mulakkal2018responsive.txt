@@ -1,9 +1,0 @@
-@article{mulakkal2018responsive,
-  title={Responsive cellulose-hydrogel composite ink for 4D printing},
-  author={Mulakkal, Manu C and Trask, Richard S and Ting, Valeska P and Seddon, Annela M},
-  journal={Materials \& Design},
-  volume={160},
-  pages={108--118},
-  year={2018},
-  publisher={Elsevier}
-}

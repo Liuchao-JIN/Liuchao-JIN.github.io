@@ -1,9 +1,0 @@
-@article{zhang2023tailorable,
-  title={Tailorable activation of thermoresponsive composite structures incorporating wavy heaters via hybrid manufacturing},
-  author={Zhang, Yuan-Fang and Li, Honggeng and Long, Chengyun and Xiong, Yi and Ge, Qi},
-  journal={Composites Communications},
-  volume={38},
-  pages={101523},
-  year={2023},
-  publisher={Elsevier}
-}

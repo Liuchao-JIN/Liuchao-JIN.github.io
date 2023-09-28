@@ -1,9 +1,0 @@
-@article{jia2021flexible,
-  title={Flexible, biocompatible and highly conductive MXene-graphene oxide film for smart actuator and humidity sensor},
-  author={Jia, Guangwen and Zheng, Ao and Wang, Xiao and Zhang, Lu and Li, Ling and Li, Chenxing and Zhang, Yan and Cao, Lingyan},
-  journal={Sensors and Actuators B: Chemical},
-  volume={346},
-  pages={130507},
-  year={2021},
-  publisher={Elsevier}
-}

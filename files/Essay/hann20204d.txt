@@ -1,9 +1,0 @@
-@article{hann20204d,
-  title={4D printing soft robotics for biomedical applications},
-  author={Hann, Sung Yun and Cui, Haitao and Nowicki, Margaret and Zhang, Lijie Grace},
-  journal={Additive Manufacturing},
-  volume={36},
-  pages={101567},
-  year={2020},
-  publisher={Elsevier}
-}

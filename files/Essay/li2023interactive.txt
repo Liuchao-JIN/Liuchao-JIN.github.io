@@ -1,8 +1,0 @@
-@article{li2023interactive,
-  title={Interactive Structural Topology Optimization with Subjective Scoring and Drawing Systems},
-  author={Li, Zhi and Lee, Ting-Uei and Xie, Yi Min},
-  journal={Computer-Aided Design},
-  pages={103532},
-  year={2023},
-  publisher={Elsevier}
-}
