@@ -1,0 +1,8 @@
+@article{zhai2023isogeometric,
+  title={Isogeometric topology optimization of auxetic materials based on moving morphable components method},
+  author={Zhai, Xiaoya and Gai, Yundong and Jin, Liuchao and Liao, Wei-Hsin and Chen, Falai and Hu, Ping},
+  journal={Advanced Topics in Mechanics of Materials, Structures and Construction: AToMech1-2023},
+  pages={172},
+  year={2023},
+  publisher={Materials Research Forum LLC}
+}
