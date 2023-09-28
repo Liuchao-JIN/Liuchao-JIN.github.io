@@ -1,0 +1,8 @@
+@article{leanza2023active,
+  title={Active Materials for Functional Origami},
+  author={Leanza, Sophie and Wu, Shuai and Sun, Xiaohao and Qi, H Jerry and Zhao, Ruike Renee},
+  journal={Advanced Materials},
+  pages={2302066},
+  year={2023},
+  publisher={Wiley Online Library}
+}

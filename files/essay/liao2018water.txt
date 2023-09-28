@@ -1,0 +1,9 @@
+@article{liao2018water,
+  title={Water/ice as sprayable sacrificial materials in low-temperature 3D printing for biomedical applications},
+  author={Liao, Chao-Yaug and Wu, Wei-Jen and Hsieh, Cheng-Tien and Yang, Hung-Ching and Tseng, Ching-Shiow and Hsu, Shan-hui},
+  journal={Materials \& Design},
+  volume={160},
+  pages={624--635},
+  year={2018},
+  publisher={Elsevier}
+}

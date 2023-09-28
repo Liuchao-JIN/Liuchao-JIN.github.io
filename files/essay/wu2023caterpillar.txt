@@ -1,0 +1,10 @@
+@article{wu2023caterpillar,
+  title={Caterpillar-inspired soft crawling robot with distributed programmable thermal actuation},
+  author={Wu, Shuang and Hong, Yaoye and Zhao, Yao and Yin, Jie and Zhu, Yong},
+  journal={Science Advances},
+  volume={9},
+  number={12},
+  pages={eadf8014},
+  year={2023},
+  publisher={American Association for the Advancement of Science}
+}

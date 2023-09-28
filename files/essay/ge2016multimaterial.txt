@@ -1,0 +1,10 @@
+@article{ge2016multimaterial,
+  title={Multimaterial 4D printing with tailorable shape memory polymers},
+  author={Ge, Qi and Sakhaei, Amir Hosein and Lee, Howon and Dunn, Conner K and Fang, Nicholas X and Dunn, Martin L},
+  journal={Scientific reports},
+  volume={6},
+  number={1},
+  pages={1--11},
+  year={2016},
+  publisher={Springer}
+}

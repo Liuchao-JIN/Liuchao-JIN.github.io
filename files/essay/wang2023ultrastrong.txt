@@ -1,0 +1,9 @@
+@article{wang2023ultrastrong,
+  title={Ultrastrong and damage-tolerant ceramic architectures via 3D printing},
+  author={Wang, Rong and Ye, Haitao and Cheng, Jianxiang and Li, Honggeng and Zhu, Pengfei and Li, Bo and Fan, Rong and Chen, Juzheng and Lu, Yang and Ge, Qi},
+  journal={Additive Manufacturing},
+  volume={61},
+  pages={103361},
+  year={2023},
+  publisher={Elsevier}
+}

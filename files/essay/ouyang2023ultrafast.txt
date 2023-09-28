@@ -1,0 +1,10 @@
+@article{ouyang2023ultrafast,
+  title={Ultrafast 3D nanofabrication via digital holography},
+  author={Ouyang, Wenqi and Xu, Xiayi and Lu, Wanping and Zhao, Ni and Han, Fei and Chen, Shih-Chi},
+  journal={Nature Communications},
+  volume={14},
+  number={1},
+  pages={1716},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
+}

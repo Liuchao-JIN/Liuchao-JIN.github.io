@@ -1,0 +1,10 @@
+@article{han2010ice,
+  title={Ice lithography for nanodevices},
+  author={Han, Anpan and Vlassarev, Dimitar and Wang, Jenny and Golovchenko, Jene A and Branton, Daniel},
+  journal={Nano letters},
+  volume={10},
+  number={12},
+  pages={5056--5059},
+  year={2010},
+  publisher={ACS Publications}
+}

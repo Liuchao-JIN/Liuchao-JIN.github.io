@@ -1,0 +1,10 @@
+@article{liu2022theoretical,
+  title={Theoretical modeling of ice lithography on amorphous solid water},
+  author={Liu, Tao and Tong, Xujie and Tian, Shuoqiu and Xie, Yuying and Zhu, Mingsai and Feng, Bo and Pan, Xiaohang and Zheng, Rui and Wu, Shan and Zhao, Ding and others},
+  journal={Nanoscale},
+  volume={14},
+  number={25},
+  pages={9045--9052},
+  year={2022},
+  publisher={Royal Society of Chemistry}
+}

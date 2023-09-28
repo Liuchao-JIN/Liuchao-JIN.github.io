@@ -1,0 +1,10 @@
+@article{turner2014switchable,
+  title={Switchable micropatterned surface topographies mediated by reversible shape memory},
+  author={Turner, Sara A and Zhou, Jing and Sheiko, Sergei S and Ashby, Valerie Sheares},
+  journal={ACS applied materials \& interfaces},
+  volume={6},
+  number={11},
+  pages={8017--8021},
+  year={2014},
+  publisher={ACS Publications}
+}

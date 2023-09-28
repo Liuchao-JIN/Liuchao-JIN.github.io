@@ -1,0 +1,10 @@
+@article{wang2022tough,
+  title={Tough, Transparent, 3D-Printable, and Self-Healing Poly (ethylene glycol)-Gel (PEGgel)},
+  author={Wang, Zhenwu and Cui, Haijun and Liu, Modan and Grage, Stephan L and Hoffmann, Maxi and Sedghamiz, Elaheh and Wenzel, Wolfgang and Levkin, Pavel A},
+  journal={Advanced Materials},
+  volume={34},
+  number={11},
+  pages={2107791},
+  year={2022},
+  publisher={Wiley Online Library}
+}

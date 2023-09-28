@@ -1,0 +1,10 @@
+@article{zheng2020inkjet,
+  title={Inkjet printing-based fabrication of microscale 3D ice structures},
+  author={Zheng, Fengyi and Wang, Zhongyan and Huang, Jiasheng and Li, Zhihong},
+  journal={Microsystems \& Nanoengineering},
+  volume={6},
+  number={1},
+  pages={89},
+  year={2020},
+  publisher={Nature Publishing Group UK London}
+}
