@@ -1,0 +1,8 @@
+@article{jiang2023design,
+  title={Design for reversed additive manufacturing low-melting-point alloys},
+  author={Jiang, Jingchao and Zhai, Xiaoya and Jin, Liuchao and Zhang, Kang and Chen, Jun and Lu, Qitao and Liao, Wei-Hsin},
+  journal={Journal of Engineering Design},
+  pages={1--14},
+  year={2023},
+  publisher={Taylor \& Francis}
+}
