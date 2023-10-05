@@ -1,0 +1,10 @@
+@article{zhai2022survey,
+  title={A survey of additive manufacturing reviews},
+  author={Zhai, Xiaoya and Jin, Liuchao and Jiang, Jingchao},
+  journal={Materials Science in Additive Manufacturing},
+  volume={1},
+  number={4},
+  pages={21},
+  year={2022},
+  publisher={AccScience Publishing}
+}
