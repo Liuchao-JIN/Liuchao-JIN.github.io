@@ -1,10 +1,8 @@
 ---
 layout: archive
 title: "新生指南"
-permalink: /Hong_Kong_Before_Arrival/
+permalink: /hong_kong_before_arrival/
 author_profile: true
-redirect_from:
-  - "/Hong_Kong_Before_Arrive/"
 ---
 
 ## 抵港前准备
