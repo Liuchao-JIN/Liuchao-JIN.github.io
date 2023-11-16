@@ -1,6 +1,6 @@
 ---
 title: "The Chinese University of Hong Kong Application Guide"
-date: 2023-08-08
+date: 2023-11-16
 permalink: /posts/2023/11/cuhk_apply/
 tags:
   - affairs
