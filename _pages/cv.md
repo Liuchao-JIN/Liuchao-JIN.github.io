@@ -110,10 +110,14 @@ Honors & Awards
 * 07/2019 [Excellent Student of Military Skills Training](http://Liuchao-JIN.github.io/files/award/2019_Military.pdf) in Sichuan University
 * 02/2019 [Student Ambassador](http://Liuchao-JIN.github.io/files/award/2019_SCUPIAmb.pdf) of Sichuan University-Pittsburgh Institute
 
+Membership
+======
+* 11/2023 - Present, AMSE Student Member
+
 Leadership & Extracurricular Activities
 ======
-* 09/2022 - Present, [The Postgraduate Halls Residents’ Association](http://www.pgh.cuhk.edu.hk/about/pgh-residents-association/), General Administrator.
-* 03/2022 - Present, [Mitacs Globalink](https://www.mitacs.ca/en/programs/globalink), Ambassador.
+* 09/2022 - 09/2023, [The Postgraduate Halls Residents’ Association](http://www.pgh.cuhk.edu.hk/about/pgh-residents-association/), General Administrator.
+* 03/2022 - 06/2023, [Mitacs Globalink](https://www.mitacs.ca/en/programs/globalink), Ambassador.
 * 09/2019 - 09/2020, [Sichuan University](https://en.scu.edu.cn/) The 31st Student Congress, Representative.
 * 03/2019 - 06/2020, [Sichuan University Student Television Station](https://space.bilibili.com/174898254?spm_id_from=333.337.0.0), Deputy Director.
 * 09/2018 - 06/2019, [Sichuan University - Pittsburgh Institute Student Council](https://scupi.scu.edu.cn/en/campus-life/student-organizations), Member.
