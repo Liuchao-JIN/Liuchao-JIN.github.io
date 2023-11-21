@@ -112,7 +112,7 @@ Honors & Awards
 
 Membership
 ======
-* 11/2023 - Present, AMSE Student Member
+* 11/2023 - Present, ASME Student Member
 
 Leadership & Extracurricular Activities
 ======
