@@ -112,7 +112,7 @@ Honors & Awards
 
 Membership
 ======
-* 11/2023 - Present, ASME Student Member
+* 11/2023 - Present, [ASME Student Member](http://Liuchao-JIN.github.io/files/affairs/asme_member.pdf)
 
 Leadership & Extracurricular Activities
 ======
