@@ -15,7 +15,7 @@ collection: portfolio
       * We cannot control how much the hydrogel will deform after heating. Maybe not need for heating.
       * The size of the part can be 20 mm × 40 mm × 5 mm, the voxel size is 0.5 mm × 0.5 mm × 0.5 mm
   * <img src='/files/essay/cheng2022centrifugal.webp'>
-  * \[[PDF](http://Liuchao-JIN.github.io/files/essay/cheng2022centrifugal.pdf)\] \[[Web](https://www.nature.com/articles/s41467-022-35622-6)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/essay/cheng2022centrifugal.txt)\]
+  * \[[PDF](http://Liuchao-JIN.github.io/files/essay/cheng2022centrifugal.pdf)\] \[[Web](https://doi.org/10.1038/s41467-022-35622-6)\] \[[BibTeX](http://Liuchao-JIN.github.io/files/essay/cheng2022centrifugal.txt)\]
   * Author: Jianxiang Cheng, Rong Wang, Zechu Sun, Qingjiang Liu, Xiangnan He, Honggeng Li, Haitao Ye, Xingxin Yang, Xinfeng Wei, Zhenqing Li, Bingcong Jian, Weiwei Deng, Qi Ge
   * Year: 2022
   * Journal: Nature Communications
