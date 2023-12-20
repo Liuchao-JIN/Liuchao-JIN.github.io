@@ -113,6 +113,7 @@ Honors & Awards
 Membership
 ======
 * 11/2023 - Present, [ASME Student Member](http://Liuchao-JIN.github.io/files/affairs/asme_member.pdf)
+* 01/2023 - Present, [HKYSA Member](http://Liuchao-JIN.github.io/files/affairs/hkysa_member.pdf)
 
 Leadership & Extracurricular Activities
 ======
