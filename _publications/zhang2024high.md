@@ -1,0 +1,11 @@
+---
+title: "High energy dissipation and self-healing auxetic foam by integrating shear thickening gel"
+collection: publications
+permalink: /publication/zhang2024high
+excerpt: 'Herein, we report a novel hybrid auxetic foam (HAF) with high energy dissipation and self-healing properties prepared by integrating shear thickening gel (STG) with auxetic polyurethane foam (APF). Due to the synergetic action of shear thickening property of STG and the negative Poisson's ratio of APF, HAF shows better impact protection performance than APF and PU foam. The quasi-static compression test shows the energy dissipation ability of HAF is around 4 times that of APF. The dynamic impact test demonstrates that the force reduction of HAF increases by as high as 64 %, compared to APF. Notably, the force reduction improvement of the HAF is much higher than other hybrid auxetic materials. It is also found that the peak force of HAF is reduced as the amount of STG increases. Additionally, the peak force difference between HAF and APF becomes larger when they are subjected to higher impact energies, due to the rate-dependent effect of STG inside the foam. The Poisson's ratio results for HAF with different STG content under low and high compression strain rates reveal that the dimension of auxetic cell structures and STG content are required to be carefully designed to maximize the synergistic effect of auxetic property and shear thickening property. Besides, HAF demonstrates self-healing ability, allowing it to repair damage sustained during use and can be assembled like Lego blocks to make structures with any irregular shapes. Our work provides ideas for the development of advanced auxetic materials, with the potential to revolutionize a wide range of applications.'
+date: 2024-04-12
+venue: 'Composites Science and Technology'
+paperurl: 'https://doi.org/10.1016/j.compscitech.2024.110475'
+citation: 'Kang Zhang, Qiang Gao, Jingchao Jiang, Meishan Chan, Xiaoya Zhai, Liuchao Jin, Jiangfan Zhang, Jifan Li, Wei-Hsin Liao (2024). &quot;High energy dissipation and self-healing auxetic foam by integrating shear thickening gel.&quot; <i>Composites Science and Technology</i>. '
+---
+[Download paper here](http://Liuchao-JIN.github.io/files/my_essay/zhang2024high.pdf)
