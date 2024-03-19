@@ -20,6 +20,12 @@ Education
   * [GPA: 4.0/4.0](http://Liuchao-JIN.github.io/files/award/Transcripts_Bachelor.pdf); [Weighted Average Mark: 96.29/100](http://Liuchao-JIN.github.io/files/award/Transcripts_Bachelor.pdf); [Ranking: 1/79](http://Liuchao-JIN.github.io/files/award/Ranking.pdf)
 
 
+Membership
+======
+* 11/2023 - Present, [ASME Member](http://Liuchao-JIN.github.io/files/affairs/asme_member.pdf)
+* 02/2024 - Present, [SPIE Member](http://Liuchao-JIN.github.io/files/affairs/spie_member.pdf)
+* 01/2023 - Present, [HKYSA Member](http://Liuchao-JIN.github.io/files/affairs/hkysa_member.pdf)
+
 Work experience
 ======
 * 04/2021-09/2021: [Westlake University](https://en.westlake.edu.cn/), [Research Assistant](http://Liuchao-JIN.github.io/files/award/2021_Westlake_Research_Intern.pdf) (Supervisor: Prof. [Weicheng Cui](https://en.westlake.edu.cn/faculty/weicheng-cui.html))
@@ -59,8 +65,9 @@ Teaching
 ======
 * Teaching Assistant @ The Chinese University of Hong Kong
   * Current
-    * MAEG5715: [Computer Interface and Simulation](http://Liuchao-JIN.github.io/files/teaching/2023F_MAEG5715.pdf) (Fall 2023)
+    * MAEG5725: [Control and Industrial Automation](http://Liuchao-JIN.github.io/files/teaching/2024S_MAEG5725.pdf) (Spring 2024)
   * Past
+    * MAEG5715: [Computer Interface and Simulation](http://Liuchao-JIN.github.io/files/teaching/2023F_MAEG5715.pdf) (Fall 2023)
     * MAEG4050: [Modern Control Systems Analysis and Design](http://Liuchao-JIN.github.io/files/teaching/2023S_MAEG4050.pdf) (Spring 2023)
     * MAEG5745: [Measurement and Instrumentation](http://Liuchao-JIN.github.io/files/teaching/2022F_MAEG5745.pdf) (Fall 2022)
     * MAEG4070: [Engineering Optimization](http://Liuchao-JIN.github.io/files/teaching/2022F_MAEG4070.pdf) (Fall 2022)
@@ -110,9 +117,6 @@ Honors & Awards
 * 07/2019 [Excellent Student of Military Skills Training](http://Liuchao-JIN.github.io/files/award/2019_Military.pdf) in Sichuan University
 * 02/2019 [Student Ambassador](http://Liuchao-JIN.github.io/files/award/2019_SCUPIAmb.pdf) of Sichuan University-Pittsburgh Institute
 
-Membership
-======
-* 11/2023 - Present, [ASME Student Member](http://Liuchao-JIN.github.io/files/affairs/asme_member.pdf)
 
 Leadership & Extracurricular Activities
 ======

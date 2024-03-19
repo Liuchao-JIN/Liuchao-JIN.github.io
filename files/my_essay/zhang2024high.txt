@@ -1,0 +1,8 @@
+@article{zhang2024high,
+  title={High energy dissipation and self-healing auxetic foam by integrating shear thickening gel},
+  author={Zhang, Kang and Gao, Qiang and Jiang, Jingchao and Chan, Meishan and Zhai, Xiaoya and Jin, Liuchao and Zhang, Jiangfan and Li, Jifan and Liao, Wei-Hsin},
+  journal={Composites Science and Technology},
+  pages={110475},
+  year={2024},
+  publisher={Elsevier}
+}
