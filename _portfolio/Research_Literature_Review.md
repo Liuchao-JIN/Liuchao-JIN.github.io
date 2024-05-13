@@ -5,6 +5,15 @@ collection: portfolio
 ---
 
 
+
+Machine learning and evolutionary algorithms for hierarchical architecture design
+======
+* Li Beichen et al. 2024. Computational discovery of microstructured composites with optimal stiffness-toughness trade-offs
+
+
+
+
+
 4D Printing
 ======
 * Centrifugal multimaterial 3D printing of multifunctional heterogeneous objects
