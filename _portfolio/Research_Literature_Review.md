@@ -6,11 +6,10 @@ collection: portfolio
 
 
 
-Machine learning and evolutionary algorithms for hierarchical architecture design
+Machine learning for hierarchical architecture design
 ======
 * Li Beichen et al. 2024. Computational discovery of microstructured composites with optimal stiffness-toughness trade-offs. Science Advances.
-
-
+* Sun Xiaohao et al. 2024. Machine learning and sequential subdomain optimization for ultrafast inverse design of 4D-printed active composite structures. Journal of the Mechanics and Physics of Solids.
 
 
 
