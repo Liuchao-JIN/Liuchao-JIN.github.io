@@ -10,6 +10,13 @@ Machine learning for hierarchical architecture design
 ======
 * Li Beichen et al. 2024. Computational discovery of microstructured composites with optimal stiffness-toughness trade-offs. Science Advances.
 * Sun Xiaohao et al. 2024. Machine learning and sequential subdomain optimization for ultrafast inverse design of 4D-printed active composite structures. Journal of the Mechanics and Physics of Solids.
+  * Method: machine learning (ML) and sequential subdomain optimization (SSO)
+  * Main idea: Divide the part you want to design into several sections, then design the allocation of each section in sequence (you can go through all of them) to achieve the desired effect. <img src='/files/essay/sun2024machine_1.jpg'>
+  * Advantage:
+    * Fast <img src='/files/essay/sun2024machine_2.jpg'>
+    * Can design varying numbers of lengthwise voxels <img src='/files/essay/sun2024machine_3.jpg'>
+  * \[[PDF](http://Liuchao-JIN.github.io/files/essay/sun2024machine.pdf)\]
+
 
 
 
