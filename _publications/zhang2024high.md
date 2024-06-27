@@ -6,6 +6,6 @@ excerpt: 'Herein, we report a novel hybrid auxetic foam (HAF) with high energy d
 date: 2024-03-12
 venue: 'Composites Science and Technology'
 paperurl: 'https://doi.org/10.1016/j.compscitech.2024.110475'
-citation: 'Kang Zhang, Qiang Gao, Jingchao Jiang, Meishan Chan, Xiaoya Zhai, Liuchao Jin, Jiangfan Zhang, Jifan Li, Wei-Hsin Liao (2024). &quot;High energy dissipation and self-healing auxetic foam by integrating shear thickening gel.&quot; <i>Composites Science and Technology</i>. '
+citation: 'Kang Zhang, Qiang Gao, Jingchao Jiang, Meishan Chan, Xiaoya Zhai, Liuchao Jin, Jiangfan Zhang, Jifan Li, Wei-Hsin Liao. (2024). &quot;High energy dissipation and self-healing auxetic foam by integrating shear thickening gel.&quot; <i>Composites Science and Technology</i>. 110475. '
 ---
 [Download paper here](http://Liuchao-JIN.github.io/files/my_essay/zhang2024high.pdf)

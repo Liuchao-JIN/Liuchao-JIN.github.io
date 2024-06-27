@@ -6,6 +6,6 @@ excerpt: 'Additive manufacturing (AM) technologies have been widely used in cons
 date: 2023-09-26
 venue: 'Journal of Engineering Design'
 paperurl: 'https://doi.org/10.1080/09544828.2023.2261096'
-citation: 'Jingchao Jiang, Xiaoya Zhai, Liuchao Jin, Kang Zhang, Jun Chen, Qitao Lu, and Wei-Hsin Liao (2023). &quot;Design for reversed additive manufacturing low-melting-point alloys.&quot; <i>Journal of Engineering Design</i>. 1-14. '
+citation: 'Jingchao Jiang, Xiaoya Zhai, Liuchao Jin, Kang Zhang, Jun Chen, Qitao Lu, and Wei-Hsin Liao. (2023). &quot;Design for reversed additive manufacturing low-melting-point alloys.&quot; <i>Journal of Engineering Design</i>. 1-14. '
 ---
 [Download paper here](http://Liuchao-JIN.github.io/files/my_essay/jiang2023design.pdf)
