@@ -1,0 +1,8 @@
+@article{jin2024big,
+  title={Big data, machine learning, and digital twin assisted additive manufacturing: a review},
+  author={Jin, Liuchao and Zhai, Xiaoya and Wang, Kang and Zhang, Kang and Wu, Dazhong and Nazir Aamer and Jiang Jingchao and Liao Wei-Hsin},
+  journal={Materials \& Design},
+  pages={113086},
+  year={2024},
+  publisher={Elsevier}
+}
