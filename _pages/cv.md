@@ -33,16 +33,20 @@ Experience
 * 07/2023-Present: [Shenzhen University](https://en.szu.edu.cn/), Visiting Scholar
 * 08/2023-Present: [Southern University of Science and Technology](https://sustech.edu.cn/en/), Visiting Scholar (Prof. [Qi Ge](https://faculty.sustech.edu.cn/?tagid=geq&iscss=1&snapid=1&orderby=date&go=1&lang=en))
 * 04/2021-09/2021: [Westlake University](https://en.westlake.edu.cn/), [Research Assistant](http://Liuchao-JIN.github.io/files/award/2021_Westlake_Research_Intern.pdf) (Supervisor: Prof. [Weicheng Cui](https://en.westlake.edu.cn/faculty/weicheng-cui.html))
+  * Research Direction: Underwater charging of robotic fishes using marine renewable energy.
+
   <!-- * Made device design for underwater charging of robotic fishes using marine renewable energy.
   * Did research on technical solutions and scientific insights that advance engineering and robotics by leveraging the methodologies and design principles of robotic fish.
   * Wrote a review paper about underwater charging for a school of robotic fishes through renewable energy. -->
 
 * 03/2021-09/2021: [McGill University](https://www.mcgill.ca/), [Research Assistant](http://Liuchao-JIN.github.io/files/award/2021_Mitacs.pdf) (Supervisor: Prof. [Abdolhamid Akbarzadeh Shafaroudi](https://www.mcgill.ca/bioeng/faculty-and-staff/academic-staff/abdolhamid-akbarzadeh-shafaroudi))
   * Program: [Mitacs Globalink Research Internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship)
+
   <!-- * Examined potential energy resources in automotive and aeroplane/helicopter, e.g. vibration of helicopter rotor system, embedded strain in vehicle frame, and solar energy received by the frame.
   * Developed a methodology for harvesting energy from the wasted resources using lightweight smart cellular solids made of piezoelectric materials or active composites. -->
 
 <!-- * 09/2020-09/2021: [Sichuan University - The Institute for Disaster Management and Reconstruction](https://idmr.scu.edu.cn/index.htm), Research Assistant (Supervisor: Prof. [Tetsuo Shoji](http://www.bureau.tohoku.ac.jp/koho/pub/tdp2008/pdf_e/tetsuo_shoji.pdf)) -->
+
     <!-- * Designed the post-disaster scrubber air cleaning system.
     * Modeled the structure of the scrubber air cleaning system. -->
 
