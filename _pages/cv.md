@@ -16,7 +16,7 @@ Education
 * Ph.D in Mechanical and Automation Engineering, [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), 2022-2026 (expected)
   * Supervisor: Prof. [Wei-Hsin Liao](https://www4.mae.cuhk.edu.hk/peoples/liao-wei-hsin/)
   * Research Direction: 3D/4D Printing, Smart Materials & Structures, Soft Robotics
-  * Award: [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (HKPFS).
+  * Award: [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (HKPFS)
   <!-- * Joint Training at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech). Co-Supervisor: Prof. [Qi Ge](https://faculty.sustech.edu.cn/?tagid=geq&iscss=1&snapid=1&orderby=date&go=1&lang=en) -->
 * [BE](http://Liuchao-JIN.github.io/files/JLC_BE.pdf) in Mechanical Engineering, [Sichuan University - Pittsburgh Institute (SCUPI)](https://scupi.scu.edu.cn/en/), 2018-2022
   * [GPA: 4.0/4.0](http://Liuchao-JIN.github.io/files/award/Transcripts_Bachelor.pdf); [Weighted Average Mark: 96.29/100](http://Liuchao-JIN.github.io/files/award/Transcripts_Bachelor.pdf); [Ranking: 1/79](http://Liuchao-JIN.github.io/files/award/Ranking.pdf)
@@ -30,12 +30,13 @@ Membership
 
 Experience
 ======
-* 07/2023-Present: [Shenzhen University](https://en.szu.edu.cn/), Visiting Scholar
+* 07/2024-Present: [Shenzhen University](https://en.szu.edu.cn/), Visiting Scholar
 * 08/2023-Present: [Southern University of Science and Technology](https://sustech.edu.cn/en/), Visiting Scholar
   * Supervisor: Prof. [Qi Ge](https://faculty.sustech.edu.cn/?tagid=geq&iscss=1&snapid=1&orderby=date&go=1&lang=en)
+  * Research Direction: Machine learning enabled design for hierarchical architecture
 * 04/2021-09/2021: [Westlake University](https://en.westlake.edu.cn/), [Research Assistant](http://Liuchao-JIN.github.io/files/award/2021_Westlake_Research_Intern.pdf)
   * Supervisor: Prof. [Weicheng Cui](https://en.westlake.edu.cn/faculty/weicheng-cui.html)
-  * Research Direction: Underwater charging of robotic fishes using marine renewable energy.
+  * Research Direction: Underwater charging of robotic fishes using marine renewable energy
 
   <!-- * Made device design for underwater charging of robotic fishes using marine renewable energy.
   * Did research on technical solutions and scientific insights that advance engineering and robotics by leveraging the methodologies and design principles of robotic fish.
