@@ -22,12 +22,6 @@ Education
   * [GPA: 4.0/4.0](http://Liuchao-JIN.github.io/files/award/Transcripts_Bachelor.pdf); [Weighted Average Mark: 96.29/100](http://Liuchao-JIN.github.io/files/award/Transcripts_Bachelor.pdf); [Ranking: 1/79](http://Liuchao-JIN.github.io/files/award/Ranking.pdf)
 
 
-Membership
-======
-* 11/2023 - Present, [ASME Member](http://Liuchao-JIN.github.io/files/affairs/asme_member.pdf)
-* 02/2024 - Present, [SPIE Member](http://Liuchao-JIN.github.io/files/affairs/spie_member.pdf)
-* 01/2023 - Present, [HKYSA Member](http://Liuchao-JIN.github.io/files/affairs/hkysa_member.pdf)
-* 07/2024 - Present, [HKQTMA Member](http://Liuchao-JIN.github.io/files/affairs/hkqtma_member.pdf)
 
 Experience
 ======
@@ -72,6 +66,14 @@ Patents
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
+
+
+Membership
+======
+* 11/2023 - Present, [ASME Member](http://Liuchao-JIN.github.io/files/affairs/asme_member.pdf)
+* 02/2024 - Present, [SPIE Member](http://Liuchao-JIN.github.io/files/affairs/spie_member.pdf)
+* 01/2023 - Present, [HKYSA Member](http://Liuchao-JIN.github.io/files/affairs/hkysa_member.pdf)
+* 07/2024 - Present, [HKQTMA Member](http://Liuchao-JIN.github.io/files/affairs/hkqtma_member.pdf)
 
 Teaching
 ======
