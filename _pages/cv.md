@@ -27,6 +27,7 @@ Membership
 * 11/2023 - Present, [ASME Member](http://Liuchao-JIN.github.io/files/affairs/asme_member.pdf)
 * 02/2024 - Present, [SPIE Member](http://Liuchao-JIN.github.io/files/affairs/spie_member.pdf)
 * 01/2023 - Present, [HKYSA Member](http://Liuchao-JIN.github.io/files/affairs/hkysa_member.pdf)
+* 07/2024 - Present, [HKQTMA Member](http://Liuchao-JIN.github.io/files/affairs/hkqtma_member.pdf)
 
 Experience
 ======
