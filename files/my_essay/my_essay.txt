@@ -1,0 +1,90 @@
+@article{zhang2024high,
+  title={High energy dissipation and self-healing auxetic foam by integrating shear thickening gel},
+  author={Zhang, Kang and Gao, Qiang and Jiang, Jingchao and Chan, Meishan and Zhai, Xiaoya and Jin, Liuchao and Zhang, Jiangfan and Li, Jifan and Liao, Wei-Hsin},
+  journal={Composites Science and Technology},
+  pages={110475},
+  year={2024},
+  publisher={Elsevier}
+}
+
+@article{zhai2023isogeometric,
+  title={Isogeometric topology optimization of auxetic materials based on moving morphable components method},
+  author={Zhai, Xiaoya and Gai, Yundong and Jin, Liuchao and Liao, Wei-Hsin and Chen, Falai and Hu, Ping},
+  journal={Advanced Topics in Mechanics of Materials, Structures and Construction: AToMech1-2023},
+  pages={172},
+  year={2023},
+  publisher={Materials Research Forum LLC}
+}
+
+@article{zhai2022survey,
+  title={A survey of additive manufacturing reviews},
+  author={Zhai, Xiaoya and Jin, Liuchao and Jiang, Jingchao},
+  journal={Materials Science in Additive Manufacturing},
+  volume={1},
+  number={4},
+  pages={21},
+  year={2022},
+  publisher={AccScience Publishing}
+}
+
+@inproceedings{jin2024optimizing,
+  title={{Optimizing stimuli-based 4D printed structures: a paradigm shift in programmable material response}},
+  author={Jin, Liuchao and Zhai, Xiaoya and Jiang, Jiangchao and Zhang, Kang and Liao, Wei-Hsin},
+  booktitle={Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2024},
+  volume={12949},
+  pages={321--332},
+  year={2024},
+  organization={SPIE}
+}
+
+@article{jin2024big,
+  title={Big data, machine learning, and digital twin assisted additive manufacturing: a review},
+  author={Jin, Liuchao and Zhai, Xiaoya and Wang, Kang and Zhang, Kang and Wu, Dazhong and Nazir Aamer and Jiang Jingchao and Liao Wei-Hsin},
+  journal={Materials \& Design},
+  pages={113086},
+  year={2024},
+  publisher={Elsevier}
+}
+
+@article{jin2023technical,
+  title={On technical issues for underwater charging of robotic fish schools using ocean renewable energy},
+  author={Jin, Liuchao and Cui, Weicheng},
+  journal={Ships and Offshore Structures},
+  pages={1--11},
+  year={2023},
+  publisher={Taylor \& Francis}
+}
+
+@inproceedings{jin2022unified,
+  title={The Unified Tracking Controller for a Tilt-Rotor Unmanned Aerial Vehicle Based on the Dual Quaternion},
+  author={Jin, Liuchao and Lou, Yuchen and Chen, Lu-An and Lu, Qi},
+  booktitle={2022 IEEE International Conference on Unmanned Systems (ICUS)},
+  pages={1356--1363},
+  year={2022},
+  organization={IEEE}
+}
+
+@inproceedings{jiang2023novel,
+  title={A novel strategy to fabricate low-melting-point alloy and its composite parts using extrusion additive manufacturing},
+  author={Jiang, Jingchao and Jin, Liuchao and Zhai, Xiaoya and Zhang, Kang and Chen, Jun and Liao, Wei-Hsin},
+  booktitle={The 50th International Conference on Computers and Industrial Engineering},
+  year={2023},
+}
+
+@article{jiang2023low,
+  title={Low-melting-point alloys integrated extrusion additive manufacturing},
+  author={Jiang, Jingchao and Zhai, Xiaoya and Zhang, Kang and Jin, Liuchao and Lu, Qitao and Shen, Zhichao and Liao, Wei-Hsin},
+  journal={Additive Manufacturing},
+  pages={103633},
+  year={2023},
+  publisher={Elsevier}
+}
+
+@article{jiang2023design,
+  title={Design for reversed additive manufacturing low-melting-point alloys},
+  author={Jiang, Jingchao and Zhai, Xiaoya and Jin, Liuchao and Zhang, Kang and Chen, Jun and Lu, Qitao and Liao, Wei-Hsin},
+  journal={Journal of Engineering Design},
+  pages={1--14},
+  year={2023},
+  publisher={Taylor \& Francis}
+}
