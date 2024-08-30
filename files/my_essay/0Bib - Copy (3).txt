@@ -1,8 +1,0 @@
-@article{jin2023technical,
-  title={On technical issues for underwater charging of robotic fish schools using ocean renewable energy},
-  author={Jin, Liuchao and Cui, Weicheng},
-  journal={Ships and Offshore Structures},
-  pages={1--11},
-  year={2023},
-  publisher={Taylor \& Francis}
-}
