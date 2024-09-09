@@ -5,6 +5,8 @@ collection: portfolio
 ---
 
 ME1020 Mechanical Vibration (Instructor: Prof. Sai Cheong Fok)
+* [Syllabus](http://jinliuchao.github.io/files/Course_Materials/Undergraduate_Course/ME1020/syllabus.pdf)
+* [Textbook](http://jinliuchao.github.io/files/Course_Materials/Undergraduate_Course/ME1020/textbook.pdf)
 * Lecture Notes
   * [Lecture 1: Introduction & revision](http://jinliuchao.github.io/files/Course_Materials/Undergraduate_Course/ME1020/0ME1020L1.pdf)
   * [Lecture 2: Free vibration (undamped 1DOF system)](http://jinliuchao.github.io/files/Course_Materials/Undergraduate_Course/ME1020/0ME1020L2.pdf)
@@ -18,6 +20,7 @@ ME1020 Mechanical Vibration (Instructor: Prof. Sai Cheong Fok)
   * [Lecture 10: Multi DOF system vibration 2 (Free undamped vibration)](http://jinliuchao.github.io/files/Course_Materials/Undergraduate_Course/ME1020/0ME1020L10.pdf)
   * [Lecture 11: Multi DOF system vibration 3 (Vibration absorber undamped)](http://jinliuchao.github.io/files/Course_Materials/Undergraduate_Course/ME1020/0ME1020L11.pdf)
   * [Lecture 12: Multi DOF system vibration 4 (Damped vibration absorber)](http://jinliuchao.github.io/files/Course_Materials/Undergraduate_Course/ME1020/0ME1020L12.pdf)
+
 
 MEMS1045 Automatic Controls (Instructor: Prof. Sai Cheong Fok)
 * Lecture Notes
