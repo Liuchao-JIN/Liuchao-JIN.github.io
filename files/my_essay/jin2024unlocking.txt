@@ -1,0 +1,9 @@
+@article{jin2024unlocking,
+  title={Unlocking the potential of low-melting-point alloys integrated extrusion additive manufacturing: insights into mechanical behavior, energy absorption, and electrical conductivity},
+  author={Jin, Liuchao and Zhai, Xiaoya and Zhang, Kang and Jiang, Jingchao},
+  journal={Progress in Additive Manufacturing},
+  volume={9},
+  number={6},
+  year={2024},
+  publisher={Springer}
+}
