@@ -162,7 +162,7 @@ MAEG5130 Computational Mechanics (Instructor: Prof. [Weizhao Zhang](https://www4
 * Textbook
   * [A First Course in Finite Elements](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5130/A_First_Course_in_Finite_Elements.pdf)
 * Project
-  * Project 1: solve the truss problems using MATLAB
+  * Project 1: Solve the truss problems using MATLAB
     * [Project Description](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5130/Project_1_Description.pdf)
     * [Finite Element Programming with MATLAB](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5130/afirstcourseinfiniteelements-ch12-matlab.pdf)
   * Project 2: Linear Isotropic and Linear kinematic Plasticity with Abaqus
