@@ -172,6 +172,31 @@ MAEG5130 Computational Mechanics (Instructor: Prof. [Weizhao Zhang](https://www4
   * Project 3: Application of MATLAB for linear isotopic and kinematic hardening
     * [Project Description](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5130/Project_3_Description.pdf)
 
+MAEG5130 Computational Mechanics (Instructor: Prof. [Weizhao Zhang](https://www4.mae.cuhk.edu.hk/peoples/he-qiguang/))
+* [Syllabus](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5140/Introduction.pdf)
+* Lecture Notes
+  * [Lecture 1: Fundamental physics of X rays](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5140/lecture_1.pdf)
+  * [Lecture 2: Basic knowledge of X-rays diffraction](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5140/lecture_2.pdf)
+  * [Lecture 3: Intensity of X rays diffraction](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5140/lecture_3.pdf)
+  * [Lecture 4: Polycrystal analysis methods](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5140/lecture_4.pdf)
+  * [Lecture 5: Phase analysis and lattice parameter determination](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5140/lecture_5.pdf)
+  * [Lecture 6: Determination of residual stress](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5140/lecture_6.pdf)
+  * [Lecture 7: Fundamentals of electron optics and electron microscopy](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5140/lecture_7.pdf)
+  * [Lecture 8: Structure and basic principles of transmission electron microscope](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5140/lecture_8.pdf)
+  * [Lecture 9: Electron diffraction and diffraction imaging analysis](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5140/lecture_9.pdf)
+  * [Lecture 10: High resolution transmission electron microscopy](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5140/lecture_10.pdf)
+  * [Lecture 11: Scanning electron microscopes and electron probes](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5140/lecture_11.pdf)
+  * [Lecture 12: Electron backscatter diffraction analysis technology](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5140/lecture_12.pdf)
+  * [Lecture 13: Other microstructural analysis methods](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5140/lecture_13.pdf)
+  * [Lecture 14: Mechanical properties of Materials](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5140/lecture_14.pdf)
+* Homework
+  * Homework 1: [Question](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5140/homework_1.pdf), [Solution](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5140/HW_1_solution.pdf)
+  * Homework 2: [Question](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5140/homework_2.pdf), [Solution](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5140/HW_2_solution.pdf)
+* Exam
+  * Midterm Exam: [Question](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5140/midterm_exam.pdf), [Solution](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5140/midterm_exam_solution.pdf)
+  * [Final Exam](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5140/MAEG5140_Materials_Characterizations_Techniques_Final_Exam_answer.pdf)
+
+
 
 Candidacy Examination
 * [2022 May](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/Candidacy_Examination/22_May.pdf)
