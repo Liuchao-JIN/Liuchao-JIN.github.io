@@ -172,7 +172,7 @@ MAEG5130 Computational Mechanics (Instructor: Prof. [Weizhao Zhang](https://www4
   * Project 3: Application of MATLAB for linear isotopic and kinematic hardening
     * [Project Description](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5130/Project_3_Description.pdf)
 
-MAEG5130 Computational Mechanics (Instructor: Prof. [Weizhao Zhang](https://www4.mae.cuhk.edu.hk/peoples/he-qiguang/))
+MAEG5140 Materials Characterization Techniques (Instructor: Prof. [Qiguang He](https://www4.mae.cuhk.edu.hk/peoples/he-qiguang/))
 * [Syllabus](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5140/Introduction.pdf)
 * Lecture Notes
   * [Lecture 1: Fundamental physics of X rays](http://Liuchao-JIN.github.io/files/course_materials/graduate_course/MAEG5140/lecture_1.pdf)
