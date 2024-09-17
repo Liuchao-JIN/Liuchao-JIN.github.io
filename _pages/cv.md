@@ -135,6 +135,7 @@ Honors & Awards
 
 Leadership & Extracurricular Activities
 ======
+* 06/2024 - Present, Sichuan University-Pittsburgh Institute Alumni Association, [Alumni Mentor](http://Liuchao-JIN.github.io/files/talk_pre/scupi_alumni_mentor.jpg).
 * 09/2022 - 09/2023, [The Postgraduate Halls Residents’ Association](http://www.pgh.cuhk.edu.hk/about/pgh-residents-association/), General Administrator.
 * 03/2022 - 06/2023, [Mitacs Globalink](https://www.mitacs.ca/en/programs/globalink), Ambassador.
 * 09/2019 - 09/2020, [Sichuan University](https://en.scu.edu.cn/) The 31st Student Congress, Representative.
