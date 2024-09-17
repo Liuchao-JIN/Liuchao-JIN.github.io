@@ -12,7 +12,7 @@ author_profile: true
 * 2024/10/17-10/19. [Making Futures 2024](https://makingfutures.org.uk/). Plymouth, Devon, England
   * Title: Machine Learning Enabled Design for Hierarchical Architectures: Optimizing 4D Printing Effects and Mechanical Behavior
 * 2024/09/25-09/27. Xiamen University Nanqiang Young Scholars Forum 2024. Xiamen University, Xiamen, China
-* 2024/09/25. [SCUPI Alumni Sharing Session](http://Liuchao-JIN.github.io/files/talk_pre/20240925_scupi.jpg). Chengdu, China
+* 2024/09/25. [SCUPI Alumni Sharing Session](http://Liuchao-JIN.github.io/files/talk_pre/20240925_scupi.jpg). Sichuan University-Pittsburgh Institute, Chengdu, China
   * Title: Talking about 4D printing
 
 ### Past
