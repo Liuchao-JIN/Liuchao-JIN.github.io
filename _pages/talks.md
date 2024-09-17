@@ -16,7 +16,7 @@ author_profile: true
   * Title: Talking about 4D printing
 
 ### Past
-* 2024/08/20-2024/08/23. [2024 SES Annual Technical Meeting](https://www.2024ses.com/). Hangzhou, China
+* 2024/08/20-08/23. [2024 SES Annual Technical Meeting](https://www.2024ses.com/). Hangzhou, China
 * 2024/07/04-07/05. [4D Materials Design and Additive Manufacturing Conference 2024](https://4dprintings.com/events/4dmda2024/). Ajaccio, Corsica, France
   * Title: Deep Learning Powered 4D Printing Design of Hierarchical Architecture with Non-Rectangular Shapes
   * [Abstract](http://Liuchao-JIN.github.io/files/talk_pre/4DMDA-2024_Abstract.pdf)
