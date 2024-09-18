@@ -34,3 +34,5 @@ author_profile: true
   * [Presentation Materials](http://Liuchao-JIN.github.io/files/talk_pre/7.8_4D_Printing_Soft_Robots.pdf)
   * [Photo](http://Liuchao-JIN.github.io/files/talk_pre/SMFI.jpg)
 * 2023/06/25-06/28. Hong Kong Young Scholars Shangdong Tour. Jinan & Qingdao, China
+* 2022/10/28-10/30. [2022 5th IEEE International Conference on Unmanned Systems](https://icus2022.c2.org.cn/). Guangzhou, China
+  * Title: The unified tracking controller for a tilt-rotor unmanned aerial vehicle based on the dual quaternion
