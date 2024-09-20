@@ -89,7 +89,7 @@ Teaching
     * MAEG5745: [Measurement and Instrumentation](http://Liuchao-JIN.github.io/files/teaching/2022F_MAEG5745.pdf) (Fall 2022)
     * MAEG4070: [Engineering Optimization](http://Liuchao-JIN.github.io/files/teaching/2022F_MAEG4070.pdf) (Fall 2022)
 * Teaching Assistant @ Sichuan University - Pittsburgh Institute
-ME1020: [Mechanical Vibration](http://Liuchao-JIN.github.io/files/teaching/2022S_ME1020.pdf) (Spring 2022)
+  * ME1020: [Mechanical Vibration](http://Liuchao-JIN.github.io/files/teaching/2022S_ME1020.pdf) (Spring 2022)
   * ME1041: [Mechanical Measurements 1](http://Liuchao-JIN.github.io/files/teaching/2022S_ME1041.pdf) (Spring 2022)
   * MEMS1028: [Mechanical Design 1](http://Liuchao-JIN.github.io/files/teaching/2022S_MEMS1028.pdf) (Spring 2022)
   * MEMS1029: [Mechanical Design 2](http://Liuchao-JIN.github.io/files/teaching/2022S_MEMS1029.pdf) (Spring 2022)
