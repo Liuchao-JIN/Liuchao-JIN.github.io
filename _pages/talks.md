@@ -12,11 +12,12 @@ author_profile: true
 * 2024/10/18-10/21. The 7th "Materials and the Future" Young Scholars Forum. Ningbo Material Technology And Engineering Institute, Chinese Academy of Sciences, Ningbo, China
 * 2024/10/17-10/19. [Making Futures 2024](https://makingfutures.org.uk/). Plymouth, Devon, England
   * Title: Machine Learning Enabled Design for Hierarchical Architectures: Optimizing 4D Printing Effects and Mechanical Behavior
+
+### Past
 * 2024/09/25-09/27. Xiamen University Nanqiang Young Scholars Forum 2024. Xiamen University, Xiamen, China
 * 2024/09/25. [SCUPI Alumni Sharing Session](http://Liuchao-JIN.github.io/files/talk_pre/20240925_scupi.jpg). Sichuan University-Pittsburgh Institute, Chengdu, China
   * Title: Talking about 4D printing
-
-### Past
+  * [Broadcast](https://mp.weixin.qq.com/s/zYkpv2Y3SIDqFjoUMmi55Q)
 * 2024/08/20-08/23. [2024 SES Annual Technical Meeting](https://www.2024ses.com/). Hangzhou, China
 * 2024/07/04-07/05. [4D Materials Design and Additive Manufacturing Conference 2024](https://4dprintings.com/events/4dmda2024/). Ajaccio, Corsica, France
   * Title: Deep Learning Powered 4D Printing Design of Hierarchical Architecture with Non-Rectangular Shapes
