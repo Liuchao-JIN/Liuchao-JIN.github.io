@@ -107,16 +107,16 @@ Honors & Awards
 ======
 * 11/2022 [Outstanding Senior Project Award](http://Liuchao-JIN.github.io/files/award/2022_UniOutSP.pdf) in Sichuan University
 * 10/2022 [Best Paper Award](http://Liuchao-JIN.github.io/files/award/2022_BestPaper.pdf) in 2022 IEEE International Conference on Unmanned Systems (ICUS)
-* 06/2022 Outstanding Senior Project Award in Sichuan University-Pittsburgh Institute
+* 06/2022 [Outstanding Senior Project Award](http://Liuchao-JIN.github.io/files/award/2022_SCUPI_OutSP.pdf) in Sichuan University-Pittsburgh Institute
 * 05/2022 [First Prize in The 7th National Academic English Vocabulary Competition](http://Liuchao-JIN.github.io/files/award/2022_NAEV.pdf) (NAEV)
-* 05/2022 Outstanding Senior Project Poster Award in Sichuan University-Pittsburgh Institute
-* 03/2022 Outstanding Graduate of Sichuan Province
-* 03/2022 Outstanding Communist Party Member of Sichuan University-Pittsburgh Institute
+* 05/2022 [Outstanding Senior Project Poster Award](http://Liuchao-JIN.github.io/files/award/2022_SCUPI_OutSP_Poster.pdf) in Sichuan University-Pittsburgh Institute
+* 03/2022 [Outstanding Graduate of Sichuan Province](http://Liuchao-JIN.github.io/files/award/2022_outstanding_graduate_sichuan_pro.pdf)
+* 03/2022 [Outstanding Communist Party Member](http://Liuchao-JIN.github.io/files/award/2022_Out_Commu.pdf) of Sichuan University-Pittsburgh Institute
 * 01/2022 [A-level Certificate in Comprehensive Quality of University Students](http://Liuchao-JIN.github.io/files/award/2022_ZongA.pdf) in Sichuan Province
-* 12/2021 2020-2021 Academic Year [National Scholarship](https://xsc.scu.edu.cn/WebSite/XG/Home/Detail?npVCXJmTU-kgkhPQEX1DodXwoRsKACEqWkvleYpUOwbYYYXlCbPoJtOgCnPcINVqfIpqw504IvZty7AogOkNAw==.shtml) (China) (¥8,000)
-* 10/2021 Outstanding Graduate of Sichuan University
-* 10/2021 2020-2021 Academic Year Outstanding Student of Sichuan University
-* 10/2021 2020-2021 Academic Year Sichuan University-Pittsburgh Institute Best Academic Achiever Award (¥60,000)
+* 12/2021 2020-2021 Academic Year [National Scholarship](http://Liuchao-JIN.github.io/files/award/2021_NationalScholarship.pdf) (China) (¥8,000)
+* 10/2021 [Outstanding Graduate of Sichuan University](http://Liuchao-JIN.github.io/files/award/2021_outstanding_graduate_scu.pdf)
+* 10/2021 2020-2021 Academic Year [Outstanding Student](http://Liuchao-JIN.github.io/files/award/2021_SCU_Outstanding.pdf) of Sichuan University
+* 10/2021 2020-2021 Academic Year Sichuan University-Pittsburgh Institute [Best Academic Achiever Award](http://Liuchao-JIN.github.io/files/award/2021_Best_Academic.pdf) (¥60,000)
 * 09/2021 First Prize in [Chinese Tale - English Talk](https://scupi.scu.edu.cn/activities/%e4%b8%ad%e6%96%87%e8%a5%bf%e8%ae%b2%e6%bc%94%e8%ae%b2%e6%af%94%e8%b5%9b)
 * 07/2021 [Outstanding Camper](http://Liuchao-JIN.github.io/files/award/2021_Westlake_Summer_Camp_Outstanding.pdf) in [Westlake University Engineering Summer Camp](http://Liuchao-JIN.github.io/files/award/2021_Westlake_Summer_Camp.pdf)
 * 06/2021 Second Prize in [Videos and Voices Short Video Contest](https://scupi.scu.edu.cn/activities/%e5%af%bb%e5%a3%b0%e8%a7%85%e5%bd%b1%e7%9f%ad%e8%a7%86%e9%a2%91%e5%88%9b%e4%bd%9c%e5%a4%a7%e8%b5%9b)
