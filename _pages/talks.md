@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ### Upcoming
+* 2025/06/23-06/26. [Materials Today Conference 2025](https://www.elsevier.com/events/conferences/all/materials-today-conference). Sitges, Spain
 * 2025/03/17-03/20. [SPIE Smart Structures + NDE 2025](https://spie.org/conferences-and-exhibitions/smart-structures-nde#_=_). Vancouver, Canada
 * 2025/01/06-01/10. [13th edition of the Global Young Scientists Summit (GYSS)](https://www.gyss-one-north.sg/). Singapore
 * 2024/11/01-11/04. The 10th National Conference on Structural Vibration Control and Health Monitoring. Xiamen, China
