@@ -39,7 +39,8 @@ Experience
   * Did research on technical solutions and scientific insights that advance engineering and robotics by leveraging the methodologies and design principles of robotic fish.
   * Wrote a review paper about underwater charging for a school of robotic fishes through renewable energy. -->
 
-* 03/2021-09/2021: [McGill University](https://www.mcgill.ca/), [Research Assistant](http://Liuchao-JIN.github.io/files/award/2021_Mitacs.pdf) (Supervisor: Prof. [Abdolhamid Akbarzadeh Shafaroudi](https://www.mcgill.ca/bioeng/faculty-and-staff/academic-staff/abdolhamid-akbarzadeh-shafaroudi))
+* 03/2021-09/2021: [McGill University](https://www.mcgill.ca/), [Research Assistant](http://Liuchao-JIN.github.io/files/award/2021_Mitacs.pdf)
+  * Supervisor: Prof. [Abdolhamid Akbarzadeh Shafaroudi](https://www.mcgill.ca/bioeng/faculty-and-staff/academic-staff/abdolhamid-akbarzadeh-shafaroudi)
   * Program: [Mitacs Globalink Research Internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship)
 
   <!-- * Examined potential energy resources in automotive and aeroplane/helicopter, e.g. vibration of helicopter rotor system, embedded strain in vehicle frame, and solar energy received by the frame.
