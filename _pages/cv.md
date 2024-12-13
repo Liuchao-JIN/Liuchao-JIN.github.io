@@ -106,6 +106,7 @@ Teaching
 
 Honors & Awards
 ======
+* 12/2024 Outstanding Students Award in The Chinese University of Hong Kong
 * 11/2022 [Outstanding Senior Project Award](http://Liuchao-JIN.github.io/files/award/2022_UniOutSP.pdf) in Sichuan University
 * 10/2022 [Best Paper Award](http://Liuchao-JIN.github.io/files/award/2022_BestPaper.pdf) in 2022 IEEE International Conference on Unmanned Systems (ICUS)
 * 06/2022 [Outstanding Senior Project Award](http://Liuchao-JIN.github.io/files/award/2022_SCUPI_OutSP.pdf) in Sichuan University-Pittsburgh Institute
