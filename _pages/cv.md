@@ -106,12 +106,12 @@ Teaching
 
 Honors & Awards
 ======
-* 12/2024 Outstanding Students Award in The Chinese University of Hong Kong
-* 11/2022 [Outstanding Senior Project Award](http://Liuchao-JIN.github.io/files/award/2022_UniOutSP.pdf) in Sichuan University
+* 12/2024 Outstanding Students Award at The Chinese University of Hong Kong
+* 11/2022 [Outstanding Senior Project Award](http://Liuchao-JIN.github.io/files/award/2022_UniOutSP.pdf) of Sichuan University
 * 10/2022 [Best Paper Award](http://Liuchao-JIN.github.io/files/award/2022_BestPaper.pdf) in 2022 IEEE International Conference on Unmanned Systems (ICUS)
-* 06/2022 [Outstanding Senior Project Award](http://Liuchao-JIN.github.io/files/award/2022_SCUPI_OutSP.pdf) in Sichuan University-Pittsburgh Institute
+* 06/2022 [Outstanding Senior Project Award](http://Liuchao-JIN.github.io/files/award/2022_SCUPI_OutSP.pdf) of Sichuan University-Pittsburgh Institute
 * 05/2022 [First Prize in The 7th National Academic English Vocabulary Competition](http://Liuchao-JIN.github.io/files/award/2022_NAEV.pdf) (NAEV)
-* 05/2022 [Outstanding Senior Project Poster Award](http://Liuchao-JIN.github.io/files/award/2022_SCUPI_OutSP_Poster.pdf) in Sichuan University-Pittsburgh Institute
+* 05/2022 [Outstanding Senior Project Poster Award](http://Liuchao-JIN.github.io/files/award/2022_SCUPI_OutSP_Poster.pdf) of Sichuan University-Pittsburgh Institute
 * 03/2022 [Outstanding Graduate of Sichuan Province](http://Liuchao-JIN.github.io/files/award/2022_outstanding_graduate_sichuan_pro.pdf)
 * 03/2022 [Outstanding Communist Party Member](http://Liuchao-JIN.github.io/files/award/2022_Out_Commu.pdf) of Sichuan University-Pittsburgh Institute
 * 01/2022 [A-level Certificate in Comprehensive Quality of University Students](http://Liuchao-JIN.github.io/files/award/2022_ZongA.pdf) in Sichuan Province
