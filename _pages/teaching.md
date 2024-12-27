@@ -10,9 +10,10 @@ author_profile: true
 <!-- ## Current -->
 
 ### Current
-- MAEG5725: [Control and Industrial Automation](http://Liuchao-JIN.github.io/files/teaching/2024F_MAEG5725.pdf) (Fall 2024)
+- MAEG5735: [Applied Computational Intelligence](http://Liuchao-JIN.github.io/files/teaching/2025S_MAEG5735.pdf) (Spring 2025)
 
 ### Past
+- MAEG5725: [Control and Industrial Automation](http://Liuchao-JIN.github.io/files/teaching/2024F_MAEG5725.pdf) (Fall 2024)
 - MAEG5725: [Control and Industrial Automation](http://Liuchao-JIN.github.io/files/teaching/2024S_MAEG5725.pdf) (Spring 2024)
 - MAEG5715: [Computer Interface and Simulation](http://Liuchao-JIN.github.io/files/teaching/2023F_MAEG5715.pdf) (Fall 2023)
 - MAEG4050: [Modern Control Systems Analysis and Design](http://Liuchao-JIN.github.io/files/teaching/2023S_MAEG4050.pdf) (Spring 2023)
