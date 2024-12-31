@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Upcoming
-* 2025/09/08-09/10. [ASME's Premier Conference on Smart Materials, Adaptive Structures, and Intelligent Systems](https://event.asme.org/SMASIS). St. Louis, Missouri
+* 2025/09/08-09/10. [ASME's Premier Conference on Smart Materials, Adaptive Structures, and Intelligent Systems](https://event.asme.org/SMASIS). St. Louis, Missouri, United States
 * 2025/07/08-07/10. 4D Materials Design and Additive Manufacturing Conference. Singapore
 * 2025/07/01-07/03. [11th ECCOMAS Thematic Conference on Smart Structures and Materials](https://www.jku.at/en/smart2025/). Linz, Austria
 * 2025/06/23-06/26. [Materials Today Conference 2025](https://www.elsevier.com/events/conferences/all/materials-today-conference). Sitges, Spain
