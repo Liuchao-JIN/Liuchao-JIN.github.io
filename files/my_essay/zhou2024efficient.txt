@@ -1,0 +1,8 @@
+@article{zhou2025efficient,
+  title={Efficient data driven optimization framework for designing B-spline honeycombs with excellent energy absorption},
+  author={Zhou, Sicong and Zhang, Kang and Jin, Liuchao and Gao, Qiang and Liao, Wei-Hsin},
+  journal={Thin-Walled Structures},
+  pages={112941},
+  year={2025},
+  publisher={Elsevier}
+}
