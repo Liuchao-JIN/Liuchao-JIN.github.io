@@ -1,0 +1,9 @@
+@article{jin2025finite,
+  title={Finite element analysis, machine learning, and digital twins for soft robots: state-of-arts and perspectives},
+  author={Jin, Liuchao and Zhai, Xiaoya and Xue, Wenbo and Zhang, Kang and Jiang, Jingchao and Bodaghi, Mahdi and Liao, Wei-Hsin},
+  journal={Smart Materials and Structures},
+  volume={34},
+  number={3},
+  year={2025},
+  publisher={IOP Publishing}
+}
