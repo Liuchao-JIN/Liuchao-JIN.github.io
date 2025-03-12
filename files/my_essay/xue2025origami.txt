@@ -1,0 +1,7 @@
+@article{xue2025origami,
+  title={Origami-based flexible robotic grippers via hard-soft coupled multimaterial 3D printing},
+  author={Xue, Wenbo and Jin, Liuchao and Jian, Bingcong and Ge, Qi},
+  journal={Soft Robotics},
+  year={2025},
+  publisher={Mary Ann Liebert, Inc., publishers 140 Huguenot Street, 3rd Floor New~…}
+}

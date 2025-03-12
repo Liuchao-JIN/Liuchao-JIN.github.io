@@ -1,8 +1,0 @@
-@inproceedings{jin2022unified,
-  title={The Unified Tracking Controller for a Tilt-Rotor Unmanned Aerial Vehicle Based on the Dual Quaternion},
-  author={Jin, Liuchao and Lou, Yuchen and Chen, Lu-An and Lu, Qi},
-  booktitle={2022 IEEE International Conference on Unmanned Systems (ICUS)},
-  pages={1356--1363},
-  year={2022},
-  organization={IEEE}
-}
