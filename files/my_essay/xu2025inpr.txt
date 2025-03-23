@@ -2,6 +2,7 @@
   title={INPR-Connector: Interlocking negative Poisson’s ratio connectors design for deployable energy absorption structures},
   author={Xu, Wenpeng and Zhang, Mengyu and Xu, Hao and Yu, Menglin and Jin, Liuchao and Zhai, Xiaoya and Jiang, Jingchao},
   journal={Composites Part B: Engineering},
+  volume={297},
   pages={112243},
   year={2025},
   publisher={Elsevier}

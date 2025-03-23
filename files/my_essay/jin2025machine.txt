@@ -1,0 +1,9 @@
+@article{jin2025machine,
+  title={Machine learning powered inverse design for strain fields of hierarchical architectures},
+  author={Jin, Liuchao and Yu, Shouyi and Cheng, Jianxiang and Liu, Zhigang and Zhang, Kang and Zhou, Sicong and He, Xiangnan and Xie, Guoquan and Bodaghi, Mahdi and Ge, Qi and Liao, Wei-Hsin},
+  journal={Composites Part B: Engineering},
+  volume={299},
+  pages={112372},
+  year={2025},
+  publisher={Elsevier}
+}
