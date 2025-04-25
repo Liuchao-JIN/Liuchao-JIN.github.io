@@ -4,6 +4,7 @@
   journal={Smart Materials and Structures},
   volume={34},
   number={3},
+  pages={033002},
   year={2025},
   publisher={IOP Publishing}
 }

@@ -3,7 +3,8 @@
   author={Zhang, Kang and Jiang, Jingchao and Jin, Liuchao and Gao, Qiang and Zhai, Xiaoya and Zhou, Sicong and Li, Zhenhong and Li, Jifan and Liao, Wei-Hsin},
   journal={Smart Materials and Structures},
   volume={34},
-  number={5},
+  number={4},
+  pages={045025},
   year={2025},
   publisher={IOP Publishing}
 }
