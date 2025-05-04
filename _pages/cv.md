@@ -149,11 +149,16 @@ Leadership & Extracurricular Activities
 
 Academic Services
 ======
+* Reviewer for [Materials Today](http://Liuchao-JIN.github.io/files/award/reviewer_MT.pdf).
 * Reviewer for [Materials & Design](http://Liuchao-JIN.github.io/files/award/reviewer_JMADE.pdf).
 * Reviewer for [Journal of Manufacturing Processes](http://Liuchao-JIN.github.io/files/award/reviewer_JMP.pdf).
 * Reviewer for [International Journal of Precision Engineering and Manufacturing](http://Liuchao-JIN.github.io/files/award/reviewer_IJPEM.pdf).
+* Reviewer for Advanced Materials Technologies.
 * Reviewer for Progress in Additive Manufacturing.
+* Reviewer for IEEE International Conference on Advanced Robotics and Mechatronics (ICARM).
+* Reviewer for Nanotechnology Reviews.
 * Reviewer for Smart Materials & Methods.
+* Reviewer for 4D Printing.
 
 Community Contributions
 ======
