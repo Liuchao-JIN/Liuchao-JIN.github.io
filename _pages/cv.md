@@ -147,6 +147,19 @@ Leadership & Extracurricular Activities
 * 03/2019 - 06/2020, [Sichuan University Student Television Station](https://space.bilibili.com/174898254?spm_id_from=333.337.0.0), Deputy Director.
 * 09/2018 - 06/2019, [Sichuan University - Pittsburgh Institute Student Council](https://scupi.scu.edu.cn/en/campus-life/student-organizations), Member.
 
+Academic Services
+======
+* Reviewer for [Materials Today](http://Liuchao-JIN.github.io/files/award/reviewer_MT.pdf).
+* Reviewer for [Materials & Design](http://Liuchao-JIN.github.io/files/award/reviewer_JMADE.pdf).
+* Reviewer for [Journal of Manufacturing Processes](http://Liuchao-JIN.github.io/files/award/reviewer_JMP.pdf).
+* Reviewer for [International Journal of Precision Engineering and Manufacturing](http://Liuchao-JIN.github.io/files/award/reviewer_IJPEM.pdf).
+* Reviewer for Advanced Materials Technologies.
+* Reviewer for Progress in Additive Manufacturing.
+* Reviewer for IEEE International Conference on Advanced Robotics and Mechatronics (ICARM).
+* Reviewer for Nanotechnology Reviews.
+* Reviewer for Smart Materials & Methods.
+* Reviewer for 4D Printing.
+
 Community Contributions
 ======
 * 05/2021 & 11/2019, [Chengdu Blood Center](http://cdwjw.chengdu.gov.cn/cdwjw/zsdw/2022-02/17/content_f402eac1ea4148c7ab930d09da21870c.shtml), Blood Donor.

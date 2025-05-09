@@ -1,0 +1,6 @@
+@article{dai2025advances,
+  title={Advances in Intelligent Design of Metamaterials},
+  author={Dai, Tielin and Jin, Liuchao and Shang, Chen and Zhai, Xiaoya and Fu, Xiao-Ming and Liu, Ligang},
+  journal={Journal of Computer-Aided Design \& Computer Graphics},
+  year={2025}
+}
