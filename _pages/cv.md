@@ -114,7 +114,6 @@ Honors & Awards
 * 05/2022 [First Prize in The 7th National Academic English Vocabulary Competition](http://Liuchao-JIN.github.io/files/award/2022_NAEV.pdf) (NAEV)
 * 05/2022 [Outstanding Senior Project Poster Award](http://Liuchao-JIN.github.io/files/award/2022_SCUPI_OutSP_Poster.pdf) of Sichuan University-Pittsburgh Institute
 * 03/2022 [Outstanding Graduate of Sichuan Province](http://Liuchao-JIN.github.io/files/award/2022_outstanding_graduate_sichuan_pro.pdf)
-* 03/2022 [Outstanding Communist Party Member](http://Liuchao-JIN.github.io/files/award/2022_Out_Commu.pdf) of Sichuan University-Pittsburgh Institute
 * 01/2022 [A-level Certificate in Comprehensive Quality of University Students](http://Liuchao-JIN.github.io/files/award/2022_ZongA.pdf) in Sichuan Province
 * 12/2021 2020-2021 Academic Year [National Scholarship](http://Liuchao-JIN.github.io/files/award/2021_NationalScholarship.pdf) (China) (¥8,000)
 * 10/2021 [Outstanding Graduate of Sichuan University](http://Liuchao-JIN.github.io/files/award/2021_outstanding_graduate_scu.pdf)
@@ -130,11 +129,9 @@ Honors & Awards
 * 09/2020 [Excellent Teaching Assistant Award](http://Liuchao-JIN.github.io/files/award/2020_Outstanding_TA.pdf) for Sichuan University-Pittsburgh Institute
 * 09/2020 2019-2020 Academic Year Sichuan University-Pittsburgh Institute [Academic Star](http://Liuchao-JIN.github.io/files/award/2020_Academic_Star.pdf) (¥10,000)
 * 12/2019 2018-2019 Academic Year [National Scholarship](http://Liuchao-JIN.github.io/files/award/2019_NationalScholarship.pdf) (China) (¥8,000)
-* 12/2019 [Excellent Student in Party School](http://Liuchao-JIN.github.io/files/award/2019_Party_School.pdf) of the Sichuan University Committee of the Communist Party of China
 * 10/2019 2018-2019 Academic Year [Outstanding Student](http://Liuchao-JIN.github.io/files/award/2019_SCU_Outstanding.pdf) of Sichuan University
 * 09/2019 2018-2019 Academic Year Sichuan University-Pittsburgh Institute [Best Academic Achiever Award](http://Liuchao-JIN.github.io/files/award/2019_Best_Academic.pdf) (¥60,000)
 * 07/2019 [First Prize](http://Liuchao-JIN.github.io/files/award/2019_Video_Friend.pdf) in the Special Category of the 9th ”[Video Friends Cup](https://mp.weixin.qq.com/s/LDRg9gwwwKdUBDOkBet5CQ)” China University TV Awards
-* 07/2019 [Excellent Student of Military Skills Training](http://Liuchao-JIN.github.io/files/award/2019_Military.pdf) in Sichuan University
 * 02/2019 [Student Ambassador](http://Liuchao-JIN.github.io/files/award/2019_SCUPIAmb.pdf) of Sichuan University-Pittsburgh Institute
 
 
