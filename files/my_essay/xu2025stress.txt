@@ -1,0 +1,9 @@
+@article{xu2025stress,
+  title={Stress-guided lightweight design and optimization for 3D printing sacrificial molds},
+  author={Xu, Wenpeng and Zhang, Ning and Xu, Hao and Jin, Liuchao and Jiang, Jingchao},
+  journal={Materials \& Design},
+  volume={255},
+  pages={114161},
+  year={2025},
+  publisher={Elsevier}
+}

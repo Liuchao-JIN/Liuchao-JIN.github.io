@@ -1,0 +1,7 @@
+@article{xue2025origami,
+  title={Origami robots: Design, actuation, and {3D} printing methods},
+  author={Xue, Wenbo and Jian, Bingcong and Jin, Liuchao and Wang, Rong and Ge, Qi},
+  journal={Advanced Materials Technologies},
+  year={2025},
+  publisher={Wiley}
+}
