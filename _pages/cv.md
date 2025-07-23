@@ -146,16 +146,24 @@ Leadership & Extracurricular Activities
 
 Academic Services
 ======
-* Reviewer for [Materials Today](http://Liuchao-JIN.github.io/files/award/reviewer_MT.pdf).
-* Reviewer for [Materials & Design](http://Liuchao-JIN.github.io/files/award/reviewer_JMADE.pdf).
-* Reviewer for [Journal of Manufacturing Processes](http://Liuchao-JIN.github.io/files/award/reviewer_JMP.pdf).
-* Reviewer for [International Journal of Precision Engineering and Manufacturing](http://Liuchao-JIN.github.io/files/award/reviewer_IJPEM.pdf).
-* Reviewer for Advanced Materials Technologies.
-* Reviewer for Progress in Additive Manufacturing.
-* Reviewer for IEEE International Conference on Advanced Robotics and Mechatronics (ICARM).
-* Reviewer for Nanotechnology Reviews.
-* Reviewer for Smart Materials & Methods.
-* Reviewer for 4D Printing.
+* Reviewer
+  * [Materials Today](http://Liuchao-JIN.github.io/files/award/Certificate_MATTOD_Recognised.pdf).
+  * [Materials Science and Engineering: A](http://Liuchao-JIN.github.io/files/award/Certificate_MSA_Recognised.pdf).
+  * [Materials & Design](http://Liuchao-JIN.github.io/files/award/Certificate_JMADE_Recognised.pdf).
+  * [Journal of Manufacturing Processes](http://Liuchao-JIN.github.io/files/award/Certificate_JMP_Recognised.pdf).
+  * [Thin-Walled Structures](http://Liuchao-JIN.github.io/files/award/Certificate_TWST_Recognised.pdf).
+  * [Construction and Building Materials](http://Liuchao-JIN.github.io/files/award/Certificate_JCBM_Recognised.pdf).
+  * [Photonics and Nanostructures - Fundamentals and Applications](http://Liuchao-JIN.github.io/files/award/Certificate_PNFA_Recognised.pdf).
+  * [Engineering Applications of Artificial Intelligence](http://Liuchao-JIN.github.io/files/award/Certificate_EAAI_Recognised.pdf).
+  * [Next Materials](http://Liuchao-JIN.github.io/files/award/Certificate_NXMATE_Recognised.pdf).
+  * [International Journal of Precision Engineering and Manufacturing](http://Liuchao-JIN.github.io/files/award/reviewer_IJPEM.pdf).
+  * International Journal on Interactive Design and Manufacturing.
+  * Advanced Materials Technologies.
+  * Progress in Additive Manufacturing.
+  * IEEE International Conference on Advanced Robotics and Mechatronics (ICARM).
+  * Nanotechnology Reviews.
+  * Smart Materials & Methods.
+  * 4D Printing.
 
 Community Contributions
 ======
