@@ -150,6 +150,7 @@ Academic Services
   * [Materials Today](http://Liuchao-JIN.github.io/files/award/Certificate_MATTOD_Recognised.pdf).
   * [Materials Science and Engineering: A](http://Liuchao-JIN.github.io/files/award/Certificate_MSA_Recognised.pdf).
   * [Materials & Design](http://Liuchao-JIN.github.io/files/award/Certificate_JMADE_Recognised.pdf).
+  * [Additive Manufacturing](http://Liuchao-JIN.github.io/files/award/Certificate_ADDMA_Recognised.pdf).
   * [Journal of Manufacturing Processes](http://Liuchao-JIN.github.io/files/award/Certificate_JMP_Recognised.pdf).
   * [Thin-Walled Structures](http://Liuchao-JIN.github.io/files/award/Certificate_TWST_Recognised.pdf).
   * [Construction and Building Materials](http://Liuchao-JIN.github.io/files/award/Certificate_JCBM_Recognised.pdf).
