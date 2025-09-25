@@ -160,8 +160,13 @@ Academic Services
   * [Engineering Applications of Artificial Intelligence](http://Liuchao-JIN.github.io/files/award/Certificate_EAAI_Recognised.pdf).
   * [Next Materials](http://Liuchao-JIN.github.io/files/award/Certificate_NXMATE_Recognised.pdf).
   * [International Journal of Precision Engineering and Manufacturing](http://Liuchao-JIN.github.io/files/award/reviewer_IJPEM.pdf).
+  * [Applied Composite Materials](http://Liuchao-JIN.github.io/files/award/Certificate_ACM_Recognised.pdf).
+  * [Autonomous Transportation Research](http://Liuchao-JIN.github.io/files/award/Certificate_ATRES_Recognised.pdf).
+  * [Materials Letters](http://Liuchao-JIN.github.io/files/award/Certificate_MLBLUE_Recognised.pdf).
+  * [Indoor Environments](http://Liuchao-JIN.github.io/files/award/Certificate_INDENV_Recognised.pdf).
   * International Journal on Interactive Design and Manufacturing.
   * Advanced Materials Technologies.
+  * Advances in Materials and Processing Technologies.
   * Progress in Additive Manufacturing.
   * IEEE International Conference on Advanced Robotics and Mechatronics (ICARM).
   * Nanotechnology Reviews.
