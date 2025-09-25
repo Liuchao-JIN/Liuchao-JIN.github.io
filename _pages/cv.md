@@ -25,10 +25,10 @@ Education
 
 Experience
 ======
-* 07/2024-Present: [Shenzhen University](https://en.szu.edu.cn/), Visiting Scholar
+* 07/2024-09/2025: [Shenzhen University](https://en.szu.edu.cn/), Visiting Scholar
   * Supervisor: Prof. Zhihui Lai & Shitong Fang
   * Research Direction: Machine learning enabled design for energy absorption & harvesting
-* 08/2023-Present: [Southern University of Science and Technology](https://sustech.edu.cn/en/), Visiting Scholar
+* 08/2023-09/2025: [Southern University of Science and Technology](https://sustech.edu.cn/en/), Visiting Scholar
   * Supervisor: Prof. [Qi Ge](https://faculty.sustech.edu.cn/?tagid=geq&iscss=1&snapid=1&orderby=date&go=1&lang=en)
   * Research Direction: Machine learning enabled design for hierarchical architecture
 * 04/2021-09/2021: [Westlake University](https://en.westlake.edu.cn/), [Research Assistant](http://Liuchao-JIN.github.io/files/award/2021_Westlake_Research_Intern.pdf)
