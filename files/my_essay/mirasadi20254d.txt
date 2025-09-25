@@ -1,0 +1,8 @@
+@article{mirasadi20254d,
+  title={{4D} printing of magnetically responsive shape memory polymers: Toward sustainable solutions in soft robotics, wearables, and biomedical devices},
+  author = {Mirasadi, Kiandokht and Yousefi, M Amin and Jin, Liuchao and Rahmatabadi, Davood and Baniassadi, Majid and Liao, Wei-Hsin and Bodaghi, Mahdi and Baghani, Mostafa}
+  journal={Advanced Science},
+  pages={e13091},
+  year={2025},
+  publisher={Wiley}
+}

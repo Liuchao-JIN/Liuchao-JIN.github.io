@@ -6,13 +6,12 @@ author_profile: true
 ---
 
 ### Upcoming
+* 2025/10/12-10/15. [2025 SES Annual Technical Meeting](https://sites.gatech.edu/2025ses/). Atlanta, Georgia, United States
 * 2025/09/08-09/10. [ASME's Premier Conference on Smart Materials, Adaptive Structures, and Intelligent Systems](https://event.asme.org/SMASIS). St. Louis, Missouri, United States
-* 2025/07/08-07/10. 4D Materials Design and Additive Manufacturing Conference. Singapore
-* 2025/07/01-07/03. [11th ECCOMAS Thematic Conference on Smart Structures and Materials](https://www.jku.at/en/smart2025/). Linz, Austria
-* 2025/06/23-06/26. [Materials Today Conference 2025](https://www.elsevier.com/events/conferences/all/materials-today-conference). Sitges, Spain
-* 2025/03/17-03/20. [SPIE Smart Structures + NDE 2025](https://spie.org/conferences-and-exhibitions/smart-structures-nde#_=_). Vancouver, Canada
 
 ### Past
+* 2025/07/08-07/10. 4D Materials Design and Additive Manufacturing Conference. Singapore
+* 2025/03/17-03/20. [SPIE Smart Structures + NDE 2025](https://spie.org/conferences-and-exhibitions/smart-structures-nde#_=_). Vancouver, Canada
 * 2025/01/06-01/10. [13th edition of the Global Young Scientists Summit (GYSS)](https://www.gyss-one-north.sg/). Singapore
 * 2024/10/18-10/21. The 7th "Materials and the Future" Young Scholars Forum. Ningbo Institute of Materials Technology & Engineering, Chinese Academy of Sciences, Ningbo, China
 * 2024/10/17-10/19. [Making Futures 2024](https://makingfutures.org.uk/). Plymouth, Devon, England

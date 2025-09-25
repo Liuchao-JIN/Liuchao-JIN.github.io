@@ -1,5 +1,5 @@
 @echo off
-set wechatPath="D:\Applications\WeChat\WeChat.exe"
+set wechatPath="D:\Applications\Weixin\Weixin.exe"
 start "WeChat " %wechatPath%
 start "WeChat " %wechatPath%
 start "WeChat " %wechatPath%
