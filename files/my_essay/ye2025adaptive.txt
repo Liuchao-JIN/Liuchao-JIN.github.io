@@ -1,0 +1,8 @@
+@article{ye2025adaptive,
+  title={Adaptive Energy Dissipator with Compression-to-Tension Design},
+  author={Ye, Haitao and Li, Chong and Yu, Shouyi and Li, Honggeng and Lian, Yiling and He, Xiangnan and Chen, Juzheng and Huang, Xingjian and Jin, Liuchao and Cheng, Jianxiang and Wang, Rong and Huang, Lixi and Zhang, Biao and Song, Xu and Lu, Yang and Ge, Qi},
+  journal={Advanced Functional Materials},
+  pages={e21393},
+  year={2025},
+  publisher={Wiley}
+}
