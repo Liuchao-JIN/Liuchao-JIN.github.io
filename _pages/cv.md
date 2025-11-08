@@ -162,7 +162,7 @@ Academic Services
   * [Photonics and Nanostructures - Fundamentals and Applications](http://Liuchao-JIN.github.io/files/award/Certificate_PNFA_Recognised.pdf).
   * [Engineering Applications of Artificial Intelligence](http://Liuchao-JIN.github.io/files/award/Certificate_EAAI_Recognised.pdf).
   * [Next Materials](http://Liuchao-JIN.github.io/files/award/Certificate_NXMATE_Recognised.pdf).
-  * [International Journal of Precision Engineering and Manufacturing](http://Liuchao-JIN.github.io/files/award/reviewer_IJPEM.pdf).
+  * [International Journal of Precision Engineering and Manufacturing](http://Liuchao-JIN.github.io/files/award/Certificate_IJPEM_Recognised.pdf).
   * [Applied Composite Materials](http://Liuchao-JIN.github.io/files/award/Certificate_ACM_Recognised.pdf).
   * [Autonomous Transportation Research](http://Liuchao-JIN.github.io/files/award/Certificate_ATRES_Recognised.pdf).
   * [Materials Letters](http://Liuchao-JIN.github.io/files/award/Certificate_MLBLUE_Recognised.pdf).
