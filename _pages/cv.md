@@ -155,6 +155,7 @@ Academic Services
   * [Additive Manufacturing](http://Liuchao-JIN.github.io/files/award/Certificate_ADDMA_Recognised.pdf).
   * [Journal of Manufacturing Processes](http://Liuchao-JIN.github.io/files/award/Certificate_JMP_Recognised.pdf).
   * [Journal of Manufacturing Systems](http://Liuchao-JIN.github.io/files/award/Certificate_JMSY_Recognised.pdf).
+  * [Sustainable Materials and Technologies](http://Liuchao-JIN.github.io/files/award/Certificate_SUSMAT_Recognised.pdf).
   * [Results in Engineering](http://Liuchao-JIN.github.io/files/award/Certificate_RINENG_Recognised.pdf).
   * [Mechanics of Materials](http://Liuchao-JIN.github.io/files/award/Certificate_MECMAT_Recognised.pdf).
   * [Thin-Walled Structures](http://Liuchao-JIN.github.io/files/award/Certificate_TWST_Recognised.pdf).
