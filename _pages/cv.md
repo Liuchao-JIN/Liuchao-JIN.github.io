@@ -166,6 +166,7 @@ Academic Services
   * [International Journal of Precision Engineering and Manufacturing](http://Liuchao-JIN.github.io/files/award/Certificate_IJPEM_Recognised.pdf).
   * [Applied Composite Materials](http://Liuchao-JIN.github.io/files/award/Certificate_ACM_Recognised.pdf).
   * [Discover Materials](http://Liuchao-JIN.github.io/files/award/Certificate_DISMAT_Recognised.pdf).
+  * [Discover Mechanical Engineering](http://Liuchao-JIN.github.io/files/award/Certificate_DISME_Recognised.pdf).
   * [Autonomous Transportation Research](http://Liuchao-JIN.github.io/files/award/Certificate_ATRES_Recognised.pdf).
   * [Materials Letters](http://Liuchao-JIN.github.io/files/award/Certificate_MLBLUE_Recognised.pdf).
   * [Indoor Environments](http://Liuchao-JIN.github.io/files/award/Certificate_INDENV_Recognised.pdf).
