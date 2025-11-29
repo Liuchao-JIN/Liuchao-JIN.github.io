@@ -1,3 +1,120 @@
+@article{jin2025machine,
+  title={Machine learning powered inverse design for strain fields of hierarchical architectures},
+  author={Jin, Liuchao and Yu, Shouyi and Cheng, Jianxiang and Liu, Zhigang and Zhang, Kang and Zhou, Sicong and He, Xiangnan and Xie, Guoquan and Bodaghi, Mahdi and Ge, Qi and Liao, Wei-Hsin},
+  journal={Composites Part B: Engineering},
+  volume={299},
+  pages={112372},
+  year={2025},
+  publisher={Elsevier}
+}
+
+@article{jin2025finite,
+  title={Finite element analysis, machine learning, and digital twins for soft robots: state-of-arts and perspectives},
+  author={Jin, Liuchao and Zhai, Xiaoya and Xue, Wenbo and Zhang, Kang and Jiang, Jingchao and Bodaghi, Mahdi and Liao, Wei-Hsin},
+  journal={Smart Materials and Structures},
+  volume={34},
+  number={3},
+  pages={033002},
+  year={2025},
+  publisher={IOP Publishing}
+}
+
+@article{zhang2025low,
+  title={Low-melting-point alloy/polyurethane auxetic composite foam for outstanding impact protection with favorable shape memory effect},
+  author={Zhang, Kang and Jiang, Jingchao and Jin, Liuchao and Gao, Qiang and Zhai, Xiaoya and Zhou, Sicong and Li, Zhenhong and Li, Jifan and Liao, Wei-Hsin},
+  journal={Smart Materials and Structures},
+  volume={34},
+  number={4},
+  pages={045025},
+  year={2025},
+  publisher={IOP Publishing}
+}
+
+@article{xue2025origami,
+  title={Origami-based flexible robotic grippers via hard-soft coupled multimaterial {3D} printing},
+  author={Xue, Wenbo and Jin, Liuchao and Jian, Bingcong and Ge, Qi},
+  journal={Soft Robotics},
+  year={2025},
+  publisher={Mary Ann Liebert, Inc., publishers 140 Huguenot Street, 3rd Floor New~…}
+}
+
+@article{xu2025inpr,
+  title={INPR-Connector: Interlocking negative {Poisson’s} ratio connectors design for deployable energy absorption structures},
+  author={Xu, Wenpeng and Zhang, Mengyu and Xu, Hao and Yu, Menglin and Jin, Liuchao and Zhai, Xiaoya and Jiang, Jingchao},
+  journal={Composites Part B: Engineering},
+  volume={297},
+  pages={112243},
+  year={2025},
+  publisher={Elsevier}
+}
+
+@article{zhou2025efficient,
+  title={Efficient data driven optimization framework for designing {B-spline} honeycombs with excellent energy absorption},
+  author={Zhou, Sicong and Zhang, Kang and Jin, Liuchao and Gao, Qiang and Liao, Wei-Hsin},
+  journal={Thin-Walled Structures},
+  volume={209},
+  pages={112941},
+  year={2025},
+  publisher={Elsevier}
+}
+
+@article{xu2025stress,
+  title={Stress-guided lightweight design and optimization for 3D printing sacrificial molds},
+  author={Xu, Wenpeng and Zhang, Ning and Xu, Hao and Jin, Liuchao and Jiang, Jingchao},
+  journal={Materials \& Design},
+  volume={255},
+  pages={114161},
+  year={2025},
+  publisher={Elsevier}
+}
+
+@article{ye2025adaptive,
+  title={Adaptive Energy Dissipator with Compression-to-Tension Design},
+  author={Ye, Haitao and Li, Chong and Yu, Shouyi and Li, Honggeng and Lian, Yiling and He, Xiangnan and Chen, Juzheng and Huang, Xingjian and Jin, Liuchao and Cheng, Jianxiang and Wang, Rong and Huang, Lixi and Zhang, Biao and Song, Xu and Lu, Yang and Ge, Qi},
+  journal={Advanced Functional Materials},
+  pages={e21393},
+  year={2025},
+  publisher={Wiley}
+}
+
+@article{mirasadi20254d,
+  title={{4D} printing of magnetically responsive shape memory polymers: Toward sustainable solutions in soft robotics, wearables, and biomedical devices},
+  author = {Mirasadi, Kiandokht and Yousefi, M Amin and Jin, Liuchao and Rahmatabadi, Davood and Baniassadi, Majid and Liao, Wei-Hsin and Bodaghi, Mahdi and Baghani, Mostafa},
+  journal={Advanced Science},
+  pages={e13091},
+  year={2025},
+  publisher={Wiley}
+}
+
+@article{xue2025origami,
+  title={Origami robots: Design, actuation, and {3D} printing methods},
+  author={Xue, Wenbo and Jian, Bingcong and Jin, Liuchao and Wang, Rong and Ge, Qi},
+  journal={Advanced Materials Technologies},
+  pages={e00278},
+  year={2025},
+  publisher={Wiley}
+}
+
+@article{dai2025advances,
+  title={Advances in intelligent design of metamaterials},
+  author={Dai, Tielin and Jin, Liuchao and Shang, Chen and Zhai, Xiaoya and Fu, Xiao-Ming and Liu, Ligang},
+  journal={Journal of Computer-Aided Design \& Computer Graphics},
+  volume={37},
+  number={1},
+  pages={1--27},
+  year={2025}
+}
+
+@inproceedings{jin2025modulus,
+  title={Modulus tunability in hierarchical architectures: a machine learning-enabled approach},
+  author={Jin, Liuchao and Zhang, Kang and Zhou, Sicong and Xie, Guoquan and Liao, Wei-Hsin},
+  booktitle={Multifunctional Materials and Structures 2025},
+  volume={13433},
+  pages={133--143},
+  year={2025},
+  organization={SPIE}
+}
+
 @article{jin20243d,
   title={{3D printing soft robots integrated with low-melting-point alloys}},
   author={Jin, Liuchao and Zhai, Xiaoya and Zhang, Kang and Jiang, Jingchao and Liao, Wei-Hsin},

@@ -1,0 +1,8 @@
+@article{wu2025digital,
+  title={Digital light processing {3D} printing of large-scale and crack-free ceramics with perforated internal honeycomb structures},
+  author={Wu, Siqian and Wang, Rong and \textbf{Jin}, Liuchao and Huang, Xingjian and Li, Wuzhao and Zhou, Kun and Ge, Qi},
+  journal={Virtual and Physical Prototyping},
+  volume={20},
+  number={1},
+  year={2025}
+}
