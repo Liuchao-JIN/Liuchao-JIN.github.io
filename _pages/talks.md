@@ -6,10 +6,12 @@ author_profile: true
 ---
 
 ### Upcoming
-* 2025/10/12-10/15. [2025 SES Annual Technical Meeting](https://sites.gatech.edu/2025ses/). Atlanta, Georgia, United States
-* 2025/09/08-09/10. [ASME's Premier Conference on Smart Materials, Adaptive Structures, and Intelligent Systems](https://event.asme.org/SMASIS). St. Louis, Missouri, United States
+* 2025/03/16-03/19. [SPIE Smart Structures + NDE 2026](https://spie.org/conferences-and-exhibitions/smart-structures-nde). Vancouver, Canada
 
 ### Past
+* 2025/10/30. [GAMES Webinar 383: Geometric Design and Intelligent Manufacturing (CAX Session)](https://www.bilibili.com/video/BV1J2SFBREjm/?share_source=copy_web&vd_source=190e53d6e2ad43d5e7473075676b6206). Online. (Invited Talk)
+* 2025/10/12-10/15. [2025 SES Annual Technical Meeting](https://sites.gatech.edu/2025ses/). Atlanta, Georgia, United States
+* 2025/09/08-09/10. [ASME's Premier Conference on Smart Materials, Adaptive Structures, and Intelligent Systems](https://event.asme.org/SMASIS). St. Louis, Missouri, United States
 * 2025/07/08-07/10. 4D Materials Design and Additive Manufacturing Conference. Singapore
 * 2025/03/17-03/20. [SPIE Smart Structures + NDE 2025](https://spie.org/conferences-and-exhibitions/smart-structures-nde#_=_). Vancouver, Canada
 * 2025/01/06-01/10. [13th edition of the Global Young Scientists Summit (GYSS)](https://www.gyss-one-north.sg/). Singapore
