@@ -1,5 +1,5 @@
 @inproceedings{wang2025prediction,
-  title={Prediction of Process Parameters Based on Stress-Strain Behaviour in 3D Printing Using Deep Neural Network},
+  title={Prediction of Process Parameters Based on Stress-Strain Behaviour in {3D} Printing Using Deep Neural Network},
   author={Wang, Linlin and Jiang, Jingchao and Tian, Yanyan and Dong, Yicheng and Li, Haobing and Jin, Liuchao and Sucala, Voicu Ion},
   booktitle={2025 International Conference on Intelligent Digitization of Systems and Services (IDSS)},
   pages={161--166},
