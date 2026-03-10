@@ -1,0 +1,7 @@
+@article{ye2026multi,
+  title={Multi-material {3D} printed compression-induced stretching lattice metamaterials with superior reusable energy absorption},
+  author={Ye, Haitao and Huang, Xingjian and Jin, Liuchao and Zhou, Sicong and Xie, Guoquan and Hu, Zongxin and Li, Rui and Mo, Haoming and Fang, Shitong and Liao, Wei-Hsin and Ge, Qi and Song, Xu},
+  journal={Virtual and Physical Prototyping},
+  pages={e2637380},
+  year={2026}
+}
