@@ -1,0 +1,8 @@
+@article{fang2026gecko,
+  title={Gecko-Like Multi-Directional High-Power Magneto--Mechano--Electric Energy Harvesters for Self-Powered, Hundred-Meter-Scale LoRa Communication},
+  author = {Fang, Shitong and Peng, Haoxian and Cai, Mingjing and Jin, Liuchao and Yu, Yuelong and Xiao, Mianxin and Xu, Qingyang and Hou, Jiacheng and Yu, Degui and Lai, Zhihui and Li, Xin and Dong, Shuxiang and Wang, Biao and Liao, Wei-Hsin},
+  journal={Advanced Science},
+  pages={e74974},
+  year={2026},
+  publisher={Wiley}
+}
