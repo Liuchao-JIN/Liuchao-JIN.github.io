@@ -1,0 +1,7 @@
+@article{lin2026machine,
+  title={Machine learning-based inverse design for functional materials: Methods, challenges, and engineering applications},
+  author={Lin, Weihao and Jin, Liuchao and Jiang, Zhifei and Cai, Mingjing and Lai, Zhihui and Yurchenko, Daniil and Yan, Bo and Zhou, Shengxi and Novoselov, Kostya S. and Liao, Wei-Hsin and Fang, Shitong},
+  journal={Advanced Functional Materials},  
+  pages={e75070},
+  year={2026}
+}
