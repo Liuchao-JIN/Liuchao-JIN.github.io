@@ -1,0 +1,9 @@
+@article{fang2026high,
+  title={High-power-density energy harvester via optimized negative {Poisson}’s ratio metastructure with nonlinear gradient wall thickness},
+  author={Fang, Shitong and Liu, Jinkang and Guo, Yufeng and Xu, Qingyang and Wu, Kui and Guan, Yi and Jin, Liuchao and Lai, Zhihui and Cai, Mingjing and Chen, Keyu and Liao, Wei-Hsin},
+  journal={Energy},
+  volume={354},
+  pages={140984},
+  year={2026},
+  publisher={Elsevier}
+}
