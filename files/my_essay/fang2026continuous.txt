@@ -1,0 +1,9 @@
+@article{fang2026continuous,
+  title={A continuous spiral-spring triboelectric nanogenerator for energy harvesting and self-sensing under ultra-low-frequency rotation},
+  author={Fang, Shitong and Guan, Yi and Zou, Jiabao and Chen, Miao and Wei, Liangdong and Jin, Liuchao and Lai, Zhihui and Wang, Biao and Cai, Mingjing and Liao, Wei-Hsin},
+  journal={Applied Physics Letters},
+  volume={129},
+  pages={143901},
+  year={2026},
+  publisher={AIP Publishing}
+}

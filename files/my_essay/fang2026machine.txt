@@ -1,0 +1,9 @@
+@article{fang2026machine,
+  title={Machine learning-enabled inverse design of heterogeneous impact-resistant metamaterials},
+  author={Fang, Shitong and Lin, Haobin and Ye, Aipeng and Lai, Zhihui and Ye, Haitao and Gao, Qiang and Cai, Mingjing and Zhai, Xiaoya and Sun, Xiaohao and Jin, Liuchao and Liao, Wei-Hsin},
+  journal={International Journal of Mechanical Sciences},
+  volume={329},
+  pages={112110},
+  year={2026},
+  publisher={Elsevier}
+}

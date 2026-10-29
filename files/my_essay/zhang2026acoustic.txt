@@ -1,0 +1,9 @@
+@article{zhang2026acoustic,
+  title={Acoustic planar concentration of suspended micro-objects for rapid microscopy},
+  author={Zhang, Yiwen and Li, Xin and Zou, Xian and Deng, Haoyue and Liu, Yali and Ling, Wenwu and Wu, Yan and Jin, Liuchao},
+  journal={Biomicrofluidics},
+  volume={20},
+  pages={054109},
+  year={2026},
+  publisher={AIP Publishing}
+}

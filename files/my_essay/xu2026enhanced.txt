@@ -1,0 +1,9 @@
+@article{xu2026enhanced,
+  title={Enhanced energy absorption in re-entrant honeycombs via elliptical double-arrow hybrid design},
+  author={Xu, Wenpeng and Wang, Dongxia and Zhang, Jinglong and Hu, Jiahe and Xu, Hao and Jin, Liuchao and Ye, Haitao and Zhao, Haisen and Liao, Wei-Hsin},
+  journal={Thin-Walled Structures},
+  volume={230},
+  pages={115252},
+  year={2026},
+  publisher={Elsevier}
+}

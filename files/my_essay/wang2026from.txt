@@ -1,0 +1,8 @@
+@article{wang2026from,
+  title={From Artificial to Embodied and Physical Intelligence in Smart Manufacturing},
+  author={Wang, Kang and Lu, Xinyu and Liu, Tong and Fang, Jinjie and Li, Xin and Wu, Siqian and Jin, Liuchao and Liao, Wei-Hsin and Zhang, Shuyou and Tan, Jianrong},
+  journal={Advanced Science},
+  pages={e78384},
+  year={2026},
+  publisher={Wiley}
+}

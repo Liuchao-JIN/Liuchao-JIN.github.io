@@ -1,0 +1,9 @@
+@article{fang2026triggering,
+  title={Triggering high-energy orbits in rotational nonlinear energy harvesters via time-varying external excitation and internal parameter modulation},
+  author={Fang, Shitong and Zou, Jiabao and Wu, Kui and Jin, Liuchao and Cai, Mingjing and Su, Xukun and Li, Xin and Lai, Zhihui and Zhao, Bao and Liao, Wei-Hsin},
+  journal={Mechanical Systems and Signal Processing},
+  volume={261},
+  pages={114997},
+  year={2026},
+  publisher={Elsevier}
+}

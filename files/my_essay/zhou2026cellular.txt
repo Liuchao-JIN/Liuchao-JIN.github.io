@@ -1,0 +1,8 @@
+@article{zhou2026cellular,
+  title={Cellular Material Network: A general machine learning architecture for predicting mechanical properties of cellular materials},
+  author={Zhou, Sicong and Gao, Qiang and Jin, Liuchao and Xie, Guoquan and Zhang, Kang and Liao, Wei-Hsin},
+  journal={Advanced Intelligent Systems},
+  pages={e70501},
+  year={2026},
+  publisher={Wiley}
+}

@@ -1,0 +1,8 @@
+@article{yu20263d,
+  title={3D printing of magnetic soft materials for functional structures and devices},
+  author={Yu, Shouyi and Yan, Yingbo and Chen, Mei and Huang, Xingjian and Jin, Liuchao and Wang, Rong and Zhou, Kun and Ge, Qi},
+  journal={Advanced Materials},
+  pages={e74024},
+  year={2026},
+  publisher={Wiley}
+}

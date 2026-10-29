@@ -1,0 +1,9 @@
+@article{zhou2026thermally,
+  title={Thermally driven reusable dual-phase honeycombs with enhanced mechanical properties},
+  author={Zhou, Sicong and Jin, Liuchao and Xie, Guoquan and Zhang, Kang and Gao, Qiang and Liao, Wei-Hsin},
+  journal={International Journal of Mechanical Sciences},
+  volume={326},
+  pages={111900},
+  year={2026},
+  publisher={Elsevier}
+}

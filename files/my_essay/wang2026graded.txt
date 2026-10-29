@@ -1,0 +1,9 @@
+@article{wang2026graded,
+  title={Graded infill design of thin-walled structures with connectable nonuniform microstructures based on the data-driven surrogate model},
+  author={Wang, Jian and Jin, Liuchao and Gao, Qiang and Liao, Wei-Hsin},
+  journal={Thin-Walled Structures},
+  volume={231},
+  pages={115426},
+  year={2026},
+  publisher={Elsevier}
+}
