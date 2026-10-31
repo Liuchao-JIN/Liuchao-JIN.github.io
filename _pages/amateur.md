@@ -20,7 +20,7 @@ redirect_from:
         <a class="amateur-button" href="#news-reporting">View news reporting</a>
       </div>
       <div class="amateur-hero__meta" aria-label="Creative work overview">
-        <span><strong>12</strong> productions</span>
+        <span><strong>11</strong> productions</span>
         <span>Film · Editing · Reporting</span>
       </div>
     </div>
@@ -84,20 +84,7 @@ redirect_from:
         </div>
       </a>
 
-      <a class="amateur-work-card" href="https://youtu.be/d3bo9BFm_Cs" target="_blank" rel="noopener">
-        <div class="amateur-work-card__media amateur-work-card__media--typographic">
-          <span class="amateur-work-card__sequence">03</span>
-          <span class="amateur-work-card__wordmark">FIELD<br>NOTES</span>
-          <span class="amateur-play amateur-play--small" aria-hidden="true">▶</span>
-        </div>
-        <div class="amateur-work-card__body">
-          <div class="amateur-card__meta"><span>Campus documentary</span><span>YouTube</span></div>
-          <h3>The Meaning of Military Training</h3>
-          <span class="amateur-watch">Watch <span aria-hidden="true">↗</span></span>
-        </div>
-      </a>
-
-      <a class="amateur-work-card" href="https://www.bilibili.com/video/BV1N5411x71K/" target="_blank" rel="noopener">
+      <a class="amateur-work-card amateur-work-card--wide" href="https://www.bilibili.com/video/BV1N5411x71K/" target="_blank" rel="noopener">
         <div class="amateur-work-card__media">
           <img src="{{ '/images/amateur/female-characters-sci-fi.jpg' | relative_url }}" alt="A Discussion on Female Characters in Science Fiction Movies video cover" loading="lazy">
           <span class="amateur-play amateur-play--small" aria-hidden="true">▶</span>

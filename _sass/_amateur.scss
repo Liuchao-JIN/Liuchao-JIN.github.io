@@ -391,41 +391,9 @@
   min-height: 14rem;
 }
 
-.amateur-work-card__media--typographic {
-  position: relative;
-  display: flex;
-  overflow: hidden;
-  padding: 1.15rem;
-  flex-direction: column;
-  justify-content: space-between;
-  color: #fff;
-  background:
-    linear-gradient(145deg, rgba(50, 137, 167, 0.22), transparent 55%),
-    var(--amateur-ink);
-
-  &::after {
-    position: absolute;
-    right: -2rem;
-    bottom: -2rem;
-    width: 8rem;
-    height: 8rem;
-    border: 1px solid rgba(255, 255, 255, 0.18);
-    border-radius: 50%;
-    content: "";
-  }
-}
-
-.amateur-work-card__sequence {
-  color: #80c5da;
-  font-size: 0.58rem;
-  font-weight: 700;
-  letter-spacing: 0.1em;
-}
-
-.amateur-work-card__wordmark {
-  font-family: $georgia;
-  font-size: clamp(1.25rem, 2.4vw, 1.8rem);
-  line-height: 0.95;
+.amateur-work-card--wide {
+  grid-column: 1 / -1;
+  grid-template-columns: minmax(280px, 0.72fr) minmax(0, 1.28fr);
 }
 
 .amateur-work-card__body {
@@ -558,6 +526,10 @@
   }
 
   .amateur-work-card {
+    grid-template-columns: 1fr;
+  }
+
+  .amateur-work-card--wide {
     grid-template-columns: 1fr;
   }
 
