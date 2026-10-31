@@ -30,11 +30,6 @@ redirect_from:
       <button class="cv-button" type="button" data-cv-print>Print / Save PDF</button>
     </div>
   </div>
-  <dl class="cv-summary" aria-label="Academic highlights">
-    <div><dt>42</dt><dd>Publications</dd></div>
-    <div><dt>{{ site.data.peer_reviews.total_reviews }}</dt><dd>Public peer reviews</dd></div>
-    <div><dt>HKPFS</dt><dd>Fellow</dd></div>
-  </dl>
 </section>
 
 <nav class="cv-section-nav" aria-label="CV sections">

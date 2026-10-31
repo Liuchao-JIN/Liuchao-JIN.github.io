@@ -13,7 +13,7 @@
 
 .cv-hero {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 12rem;
+  grid-template-columns: minmax(0, 1fr);
   gap: 2rem;
   align-items: end;
   margin-bottom: 1rem;
@@ -116,39 +116,6 @@
     border-color: $link-color-hover;
     background: $link-color-hover;
     color: #fff;
-  }
-}
-
-.cv-summary {
-  display: grid;
-  gap: 0.6rem;
-  margin: 0;
-
-  div {
-    display: grid;
-    grid-template-columns: 4rem minmax(0, 1fr);
-    align-items: center;
-    gap: 0.65rem;
-    padding: 0.7rem;
-    border-radius: $border-radius;
-    background: rgba(#fff, 0.86);
-  }
-
-  dt {
-    margin: 0;
-    color: mix(#000, $link-color, 18%);
-    font-family: $header-font-family;
-    font-size: 1.35rem;
-    font-weight: bold;
-    line-height: 1;
-    text-align: right;
-  }
-
-  dd {
-    margin: 0;
-    color: mix(#fff, $text-color, 26%);
-    font-size: $type-size-7;
-    line-height: 1.25;
   }
 }
 
@@ -569,23 +536,6 @@
 }
 
 @media (max-width: 52em) {
-  .cv-hero {
-    grid-template-columns: 1fr;
-  }
-
-  .cv-summary {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-
-    div {
-      grid-template-columns: 1fr;
-      gap: 0.3rem;
-    }
-
-    dt {
-      text-align: left;
-    }
-  }
-
   .cv-award-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -599,18 +549,6 @@
 
   .cv-hero h2 {
     font-size: 1.55rem;
-  }
-
-  .cv-summary {
-    grid-template-columns: 1fr;
-
-    div {
-      grid-template-columns: 4.25rem minmax(0, 1fr);
-    }
-
-    dt {
-      text-align: right;
-    }
   }
 
   .cv-actions {
