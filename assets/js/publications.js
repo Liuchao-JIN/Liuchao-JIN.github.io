@@ -290,10 +290,8 @@
       page.querySelectorAll("[data-publications-year]")
     );
     var resultCount = page.querySelector("[data-publications-result-count]");
-    var summary = page.querySelector("[data-publications-summary]");
     var toast = page.querySelector("[data-publications-toast]");
     var groups = [];
-    var allArticles = [];
 
     Array.prototype.forEach.call(page.querySelectorAll("table.publications-list"), function (table) {
       var year = table.dataset.publicationYear;
@@ -312,7 +310,6 @@
         articles: enhanced.articles,
         count: count
       });
-      allArticles = allArticles.concat(enhanced.articles);
     });
 
     var empty = document.createElement("p");
@@ -384,8 +381,6 @@
       renderFilters(true);
     });
 
-    summary.textContent = allArticles.length + " publications · " +
-      availableYears[availableYears.length - 1] + "–" + availableYears[0];
     controls.hidden = false;
     page.classList.add("is-enhanced");
     renderFilters(false);

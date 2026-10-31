@@ -10,56 +10,6 @@
   }
 }
 
-.publications-overview {
-  display: flex;
-  align-items: flex-end;
-  justify-content: space-between;
-  gap: 1rem;
-  margin-bottom: 1.5rem;
-  padding-bottom: 1.25rem;
-  border-bottom: 1px solid $border-color;
-}
-
-.publications-kicker {
-  margin: 0 0 0.25rem !important;
-  color: $link-color;
-  font-size: $type-size-7 !important;
-  font-weight: bold;
-  letter-spacing: 0.14em;
-}
-
-.publications-summary {
-  margin: 0 !important;
-  color: mix(#fff, $text-color, 32%);
-  font-size: $type-size-6 !important;
-}
-
-.publications-overview__status {
-  display: grid;
-  grid-template-columns: auto auto;
-  align-items: center;
-  gap: 0.25rem 0.7rem;
-  min-width: 7.5rem;
-  padding: 0.7rem 0.9rem;
-  border-radius: $border-radius;
-  background: mix(#fff, $link-color, 90%);
-  color: mix(#000, $link-color, 18%);
-
-  span {
-    font-size: $type-size-7;
-    font-weight: bold;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
-  }
-
-  strong {
-    grid-column: 2;
-    grid-row: 1;
-    font-size: 1.55rem;
-    line-height: 1;
-  }
-}
-
 .publication-status {
   margin-bottom: 1.75rem;
 }
@@ -486,14 +436,6 @@ table.publications-list {
 }
 
 @media (max-width: 44em) {
-  .publications-overview {
-    align-items: center;
-  }
-
-  .publications-overview__status {
-    min-width: auto;
-  }
-
   .publication-status__grid {
     grid-template-columns: 1fr;
   }

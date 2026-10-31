@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,179 +9,319 @@ redirect_from:
 
 {% include base_path %}
 
-[CV PDF](http://Liuchao-JIN.github.io/files/affairs/cv_liuchao_jin.pdf)
+<div class="cv-page" data-cv-page>
 
-Education
-======
-* Ph.D in Mechanical and Automation Engineering, [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), 2022-2026 (expected)
-  * Supervisor: Prof. [Wei-Hsin Liao](https://www4.mae.cuhk.edu.hk/peoples/liao-wei-hsin/)
-  * Research Direction: 3D/4D Printing, Smart Materials & Structures, Soft Robotics
-  * Award: [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (HKPFS)
-  <!-- * Joint Training at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech). Co-Supervisor: Prof. [Qi Ge](https://faculty.sustech.edu.cn/?tagid=geq&iscss=1&snapid=1&orderby=date&go=1&lang=en) -->
-* [BE](http://Liuchao-JIN.github.io/files/JLC_BE.pdf) in Mechanical Engineering, [Sichuan University - Pittsburgh Institute (SCUPI)](https://scupi.scu.edu.cn/en/), 2018-2022
-  * [GPA: 4.0/4.0](http://Liuchao-JIN.github.io/files/award/Transcripts_Bachelor.pdf); [Weighted Average Mark: 96.29/100](http://Liuchao-JIN.github.io/files/award/Transcripts_Bachelor.pdf); [Ranking: 1/79](http://Liuchao-JIN.github.io/files/award/Ranking.pdf)
+<section class="cv-hero" aria-labelledby="cv-name">
+  <div class="cv-hero__main">
+    <p class="cv-kicker">ACADEMIC PROFILE</p>
+    <h2 id="cv-name">Liuchao (Christopher) Jin</h2>
+    <p class="cv-role">Postdoctoral Fellow at The Chinese University of Hong Kong</p>
+    <p class="cv-intro">Researcher in intelligent manufacturing and mechanics, working across machine-learning-enabled design, architected materials, additive manufacturing, energy harvesting, and soft robotics.</p>
+    <div class="cv-focus" aria-label="Research interests">
+      <span>AI for Manufacturing</span>
+      <span>3D/4D Printing</span>
+      <span>Architected Materials</span>
+      <span>Energy Harvesting</span>
+      <span>Soft Robotics</span>
+    </div>
+    <div class="cv-actions">
+      <a class="cv-button cv-button--primary" href="{{ base_path }}/my_publication/">View publications</a>
+      <a class="cv-button" href="https://orcid.org/0000-0001-6204-1922" target="_blank" rel="noopener">ORCID profile</a>
+      <button class="cv-button" type="button" data-cv-print>Print / Save PDF</button>
+    </div>
+  </div>
+  <dl class="cv-summary" aria-label="Academic highlights">
+    <div><dt>42</dt><dd>Publications</dd></div>
+    <div><dt>{{ site.data.peer_reviews.total_reviews }}</dt><dd>Public peer reviews</dd></div>
+    <div><dt>HKPFS</dt><dd>Fellow</dd></div>
+  </dl>
+</section>
 
+<nav class="cv-section-nav" aria-label="CV sections">
+  <a href="#education">Education</a>
+  <a href="#experience">Experience</a>
+  <a href="#publications">Selected publications</a>
+  <a href="#awards">Awards</a>
+  <a href="#service">Academic service</a>
+  <a href="#teaching">Teaching</a>
+</nav>
 
+<section id="education" class="cv-section" aria-labelledby="education-title">
+  <div class="cv-section__heading">
+    <p class="cv-section__eyebrow">Training</p>
+    <h2 id="education-title">Education</h2>
+  </div>
+  <div class="cv-education-grid">
+    <article class="cv-education-card">
+      <div class="cv-card-meta"><span>2022-2026</span><span>Hong Kong</span></div>
+      <h3>Doctor of Philosophy</h3>
+      <p class="cv-card-subtitle"><a href="https://www.cuhk.edu.hk/english/index.html" target="_blank" rel="noopener">The Chinese University of Hong Kong</a></p>
+      <p>Mechanical and Automation Engineering</p>
+      <ul>
+        <li>Supervisor: Prof. <a href="https://www4.mae.cuhk.edu.hk/peoples/liao-wei-hsin/" target="_blank" rel="noopener">Wei-Hsin Liao</a></li>
+        <li>Hong Kong PhD Fellowship Scheme</li>
+      </ul>
+    </article>
+    <article class="cv-education-card">
+      <div class="cv-card-meta"><span>2018-2022</span><span>Chengdu</span></div>
+      <h3>Bachelor of Engineering</h3>
+      <p class="cv-card-subtitle"><a href="https://scupi.scu.edu.cn/en/" target="_blank" rel="noopener">Sichuan University - Pittsburgh Institute</a></p>
+      <p>Mechanical Engineering</p>
+      <ul>
+        <li>GPA: 4.0/4.0; weighted average: 96.29/100</li>
+        <li>Ranked 1st among 193 students</li>
+      </ul>
+    </article>
+  </div>
+</section>
 
-Experience
-======
-* 07/2024-09/2025: [Shenzhen University](https://en.szu.edu.cn/), Visiting Scholar
-  * Supervisor: Prof. Zhihui Lai & Shitong Fang
-  * Research Direction: Machine learning enabled design for energy absorption & harvesting
-* 08/2023-09/2025: [Southern University of Science and Technology](https://sustech.edu.cn/en/), Visiting Scholar
-  * Supervisor: Prof. [Qi Ge](https://faculty.sustech.edu.cn/?tagid=geq&iscss=1&snapid=1&orderby=date&go=1&lang=en)
-  * Research Direction: Machine learning enabled design for hierarchical architecture
-* 04/2021-09/2021: [Westlake University](https://en.westlake.edu.cn/), [Research Assistant](http://Liuchao-JIN.github.io/files/award/2021_Westlake_Research_Intern.pdf)
-  * Supervisor: Prof. [Weicheng Cui](https://en.westlake.edu.cn/faculty/weicheng-cui.html)
-  * Research Direction: Underwater charging of robotic fishes using marine renewable energy
+<section id="experience" class="cv-section" aria-labelledby="experience-title">
+  <div class="cv-section__heading">
+    <p class="cv-section__eyebrow">Appointments</p>
+    <h2 id="experience-title">Research &amp; Professional Experience</h2>
+  </div>
+  <ol class="cv-timeline">
+    <li class="cv-timeline__item cv-timeline__item--current">
+      <div class="cv-timeline__date">Aug 2026 - Feb 2027</div>
+      <div class="cv-timeline__body">
+        <span class="cv-status">Current</span>
+        <h3>Postdoctoral Fellow</h3>
+        <p class="cv-card-subtitle"><a href="https://www.cuhk.edu.hk/english/index.html" target="_blank" rel="noopener">The Chinese University of Hong Kong</a></p>
+      </div>
+    </li>
+    <li class="cv-timeline__item">
+      <div class="cv-timeline__date">May 2026 - Aug 2026</div>
+      <div class="cv-timeline__body">
+        <h3>Visiting Scholar</h3>
+        <p class="cv-card-subtitle"><a href="https://en.ustc.edu.cn/" target="_blank" rel="noopener">University of Science and Technology of China</a></p>
+      </div>
+    </li>
+    <li class="cv-timeline__item">
+      <div class="cv-timeline__date">Aug 2024 - Jul 2026</div>
+      <div class="cv-timeline__body">
+        <h3>Visiting Scholar</h3>
+        <p class="cv-card-subtitle"><a href="https://en.szu.edu.cn/" target="_blank" rel="noopener">Shenzhen University</a></p>
+        <p>Supervisors: Prof. Shitong Fang and Prof. Zhihui Lai · Shenzhen University Fellowship Program</p>
+      </div>
+    </li>
+    <li class="cv-timeline__item">
+      <div class="cv-timeline__date">Aug 2023 - Sep 2025</div>
+      <div class="cv-timeline__body">
+        <h3>Visiting Scholar</h3>
+        <p class="cv-card-subtitle"><a href="https://www.sustech.edu.cn/en/" target="_blank" rel="noopener">Southern University of Science and Technology</a></p>
+        <p>Supervisor: Prof. <a href="https://faculty.sustech.edu.cn/?tagid=geq&amp;iscss=1&amp;snapid=1&amp;orderby=date&amp;go=1&amp;lang=en" target="_blank" rel="noopener">Qi Ge</a> · SUSTech Fellowship Program</p>
+      </div>
+    </li>
+    <li class="cv-timeline__item">
+      <div class="cv-timeline__date">Aug 2022 - Jul 2025</div>
+      <div class="cv-timeline__body">
+        <h3>Teaching Assistant</h3>
+        <p class="cv-card-subtitle">Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong</p>
+      </div>
+    </li>
+    <li class="cv-timeline__item">
+      <div class="cv-timeline__date">Jul 2021 - Aug 2021</div>
+      <div class="cv-timeline__body">
+        <h3>Research Assistant</h3>
+        <p class="cv-card-subtitle"><a href="https://en.westlake.edu.cn/" target="_blank" rel="noopener">Westlake University</a></p>
+        <p>Supervisor: Prof. Weicheng Cui · Summer Graduate Research Internship</p>
+      </div>
+    </li>
+    <li class="cv-timeline__item">
+      <div class="cv-timeline__date">Jun 2021 - Sep 2021</div>
+      <div class="cv-timeline__body">
+        <h3>Research Assistant</h3>
+        <p class="cv-card-subtitle"><a href="https://www.mcgill.ca/" target="_blank" rel="noopener">McGill University</a></p>
+        <p>Supervisor: Prof. Abdolhamid Akbarzadeh Shafaroudi · Mitacs Globalink Research Internship</p>
+      </div>
+    </li>
+    <li class="cv-timeline__item">
+      <div class="cv-timeline__date">Feb 2020 - Jun 2022</div>
+      <div class="cv-timeline__body">
+        <h3>Teaching Assistant</h3>
+        <p class="cv-card-subtitle">Sichuan University - Pittsburgh Institute</p>
+      </div>
+    </li>
+  </ol>
+</section>
 
-  <!-- * Made device design for underwater charging of robotic fishes using marine renewable energy.
-  * Did research on technical solutions and scientific insights that advance engineering and robotics by leveraging the methodologies and design principles of robotic fish.
-  * Wrote a review paper about underwater charging for a school of robotic fishes through renewable energy. -->
+<section id="publications" class="cv-section" aria-labelledby="publications-title">
+  <div class="cv-section__heading cv-section__heading--actions">
+    <div>
+      <p class="cv-section__eyebrow">Research output</p>
+      <h2 id="publications-title">Selected Publications</h2>
+    </div>
+    <a href="{{ base_path }}/my_publication/">View complete list →</a>
+  </div>
+  <ol class="cv-publications">
+    <li>
+      <div class="cv-publication__meta"><span>2026</span><em>Advanced Functional Materials</em><strong>Co-first author</strong></div>
+      <h3><a href="https://doi.org/10.1002/adfm.75070" target="_blank" rel="noopener">Machine learning-based inverse design for functional materials: Methods, challenges, and engineering applications</a></h3>
+      <p>Weihao Lin<sup>†</sup>, <b>Liuchao Jin<sup>†</sup></b>, et al.</p>
+    </li>
+    <li>
+      <div class="cv-publication__meta"><span>2026</span><em>International Journal of Mechanical Sciences</em><strong>Corresponding author</strong></div>
+      <h3><a href="https://doi.org/10.1016/j.ijmecsci.2026.112110" target="_blank" rel="noopener">Machine learning-enabled inverse design of heterogeneous impact-resistant metamaterials</a></h3>
+      <p>Shitong Fang, Haobin Lin, et al., <b>Liuchao Jin*</b>, Wei-Hsin Liao*</p>
+    </li>
+    <li>
+      <div class="cv-publication__meta"><span>2026</span><em>Advanced Science</em><strong>Corresponding author</strong></div>
+      <h3><a href="https://doi.org/10.1002/advs.78384" target="_blank" rel="noopener">From artificial to embodied and physical intelligence in smart manufacturing</a></h3>
+      <p>Kang Wang*, et al., <b>Liuchao Jin*</b>, Wei-Hsin Liao*, et al.</p>
+    </li>
+    <li>
+      <div class="cv-publication__meta"><span>2025</span><em>Composites Part B: Engineering</em><strong>First author</strong></div>
+      <h3><a href="https://doi.org/10.1016/j.compositesb.2025.112372" target="_blank" rel="noopener">Machine learning powered inverse design of strain fields of hierarchical architectures</a></h3>
+      <p><b>Liuchao Jin</b>, Shouyi Yu, et al.</p>
+    </li>
+    <li>
+      <div class="cv-publication__meta"><span>2025</span><em>Smart Materials and Structures</em><strong>First author</strong></div>
+      <h3><a href="https://doi.org/10.1088/1361-665X/adadcd" target="_blank" rel="noopener">Finite element analysis, machine learning, and digital twins for soft robots: State-of-arts and perspectives</a></h3>
+      <p><b>Liuchao Jin</b>, Xiaoya Zhai, et al.</p>
+    </li>
+    <li>
+      <div class="cv-publication__meta"><span>2024</span><em>Applied Materials Today</em><strong>First author</strong></div>
+      <h3><a href="https://doi.org/10.1016/j.apmt.2024.102373" target="_blank" rel="noopener">Machine learning-driven forward prediction and inverse design for 4D printed hierarchical architecture with arbitrary shapes</a></h3>
+      <p><b>Liuchao Jin</b>, Shouyi Yu, et al.</p>
+    </li>
+    <li>
+      <div class="cv-publication__meta"><span>2024</span><em>Materials &amp; Design</em><strong>First author · Highly cited</strong></div>
+      <h3><a href="https://doi.org/10.1016/j.matdes.2024.113086" target="_blank" rel="noopener">Big data, machine learning, and digital twin assisted additive manufacturing: A review</a></h3>
+      <p><b>Liuchao Jin</b>, Xiaoya Zhai, et al.</p>
+    </li>
+    <li>
+      <div class="cv-publication__meta"><span>2024</span><em>Ships and Offshore Structures</em><strong>First author</strong></div>
+      <h3><a href="https://doi.org/10.1080/17445302.2023.2245164" target="_blank" rel="noopener">On technical issues for underwater charging of robotic fish schools using ocean renewable energy</a></h3>
+      <p><b>Liuchao Jin</b>, Weicheng Cui*</p>
+    </li>
+  </ol>
+</section>
 
-* 03/2021-09/2021: [McGill University](https://www.mcgill.ca/), [Research Assistant](http://Liuchao-JIN.github.io/files/award/2021_Mitacs.pdf)
-  * Supervisor: Prof. [Abdolhamid Akbarzadeh Shafaroudi](https://www.mcgill.ca/bioeng/faculty-and-staff/academic-staff/abdolhamid-akbarzadeh-shafaroudi)
-  * Program: [Mitacs Globalink Research Internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship)
+<section id="awards" class="cv-section" aria-labelledby="awards-title">
+  <div class="cv-section__heading">
+    <p class="cv-section__eyebrow">Recognition</p>
+    <h2 id="awards-title">Honors &amp; Awards</h2>
+  </div>
+  <div class="cv-award-grid">
+    <article><span>Jul 2026</span><h3>Best Presentation Award</h3><p>5th 4D Materials Design and Additive Manufacturing Conference</p></article>
+    <article><span>Jun 2026</span><h3>Best Poster Award</h3><p>35th International Conference on Adaptive Structures and Technologies</p></article>
+    <article><span>May 2026</span><h3>Reaching Out Award</h3><p>HKSAR Government Scholarship Fund · HK$10,000</p></article>
+    <article><span>Jul 2025</span><h3>Honorary Alumni Mentor</h3><p>Sichuan University - Pittsburgh Institute</p></article>
+    <article><span>May 2025</span><h3>PhD IMPAC Award</h3><p>The Chinese University of Hong Kong · HK$50,000</p></article>
+    <article><span>Feb 2025</span><h3>Outstanding Students Award</h3><p>The Chinese University of Hong Kong</p></article>
+  </div>
+  <details class="cv-more">
+    <summary>View earlier honors and awards</summary>
+    <ul class="cv-compact-list">
+      <li><time>Nov 2022</time><span>Outstanding Senior Project Award, Sichuan University</span></li>
+      <li><time>Oct 2022</time><span>Best Paper Award, 2022 IEEE International Conference on Unmanned Systems</span></li>
+      <li><time>Jun 2022</time><span>Outstanding Senior Project Award, Sichuan University - Pittsburgh Institute</span></li>
+      <li><time>May 2022</time><span>Outstanding Senior Project Poster Award, Sichuan University - Pittsburgh Institute</span></li>
+      <li><time>Mar 2022</time><span>Outstanding Graduate of Sichuan Province</span></li>
+      <li><time>Dec 2021</time><span>National Scholarship (China)</span></li>
+      <li><time>Oct 2021</time><span>Outstanding Graduate and Outstanding Student, Sichuan University</span></li>
+      <li><time>Oct 2021</time><span>Best Academic Achiever Award, Sichuan University - Pittsburgh Institute</span></li>
+      <li><time>Apr 2021</time><span>Honorable Mention, Mathematical Contest in Modeling</span></li>
+      <li><time>Jan 2021</time><span>Mitacs Globalink Research Internship Award</span></li>
+      <li><time>Dec 2020</time><span>National Scholarship (China)</span></li>
+      <li><time>Sep 2020</time><span>Excellent Teaching Assistant Award and Academic Star</span></li>
+      <li><time>Dec 2019</time><span>National Scholarship (China)</span></li>
+      <li><time>Sep 2019</time><span>Best Academic Achiever Award, Sichuan University - Pittsburgh Institute</span></li>
+    </ul>
+  </details>
+</section>
 
-  <!-- * Examined potential energy resources in automotive and aeroplane/helicopter, e.g. vibration of helicopter rotor system, embedded strain in vehicle frame, and solar energy received by the frame.
-  * Developed a methodology for harvesting energy from the wasted resources using lightweight smart cellular solids made of piezoelectric materials or active composites. -->
+<section id="service" class="cv-section" aria-labelledby="service-title">
+  <div class="cv-section__heading cv-section__heading--actions">
+    <div>
+      <p class="cv-section__eyebrow">Scholarly contribution</p>
+      <h2 id="service-title">Academic Service</h2>
+    </div>
+    <a href="{{ site.data.peer_reviews.source_url }}" target="_blank" rel="noopener">View ORCID record →</a>
+  </div>
+  <div class="cv-review-summary">
+    <div><strong>{{ site.data.peer_reviews.total_reviews }}</strong><span>Public peer reviews</span></div>
+    <div><strong>{{ site.data.peer_reviews.total_journals }}</strong><span>Journals</span></div>
+    <div><strong>{{ site.data.peer_reviews.year_range }}</strong><span>Activity period</span></div>
+  </div>
+  <h3 class="cv-subheading">Most frequent reviewing venues</h3>
+  <ul class="cv-review-highlights">
+    {% for journal in site.data.peer_reviews.journals limit: 8 %}
+    <li><span>{{ journal.title }}</span><strong>{{ journal.count }}</strong></li>
+    {% endfor %}
+  </ul>
+  <details class="cv-more cv-more--journals">
+    <summary>View all {{ site.data.peer_reviews.total_journals }} journals and review counts</summary>
+    <ul class="cv-journal-list">
+      {% for journal in site.data.peer_reviews.journals %}
+      <li><span>{{ journal.title }}</span><strong>{{ journal.count }}</strong></li>
+      {% endfor %}
+    </ul>
+  </details>
+  <p class="cv-source-note">Counts are consolidated from the public ORCID peer-review record and were last checked on {{ site.data.peer_reviews.last_updated }}. Duplicate print and electronic ISSN groups for the same journal are combined.</p>
+</section>
 
-<!-- * 09/2020-09/2021: [Sichuan University - The Institute for Disaster Management and Reconstruction](https://idmr.scu.edu.cn/index.htm), Research Assistant (Supervisor: Prof. [Tetsuo Shoji](http://www.bureau.tohoku.ac.jp/koho/pub/tdp2008/pdf_e/tetsuo_shoji.pdf)) -->
+<section id="teaching" class="cv-section" aria-labelledby="teaching-title">
+  <div class="cv-section__heading">
+    <p class="cv-section__eyebrow">Instruction</p>
+    <h2 id="teaching-title">Teaching</h2>
+  </div>
+  <div class="cv-teaching-grid">
+    <article>
+      <div class="cv-card-meta"><span>2022-2025</span></div>
+      <h3>The Chinese University of Hong Kong</h3>
+      <p>Teaching Assistant · Mechanical and Automation Engineering</p>
+      <details><summary>View courses</summary><ul>
+        <li>Applied Computational Intelligence</li>
+        <li>Control and Industrial Automation</li>
+        <li>Computer Interface and Simulation</li>
+        <li>Modern Control Systems Analysis and Design</li>
+        <li>Measurement and Instrumentation</li>
+        <li>Engineering Optimization</li>
+      </ul></details>
+    </article>
+    <article>
+      <div class="cv-card-meta"><span>2020-2022</span></div>
+      <h3>Sichuan University - Pittsburgh Institute</h3>
+      <p>Teaching Assistant · Engineering, mathematics, and physics</p>
+      <details><summary>View courses</summary><ul>
+        <li>Mechanical Vibration and Mechanical Measurements</li>
+        <li>Mechanical Design I-II</li>
+        <li>Automatic Controls and Numerical Methods</li>
+        <li>Calculus II-III and Differential Equations</li>
+        <li>Physics for Science and Engineering I-II</li>
+        <li>Introduction to Engineering Analysis</li>
+      </ul></details>
+    </article>
+  </div>
+</section>
 
-<!-- * Designed the post-disaster scrubber air cleaning system.
-* Modeled the structure of the scrubber air cleaning system. -->
+<section class="cv-section" aria-labelledby="additional-title">
+  <div class="cv-section__heading">
+    <p class="cv-section__eyebrow">Additional credentials</p>
+    <h2 id="additional-title">Patents &amp; Professional Activities</h2>
+  </div>
+  <div class="cv-additional-grid">
+    <article>
+      <h3>Patents</h3>
+      <ul>
+        <li>China invention patent: Tracking Control Method for Tilt-Rotor Multi-Rotor UAV Based on Dual Quaternion · <a href="{{ base_path }}/files/Patent_2022.pdf" target="_blank" rel="noopener">ZL 2022 1 0739442.2</a></li>
+        <li>China utility model patent: Air Purification Device · <a href="{{ base_path }}/files/Patent_2021.pdf" target="_blank" rel="noopener">ZL 2021 2 2679101.4</a></li>
+      </ul>
+    </article>
+    <article>
+      <h3>Memberships &amp; Leadership</h3>
+      <ul>
+        <li>ASME and SPIE member</li>
+        <li>Hong Kong Young Scientist Association member</li>
+        <li>Hong Kong Quality and Talent Migration Association member</li>
+        <li>Honorary Alumni Mentor, Sichuan University - Pittsburgh Institute</li>
+        <li>Former Mitacs Globalink Ambassador</li>
+      </ul>
+    </article>
+  </div>
+</section>
 
+</div>
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-
-Patents
-======
-* China Invention Grant Patent: Tracking Control Method for Tilt-Rotor Multi-Rotor UAV Based on Dual Quaternion. Patent number: [ZL 2022 1 0739442.2](http://Liuchao-JIN.github.io/files/Patent_2022.pdf).
-* China Utility Model Patent: Air Purification Device. Patent number: [ZL 2021 2 2679101.4](http://Liuchao-JIN.github.io/files/Patent_2021.pdf).
-
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-
-
-Membership
-======
-* 11/2023 - Present, [ASME Member](http://Liuchao-JIN.github.io/files/affairs/asme_member.pdf)
-* 02/2024 - Present, [SPIE Member](http://Liuchao-JIN.github.io/files/affairs/spie_member.pdf)
-* 01/2023 - Present, [HKYSA Member](http://Liuchao-JIN.github.io/files/affairs/hkysa_member.pdf)
-* 07/2024 - Present, [HKQTMA Member](http://Liuchao-JIN.github.io/files/affairs/hkqtma_member.pdf)
-
-Teaching
-======
-* Teaching Assistant @ The Chinese University of Hong Kong
-  * Current
-    * MAEG5735: [Applied Computational Intelligence](http://Liuchao-JIN.github.io/files/teaching/2025S_MAEG5735.pdf) (Spring 2025)
-  * Past
-    * MAEG5725: [Control and Industrial Automation](http://Liuchao-JIN.github.io/files/teaching/2024F_MAEG5725.pdf) (Fall 2024)
-    * MAEG5725: [Control and Industrial Automation](http://Liuchao-JIN.github.io/files/teaching/2024S_MAEG5725.pdf) (Spring 2024)
-    * MAEG5715: [Computer Interface and Simulation](http://Liuchao-JIN.github.io/files/teaching/2023F_MAEG5715.pdf) (Fall 2023)
-    * MAEG4050: [Modern Control Systems Analysis and Design](http://Liuchao-JIN.github.io/files/teaching/2023S_MAEG4050.pdf) (Spring 2023)
-    * MAEG5745: [Measurement and Instrumentation](http://Liuchao-JIN.github.io/files/teaching/2022F_MAEG5745.pdf) (Fall 2022)
-    * MAEG4070: [Engineering Optimization](http://Liuchao-JIN.github.io/files/teaching/2022F_MAEG4070.pdf) (Fall 2022)
-* Teaching Assistant @ Sichuan University - Pittsburgh Institute
-  * ME1020: [Mechanical Vibration](http://Liuchao-JIN.github.io/files/teaching/2022S_ME1020.pdf) (Spring 2022)
-  * ME1041: [Mechanical Measurements 1](http://Liuchao-JIN.github.io/files/teaching/2022S_ME1041.pdf) (Spring 2022)
-  * MEMS1028: [Mechanical Design 1](http://Liuchao-JIN.github.io/files/teaching/2022S_MEMS1028.pdf) (Spring 2022)
-  * MEMS1029: [Mechanical Design 2](http://Liuchao-JIN.github.io/files/teaching/2022S_MEMS1029.pdf) (Spring 2022)
-  * MATH0230: [Analytic Geometry and Calculus 2](http://Liuchao-JIN.github.io/files/teaching/2022S_MATH0230.pdf) (Spring 2022)
-  * MEMS1045: [Automatic Controls](http://Liuchao-JIN.github.io/files/teaching/2021F_MEMS1045.pdf) (Fall 2021)
-  * MEMS1028: [Mechanical Design 1](http://Liuchao-JIN.github.io/files/teaching/2021F_MEMS1028.pdf) (Fall 2021)
-  * ME2060: [Numerical Methods](http://Liuchao-JIN.github.io/files/teaching/2021F_ME2060.pdf) (Fall 2021)
-  * MATH0290: [Differential Equations](http://Liuchao-JIN.github.io/files/teaching/2020F_MATH0290.pdf) (Fall 2020)
-  * PHYS0175: [Physics for Science and Engineering 2](http://Liuchao-JIN.github.io/files/teaching/2020F_PHYS0175.pdf) (Fall 2020)
-  * ENGR0011: [Introduction to Engineering Analysis](http://Liuchao-JIN.github.io/files/teaching/2020F_ENGR0011.pdf) (Fall 2020)
-  * MATH0240: [Analytic Geometry and Calculus 3](http://Liuchao-JIN.github.io/files/teaching/2020S_MATH0240.pdf) (Spring 2020)
-  * PHYS0174: [Physics for Science and Engineering 1](http://Liuchao-JIN.github.io/files/teaching/2020S_PHYS0174.pdf) (Spring 2020)
-
-Honors & Awards
-======
-* 07/2025 Honorary Alumni Mentor of Sichuan University-Pittsburgh Institute
-* 05/2025 PhD International Mobility for Partnerships and Collaborations Award (PhD IMPAC Award)
-* 02/2025 Outstanding Students Award at The Chinese University of Hong Kong
-* 11/2022 [Outstanding Senior Project Award](http://Liuchao-JIN.github.io/files/award/2022_UniOutSP.pdf) of Sichuan University
-* 10/2022 [Best Paper Award](http://Liuchao-JIN.github.io/files/award/2022_BestPaper.pdf) in 2022 IEEE International Conference on Unmanned Systems (ICUS)
-* 06/2022 [Outstanding Senior Project Award](http://Liuchao-JIN.github.io/files/award/2022_SCUPI_OutSP.pdf) of Sichuan University-Pittsburgh Institute
-* 05/2022 [First Prize in The 7th National Academic English Vocabulary Competition](http://Liuchao-JIN.github.io/files/award/2022_NAEV.pdf) (NAEV)
-* 05/2022 [Outstanding Senior Project Poster Award](http://Liuchao-JIN.github.io/files/award/2022_SCUPI_OutSP_Poster.pdf) of Sichuan University-Pittsburgh Institute
-* 03/2022 [Outstanding Graduate of Sichuan Province](http://Liuchao-JIN.github.io/files/award/2022_outstanding_graduate_sichuan_pro.pdf)
-* 01/2022 [A-level Certificate in Comprehensive Quality of University Students](http://Liuchao-JIN.github.io/files/award/2022_ZongA.pdf) in Sichuan Province
-* 12/2021 2020-2021 Academic Year [National Scholarship](http://Liuchao-JIN.github.io/files/award/2021_NationalScholarship.pdf) (China) (¥8,000)
-* 10/2021 [Outstanding Graduate of Sichuan University](http://Liuchao-JIN.github.io/files/award/2021_outstanding_graduate_scu.pdf)
-* 10/2021 2020-2021 Academic Year [Outstanding Student](http://Liuchao-JIN.github.io/files/award/2021_SCU_Outstanding.pdf) of Sichuan University
-* 10/2021 2020-2021 Academic Year Sichuan University-Pittsburgh Institute [Best Academic Achiever Award](http://Liuchao-JIN.github.io/files/award/2021_Best_Academic.pdf) (¥60,000)
-* 09/2021 First Prize in [Chinese Tale - English Talk](https://scupi.scu.edu.cn/activities/%e4%b8%ad%e6%96%87%e8%a5%bf%e8%ae%b2%e6%bc%94%e8%ae%b2%e6%af%94%e8%b5%9b)
-* 07/2021 [Outstanding Camper](http://Liuchao-JIN.github.io/files/award/2021_Westlake_Summer_Camp_Outstanding.pdf) in [Westlake University Engineering Summer Camp](http://Liuchao-JIN.github.io/files/award/2021_Westlake_Summer_Camp.pdf)
-* 06/2021 Second Prize in [Videos and Voices Short Video Contest](https://scupi.scu.edu.cn/activities/%e5%af%bb%e5%a3%b0%e8%a7%85%e5%bd%b1%e7%9f%ad%e8%a7%86%e9%a2%91%e5%88%9b%e4%bd%9c%e5%a4%a7%e8%b5%9b)
-* 05/2021 [Second Prize in The 6th National Academic English Vocabulary Competition](http://Liuchao-JIN.github.io/files/award/2021_NAEV.pdf) (NAEV)
-* 04/2021 [Honorable Mention in 2021 Mathematical Contest in Modeling](http://Liuchao-JIN.github.io/files/award/2021_MCM.pdf) (MCM)
-* 12/2020 2019-2020 Academic Year [National Scholarship](http://Liuchao-JIN.github.io/files/award/2020_NationalScholarship.pdf) (China) (¥8,000)
-* 10/2020 2019-2020 Academic Year [Outstanding Student](http://Liuchao-JIN.github.io/files/award/2020_SCU_Outstanding.pdf) of Sichuan University
-* 09/2020 [Excellent Teaching Assistant Award](http://Liuchao-JIN.github.io/files/award/2020_Outstanding_TA.pdf) for Sichuan University-Pittsburgh Institute
-* 09/2020 2019-2020 Academic Year Sichuan University-Pittsburgh Institute [Academic Star](http://Liuchao-JIN.github.io/files/award/2020_Academic_Star.pdf) (¥10,000)
-* 12/2019 2018-2019 Academic Year [National Scholarship](http://Liuchao-JIN.github.io/files/award/2019_NationalScholarship.pdf) (China) (¥8,000)
-* 10/2019 2018-2019 Academic Year [Outstanding Student](http://Liuchao-JIN.github.io/files/award/2019_SCU_Outstanding.pdf) of Sichuan University
-* 09/2019 2018-2019 Academic Year Sichuan University-Pittsburgh Institute [Best Academic Achiever Award](http://Liuchao-JIN.github.io/files/award/2019_Best_Academic.pdf) (¥60,000)
-* 07/2019 [First Prize](http://Liuchao-JIN.github.io/files/award/2019_Video_Friend.pdf) in the Special Category of the 9th ”[Video Friends Cup](https://mp.weixin.qq.com/s/LDRg9gwwwKdUBDOkBet5CQ)” China University TV Awards
-* 02/2019 [Student Ambassador](http://Liuchao-JIN.github.io/files/award/2019_SCUPIAmb.pdf) of Sichuan University-Pittsburgh Institute
-
-
-Leadership & Extracurricular Activities
-======
-* 06/2024 - Present, Sichuan University-Pittsburgh Institute Alumni Association, [Alumni Mentor](http://Liuchao-JIN.github.io/files/talk_pre/scupi_alumni_mentor.png).
-* 09/2022 - 09/2023, [The Postgraduate Halls Residents’ Association](http://www.pgh.cuhk.edu.hk/about/pgh-residents-association/), General Administrator.
-* 03/2022 - 06/2023, [Mitacs Globalink](https://www.mitacs.ca/en/programs/globalink), Ambassador.
-* 09/2019 - 09/2020, [Sichuan University](https://en.scu.edu.cn/) The 31st Student Congress, Representative.
-* 03/2019 - 06/2020, [Sichuan University Student Television Station](https://space.bilibili.com/174898254?spm_id_from=333.337.0.0), Deputy Director.
-* 09/2018 - 06/2019, [Sichuan University - Pittsburgh Institute Student Council](https://scupi.scu.edu.cn/en/campus-life/student-organizations), Member.
-
-Academic Services
-======
-* Reviewer
-  * [Materials Today](http://Liuchao-JIN.github.io/files/award/Certificate_MATTOD_Recognised.pdf)
-  * [Materials Science and Engineering: A](http://Liuchao-JIN.github.io/files/award/Certificate_MSA_Recognised.pdf)
-  * [Materials & Design](http://Liuchao-JIN.github.io/files/award/Certificate_JMADE_Recognised.pdf)
-  * [Additive Manufacturing](http://Liuchao-JIN.github.io/files/award/Certificate_ADDMA_Recognised.pdf)
-  * [Journal of Manufacturing Processes](http://Liuchao-JIN.github.io/files/award/Certificate_JMP_Recognised.pdf)
-  * [Journal of Manufacturing Systems](http://Liuchao-JIN.github.io/files/award/Certificate_JMSY_Recognised.pdf)
-  * [Sustainable Materials and Technologies](http://Liuchao-JIN.github.io/files/award/Certificate_SUSMAT_Recognised.pdf)
-  * [Results in Engineering](http://Liuchao-JIN.github.io/files/award/Certificate_RINENG_Recognised.pdf)
-  * [Mechanics of Materials](http://Liuchao-JIN.github.io/files/award/Certificate_MECMAT_Recognised.pdf)
-  * [Thin-Walled Structures](http://Liuchao-JIN.github.io/files/award/Certificate_TWST_Recognised.pdf)
-  * [Construction and Building Materials](http://Liuchao-JIN.github.io/files/award/Certificate_JCBM_Recognised.pdf)
-  * [Photonics and Nanostructures - Fundamentals and Applications](http://Liuchao-JIN.github.io/files/award/Certificate_PNFA_Recognised.pdf)
-  * [Engineering Applications of Artificial Intelligence](http://Liuchao-JIN.github.io/files/award/Certificate_EAAI_Recognised.pdf)
-  * [Next Materials](http://Liuchao-JIN.github.io/files/award/Certificate_NXMATE_Recognised.pdf)
-  * [International Journal of Precision Engineering and Manufacturing](http://Liuchao-JIN.github.io/files/award/Certificate_IJPEM_Recognised.pdf)
-  * [Applied Composite Materials](http://Liuchao-JIN.github.io/files/award/Certificate_ACM_Recognised.pdf)
-  * [Discover Materials](http://Liuchao-JIN.github.io/files/award/Certificate_DISMAT_Recognised.pdf)
-  * [Discover Mechanical Engineering](http://Liuchao-JIN.github.io/files/award/Certificate_DISME_Recognised.pdf)
-  * [Autonomous Transportation Research](http://Liuchao-JIN.github.io/files/award/Certificate_ATRES_Recognised.pdf)
-  * [Materials Letters](http://Liuchao-JIN.github.io/files/award/Certificate_MLBLUE_Recognised.pdf)
-  * [Indoor Environments](http://Liuchao-JIN.github.io/files/award/Certificate_INDENV_Recognised.pdf)
-  * International Journal on Interactive Design and Manufacturing
-  * Advanced Materials Technologies
-  * Advances in Materials and Processing Technologies
-  * Progress in Additive Manufacturing
-  * IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)
-  * Nanotechnology Reviews
-  * Smart Materials & Methods
-  * 4D Printing
-
-Community Contributions
-======
-* 05/2021 & 11/2019, [Chengdu Blood Center](http://cdwjw.chengdu.gov.cn/cdwjw/zsdw/2022-02/17/content_f402eac1ea4148c7ab930d09da21870c.shtml), Blood Donor.
-* 02/2021, [UNESCO](https://www.unesco.org/en), Disaster Risk Management at UNESCO Designated Sites, Volunteer.
-* 07/2020 - 08/2020, [GREENPEACE](https://www.greenpeace.org/international/), Blue Planet Rescue Plan, Volunteer.
-* 02/2019, SCU – Return to Alma Mater, Social Practice of Winter Vacation, Participant.
+<script src="{{ '/assets/js/cv.js' | relative_url }}" defer></script>
