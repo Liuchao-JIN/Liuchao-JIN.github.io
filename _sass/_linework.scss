@@ -49,7 +49,7 @@
 }
 
 .site-linework__rail--left {
-  left: max(1rem, calc((100% - #{$x-large}) / 2));
+  left: 1rem;
 
   &::before {
     left: 0;
@@ -57,11 +57,21 @@
 }
 
 .site-linework__rail--right {
-  right: max(1rem, calc((100% - #{$x-large}) / 2));
+  right: 1rem;
 
   &::before {
     right: 0;
     background: linear-gradient(270deg, rgba(50, 137, 167, 0.45), transparent);
+  }
+}
+
+@include breakpoint($x-large) {
+  .site-linework__rail--left {
+    left: calc((100% - #{$x-large}) / 2);
+  }
+
+  .site-linework__rail--right {
+    right: calc((100% - #{$x-large}) / 2);
   }
 }
 
