@@ -39,6 +39,7 @@ redirect_from:
   <a href="#awards">Awards</a>
   <a href="#service">Academic service</a>
   <a href="#teaching">Teaching</a>
+  <a href="#network">Collaboration network</a>
 </nav>
 
 <section id="education" class="cv-section" aria-labelledby="education-title">
@@ -315,6 +316,28 @@ redirect_from:
       </ul>
     </article>
   </div>
+</section>
+
+<section id="network" class="cv-section cv-network" aria-labelledby="network-title">
+  <div class="cv-section__heading cv-section__heading--actions">
+    <div>
+      <p class="cv-section__eyebrow">Research community</p>
+      <h2 id="network-title">Global Collaboration Network</h2>
+    </div>
+    <a href="{{ base_path }}/collaborators-map.html" target="_blank" rel="noopener">Open full atlas →</a>
+  </div>
+  <div class="cv-network__intro">
+    <p>A geographic view of the institutions and researchers connected through my published work, spanning advanced manufacturing, mechanics, materials, and intelligent design.</p>
+    <dl class="cv-network__stats" aria-label="Collaboration network statistics">
+      <div><dt>148</dt><dd>Collaborators</dd></div>
+      <div><dt>52</dt><dd>Locations</dd></div>
+      <div><dt>10</dt><dd>Countries</dd></div>
+    </dl>
+  </div>
+  <div class="cv-network__frame">
+    <iframe src="{{ '/collaborators-map.html?embed=1' | relative_url }}" title="Interactive global collaboration network" loading="lazy"></iframe>
+  </div>
+  <p class="cv-network__note">On desktop, use the mouse wheel to zoom, drag to explore, and select a marker to view its institution and collaborators.</p>
 </section>
 
 </div>
