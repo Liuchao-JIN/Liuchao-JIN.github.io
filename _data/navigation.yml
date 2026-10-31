@@ -16,8 +16,10 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
 
-  - title: "Blog Posts"
-    url: /posts/
+  # Blog Posts is intentionally hidden from the primary navigation.
+  # The page and existing posts remain available through their direct URLs.
+  # - title: "Blog Posts"
+  #   url: /posts/
 
 
   # - title: "Guide"
