@@ -133,7 +133,6 @@
 }
 
 .publications-controls {
-  z-index: 4;
   display: grid;
   grid-template-columns: minmax(13rem, 1fr) auto auto;
   align-items: center;
@@ -144,11 +143,6 @@
   border-radius: $border-radius;
   background: rgba($background-color, 0.97);
   box-shadow: 0 0.25rem 0.9rem rgba(#000, 0.04);
-
-  @media (min-width: 48em) {
-    position: sticky;
-    top: 4.5rem;
-  }
 }
 
 .publications-search {
