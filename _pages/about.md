@@ -24,6 +24,13 @@ redirect_from:
       </div>
     </div>
 
+    <figure class="home-portrait">
+      <div class="home-portrait__frame">
+        <img src="{{ base_path }}/images/profile_1.png" alt="Portrait of Liuchao Jin" width="420" height="420" loading="eager" fetchpriority="high" decoding="async">
+      </div>
+      <figcaption>CUHK · Hong Kong</figcaption>
+    </figure>
+
     <aside class="home-research-index" aria-label="Research focus">
       <div class="home-research-index__heading"><span>Research index</span><span>01—03</span></div>
       <ol>
