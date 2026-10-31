@@ -12,6 +12,13 @@ redirect_from:
 
 <div class="home-page">
   <section class="home-hero" aria-labelledby="home-title">
+    <figure class="home-portrait">
+      <div class="home-portrait__frame">
+        <img src="{{ base_path }}/images/profile_1.png" alt="Portrait of Liuchao Jin" width="420" height="420" loading="eager" fetchpriority="high" decoding="async">
+      </div>
+      <figcaption>CUHK · Hong Kong</figcaption>
+    </figure>
+
     <div class="home-hero__content">
       <p class="home-eyebrow">MECHANICS · INTELLIGENCE · MANUFACTURING</p>
       <h1 id="home-title">Liuchao Jin</h1>
@@ -23,23 +30,6 @@ redirect_from:
         <a class="home-text-link" href="https://scholar.google.com/citations?user=iYBWir4AAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar <span aria-hidden="true">↗</span></a>
       </div>
     </div>
-
-    <figure class="home-portrait">
-      <div class="home-portrait__frame">
-        <img src="{{ base_path }}/images/profile_1.png" alt="Portrait of Liuchao Jin" width="420" height="420" loading="eager" fetchpriority="high" decoding="async">
-      </div>
-      <figcaption>CUHK · Hong Kong</figcaption>
-    </figure>
-
-    <aside class="home-research-index" aria-label="Research focus">
-      <div class="home-research-index__heading"><span>Research index</span><span>01—03</span></div>
-      <ol>
-        <li><span class="home-research-index__number">01</span><div><strong>Intelligence</strong><small>Machine learning and inverse design</small></div></li>
-        <li><span class="home-research-index__number">02</span><div><strong>Matter</strong><small>Architected materials and mechanics</small></div></li>
-        <li><span class="home-research-index__number">03</span><div><strong>Making</strong><small>Additive manufacturing and 3D/4D printing</small></div></li>
-      </ol>
-      <p class="home-research-index__note">From computational design to physical realization.</p>
-    </aside>
   </section>
 
   <section class="home-section home-section--themes" aria-labelledby="themes-title">
