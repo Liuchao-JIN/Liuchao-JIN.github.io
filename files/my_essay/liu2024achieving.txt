@@ -1,0 +1,12 @@
+@article{liu2024achieving,
+  title={Achieving rapid actuation in liquid crystal elastomers},
+  author={Liu, Changyue and Jin, Liuchao and Liao, Wei-Hsin and Wang, Zhijian and He, Qiguang},
+  journal={National Science Open},
+  volume={4},
+  number={2},
+  pages={20240013},
+  year={2024},
+  month={June},
+  publisher={Science China Press},
+  doi={10.1360/nso/20240013}
+}

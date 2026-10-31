@@ -16,7 +16,6 @@ redirect_from:
       <div class="home-portrait__frame">
         <img src="{{ base_path }}/images/profile_1.png" alt="Portrait of Liuchao Jin" width="420" height="420" loading="eager" fetchpriority="high" decoding="async">
       </div>
-      <figcaption>CUHK · Hong Kong</figcaption>
     </figure>
 
     <div class="home-hero__content">

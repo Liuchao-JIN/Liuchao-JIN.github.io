@@ -20,7 +20,6 @@ redirect_from:
         <a class="amateur-button" href="#news-reporting">View news reporting</a>
       </div>
       <div class="amateur-hero__meta" aria-label="Creative work overview">
-        <span><strong>11</strong> productions</span>
         <span>Film · Editing · Reporting</span>
       </div>
     </div>

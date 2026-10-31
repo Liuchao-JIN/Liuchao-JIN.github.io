@@ -121,6 +121,14 @@
     return action;
   }
 
+  function isCorePublicationAction(link) {
+    var label = normalizeText(link.textContent).toLowerCase();
+    return label === "web" ||
+      label === "doi" ||
+      label === "pdf" ||
+      label.indexOf("bibtex") !== -1;
+  }
+
   function copyText(text) {
     if (navigator.clipboard && window.isSecureContext) {
       return navigator.clipboard.writeText(text);
@@ -241,7 +249,13 @@
 
       actions.className = "publication-actions";
       actions.setAttribute("aria-label", "Links for " + title);
-      links.forEach(function (link) {
+      var orderedLinks = links.filter(isCorePublicationAction).concat(
+        links.filter(function (link) {
+          return !isCorePublicationAction(link);
+        })
+      );
+
+      orderedLinks.forEach(function (link) {
         actions.appendChild(createAction(link, title, toast));
       });
 

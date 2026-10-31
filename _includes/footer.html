@@ -1,39 +1,53 @@
 {% include base_path %}
 
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-    {% if site.twitter.username %}
-      <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fab fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
-    {% endif %}
-    {% if site.facebook.username %}
-      <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fab fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
-    {% endif %}
-    {% if site.author.github %}
-      <li><a href="http://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
-    {% endif %}
-    {% if site.author.bitbucket %}
-      <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-    {% endif %}
-  </ul>
+<div class="academic-footer">
+  <div class="academic-footer__main">
+    <section class="academic-footer__identity" aria-labelledby="footer-name">
+      <p class="academic-footer__eyebrow">MECHANICS · INTELLIGENCE · MANUFACTURING</p>
+      <a class="academic-footer__name" id="footer-name" href="{{ base_path }}/">Liuchao Jin</a>
+      <p class="academic-footer__statement">Researching how machine intelligence and advanced manufacturing can shape materials and structures with purposeful mechanical behavior.</p>
+      <div class="academic-footer__topics" aria-label="Research themes">
+        <span>AI for Manufacturing</span>
+        <span>Architected Materials</span>
+        <span>3D/4D Printing</span>
+      </div>
+    </section>
+
+    <nav class="academic-footer__nav" aria-label="Footer navigation">
+      <p class="academic-footer__label">Explore</p>
+      <ul>
+        <li><a href="{{ base_path }}/">Home</a></li>
+        {% for link in site.data.navigation.main %}
+          <li><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+
+    <section class="academic-footer__connect" aria-labelledby="footer-connect-title">
+      <p class="academic-footer__label" id="footer-connect-title">Academic profiles</p>
+      <div class="academic-footer__profiles">
+        {% if site.author.googlescholar %}
+          <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener"><i class="fas fa-graduation-cap" aria-hidden="true"></i><span>Google Scholar</span><span aria-hidden="true">↗</span></a>
+        {% endif %}
+        {% if site.author.orcid %}
+          <a href="{{ site.author.orcid }}" target="_blank" rel="noopener"><i class="fas fa-id-badge" aria-hidden="true"></i><span>ORCID</span><span aria-hidden="true">↗</span></a>
+        {% endif %}
+        {% if site.author.researchgate %}
+          <a href="{{ site.author.researchgate }}" target="_blank" rel="noopener"><i class="fab fa-researchgate" aria-hidden="true"></i><span>ResearchGate</span><span aria-hidden="true">↗</span></a>
+        {% endif %}
+        {% if site.author.github %}
+          <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span><span aria-hidden="true">↗</span></a>
+        {% endif %}
+      </div>
+      {% if site.author.email %}
+        <a class="academic-footer__email" href="mailto:{{ site.author.email }}"><i class="fas fa-envelope" aria-hidden="true"></i> {{ site.author.email }}</a>
+      {% endif %}
+    </section>
+  </div>
+
+  <div class="academic-footer__bottom">
+    <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}</p>
+    <p>Postdoctoral Fellow · The Chinese University of Hong Kong</p>
+    <a class="academic-footer__top" href="#" aria-label="Back to top">Back to top <span aria-hidden="true">↑</span></a>
+  </div>
 </div>
-
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} </div>
-
-<!-- <div style="position: fixed; right: 20px; bottom: 20px;">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1gEGivz1CbZRDHZ39YDwYkmWo5vOcIcca0RDx1GBplw&cl=ffffff&w=a"></script>
-</div> -->
-
-<!-- <p><center>
-<div id="clustrmaps-widget" style="width:70%">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=1gEGivz1CbZRDHZ39YDwYkmWo5vOcIcca0RDx1GBplw"></script>
-</div>
-</center></p> -->
-
-<!-- <div style="text-align: right;">
-    <div id="clustrmaps-widget" style="width:5%">
-        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=1gEGivz1CbZRDHZ39YDwYkmWo5vOcIcca0RDx1GBplw"></script>
-    </div>
-</div> -->
