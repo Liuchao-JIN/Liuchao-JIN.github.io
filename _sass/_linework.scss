@@ -1,0 +1,179 @@
+/* ========================================================================== 
+   SITE-WIDE ARCHITECTURAL LINEWORK
+   ========================================================================== */
+
+.site-linework {
+  position: absolute;
+  top: 4.6rem;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.site-linework__rail {
+  position: absolute;
+  top: 1.75rem;
+  bottom: 3rem;
+  width: 1px;
+  background: linear-gradient(
+    to bottom,
+    transparent 0,
+    rgba(50, 137, 167, 0.2) 5rem,
+    rgba(24, 48, 61, 0.08) 30%,
+    rgba(24, 48, 61, 0.08) 76%,
+    transparent 100%
+  );
+
+  &::before {
+    position: absolute;
+    top: 0;
+    width: 3rem;
+    height: 1px;
+    background: linear-gradient(90deg, rgba(50, 137, 167, 0.45), transparent);
+    content: "";
+  }
+
+  &::after {
+    position: absolute;
+    top: 38%;
+    width: 5px;
+    height: 5px;
+    border: 1px solid rgba(50, 137, 167, 0.26);
+    background: #fff;
+    content: "";
+    transform: translateX(-2px) rotate(45deg);
+  }
+}
+
+.site-linework__rail--left {
+  left: max(1rem, calc((100% - #{$x-large}) / 2));
+
+  &::before {
+    left: 0;
+  }
+}
+
+.site-linework__rail--right {
+  right: max(1rem, calc((100% - #{$x-large}) / 2));
+
+  &::before {
+    right: 0;
+    background: linear-gradient(270deg, rgba(50, 137, 167, 0.45), transparent);
+  }
+}
+
+#main {
+  position: relative;
+  z-index: 1;
+
+  &::before,
+  &::after {
+    position: absolute;
+    top: -1.15rem;
+    height: 1px;
+    content: "";
+    pointer-events: none;
+  }
+
+  &::before {
+    left: 1rem;
+    width: clamp(3rem, 8vw, 6rem);
+    background: linear-gradient(90deg, #3289a7, rgba(50, 137, 167, 0.08));
+  }
+
+  &::after {
+    right: 1rem;
+    width: 2rem;
+    background: linear-gradient(270deg, rgba(50, 137, 167, 0.5), transparent);
+  }
+}
+
+.page__title {
+  display: flex;
+  gap: 0.8rem;
+  align-items: center;
+
+  &::after {
+    width: clamp(2.5rem, 9vw, 8rem);
+    height: 1px;
+    background: linear-gradient(90deg, rgba(50, 137, 167, 0.55), transparent);
+    content: "";
+  }
+}
+
+.home-eyebrow,
+.cv-kicker,
+.cv-section__eyebrow,
+.talks-eyebrow,
+.teaching-eyebrow,
+.amateur-eyebrow {
+  display: flex;
+  gap: 0.55rem;
+  align-items: center;
+
+  &::before {
+    width: clamp(1rem, 2.5vw, 1.9rem);
+    height: 1px;
+    flex: 0 0 auto;
+    background: currentColor;
+    content: "";
+    opacity: 0.48;
+  }
+}
+
+.home-section__intro,
+.cv-section__heading,
+.talks-section__heading,
+.teaching-philosophy,
+.teaching-section-heading,
+.teaching-institution__header,
+.amateur-section__heading,
+.publication-year-heading {
+  position: relative;
+
+  &::after {
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: clamp(2.8rem, 7vw, 4.8rem);
+    height: 3px;
+    background: linear-gradient(90deg, #3289a7, rgba(50, 137, 167, 0.2));
+    content: "";
+  }
+}
+
+.teaching-section-heading {
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid var(--teaching-line);
+}
+
+@media (max-width: 900px) {
+  .site-linework {
+    display: none;
+  }
+}
+
+@media (max-width: 600px) {
+  #main::before {
+    width: 3rem;
+  }
+
+  #main::after {
+    display: none;
+  }
+
+  .page__title::after {
+    width: 2.5rem;
+  }
+}
+
+@media print {
+  .site-linework,
+  #main::before,
+  #main::after {
+    display: none !important;
+  }
+}
