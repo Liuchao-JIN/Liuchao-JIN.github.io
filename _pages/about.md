@@ -2,6 +2,7 @@
 layout: archive
 permalink: /
 title: "Liuchao Jin | Intelligent Manufacturing & Architected Materials"
+browser_title: "Liuchao Jin - Homepage"
 excerpt: "Liuchao Jin is a postdoctoral researcher at The Chinese University of Hong Kong working on intelligent manufacturing, architected materials, and 3D/4D printing."
 author_profile: true
 hide_title: true
