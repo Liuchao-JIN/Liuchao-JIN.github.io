@@ -1,8 +1,0 @@
-@article{larson2023rotational,
-  title={Rotational multimaterial printing of filaments with subvoxel control},
-  author={Larson, Natalie M and Mueller, Jochen and Chortos, Alex and Davidson, Zoey S and Clarke, David R and Lewis, Jennifer A},
-  journal={Nature},
-  pages={1--7},
-  year={2023},
-  publisher={Nature Publishing Group UK London}
-}

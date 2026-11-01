@@ -1,8 +1,0 @@
-@article{wang2023advances,
-  title={Advances in 4D printed shape memory composites and structures: Actuation and application},
-  author={Wang, LinLin and Zhang, FengHua and Du, ShanYi and Leng, JinSong},
-  journal={Science China Technological Sciences},
-  pages={1--18},
-  year={2023},
-  publisher={Springer}
-}

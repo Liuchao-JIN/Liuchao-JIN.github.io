@@ -1,8 +1,0 @@
-@incollection{naniz20234d,
-  title={4D Printing in Pharmaceutics and Biomedical Applications},
-  author={Naniz, Moqaddaseh Afzali and Askari, Mohsen and Zolfagharian, Ali and Bodaghi, Mahdi},
-  booktitle={Nano-and Microfabrication Techniques in Drug Delivery: Recent Developments and Future Prospects},
-  pages={207--247},
-  year={2023},
-  publisher={Springer}
-}

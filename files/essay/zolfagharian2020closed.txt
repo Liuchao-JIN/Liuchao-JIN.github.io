@@ -1,9 +1,0 @@
-@article{zolfagharian2020closed,
-  title={Closed-loop 4D-printed soft robots},
-  author={Zolfagharian, Ali and Kaynak, Akif and Kouzani, Abbas},
-  journal={Materials \& Design},
-  volume={188},
-  pages={108411},
-  year={2020},
-  publisher={Elsevier}
-}

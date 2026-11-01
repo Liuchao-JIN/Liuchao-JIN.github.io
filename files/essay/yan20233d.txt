@@ -1,9 +1,0 @@
-@article{yan20233d,
-  title={3D short fibre orientation for universal structures and geometries in material extrusion additive manufacturing},
-  author={Yan, Jiongyi and Demirci, Emrah and Gleadall, Andrew},
-  journal={Additive Manufacturing},
-  volume={69},
-  pages={103535},
-  year={2023},
-  publisher={Elsevier}
-}

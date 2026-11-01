@@ -1,8 +1,0 @@
-@article{heidarian2023self,
-  title={A self-healing nanocomposite double network bacterial nanocellulose/gelatin hydrogel for three dimensional printing},
-  author={Heidarian, Pejman and Kouzani, Abbas Z},
-  journal={Carbohydrate Polymers},
-  pages={120879},
-  year={2023},
-  publisher={Elsevier}
-}

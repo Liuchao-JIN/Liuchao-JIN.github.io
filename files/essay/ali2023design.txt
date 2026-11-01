@@ -1,6 +1,0 @@
-@article{ali2023design,
-  title={Design of a programmable particle filtering medium using a novel auxetic metamaterial},
-  author={Ali, Hafiz Muhammad Asad and Abdi, Meisam and Zahedi, Sayyed Abolfazl and Sun, Yong},
-  journal={Smart Materials and Structures},
-  year={2023}
-}

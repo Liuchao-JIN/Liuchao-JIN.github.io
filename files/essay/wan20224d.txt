@@ -1,9 +1,0 @@
-@article{wan20224d,
-  title={4D printing of multiple shape memory polymer and nanocomposites with biocompatible, programmable and selectively actuated properties},
-  author={Wan, Xue and He, Yang and Liu, Yanju and Leng, Jinsong},
-  journal={Additive Manufacturing},
-  volume={53},
-  pages={102689},
-  year={2022},
-  publisher={Elsevier}
-}

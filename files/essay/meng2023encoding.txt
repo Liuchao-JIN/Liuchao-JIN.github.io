@@ -1,8 +1,0 @@
-@article{meng2023encoding,
-  title={Encoding and Storage of Information in Mechanical Metamaterials},
-  author={Meng, Zhiqiang and Yan, Hujie and Liu, Mingchao and Qin, Wenkai and Genin, Guy M and Chen, Chang Qing},
-  journal={Advanced Science},
-  pages={2301581},
-  year={2023},
-  publisher={Wiley Online Library}
-}
