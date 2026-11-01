@@ -266,7 +266,7 @@
 
 .cv-network__frame {
   position: relative;
-  height: clamp(30rem, 54vw, 40rem);
+  height: clamp(34rem, 56vw, 44rem);
   overflow: hidden;
   border: 1px solid mix(#fff, $link-color, 68%);
   border-radius: 0.75rem;
@@ -727,7 +727,7 @@
   }
 
   .cv-network__frame {
-    height: 19rem;
+    height: clamp(24rem, 112vw, 31rem);
     border-radius: $border-radius;
   }
 }

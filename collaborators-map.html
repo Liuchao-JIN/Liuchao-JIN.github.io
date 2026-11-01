@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="An interactive map of Liuchao Jin's research collaborators and their institutional affiliations.">
   <title>Research Network | Liuchao Jin</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
   <script>
     if (new URLSearchParams(window.location.search).get("embed") === "1") {
       document.documentElement.classList.add("is-embed-document");
@@ -43,7 +44,12 @@
     html.is-embed-document { color-scheme: light; }
 
     html.is-embed-document,
-    html.is-embed-document body { background: #f7fafb; }
+    html.is-embed-document body {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background: #f7fafb;
+    }
 
     body {
       color: var(--ink);
@@ -373,6 +379,159 @@
         #07171e;
     }
 
+    #leaflet-map {
+      position: absolute;
+      z-index: 2;
+      inset: 0;
+      background: #142a34;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 260ms ease;
+    }
+
+    #collaborator-map.has-live-map #leaflet-map {
+      opacity: 1;
+      pointer-events: auto;
+    }
+
+    #collaborator-map.has-live-map .network-world {
+      visibility: hidden;
+    }
+
+    .leaflet-container {
+      color: #233d46;
+      font: inherit;
+      outline: none;
+    }
+
+    .leaflet-tile-pane {
+      filter: saturate(0.72) brightness(0.82) contrast(1.08);
+    }
+
+    .leaflet-control-zoom {
+      overflow: hidden;
+      border: 1px solid rgba(139, 188, 202, 0.3) !important;
+      border-radius: 0 !important;
+      box-shadow: 0 10px 28px rgba(0, 12, 18, 0.22) !important;
+    }
+
+    .leaflet-control-zoom a {
+      border: 0 !important;
+      border-bottom: 1px solid rgba(139, 188, 202, 0.2) !important;
+      background: rgba(8, 29, 38, 0.9) !important;
+      color: #c8e3ea !important;
+    }
+
+    .leaflet-control-zoom a:last-child { border-bottom: 0 !important; }
+    .leaflet-control-zoom a:hover { background: rgba(16, 53, 66, 0.95) !important; color: #fff !important; }
+
+    .leaflet-left .leaflet-control-zoom {
+      margin-top: 4.8rem;
+      margin-left: 1.5rem;
+    }
+
+    .leaflet-control-attribution {
+      padding: 0.15rem 0.35rem !important;
+      background: rgba(7, 23, 30, 0.74) !important;
+      color: rgba(196, 217, 223, 0.72) !important;
+      font-size: 0.52rem !important;
+      backdrop-filter: blur(8px);
+    }
+
+    .leaflet-control-attribution a { color: #8dd5e8 !important; }
+
+    .collaborator-marker-wrap {
+      overflow: visible !important;
+      border: 0;
+      background: transparent;
+    }
+
+    .collaborator-marker {
+      --marker-color: #64d2ee;
+      position: relative;
+      display: block;
+      width: 30px;
+      height: 30px;
+      transform: translate(2px, 2px);
+    }
+
+    .collaborator-marker__halo,
+    .collaborator-marker__core {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      border-radius: 50%;
+      transform: translate(-50%, -50%);
+    }
+
+    .collaborator-marker__halo {
+      width: 22px;
+      height: 22px;
+      border: 1px solid var(--marker-color);
+      background: color-mix(in srgb, var(--marker-color) 12%, transparent);
+      box-shadow: 0 0 0 5px color-mix(in srgb, var(--marker-color) 7%, transparent);
+      opacity: 0.72;
+      transition: width 180ms ease, height 180ms ease, opacity 180ms ease;
+    }
+
+    .collaborator-marker__core {
+      width: 9px;
+      height: 9px;
+      border: 2px solid #07171e;
+      background: var(--marker-color);
+      box-shadow: 0 0 12px color-mix(in srgb, var(--marker-color) 68%, transparent);
+    }
+
+    .collaborator-marker.is-home .collaborator-marker__halo { width: 28px; height: 28px; }
+    .collaborator-marker.is-home .collaborator-marker__core { width: 12px; height: 12px; }
+
+    .collaborator-marker__label {
+      position: absolute;
+      top: -15px;
+      left: 26px;
+      width: max-content;
+      max-width: 180px;
+      padding: 0.27rem 0.42rem;
+      border: 1px solid color-mix(in srgb, var(--marker-color) 46%, transparent);
+      background: rgba(6, 24, 31, 0.9);
+      color: #f1fafc;
+      box-shadow: 0 8px 20px rgba(0, 8, 12, 0.24);
+      font-size: 0.62rem;
+      font-weight: 700;
+      line-height: 1.25;
+      opacity: 0;
+      pointer-events: none;
+      transform: translateX(-4px);
+      transition: opacity 150ms ease, transform 180ms ease;
+      white-space: nowrap;
+    }
+
+    .collaborator-marker__label.is-left { right: 26px; left: auto; transform: translateX(4px); }
+    .collaborator-marker__label.is-below { top: 26px; }
+
+    .leaflet-container.show-school-labels .collaborator-marker__label,
+    .collaborator-marker.is-active .collaborator-marker__label {
+      opacity: 1;
+      transform: translateX(0);
+    }
+
+    .collaborator-marker.is-active .collaborator-marker__halo {
+      width: 31px;
+      height: 31px;
+      opacity: 1;
+    }
+
+    .institution-tooltip.leaflet-tooltip {
+      border: 1px solid rgba(102, 208, 235, 0.38);
+      border-radius: 0;
+      background: rgba(7, 26, 34, 0.94);
+      color: #eaf7fa;
+      box-shadow: 0 12px 30px rgba(0, 8, 12, 0.3);
+      font-size: 0.66rem;
+    }
+
+    .institution-tooltip.leaflet-tooltip::before { border-top-color: rgba(7, 26, 34, 0.94); }
+
     .network-map-label {
       position: absolute;
       top: 1.5rem;
@@ -586,9 +745,41 @@
       transition: opacity 180ms ease;
     }
 
+    .network-world.is-city-zoom .network-arc-svg {
+      opacity: 0 !important;
+    }
+
+    .network-city-label {
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 180ms ease;
+    }
+
+    .network-world.is-city-zoom:not(.is-institution-zoom) .network-city-label {
+      opacity: 1;
+    }
+
+    .network-city-label__text {
+      fill: rgba(181, 222, 232, 0.66);
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      paint-order: stroke;
+      stroke: rgba(6, 23, 30, 0.92);
+      stroke-linejoin: round;
+      stroke-width: 4px;
+      text-anchor: middle;
+      text-transform: uppercase;
+    }
+
     .network-node {
       cursor: pointer;
       outline: none;
+    }
+
+    .network-node__glyph,
+    .network-city-label__glyph {
+      transform-origin: 0 0;
     }
 
     .network-node__halo {
@@ -617,6 +808,43 @@
       stroke-width: 1.2;
     }
 
+    .network-node__leader,
+    .network-node__label {
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 180ms ease;
+    }
+
+    .network-node__leader {
+      stroke: var(--marker-color);
+      stroke-dasharray: 2 2;
+      stroke-width: 0.9;
+    }
+
+    .network-node__label {
+      fill: #e8f7fa;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.025em;
+      paint-order: stroke;
+      stroke: rgba(6, 23, 30, 0.96);
+      stroke-linejoin: round;
+      stroke-width: 4px;
+    }
+
+    .network-world.is-institution-zoom .network-node__leader,
+    .network-world.is-institution-zoom .network-node__label,
+    .network-node.is-active .network-node__leader,
+    .network-node.is-active .network-node__label {
+      opacity: 1;
+    }
+
+    .network-zoom-level {
+      margin-right: 0.42rem;
+      color: rgba(102, 213, 239, 0.82);
+      font-weight: 700;
+    }
+
     .network-empty {
       padding: 2rem 1rem;
       color: var(--muted);
@@ -638,6 +866,8 @@
     }
 
     body.is-embed .network-shell {
+      position: fixed;
+      inset: 0;
       display: block;
       width: 100%;
       min-height: 100vh;
@@ -662,6 +892,26 @@
         #f7fafb;
     }
 
+    body.is-embed #leaflet-map { background: #edf3f4; }
+    body.is-embed .leaflet-tile-pane { filter: saturate(0.74) brightness(1.03) contrast(0.98); }
+
+    body.is-embed .leaflet-control-zoom a {
+      background: rgba(255, 255, 255, 0.94) !important;
+      color: #3b6672 !important;
+    }
+
+    body.is-embed .leaflet-control-attribution {
+      background: rgba(255, 255, 255, 0.84) !important;
+      color: #71868d !important;
+    }
+
+    body.is-embed .collaborator-marker__core { border-color: #fff; }
+    body.is-embed .collaborator-marker__label {
+      background: rgba(255, 255, 255, 0.95);
+      color: #31515b;
+      box-shadow: 0 8px 20px rgba(54, 83, 92, 0.15);
+    }
+
     body.is-embed .network-world { background: #f7fafb; }
     body.is-embed .network-ocean { fill: #f7fafb; }
 
@@ -680,6 +930,16 @@
 
     body.is-embed .network-region-labels text {
       fill: rgba(48, 101, 117, 0.34);
+    }
+
+    body.is-embed .network-city-label__text {
+      fill: rgba(34, 112, 134, 0.72);
+      stroke: rgba(247, 250, 251, 0.96);
+    }
+
+    body.is-embed .network-node__label {
+      fill: #2f6878;
+      stroke: rgba(247, 250, 251, 0.98);
     }
 
     body.is-embed .network-arc-svg { opacity: 0.34; }
@@ -770,12 +1030,16 @@
       h1 { font-size: 2.55rem; }
       .network-deck { font-size: 0.88rem; }
       .network-map-label { top: 0.75rem; left: 0.75rem; }
-      .network-map-tools { top: auto; right: 0.75rem; bottom: 0.75rem; }
+      .network-map-tools { top: auto; right: 0.75rem; bottom: 0.75rem; left: 0.75rem; gap: 0.32rem; justify-content: flex-end; }
+      .network-map-button { min-height: 2.2rem; padding: 0 0.58rem; font-size: 0.56rem; }
       .network-map-credit { right: auto; bottom: 0.9rem; left: 0.75rem; font-size: 0.46rem; }
       .network-map-hint { display: none; }
-      .network-map-button:first-child { display: none; }
       .network-detail { right: 0.75rem; bottom: 0.75rem; width: calc(100% - 1.5rem); }
       .network-detail h2 { font-size: 1.3rem; }
+      .leaflet-left .leaflet-control-zoom { margin-top: 4.15rem; margin-left: 0.75rem; }
+      .leaflet-control-attribution { max-width: 68%; font-size: 0.45rem !important; }
+      .collaborator-marker__label { max-width: 135px; font-size: 0.56rem; }
+      .network-stage.has-live-map .network-map-credit { display: none; }
     }
 
     @media (prefers-reduced-motion: reduce) {
@@ -817,6 +1081,7 @@
 
     <section class="network-stage" aria-label="Interactive collaborator map">
       <div id="collaborator-map">
+        <div id="leaflet-map" aria-label="Detailed interactive map showing collaborator institutions"></div>
         <svg class="network-world" id="network-world" viewBox="0 0 1000 520" role="img" aria-label="World map showing collaborator institutions">
           <defs>
             <radialGradient id="ocean-glow" cx="65%" cy="42%" r="64%">
@@ -1306,15 +1571,17 @@
               <text x="484" y="124">EUROPE</text><text x="486" y="229">AFRICA</text>
               <text x="720" y="124">ASIA</text><text x="872" y="344">OCEANIA</text>
             </g>
+            <g id="network-city-labels-svg" aria-hidden="true"></g>
             <g id="network-lines-svg"></g>
             <g id="network-markers-svg"></g>
           </g>
         </svg>
       </div>
       <div class="network-map-label"><span></span>Global collaboration atlas</div>
-      <div class="network-map-credit"><span class="network-map-hint">Wheel to zoom · Drag to pan · </span>Natural Earth · 1:110m vector</div>
+      <div class="network-map-credit"><span class="network-zoom-level" id="network-zoom-level">Z2</span><span class="network-map-hint">Wheel to zoom · Drag to pan · </span><span id="network-map-source">Detailed street basemap</span></div>
       <div class="network-map-tools">
         <button class="network-map-button" id="fit-network" type="button">View all</button>
+        <button class="network-map-button" id="focus-gba" type="button">Greater Bay Area</button>
         <button class="network-map-button" id="toggle-lines" type="button" aria-pressed="true">Network lines</button>
       </div>
       <article class="network-detail" id="network-detail" aria-live="polite">
@@ -1330,6 +1597,7 @@
     </section>
   </main>
 
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
   <script>
     (function () {
       "use strict";
@@ -1343,24 +1611,24 @@
       };
 
       var institutions = [
-        { id: "cuhk", institution: "The Chinese University of Hong Kong", city: "Hong Kong", country: "China", region: "Greater China", lat: 22.4196, lng: 114.2068, home: true, units: ["Department of Mechanical and Automation Engineering", "Institute of Intelligent Design and Manufacturing"], people: ["Wei-Hsin Liao", "Haitao Ye", "Sicong Zhou", "Guoquan Xie", "Zongxin Hu", "Rui Li", "Haoming Mo", "Xu Song", "Jian Wang", "Kang Zhang", "Keyu Chen", "Qiguang He", "Qitao Lu", "Zhichao Shen", "Meishan Chan", "Xiaoya Zhai", "Jingchao Jiang"] },
-        { id: "sustech", institution: "Southern University of Science and Technology", city: "Shenzhen", country: "China", region: "Greater China", lat: 22.6001, lng: 113.9987, units: ["Department of Mechanical and Energy Engineering", "Shenzhen Key Laboratory for Additive Manufacturing of High-Performance Materials", "Department of Materials Science and Engineering", "Guangdong Provincial Key Laboratory of Functional Oxide Materials and Devices"], people: ["Qi Ge", "Shouyi Yu", "Jianxiang Cheng", "Xingjian Huang", "Xiangnan He", "Rong Wang", "Wenbo Xue", "Siqian Wu", "Wuzhao Li", "Zhigang Liu", "Bingcong Jian", "Haitao Ye"] },
-        { id: "szu", institution: "Shenzhen University", city: "Shenzhen", country: "China", region: "Greater China", lat: 22.5334, lng: 113.9304, units: ["College of Mechatronics and Control Engineering", "National Key Laboratory of Green and Long-Life Road Engineering in Extreme Environment"], people: ["Shitong Fang", "Weihao Lin", "Haoxian Peng", "Haobin Lin", "Aipeng Ye", "Zhihui Lai", "Yuelong Yu", "Degui Yu", "Shuxiang Dong", "Jiabao Zou", "Kui Wu", "Yi Guan", "Jinkang Liu", "Yufeng Guo", "Xukun Su"] },
-        { id: "xidian-gz", institution: "Xidian University · Guangzhou Institute of Technology", city: "Guangzhou", country: "China", region: "Greater China", lat: 23.1291, lng: 113.2644, units: ["School of Mechano-Electronic Engineering", "Guangzhou Institute of Technology"], people: ["Mingjing Cai", "Miao Chen", "Liangdong Wei", "Xin Li"] },
+        { id: "cuhk", institution: "The Chinese University of Hong Kong", shortName: "CUHK", city: "Hong Kong", country: "China", region: "Greater China", metro: "Greater Bay Area", lat: 22.4196, lng: 114.2068, home: true, labelDx: 11, labelDy: -12, units: ["Department of Mechanical and Automation Engineering", "Institute of Intelligent Design and Manufacturing"], people: ["Wei-Hsin Liao", "Haitao Ye", "Sicong Zhou", "Guoquan Xie", "Zongxin Hu", "Rui Li", "Haoming Mo", "Xu Song", "Jian Wang", "Kang Zhang", "Keyu Chen", "Qiguang He", "Qitao Lu", "Zhichao Shen", "Meishan Chan", "Xiaoya Zhai", "Jingchao Jiang"] },
+        { id: "sustech", institution: "Southern University of Science and Technology", shortName: "SUSTech", city: "Shenzhen", country: "China", region: "Greater China", metro: "Greater Bay Area", lat: 22.6001, lng: 113.9987, labelDx: 11, labelDy: -12, units: ["Department of Mechanical and Energy Engineering", "Shenzhen Key Laboratory for Additive Manufacturing of High-Performance Materials", "Department of Materials Science and Engineering", "Guangdong Provincial Key Laboratory of Functional Oxide Materials and Devices"], people: ["Qi Ge", "Shouyi Yu", "Jianxiang Cheng", "Xingjian Huang", "Xiangnan He", "Rong Wang", "Wenbo Xue", "Siqian Wu", "Wuzhao Li", "Zhigang Liu", "Bingcong Jian", "Haitao Ye"] },
+        { id: "szu", institution: "Shenzhen University", shortName: "Shenzhen University", city: "Shenzhen", country: "China", region: "Greater China", metro: "Greater Bay Area", lat: 22.5334, lng: 113.9304, labelDx: -11, labelDy: -12, labelAnchor: "end", units: ["College of Mechatronics and Control Engineering", "National Key Laboratory of Green and Long-Life Road Engineering in Extreme Environment"], people: ["Shitong Fang", "Weihao Lin", "Haoxian Peng", "Haobin Lin", "Aipeng Ye", "Zhihui Lai", "Yuelong Yu", "Degui Yu", "Shuxiang Dong", "Jiabao Zou", "Kui Wu", "Yi Guan", "Jinkang Liu", "Yufeng Guo", "Xukun Su"] },
+        { id: "xidian-gz", institution: "Xidian University · Guangzhou Institute of Technology", shortName: "Xidian · Guangzhou", city: "Guangzhou", country: "China", region: "Greater China", metro: "Greater Bay Area", lat: 23.30859, lng: 113.56716, labelDx: 11, labelDy: -12, units: ["School of Mechano-Electronic Engineering", "Guangzhou Institute of Technology"], people: ["Mingjing Cai", "Miao Chen", "Liangdong Wei", "Xin Li"] },
         { id: "ustc", institution: "University of Science and Technology of China", city: "Hefei", country: "China", region: "Greater China", lat: 31.8206, lng: 117.2805, units: ["School of Mathematical Sciences", "School of Data Science", "CAS Key Laboratory of Mechanical Behavior and Design of Materials"], people: ["Xiaoya Zhai", "Xiaohao Sun", "Tielin Dai", "Chen Shang", "Xiao-Ming Fu", "Ligang Liu", "Falai Chen"] },
         { id: "zju", institution: "Zhejiang University", city: "Hangzhou", country: "China", region: "Greater China", lat: 30.2637, lng: 120.1201, units: ["School of Mechanical Engineering", "School of Aeronautics and Astronautics", "Department of Polymer Science and Engineering", "College of Chemical and Biological Engineering"], people: ["Kang Wang", "Xinyu Lu", "Tong Liu", "Jinjie Fang", "Xin Li", "Siqian Wu", "Shuyou Zhang", "Jianrong Tan", "Yingbo Yan", "Jun Chen"] },
         { id: "zju-quzhou", institution: "Institute of Zhejiang University–Quzhou", city: "Quzhou", country: "China", region: "Greater China", lat: 28.9701, lng: 118.8595, units: ["Institute of Zhejiang University–Quzhou"], people: ["Jun Chen"] },
         { id: "seu", institution: "Southeast University", city: "Nanjing", country: "China", region: "Greater China", lat: 32.0571, lng: 118.7862, units: ["School of Mechanical Engineering"], people: ["Qiang Gao"] },
         { id: "shu", institution: "Shanghai University", city: "Shanghai", country: "China", region: "Greater China", lat: 31.3202, lng: 121.3913, units: ["School of Mechatronic Engineering and Automation", "Institute of Artificial Intelligence, School of Future Technology"], people: ["Qingyang Xu", "Jiacheng Hou", "Biao Wang"] },
         { id: "scu", institution: "Sichuan University", city: "Chengdu", country: "China", region: "Greater China", lat: 30.6419, lng: 104.0648, units: ["West China Medicine School", "Research Center of Anesthesiology, West China Hospital", "West China Biomedical Big Data Center", "Department of Medical Ultrasound, West China Hospital", "Sichuan University–Pittsburgh Institute"], people: ["Biao Wang", "Yiwen Zhang", "Xian Zou", "Haoyue Deng", "Wenwu Ling", "Yan Wu", "Yuchen Lou", "Lu-An Chen", "Qi Lu"] },
-        { id: "smu-sz", institution: "Southern Medical University · Shenzhen Maternity and Child Healthcare Hospital", city: "Shenzhen", country: "China", region: "Greater China", lat: 22.5464, lng: 114.0579, units: ["Women and Children’s Medical Center"], people: ["Yali Liu"] },
+        { id: "smu-sz", institution: "Southern Medical University · Shenzhen Maternity and Child Healthcare Hospital", shortName: "SMU · Fuqiang", city: "Shenzhen", country: "China", region: "Greater China", metro: "Greater Bay Area", lat: 22.52121, lng: 114.04362, labelDx: 11, labelDy: 15, units: ["Women and Children’s Medical Center"], people: ["Yali Liu"] },
         { id: "hit", institution: "Harbin Institute of Technology", city: "Harbin", country: "China", region: "Greater China", lat: 45.7486, lng: 126.6306, units: ["School of Civil Engineering"], people: ["Xin Li"] },
         { id: "bit-beijing", institution: "Beijing Institute of Technology", city: "Beijing", country: "China", region: "Greater China", lat: 39.9587, lng: 116.3108, units: ["State Key Laboratory of Autonomous Intelligent Unmanned Systems", "School of Automation"], people: ["Bao Zhao"] },
-        { id: "bit-zhuhai", institution: "Beijing Institute of Technology · Zhuhai", city: "Zhuhai", country: "China", region: "Greater China", lat: 22.3475, lng: 113.5203, units: ["Marine Science and Technology Domain"], people: ["Bao Zhao"] },
+        { id: "bit-zhuhai", institution: "Beijing Institute of Technology · Zhuhai", shortName: "BIT · Zhuhai", city: "Zhuhai", country: "China", region: "Greater China", metro: "Greater Bay Area", lat: 22.3475, lng: 113.5203, labelDx: 11, labelDy: -12, units: ["Marine Science and Technology Domain"], people: ["Bao Zhao"] },
         { id: "westlake", institution: "Westlake University", city: "Hangzhou", country: "China", region: "Greater China", lat: 30.3044, lng: 120.0715, units: ["School of Engineering", "Key Laboratory of Coastal Environment and Resources of Zhejiang Province"], people: ["Weicheng Cui"] },
         { id: "hithink", institution: "Hithink Royal Flush Information Network", city: "Hangzhou", country: "China", region: "Greater China", lat: 30.2084, lng: 120.2118, units: ["Research and development"], people: ["Yundong Gai"] },
         { id: "dlut", institution: "Dalian University of Technology", city: "Dalian", country: "China", region: "Greater China", lat: 38.8844, lng: 121.5263, units: ["State Key Laboratory of Structural Analysis for Industrial Equipment", "School of Automotive Engineering"], people: ["Yundong Gai", "Ping Hu"] },
-        { id: "nami", institution: "Nano and Advanced Materials Institute", city: "Hong Kong", country: "China", region: "Greater China", lat: 22.4252, lng: 114.2112, units: ["Hong Kong Science Park"], people: ["Kang Zhang", "Meishan Chan", "Zhenhong Li", "Jifan Li"] },
+        { id: "nami", institution: "Nano and Advanced Materials Institute", shortName: "NAMI · Science Park", city: "Hong Kong", country: "China", region: "Greater China", metro: "Greater Bay Area", lat: 22.4252, lng: 114.2112, labelDx: 11, labelDy: 15, units: ["Hong Kong Science Park"], people: ["Kang Zhang", "Meishan Chan", "Zhenhong Li", "Jifan Li"] },
         { id: "njust", institution: "Nanjing University of Science and Technology", city: "Nanjing", country: "China", region: "Greater China", lat: 32.0335, lng: 118.8548, units: ["School of Mechanical Engineering"], people: ["Jiangfan Zhang"] },
         { id: "zstu", institution: "Zhejiang Sci-Tech University", city: "Hangzhou", country: "China", region: "Greater China", lat: 30.3159, lng: 120.3517, units: ["School of Mechanical Engineering"], people: ["Bo Yan"] },
         { id: "npu", institution: "Northwestern Polytechnical University", city: "Xi’an", country: "China", region: "Greater China", lat: 34.2469, lng: 108.9128, units: ["School of Aeronautics", "Xi’an Institute of Flexible Electronics"], people: ["Shengxi Zhou", "Biao Zhang"] },
@@ -1368,13 +1636,13 @@
         { id: "tianmushan", institution: "Tianmushan Laboratory", city: "Hangzhou", country: "China", region: "Greater China", lat: 30.2818, lng: 120.1119, units: ["Advanced materials research"], people: ["Changyue Liu", "Zhijian Wang"] },
         { id: "hpu", institution: "Henan Polytechnic University", city: "Jiaozuo", country: "China", region: "Greater China", lat: 35.1905, lng: 113.2421, units: ["School of Computer Science and Technology", "School of Mechanical and Power Engineering"], people: ["Wenpeng Xu", "Dongxia Wang", "Jinglong Zhang", "Jiahe Hu", "Mengyu Zhang", "Menglin Yu", "Ning Zhang"] },
         { id: "sdu-qingdao", institution: "Shandong University · Qingdao", city: "Qingdao", country: "China", region: "Greater China", lat: 36.3642, lng: 120.6926, units: ["School of Computer Science and Technology"], people: ["Hao Xu", "Haisen Zhao"] },
-        { id: "cityu", institution: "City University of Hong Kong", city: "Hong Kong", country: "China", region: "Greater China", lat: 22.3376, lng: 114.1721, units: ["Department of Mechanical Engineering"], people: ["Haitao Ye", "Juzheng Chen"] },
-        { id: "polyu", institution: "The Hong Kong Polytechnic University", city: "Hong Kong", country: "China", region: "Greater China", lat: 22.3040, lng: 114.1797, units: ["School of Nursing"], people: ["Kang Wang"] },
+        { id: "cityu", institution: "City University of Hong Kong", shortName: "CityU Hong Kong", city: "Hong Kong", country: "China", region: "Greater China", metro: "Greater Bay Area", lat: 22.3376, lng: 114.1721, labelDx: 11, labelDy: -12, units: ["Department of Mechanical Engineering"], people: ["Haitao Ye", "Juzheng Chen"] },
+        { id: "polyu", institution: "The Hong Kong Polytechnic University", shortName: "PolyU", city: "Hong Kong", country: "China", region: "Greater China", metro: "Greater Bay Area", lat: 22.3040, lng: 114.1797, labelDx: 11, labelDy: 15, units: ["School of Nursing"], people: ["Kang Wang"] },
         { id: "tongji", institution: "Tongji University", city: "Shanghai", country: "China", region: "Greater China", lat: 31.2821, lng: 121.5061, units: ["School of Mechanical Engineering"], people: ["Bingcong Jian"] },
-        { id: "gbu", institution: "Great Bay University", city: "Dongguan", country: "China", region: "Greater China", lat: 22.9387, lng: 113.7460, units: ["School of Engineering"], people: ["Honggeng Li"] },
-        { id: "hku", institution: "The University of Hong Kong", city: "Hong Kong", country: "China", region: "Greater China", lat: 22.2830, lng: 114.1371, units: ["Department of Mechanical Engineering"], people: ["Chong Li", "Yiling Lian", "Lixi Huang", "Yang Lu"] },
-        { id: "hku-siri", institution: "HKU–Shenzhen Institute of Research and Innovation", city: "Shenzhen", country: "China", region: "Greater China", lat: 22.5409, lng: 114.0571, units: ["Materials Innovation Institute for Life Sciences and Energy"], people: ["Yang Lu"] },
-        { id: "hkust-gz", institution: "The Hong Kong University of Science and Technology (Guangzhou)", city: "Guangzhou", country: "China", region: "Greater China", lat: 22.8559, lng: 113.6695, units: ["Department of Mechanical and Aerospace Engineering"], people: ["Yi Cai", "Xiangyang Dong", "Huangyi Qu"] },
+        { id: "gbu", institution: "Great Bay University", shortName: "Great Bay University", city: "Dongguan", country: "China", region: "Greater China", metro: "Greater Bay Area", lat: 22.895912, lng: 113.850435, labelDx: 11, labelDy: -12, units: ["School of Engineering"], people: ["Honggeng Li"] },
+        { id: "hku", institution: "The University of Hong Kong", shortName: "HKU", city: "Hong Kong", country: "China", region: "Greater China", metro: "Greater Bay Area", lat: 22.2830, lng: 114.1371, labelDx: -11, labelDy: -12, labelAnchor: "end", units: ["Department of Mechanical Engineering"], people: ["Chong Li", "Yiling Lian", "Lixi Huang", "Yang Lu"] },
+        { id: "hku-siri", institution: "HKU–Shenzhen Institute of Research and Innovation", shortName: "HKU–SIRI", city: "Shenzhen", country: "China", region: "Greater China", metro: "Greater Bay Area", lat: 22.533728, lng: 113.939969, labelDx: -11, labelDy: 15, labelAnchor: "end", units: ["Materials Innovation Institute for Life Sciences and Energy"], people: ["Yang Lu"] },
+        { id: "hkust-gz", institution: "The Hong Kong University of Science and Technology (Guangzhou)", shortName: "HKUST(GZ)", city: "Guangzhou", country: "China", region: "Greater China", metro: "Greater Bay Area", lat: 22.887804, lng: 113.478320, labelDx: 11, labelDy: -12, units: ["Department of Mechanical and Aerospace Engineering"], people: ["Yi Cai", "Xiangyang Dong", "Huangyi Qu"] },
         { id: "nus", institution: "National University of Singapore", city: "Singapore", country: "Singapore", region: "Asia-Pacific", lat: 1.2966, lng: 103.7764, units: ["Department of Materials Science and Engineering"], people: ["Zhifei Jiang", "Kostya S. Novoselov"] },
         { id: "ntu-sg", institution: "Nanyang Technological University", city: "Singapore", country: "Singapore", region: "Asia-Pacific", lat: 1.3483, lng: 103.6831, units: ["Singapore Centre for 3D Printing", "School of Mechanical and Aerospace Engineering"], people: ["Mei Chen", "Kun Zhou"] },
         { id: "pknu", institution: "Pukyong National University", city: "Busan", country: "South Korea", region: "Asia-Pacific", lat: 35.1344, lng: 129.1050, units: ["Industry 4.0 Convergence Bionics Engineering", "Division of Smart Healthcare"], people: ["Masoud Shirzad", "Dageon Oh", "Seung Yun Nam"] },
@@ -1397,12 +1665,31 @@
         { id: "tufts", institution: "Tufts University", city: "Medford", country: "United States", region: "North America", lat: 42.4085, lng: -71.1183, units: ["Department of Mechanical Engineering"], people: ["Yijia Wu", "Markus P. Nemitz"] }
       ];
 
+      var cityLabels = [
+        { name: "Hong Kong", city: "Hong Kong", lat: 22.352, lng: 114.132 },
+        { name: "Shenzhen", city: "Shenzhen", lat: 22.625, lng: 114.018 },
+        { name: "Guangzhou", city: "Guangzhou", lat: 23.270, lng: 113.500 },
+        { name: "Dongguan", city: "Dongguan", lat: 22.955, lng: 113.865 },
+        { name: "Zhuhai", city: "Zhuhai", lat: 22.390, lng: 113.550 }
+      ];
+
       var SVG_NS = "http://www.w3.org/2000/svg";
       var embedMode = new URLSearchParams(window.location.search).get("embed") === "1";
-      if (embedMode) document.body.classList.add("is-embed");
+      if (embedMode) {
+        document.body.classList.add("is-embed");
+        window.scrollTo(0, 0);
+      }
       var worldSvg = document.getElementById("network-world");
+      var cityRoot = document.getElementById("network-city-labels-svg");
       var lineRoot = document.getElementById("network-lines-svg");
       var markerRoot = document.getElementById("network-markers-svg");
+      var zoomReadout = document.getElementById("network-zoom-level");
+      var mapSource = document.getElementById("network-map-source");
+      var leafletMap = null;
+      var leafletMarkerLayer = null;
+      var leafletLineLayer = null;
+      var leafletMarkers = {};
+      var leafletLines = [];
       var activeId = null;
       var activeRegion = "All";
       var query = "";
@@ -1456,6 +1743,149 @@
         return node;
       }
 
+      function escapeHtml(value) {
+        return String(value || "")
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;")
+          .replace(/"/g, "&quot;")
+          .replace(/'/g, "&#039;");
+      }
+
+      function markerHtml(item) {
+        var labelClass = "collaborator-marker__label";
+        if (item.labelAnchor === "end") labelClass += " is-left";
+        if ((item.labelDy || -12) > 0) labelClass += " is-below";
+        return '<span class="collaborator-marker' + (item.home ? ' is-home' : '') + '" data-leaflet-marker-id="' + escapeHtml(item.id) + '" style="--marker-color:' + colorFor(item) + '">' +
+          '<span class="collaborator-marker__halo"></span>' +
+          '<span class="collaborator-marker__core"></span>' +
+          (item.shortName ? '<span class="' + labelClass + '">' + escapeHtml(item.shortName) + '</span>' : '') +
+          '</span>';
+      }
+
+      function updateLeafletPresentation() {
+        if (!leafletMap) return;
+        var zoom = leafletMap.getZoom();
+        var showLabels = zoom >= 12;
+        leafletMap.getContainer().classList.toggle("show-school-labels", showLabels);
+        leafletLines.forEach(function (line) {
+          line.setStyle({ opacity: linesVisible && zoom < 8 ? 0.38 : 0 });
+        });
+        zoomReadout.textContent = "Z" + zoom;
+      }
+
+      function renderLeafletMap(items) {
+        leafletMarkerLayer.clearLayers();
+        leafletLineLayer.clearLayers();
+        leafletMarkers = {};
+        leafletLines = [];
+
+        items.forEach(function (item) {
+          if (item.home) return;
+          var targetLng = item.lng;
+          if (targetLng - home.lng > 180) targetLng -= 360;
+          if (targetLng - home.lng < -180) targetLng += 360;
+          var line = L.polyline([[home.lat, home.lng], [item.lat, targetLng]], {
+            pane: "collaborationLines",
+            color: colorFor(item),
+            weight: 1.15,
+            opacity: linesVisible ? 0.38 : 0,
+            dashArray: "2 7",
+            interactive: false
+          }).addTo(leafletLineLayer);
+          leafletLines.push(line);
+        });
+
+        items.forEach(function (item) {
+          var icon = L.divIcon({
+            className: "collaborator-marker-wrap",
+            html: markerHtml(item),
+            iconSize: [34, 34],
+            iconAnchor: [17, 17],
+            tooltipAnchor: [0, -17]
+          });
+          var marker = L.marker([item.lat, item.lng], {
+            icon: icon,
+            keyboard: true,
+            riseOnHover: true,
+            title: item.institution,
+            alt: item.institution
+          }).addTo(leafletMarkerLayer);
+          marker.bindTooltip(item.institution + " — " + item.city, {
+            className: "institution-tooltip",
+            direction: "top",
+            opacity: 1
+          });
+          marker.on("click", function () { selectInstitution(item.id, false); });
+          leafletMarkers[item.id] = marker;
+        });
+
+        updateLeafletPresentation();
+        if (activeId) setActiveMarker(activeId);
+      }
+
+      function initializeLeafletMap() {
+        if (!window.L) {
+          mapSource.textContent = "Offline vector fallback";
+          return false;
+        }
+
+        var baseUrl = "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}";
+        var attribution = 'Map tiles &copy; <a href="https://www.esri.com/">Esri</a>, HERE, Garmin; data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors';
+
+        leafletMap = L.map("leaflet-map", {
+          attributionControl: false,
+          center: [20, 10],
+          zoom: 2,
+          minZoom: 2,
+          maxZoom: 20,
+          scrollWheelZoom: true,
+          wheelDebounceTime: 24,
+          wheelPxPerZoomLevel: 72,
+          worldCopyJump: true,
+          zoomControl: false
+        });
+        leafletMap.createPane("collaborationLines");
+        leafletMap.getPane("collaborationLines").style.zIndex = "420";
+
+        L.tileLayer(baseUrl, {
+          attribution: attribution,
+          maxZoom: 20,
+          maxNativeZoom: 20,
+          noWrap: false,
+          keepBuffer: 3
+        }).addTo(leafletMap);
+        leafletLineLayer = L.layerGroup().addTo(leafletMap);
+        leafletMarkerLayer = L.layerGroup().addTo(leafletMap);
+        L.control.zoom({ position: "topleft" }).addTo(leafletMap);
+        L.control.attribution({ position: "bottomleft", prefix: false }).addTo(leafletMap);
+
+        leafletMap.on("zoomend", updateLeafletPresentation);
+        leafletMap.on("moveend", updateLeafletPresentation);
+        document.getElementById("collaborator-map").classList.add("has-live-map");
+        stage.classList.add("has-live-map");
+        mapSource.textContent = "Esri World Street Map";
+        return true;
+      }
+
+      function updateMapPresentation(width) {
+        var currentWidth = width || worldSvg.viewBox.baseVal.width || 1000;
+        var matrix = worldSvg.getScreenCTM();
+        var screenScale = matrix ? Math.max(0.001, Math.hypot(matrix.a, matrix.b)) : 1;
+        var glyphScale = 1 / screenScale;
+        worldSvg.classList.toggle("is-city-zoom", currentWidth <= 18);
+        worldSvg.classList.toggle("is-institution-zoom", currentWidth <= 3.4);
+        document.querySelectorAll(".network-node__glyph, .network-city-label__glyph").forEach(function (node) {
+          node.setAttribute("transform", "scale(" + glyphScale.toFixed(6) + ")");
+        });
+        zoomReadout.textContent = Math.max(1, Math.round(1000 / currentWidth)) + "×";
+      }
+
+      function setMapView(x, y, width, height) {
+        worldSvg.setAttribute("viewBox", [x, y, width, height].map(function (value) { return value.toFixed(5); }).join(" "));
+        updateMapPresentation(width);
+      }
+
       function arcPath(origin, target) {
         var start = project(origin);
         var end = project(target);
@@ -1468,8 +1898,29 @@
       }
 
       function renderMap(items) {
+        if (leafletMap) {
+          renderLeafletMap(items);
+          return;
+        }
+        cityRoot.innerHTML = "";
         lineRoot.innerHTML = "";
         markerRoot.innerHTML = "";
+
+        var visibleCities = unique(items.filter(function (item) { return item.metro === "Greater Bay Area"; }).map(function (item) { return item.city; }));
+        cityLabels.forEach(function (city) {
+          if (visibleCities.indexOf(city.city) === -1) return;
+          var point = project(city);
+          var group = svgElement("g", {
+            "class": "network-city-label",
+            transform: "translate(" + point.x.toFixed(5) + " " + point.y.toFixed(5) + ")"
+          });
+          var glyph = svgElement("g", { "class": "network-city-label__glyph" });
+          var text = svgElement("text", { "class": "network-city-label__text", x: "0", y: "0" });
+          text.textContent = city.name;
+          glyph.appendChild(text);
+          group.appendChild(glyph);
+          cityRoot.appendChild(group);
+        });
 
         items.forEach(function (item) {
           if (!item.home) {
@@ -1493,14 +1944,36 @@
             "aria-label": item.institution,
             style: "--marker-color:" + colorFor(item)
           });
-          group.appendChild(svgElement("circle", {
+          var glyph = svgElement("g", { "class": "network-node__glyph" });
+          glyph.appendChild(svgElement("circle", {
             "class": "network-node__halo",
             r: item.home ? "11" : "7.5"
           }));
-          group.appendChild(svgElement("circle", {
+          glyph.appendChild(svgElement("circle", {
             "class": "network-node__core",
             r: item.home ? "5.4" : "4"
           }));
+          if (item.shortName) {
+            var dx = item.labelDx || 11;
+            var dy = item.labelDy || -12;
+            glyph.appendChild(svgElement("line", {
+              "class": "network-node__leader",
+              x1: "0",
+              y1: "0",
+              x2: (dx * 0.78).toFixed(2),
+              y2: (dy * 0.78).toFixed(2)
+            }));
+            var label = svgElement("text", {
+              "class": "network-node__label",
+              x: dx,
+              y: dy,
+              "text-anchor": item.labelAnchor || "start",
+              "dominant-baseline": "middle"
+            });
+            label.textContent = item.shortName;
+            glyph.appendChild(label);
+          }
+          group.appendChild(glyph);
           var title = svgElement("title");
           title.textContent = item.institution + " — " + item.city + ", " + item.country;
           group.appendChild(title);
@@ -1513,6 +1986,7 @@
           });
           markerRoot.appendChild(group);
         });
+        updateMapPresentation(worldSvg.viewBox.baseVal.width);
       }
 
       function renderList(items) {
@@ -1554,15 +2028,29 @@
         document.querySelectorAll(".network-node").forEach(function (node) {
           node.classList.toggle("is-active", node.dataset.markerId === id);
         });
+        Object.keys(leafletMarkers).forEach(function (markerId) {
+          var element = leafletMarkers[markerId].getElement();
+          if (!element) return;
+          var glyph = element.querySelector(".collaborator-marker");
+          if (glyph) glyph.classList.toggle("is-active", markerId === id);
+        });
       }
 
       function focusInstitution(item) {
+        if (leafletMap) {
+          var targetZoom = item.metro === "Greater Bay Area" ? (window.matchMedia("(max-width: 900px)").matches ? 14 : 15) : 7;
+          leafletMap.flyTo([item.lat, item.lng], targetZoom, {
+            animate: !window.matchMedia("(prefers-reduced-motion: reduce)").matches,
+            duration: 0.75
+          });
+          return;
+        }
         var point = project(item);
-        var width = window.matchMedia("(max-width: 900px)").matches ? 430 : 340;
+        var width = item.metro === "Greater Bay Area" ? (window.matchMedia("(max-width: 900px)").matches ? 4 : 2.8) : (window.matchMedia("(max-width: 900px)").matches ? 430 : 340);
         var height = width * 0.52;
         var x = Math.max(0, Math.min(1000 - width, point.x - width / 2));
         var y = Math.max(0, Math.min(520 - height, point.y - height / 2));
-        worldSvg.setAttribute("viewBox", [x, y, width, height].map(function (value) { return value.toFixed(2); }).join(" "));
+        setMapView(x, y, width, height);
       }
 
       function selectInstitution(id, moveMap) {
@@ -1586,14 +2074,24 @@
       function closeDetail() {
         activeId = null;
         detail.classList.remove("is-visible");
-        document.querySelectorAll(".network-item, .network-node").forEach(function (node) { node.classList.remove("is-active"); });
+        document.querySelectorAll(".network-item, .network-node, .collaborator-marker").forEach(function (node) { node.classList.remove("is-active"); });
       }
 
       function fitNetwork() {
         var items = institutions.filter(matches);
         if (!items.length) return;
+        if (leafletMap) {
+          var bounds = L.latLngBounds(items.map(function (item) { return [item.lat, item.lng]; }));
+          var maxZoom = items.length === 1 ? 15 : (items.length === institutions.length ? 3 : 6);
+          leafletMap.fitBounds(bounds, {
+            padding: window.matchMedia("(max-width: 900px)").matches ? [28, 28] : [54, 54],
+            maxZoom: maxZoom,
+            animate: false
+          });
+          return;
+        }
         if (items.length === institutions.length) {
-          worldSvg.setAttribute("viewBox", "0 0 1000 520");
+          setMapView(0, 0, 1000, 520);
           return;
         }
         var points = items.map(project);
@@ -1610,7 +2108,30 @@
         height = Math.min(520, height);
         var x = Math.max(0, Math.min(1000 - width, (minX + maxX - width) / 2));
         var y = Math.max(0, Math.min(520 - height, (minY + maxY - height) / 2));
-        worldSvg.setAttribute("viewBox", [x, y, width, height].map(function (value) { return value.toFixed(2); }).join(" "));
+        setMapView(x, y, width, height);
+      }
+
+      function focusGreaterBayArea() {
+        var items = institutions.filter(function (item) { return item.metro === "Greater Bay Area"; });
+        if (leafletMap) {
+          leafletMap.fitBounds(L.latLngBounds(items.map(function (item) { return [item.lat, item.lng]; })), {
+            padding: window.matchMedia("(max-width: 900px)").matches ? [30, 30] : [70, 70],
+            maxZoom: 8,
+            animate: !window.matchMedia("(prefers-reduced-motion: reduce)").matches,
+            duration: 0.7
+          });
+          return;
+        }
+        var points = items.map(project);
+        var minX = Math.min.apply(null, points.map(function (point) { return point.x; }));
+        var maxX = Math.max.apply(null, points.map(function (point) { return point.x; }));
+        var minY = Math.min.apply(null, points.map(function (point) { return point.y; }));
+        var maxY = Math.max.apply(null, points.map(function (point) { return point.y; }));
+        var width = Math.max(8.2, maxX - minX + 3.2);
+        var height = width * 0.52;
+        var x = Math.max(0, Math.min(1000 - width, (minX + maxX - width) / 2));
+        var y = Math.max(0, Math.min(520 - height, (minY + maxY - height) / 2));
+        setMapView(x, y, width, height);
       }
 
       function zoomMapWithWheel(event) {
@@ -1623,8 +2144,8 @@
         if (event.deltaMode === 2) delta *= window.innerHeight;
         delta = Math.max(-160, Math.min(160, delta));
 
-        var targetWidth = Math.max(220, Math.min(1000, current.width * Math.exp(delta * 0.0018)));
-        if (Math.abs(targetWidth - current.width) < 0.1) return;
+        var targetWidth = Math.max(0.28, Math.min(1000, current.width * Math.exp(delta * 0.0045)));
+        if (Math.abs(targetWidth - current.width) < 0.00001) return;
         var targetHeight = targetWidth * 0.52;
 
         var point = worldSvg.createSVGPoint();
@@ -1639,7 +2160,7 @@
 
         x = Math.max(0, Math.min(1000 - targetWidth, x));
         y = Math.max(0, Math.min(520 - targetHeight, y));
-        worldSvg.setAttribute("viewBox", [x, y, targetWidth, targetHeight].map(function (value) { return value.toFixed(2); }).join(" "));
+        setMapView(x, y, targetWidth, targetHeight);
       }
 
       function beginMapDrag(event) {
@@ -1670,7 +2191,7 @@
         var y = dragState.startY - (event.clientY - dragState.startClientY) / dragState.scaleY;
         x = Math.max(0, Math.min(1000 - dragState.width, x));
         y = Math.max(0, Math.min(520 - dragState.height, y));
-        worldSvg.setAttribute("viewBox", [x, y, dragState.width, dragState.height].map(function (value) { return value.toFixed(2); }).join(" "));
+        setMapView(x, y, dragState.width, dragState.height);
       }
 
       function endMapDrag(event) {
@@ -1717,9 +2238,11 @@
         } else if (stage.parentNode !== shell) {
           shell.appendChild(stage);
         }
+        if (leafletMap) window.requestAnimationFrame(function () { leafletMap.invalidateSize(false); });
       }
 
       function initializeMap() {
+        initializeLeafletMap();
         render();
         fitNetwork();
       }
@@ -1731,6 +2254,7 @@
       });
 
       document.getElementById("fit-network").addEventListener("click", fitNetwork);
+      document.getElementById("focus-gba").addEventListener("click", focusGreaterBayArea);
       worldSvg.addEventListener("wheel", zoomMapWithWheel, { passive: false });
       worldSvg.addEventListener("pointerdown", beginMapDrag);
       worldSvg.addEventListener("pointermove", moveMapDrag);
@@ -1748,7 +2272,11 @@
       updateStats();
       placeResponsiveStage();
       initializeMap();
-      window.addEventListener("resize", placeResponsiveStage, { passive: true });
+      window.addEventListener("resize", function () {
+        placeResponsiveStage();
+        if (leafletMap) leafletMap.invalidateSize(false);
+        else updateMapPresentation(worldSvg.viewBox.baseVal.width);
+      }, { passive: true });
     }());
   </script>
 </body>

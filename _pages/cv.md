@@ -327,7 +327,7 @@ redirect_from:
     <a href="{{ base_path }}/collaborators-map.html" target="_blank" rel="noopener">Open full atlas →</a>
   </div>
   <div class="cv-network__intro">
-    <p>A geographic view of the institutions and researchers connected through my published work, spanning advanced manufacturing, mechanics, materials, and intelligent design.</p>
+    <p>An interactive street-level atlas of the institutions and researchers connected through my published work, spanning advanced manufacturing, mechanics, materials, and intelligent design.</p>
     <dl class="cv-network__stats" aria-label="Collaboration network statistics">
       <div><dt>148</dt><dd>Collaborators</dd></div>
       <div><dt>52</dt><dd>Locations</dd></div>
@@ -335,9 +335,9 @@ redirect_from:
     </dl>
   </div>
   <div class="cv-network__frame">
-    <iframe src="{{ '/collaborators-map.html?embed=1' | relative_url }}" title="Interactive global collaboration network" loading="lazy"></iframe>
+    <iframe src="{{ '/collaborators-map.html?embed=1' | relative_url }}" title="Interactive street map of Liuchao Jin's global collaboration network" loading="lazy"></iframe>
   </div>
-  <p class="cv-network__note">On desktop, use the mouse wheel to zoom, drag to explore, and select a marker to view its institution and collaborators.</p>
+  <p class="cv-network__note">Scroll or pinch to zoom from the global network to individual campuses, drag to explore, and select a marker to view its institution and collaborators.</p>
 </section>
 
 </div>
