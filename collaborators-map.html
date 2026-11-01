@@ -5,6 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="An interactive map of Liuchao Jin's research collaborators and their institutional affiliations.">
   <title>Research Network | Liuchao Jin</title>
+  <script>
+    if (new URLSearchParams(window.location.search).get("embed") === "1") {
+      document.documentElement.classList.add("is-embed-document");
+    }
+  </script>
   <style>
     :root {
       color-scheme: dark;
@@ -34,6 +39,11 @@
       margin: 0;
       background: #081a22;
     }
+
+    html.is-embed-document { color-scheme: light; }
+
+    html.is-embed-document,
+    html.is-embed-document body { background: #f7fafb; }
 
     body {
       color: var(--ink);
@@ -616,7 +626,15 @@
 
     body.is-embed {
       overflow: hidden;
-      background: #06171e;
+      color-scheme: light;
+      --ink: #2f4148;
+      --muted: #71868d;
+      --quiet: #91a3a9;
+      --line: rgba(72, 119, 132, 0.14);
+      --line-strong: rgba(72, 119, 132, 0.28);
+      --shadow: 0 20px 55px rgba(54, 83, 92, 0.16);
+      background: #f7fafb;
+      color: var(--ink);
     }
 
     body.is-embed .network-shell {
@@ -633,9 +651,72 @@
       min-height: 100vh;
       height: 100vh;
       border: 0;
+      background: #f7fafb;
     }
 
     body.is-embed .network-map-button:first-child { display: block; }
+
+    body.is-embed #collaborator-map {
+      background:
+        radial-gradient(circle at 64% 42%, rgba(84, 160, 180, 0.1), transparent 34rem),
+        #f7fafb;
+    }
+
+    body.is-embed .network-world { background: #f7fafb; }
+    body.is-embed .network-ocean { fill: #f7fafb; }
+
+    body.is-embed .network-graticule {
+      stroke: rgba(64, 111, 124, 0.1);
+    }
+
+    body.is-embed .natural-earth-land path {
+      fill: #e8f0f2;
+      stroke: #a9c1c8;
+    }
+
+    body.is-embed .natural-earth-borders path {
+      stroke: rgba(63, 108, 120, 0.3);
+    }
+
+    body.is-embed .network-region-labels text {
+      fill: rgba(48, 101, 117, 0.34);
+    }
+
+    body.is-embed .network-arc-svg { opacity: 0.34; }
+    body.is-embed .network-node__halo { opacity: 0.42; }
+
+    body.is-embed .network-node__core {
+      stroke: #fff;
+      stroke-width: 2.2;
+    }
+
+    body.is-embed .network-map-label,
+    body.is-embed .network-map-button {
+      border-color: rgba(72, 119, 132, 0.25);
+      background: rgba(255, 255, 255, 0.86);
+      color: #566c74;
+      box-shadow: 0 8px 28px rgba(54, 83, 92, 0.07);
+    }
+
+    body.is-embed .network-map-button:hover,
+    body.is-embed .network-map-button:focus-visible,
+    body.is-embed .network-map-button[aria-pressed="true"] {
+      border-color: #55aec7;
+      color: #247d98;
+    }
+
+    body.is-embed .network-detail {
+      border-color: rgba(72, 119, 132, 0.25);
+      background: rgba(255, 255, 255, 0.96);
+      color: #2f4148;
+      box-shadow: 0 22px 60px rgba(54, 83, 92, 0.18);
+    }
+
+    body.is-embed .network-detail__section p { color: #4d6269; }
+    body.is-embed .network-detail__close { color: #71868d; }
+
+    body.is-embed .network-map-credit { color: rgba(70, 104, 114, 0.54); }
+    body.is-embed .network-map-hint { color: rgba(40, 139, 166, 0.72); }
 
     .map-fallback {
       position: absolute;

@@ -270,8 +270,8 @@
   overflow: hidden;
   border: 1px solid mix(#fff, $link-color, 68%);
   border-radius: 0.75rem;
-  background: #06171e;
-  box-shadow: 0 1rem 2.8rem rgba(#12313b, 0.12);
+  background: mix(#fff, $link-color, 96%);
+  box-shadow: 0 1rem 2.8rem rgba(#4f747f, 0.1);
 
   &::before {
     position: absolute;
