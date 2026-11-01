@@ -31,6 +31,31 @@ redirect_from:
     </div>
   </section>
 
+  <section class="home-section home-section--journey" aria-labelledby="journey-title">
+    <div class="home-section__intro">
+      <div>
+        <p class="home-eyebrow">ACADEMIC JOURNEY</p>
+        <h2 id="journey-title">Training and appointment</h2>
+      </div>
+      <p>A foundation in mechanical engineering, developed through research in intelligent manufacturing and mechanics.</p>
+    </div>
+
+    <ol class="home-journey">
+      <li class="home-journey__item home-journey__item--current">
+        <div class="home-journey__date"><span>2026—Present</span><small>Hong Kong</small></div>
+        <div class="home-journey__content"><span class="home-current-label">Current</span><h3>Postdoctoral Fellow</h3><p>The Chinese University of Hong Kong</p></div>
+      </li>
+      <li class="home-journey__item">
+        <div class="home-journey__date"><span>2022—2026</span><small>Hong Kong</small></div>
+        <div class="home-journey__content"><h3>PhD in Mechanical &amp; Automation Engineering</h3><p>The Chinese University of Hong Kong · Hong Kong PhD Fellowship Scheme</p></div>
+      </li>
+      <li class="home-journey__item">
+        <div class="home-journey__date"><span>2018—2022</span><small>Chengdu</small></div>
+        <div class="home-journey__content"><h3>BEng in Mechanical Engineering</h3><p>Sichuan University - Pittsburgh Institute</p></div>
+      </li>
+    </ol>
+  </section>
+
   <section class="home-section home-section--themes" aria-labelledby="themes-title">
     <div class="home-section__intro">
       <div>
@@ -110,40 +135,4 @@ redirect_from:
     </div>
   </section>
 
-  <section class="home-section home-section--journey" aria-labelledby="journey-title">
-    <div class="home-section__intro">
-      <div>
-        <p class="home-eyebrow">ACADEMIC JOURNEY</p>
-        <h2 id="journey-title">Training and appointment</h2>
-      </div>
-      <p>A foundation in mechanical engineering, developed through research in intelligent manufacturing and mechanics.</p>
-    </div>
-
-    <ol class="home-journey">
-      <li class="home-journey__item home-journey__item--current">
-        <div class="home-journey__date"><span>2026—Present</span><small>Hong Kong</small></div>
-        <div class="home-journey__content"><span class="home-current-label">Current</span><h3>Postdoctoral Fellow</h3><p>The Chinese University of Hong Kong</p></div>
-      </li>
-      <li class="home-journey__item">
-        <div class="home-journey__date"><span>2022—2026</span><small>Hong Kong</small></div>
-        <div class="home-journey__content"><h3>PhD in Mechanical &amp; Automation Engineering</h3><p>The Chinese University of Hong Kong · Hong Kong PhD Fellowship Scheme</p></div>
-      </li>
-      <li class="home-journey__item">
-        <div class="home-journey__date"><span>2018—2022</span><small>Chengdu</small></div>
-        <div class="home-journey__content"><h3>BEng in Mechanical Engineering</h3><p>Sichuan University - Pittsburgh Institute</p></div>
-      </li>
-    </ol>
-  </section>
-
-  <section class="home-closing" aria-labelledby="closing-title">
-    <div>
-      <p class="home-eyebrow">EXPLORE THE WORK</p>
-      <h2 id="closing-title">Research, publications, and academic service</h2>
-      <p>Browse the complete publication record or visit my ORCID profile for a broader view of my academic output.</p>
-    </div>
-    <div class="home-closing__actions">
-      <a class="home-button home-button--light" href="{{ base_path }}/my_publication/">All publications</a>
-      <a class="home-button home-button--outline-light" href="https://orcid.org/0000-0001-6204-1922" target="_blank" rel="noopener">ORCID <span aria-hidden="true">↗</span></a>
-    </div>
-  </section>
 </div>
