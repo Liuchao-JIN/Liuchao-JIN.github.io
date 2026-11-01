@@ -55,27 +55,7 @@
     var paragraph = document.createElement("p");
     paragraph.className = "publication-authors";
     appendNodes(paragraph, authorNodes);
-
-    var authorText = normalizeText(paragraph.textContent);
-    var authorCount = authorText ? authorText.split(",").length : 0;
-
-    if (authorText.length <= 285 && authorCount <= 11) {
-      return paragraph;
-    }
-
-    var firstAuthor = normalizeText(authorText.split(",")[0]);
-    var details = document.createElement("details");
-    var summary = document.createElement("summary");
-    var fullList = document.createElement("p");
-
-    details.className = "publication-authors publication-authors--long";
-    summary.textContent = firstAuthor + ", …, Liuchao Jin, … · Show all " + authorCount + " authors";
-    appendNodes(fullList, authorNodes.map(function (node) {
-      return node.cloneNode(true);
-    }));
-    details.appendChild(summary);
-    details.appendChild(fullList);
-    return details;
+    return paragraph;
   }
 
   function createAction(link, title, toast) {
