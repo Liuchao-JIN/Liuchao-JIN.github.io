@@ -252,6 +252,12 @@
     margin-right: auto !important;
     margin-left: auto !important;
   }
+
+  // The widget can leave its fade-in hidden when loaded with the theme's jQuery.
+  // Show the initialized globe only after the provider resolves a project URL.
+  a[href*="/web/"] .mmvst_inner {
+    display: block;
+  }
 }
 
 /*
