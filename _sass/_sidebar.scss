@@ -236,6 +236,24 @@
   }
 }
 
+.author__urls .author__visitor-map {
+  width: 180px;
+  max-width: 100%;
+  margin: 1rem auto 0;
+  white-space: normal;
+}
+
+#mapmyvisitors-widget {
+  width: 100%;
+  overflow: hidden;
+
+  .mmvst_outer {
+    max-width: 100%;
+    margin-right: auto !important;
+    margin-left: auto !important;
+  }
+}
+
 /*
    Edge-reveal profile drawer
    ========================================================================== */
