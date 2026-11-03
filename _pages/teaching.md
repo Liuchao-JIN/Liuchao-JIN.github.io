@@ -15,7 +15,7 @@ hide_title: true
       <p class="teaching-hero__lead">My teaching experience connects analytical foundations with computation, control, and mechanical design—helping students turn engineering principles into systems they can understand, test, and build.</p>
       <div class="teaching-hero__actions">
         <a class="teaching-button teaching-button--primary" href="#course-record">Explore course record <span aria-hidden="true">↓</span></a>
-        <a class="teaching-button" href="{{ '/publications/' | relative_url }}">View research</a>
+        <a class="teaching-button" href="{{ '/my_publication/' | relative_url }}">View research</a>
       </div>
     </div>
 
@@ -227,7 +227,7 @@ hide_title: true
       <p>My research in intelligent manufacturing, architected materials, and computational design informs how I approach engineering education.</p>
     </div>
     <div class="teaching-closing__actions">
-      <a class="teaching-button teaching-button--light" href="{{ '/publications/' | relative_url }}">Explore publications</a>
+      <a class="teaching-button teaching-button--light" href="{{ '/my_publication/' | relative_url }}">Explore publications</a>
       <a class="teaching-button teaching-button--outline-light" href="{{ '/cv/' | relative_url }}">View curriculum vitae</a>
     </div>
   </section>

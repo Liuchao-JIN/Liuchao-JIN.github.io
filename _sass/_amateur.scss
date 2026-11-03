@@ -601,11 +601,14 @@
 
   .amateur-work-grid,
   .amateur-work-card {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
 
   .amateur-work-card__media {
-    min-height: 13rem;
+    // Let the card width determine the image height at narrow viewport sizes.
+    min-width: 0;
+    min-height: 0;
+    width: 100%;
     aspect-ratio: 16 / 9;
   }
 
