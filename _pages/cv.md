@@ -240,16 +240,19 @@ redirect_from:
     <div><strong>{{ site.data.peer_reviews.total_journals }}</strong><span>Journals</span></div>
     <div><strong>{{ site.data.peer_reviews.year_range }}</strong><span>Activity period</span></div>
   </div>
-  <h3 class="cv-subheading">Most frequent reviewing venues</h3>
+  {% assign ranked_journals = site.data.peer_reviews.journals | where_exp: "journal", "journal.impact_factor != nil" | sort: "impact_factor" | reverse %}
+  {% assign unranked_journals = site.data.peer_reviews.journals | where_exp: "journal", "journal.impact_factor == nil" | sort: "title" %}
+  {% assign reviewing_journals = ranked_journals | concat: unranked_journals %}
+  <h3 class="cv-subheading">Peer-reviewed journals</h3>
   <ul class="cv-review-highlights">
-    {% for journal in site.data.peer_reviews.journals limit: 8 %}
+    {% for journal in reviewing_journals limit: 8 %}
     <li><span>{{ journal.title }}</span><strong>{{ journal.count }}</strong></li>
     {% endfor %}
   </ul>
   <details class="cv-more cv-more--journals">
     <summary>View all {{ site.data.peer_reviews.total_journals }} journals and review counts</summary>
     <ul class="cv-journal-list">
-      {% for journal in site.data.peer_reviews.journals %}
+      {% for journal in reviewing_journals %}
       <li><span>{{ journal.title }}</span><strong>{{ journal.count }}</strong></li>
       {% endfor %}
     </ul>

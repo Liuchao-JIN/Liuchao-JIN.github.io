@@ -4,82 +4,165 @@ last_updated: "2026-10-31"
 total_reviews: 209
 total_journals: 39
 year_range: "2024-2026"
+# Impact factors are build-time sorting metadata only; do not render them in the CV.
+# Use the 2025 JIF (2026 release), including verified October corrections.
+# Null means no verified JIF was found; these journals follow the ranked list.
+impact_factor_year: 2025
+impact_factors_checked: "2026-11-03"
 journals:
   - title: "International Journal on Interactive Design and Manufacturing"
     count: 31
+    impact_factor: 2.8
+    impact_factor_source: "https://link.springer.com/journal/12008"
   - title: "Materials & Design"
     count: 28
+    impact_factor: 8.2
+    impact_factor_source: "https://www.bioxbio.com/journal/MATER-DESIGN"
   - title: "Results in Engineering"
     count: 21
+    impact_factor: 9.4
+    impact_factor_source: "https://www.iit.comillas.edu/publicacion/info_revista/en/675/Results_in_Engineering"
   - title: "Engineering Applications of Artificial Intelligence"
     count: 14
+    impact_factor: 9.0
+    impact_factor_source: "https://www.iit.comillas.edu/publicacion/info_revista/es/240/engineering-applications-of-artificial-intelligence"
   - title: "Additive Manufacturing"
     count: 13
+    impact_factor: 11.3
+    impact_factor_source: "https://ooir.org/journals.php?category=Engineering%2C+Manufacturing&field=Materials+Science&metric=jif"
   - title: "Journal of Manufacturing Systems"
     count: 13
+    impact_factor: 14.9
+    impact_factor_source: "https://www.sciencedirect.com/browse/calls-for-papers?dgcid=STMJ_1687166064_STMJIN_OTR"
   - title: "Journal of Manufacturing Processes"
     count: 8
+    impact_factor: 7.8
+    impact_factor_source: "https://www.sciencedirect.com/browse/calls-for-papers?dgcid=STMJ_1687166064_STMJIN_OTR"
   - title: "Thin-Walled Structures"
     count: 7
+    impact_factor: 8.3
+    impact_factor_source: "https://www.bioxbio.com/journal/THIN-WALL-STRUCT"
   - title: "4D Printing"
     count: 5
+    impact_factor: null
+    impact_factor_source: "https://www.emeraldgrouppublishing.com/journal/4dp"
   - title: "Applied Materials Today"
     count: 5
+    impact_factor: 7.0
+    impact_factor_source: "https://ooir.org/j.php?j=2352-9407"
   - title: "International Journal of Precision Engineering and Manufacturing-Green Technology"
     count: 4
+    impact_factor: 6.6
+    impact_factor_source: "https://link.springer.com/journal/40684"
   - title: "Materials Today Communications"
     count: 4
+    impact_factor: 4.9
+    impact_factor_source: "https://www.linkedin.com/posts/danielstaemmler_materialsscience-openaccess-goldopenaccess-activity-7475790888158515200-PXky"
   - title: "Precision Engineering"
     count: 4
+    impact_factor: 4.5
+    impact_factor_source: "https://www.bioxbio.com/journal/PRECIS-ENG"
   - title: "Smart Materials & Methods"
     count: 4
+    impact_factor: null
+    impact_factor_source: "https://www.tandfonline.com/journals/tsmm20"
   - title: "Advanced Materials Technologies"
     count: 3
+    impact_factor: 6.0
+    impact_factor_source: "https://advanced.onlinelibrary.wiley.com/journal/2365709x"
   - title: "Composites Part B: Engineering"
     count: 3
+    impact_factor: 14.0
+    impact_factor_source: "https://www.bioxbio.com/journal/COMPOS-PART-B-ENG"
   - title: "Heliyon"
     count: 3
+    impact_factor: 4.3
+    impact_factor_source: "https://journalcitationreports.zendesk.com/hc/en-gb/articles/47808147130129-2026"
   - title: "Next Materials"
     count: 3
+    impact_factor: 4.7
+    impact_factor_source: "https://www.linkedin.com/posts/dr-rajkumar-srinivasan-mrsc-52ba55187_elsevier-nextmaterials-scientificeditor-activity-7474873887407763457-i-Pv"
   - title: "Progress in Additive Manufacturing"
     count: 3
+    impact_factor: 5.2
+    impact_factor_source: "https://link.springer.com/journal/40964"
   - title: "Scientific Reports"
     count: 3
+    impact_factor: 4.9
+    impact_factor_source: "https://www.nature.com/srep/about"
   - title: "Construction and Building Materials"
     count: 2
+    impact_factor: 8.9
+    impact_factor_source: "https://www.bioxbio.com/journal/CONSTR-BUILD-MATER"
   - title: "Developments in the Built Environment"
     count: 2
+    impact_factor: 8.7
+    impact_factor_source: "https://www.linkedin.com/posts/tangpingbo_developments-in-the-built-environment-achieves-activity-7473998322563915776-mwhb"
   - title: "Environmental Research"
     count: 2
+    impact_factor: 8.2
+    impact_factor_source: "https://www.bioxbio.com/journal/ENVIRON-RES"
   - title: "Materials Letters"
     count: 2
+    impact_factor: 2.6
+    impact_factor_source: "https://www.bioxbio.com/journal/MATER-LETT"
   - title: "Materials Science and Engineering: A"
     count: 2
+    impact_factor: 7.9
+    impact_factor_source: "https://www.bioxbio.com/journal/MAT-SCI-ENG-A-STRUCT"
   - title: "Materials Today"
     count: 2
+    impact_factor: 24.1
+    impact_factor_source: "https://www.bioxbio.com/journal/MATER-TODAY"
   - title: "Mechanics of Materials"
     count: 2
+    impact_factor: 4.1
+    impact_factor_source: "https://www.bioxbio.com/journal/MECH-MATER"
   - title: "Photonics and Nanostructures - Fundamentals and Applications"
     count: 2
+    impact_factor: 3.5
+    impact_factor_source: "https://www.bioxbio.com/journal/PHOTONIC-NANOSTRUCT"
   - title: "Sensors and Actuators Reports"
     count: 2
+    impact_factor: 6.9
+    impact_factor_source: "https://www.sciencedirect.com/browse/calls-for-papers?subject=chemistry"
   - title: "Smart Materials in Manufacturing"
     count: 2
+    impact_factor: 13.3
+    impact_factor_source: "https://www.keaiipublishing.com/en/journals/smart-materials-in-manufacturing/index.html"
   - title: "Sustainable Materials and Technologies"
     count: 2
+    impact_factor: 9.7
+    impact_factor_source: "https://www.minicod.com/journals/sustainable-materials-and-technologies-07fd2295"
   - title: "Advanced Functional Materials"
     count: 1
+    impact_factor: 19.9
+    impact_factor_source: "https://advanced.onlinelibrary.wiley.com/journal/16163028"
   - title: "Advances in Materials and Processing Technologies"
     count: 1
+    impact_factor: 2.3
+    impact_factor_source: "https://www.tandfonline.com/action/journalInformation?journalCode=tmpt20&show=instructions"
   - title: "Biomicrofluidics"
     count: 1
+    impact_factor: 2.7
+    impact_factor_source: "https://www.bioxbio.com/journal/BIOMICROFLUIDICS"
   - title: "Energy Reports"
     count: 1
+    impact_factor: 6.6
+    impact_factor_source: "https://ooir.org/j.php?j=2352-4847"
   - title: "International Journal of Mechanical Sciences"
     count: 1
+    impact_factor: 11.4
+    impact_factor_source: "https://www.bioxbio.com/journal/INT-J-MECH-SCI"
   - title: "Journal of Asian Architecture and Building Engineering"
     count: 1
+    impact_factor: 2.6
+    impact_factor_source: "https://www.tandfonline.com/action/journalInformation?journalCode=tabe20"
   - title: "Journal of Physics and Chemistry of Solids"
     count: 1
+    impact_factor: 5.9
+    impact_factor_source: "https://www.bioxbio.com/journal/J-PHYS-CHEM-SOLIDS"
   - title: "Measurement"
     count: 1
+    impact_factor: 6.1
+    impact_factor_source: "https://www.bioxbio.com/journal/MEASUREMENT"
