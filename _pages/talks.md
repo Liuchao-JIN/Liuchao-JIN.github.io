@@ -2,7 +2,7 @@
 layout: archive
 title: "Talks & Presentations"
 permalink: /talks/
-excerpt: "Invited talks, conference presentations, seminars, and academic exchange by Liuchao Jin."
+excerpt: "Conference talks, invited lectures, posters, award-winning presentations, and academic exchange by Liuchao Jin."
 author_profile: true
 hide_title: true
 ---
@@ -10,26 +10,63 @@ hide_title: true
 <div class="talks-page">
   <section class="talks-hero" aria-labelledby="talks-title">
     <div class="talks-hero__content">
-      <p class="talks-eyebrow">CONFERENCES · SEMINARS · ACADEMIC EXCHANGE</p>
+      <p class="talks-eyebrow">CONFERENCE TALKS · POSTERS · INVITED LECTURES</p>
       <h1 id="talks-title">Talks &amp;<br>Presentations</h1>
-      <p class="talks-hero__lead">Selected invited talks, conference presentations, and academic exchanges on intelligent manufacturing, 4D printing, architected materials, and soft robotics.</p>
+      <p class="talks-hero__lead">Sharing research on machine-learning-enabled design, architected materials, intelligent manufacturing, 4D printing, and physical intelligence across international conferences and interdisciplinary forums.</p>
       <div class="talks-hero__actions">
-        <a class="talks-button talks-button--primary" href="#talks-archive">Browse the archive <span aria-hidden="true">↓</span></a>
-        <a class="talks-button" href="{{ base_path }}/cv/">View academic CV</a>
+        <a class="talks-button talks-button--primary" href="#talks-highlights">View recent highlights <span aria-hidden="true">↓</span></a>
+        <a class="talks-button" href="#talks-archive">Browse the full archive</a>
       </div>
     </div>
     <figure class="talks-hero__media">
-      <img src="{{ base_path }}/files/talk_pre/gyss-2025-thumb.jpg" alt="Liuchao Jin at the Global Young Scientists Summit in Singapore" width="1400" height="1050" loading="eager" fetchpriority="high" decoding="async">
-      <figcaption><span>Global Young Scientists Summit</span><span>Singapore · 2025</span></figcaption>
+      <img src="{{ base_path }}/files/talk_pre/4dmda2026-best-presentation.webp" alt="Liuchao Jin holding the Best Presentation Award at 4DMDA 2026 in Dublin" width="1200" height="900" loading="eager" fetchpriority="high" decoding="async">
+      <figcaption><span>5th 4DMDA · Dublin</span><span>Best Presentation Award · 2026</span></figcaption>
     </figure>
+  </section>
+
+  <section id="talks-highlights" class="talks-section talks-recognition" aria-labelledby="recognition-title">
+    <div class="talks-section__heading">
+      <div><p class="talks-eyebrow">PRESENTATION RECOGNITION</p><h2 id="recognition-title">Research communicated—and recognized</h2></div>
+      <p>Recent awards mark both oral and poster communication, while the 2022 best-paper recognition traces the record back to the first conference publication.</p>
+    </div>
+    <div class="talks-recognition-grid">
+      <article class="talks-recognition-card talks-recognition-card--primary">
+        <div class="talks-recognition-card__top"><span>01</span><time datetime="2026-07">July 2026</time></div>
+        <p class="talks-recognition-card__label">Best Presentation Award</p>
+        <h3>5th 4D Materials Design and Additive Manufacturing Conference</h3>
+        <p>Dublin, Ireland</p>
+        <a href="#talks-2026">View in timeline <span aria-hidden="true">↓</span></a>
+      </article>
+      <article class="talks-recognition-card">
+        <div class="talks-recognition-card__top"><span>02</span><time datetime="2026-06">June 2026</time></div>
+        <p class="talks-recognition-card__label">Best Poster Award</p>
+        <h3>35th International Conference on Adaptive Structures and Technologies</h3>
+        <p>Hong Kong</p>
+        <a href="#talks-2026">View in timeline <span aria-hidden="true">↓</span></a>
+      </article>
+      <article class="talks-recognition-card">
+        <div class="talks-recognition-card__top"><span>03</span><time datetime="2022-10">October 2022</time></div>
+        <p class="talks-recognition-card__label">Best Paper Award</p>
+        <h3>5th IEEE International Conference on Unmanned Systems</h3>
+        <p>Guangzhou, China</p>
+        <a href="#talks-2022">View in timeline <span aria-hidden="true">↓</span></a>
+      </article>
+    </div>
   </section>
 
   <section class="talks-section" aria-labelledby="selected-talks-title">
     <div class="talks-section__heading">
-      <div><p class="talks-eyebrow">SELECTED TALKS</p><h2 id="selected-talks-title">Featured presentations</h2></div>
-      <p>Research communication across webinars, international conferences, and interdisciplinary seminars.</p>
+      <div><p class="talks-eyebrow">SELECTED TALKS</p><h2 id="selected-talks-title">Across podiums, webinars, and seminars</h2></div>
+      <p>Selected moments show how the research has been presented to manufacturing, mechanics, design, and interdisciplinary scientific communities.</p>
     </div>
     <div class="talks-featured-grid">
+      <article class="talks-featured-card talks-featured-card--visual">
+        <img class="talks-featured-card__image" src="{{ base_path }}/files/talk_pre/4dmda2025-presentation.webp" alt="Liuchao Jin presenting machine-learning-driven inverse design research at 4DMDA 2025 in Singapore" width="1200" height="900" loading="lazy" decoding="async">
+        <div class="talks-featured-card__meta"><span>Conference presentation</span><time datetime="2025-07">2025</time></div>
+        <h3>4DMDA 2025</h3>
+        <p class="talks-featured-card__title">Machine Learning-Driven Inverse Design of Hierarchical Architectures</p>
+        <div class="talks-featured-card__footer"><span>Singapore</span><a href="https://4dprintings.com/wp-content/uploads/2025/07/4DMDA-2025-Program-2.pdf" target="_blank" rel="noopener">Program <span aria-hidden="true">↗</span></a></div>
+      </article>
       <article class="talks-featured-card talks-featured-card--dark">
         <div class="talks-featured-card__meta"><span>Invited talk</span><time datetime="2025-10-30">2025</time></div>
         <h3>GAMES Webinar 383</h3>
@@ -58,8 +95,10 @@ hide_title: true
     </div>
 
     <section id="talks-2026" class="talks-year" aria-labelledby="talks-2026-title">
-      <header><h3 id="talks-2026-title">2026</h3><span>1 appearance</span></header>
+      <header><h3 id="talks-2026-title">2026</h3><span>3 appearances · 2 awards</span></header>
       <div class="talks-year__list">
+        <article class="talk-entry talk-entry--award"><time datetime="2026-07"><span>Jul</span><small>2026</small></time><div class="talk-entry__body"><div class="talk-entry__type">Conference presentation · Best Presentation Award</div><h4>5th 4D Materials Design and Additive Manufacturing Conference (4DMDA 2026)</h4><p>Dublin, Ireland</p><div class="talk-entry__links"><a href="{{ base_path }}/files/talk_pre/4dmda2026-best-presentation.webp">Award photo</a></div></div></article>
+        <article class="talk-entry talk-entry--award"><time datetime="2026-06"><span>Jun</span><small>2026</small></time><div class="talk-entry__body"><div class="talk-entry__type">Poster presentation · Best Poster Award</div><h4>35th International Conference on Adaptive Structures and Technologies (ICAST 2026)</h4><p>Hong Kong</p></div></article>
         <article class="talk-entry"><time datetime="2026-03-16"><span>Mar 16—19</span><small>2026</small></time><div class="talk-entry__body"><div class="talk-entry__type">Conference</div><h4><a href="https://spie.org/conferences-and-exhibitions/smart-structures-nde" target="_blank" rel="noopener">SPIE Smart Structures + NDE 2026</a></h4><p>Vancouver, Canada</p></div></article>
       </div>
     </section>
@@ -70,7 +109,7 @@ hide_title: true
         <article class="talk-entry talk-entry--invited"><time datetime="2025-10-30"><span>Oct 30</span><small>2025</small></time><div class="talk-entry__body"><div class="talk-entry__type">Invited talk · Webinar</div><h4><a href="https://www.bilibili.com/video/BV1J2SFBREjm/?share_source=copy_web&amp;vd_source=190e53d6e2ad43d5e7473075676b6206" target="_blank" rel="noopener">GAMES Webinar 383: Geometric Design and Intelligent Manufacturing</a></h4><p>Online · CAX Session</p><div class="talk-entry__links"><a href="https://www.bilibili.com/video/BV1J2SFBREjm/?share_source=copy_web&amp;vd_source=190e53d6e2ad43d5e7473075676b6206" target="_blank" rel="noopener">Recording <span aria-hidden="true">↗</span></a></div></div></article>
         <article class="talk-entry"><time datetime="2025-10-12"><span>Oct 12—15</span><small>2025</small></time><div class="talk-entry__body"><div class="talk-entry__type">Conference</div><h4><a href="https://sites.gatech.edu/2025ses/" target="_blank" rel="noopener">2025 SES Annual Technical Meeting</a></h4><p>Atlanta, Georgia, United States</p></div></article>
         <article class="talk-entry"><time datetime="2025-09-08"><span>Sep 08—10</span><small>2025</small></time><div class="talk-entry__body"><div class="talk-entry__type">Conference</div><h4><a href="https://event.asme.org/SMASIS" target="_blank" rel="noopener">ASME Conference on Smart Materials, Adaptive Structures, and Intelligent Systems</a></h4><p>St. Louis, Missouri, United States</p></div></article>
-        <article class="talk-entry"><time datetime="2025-07-08"><span>Jul 08—10</span><small>2025</small></time><div class="talk-entry__body"><div class="talk-entry__type">Conference</div><h4>4D Materials Design and Additive Manufacturing Conference</h4><p>Singapore</p></div></article>
+        <article class="talk-entry"><time datetime="2025-07-08"><span>Jul 08—10</span><small>2025</small></time><div class="talk-entry__body"><div class="talk-entry__type">Conference presentation</div><h4>4D Materials Design and Additive Manufacturing Conference 2025</h4><p>Singapore</p><p class="talk-entry__title">Machine Learning-Driven Inverse Design of Hierarchical Architectures</p><div class="talk-entry__links"><a href="{{ base_path }}/files/talk_pre/4dmda2025-presentation.webp">Photo</a><a href="https://4dprintings.com/wp-content/uploads/2025/07/4DMDA-2025-Program-2.pdf" target="_blank" rel="noopener">Program <span aria-hidden="true">↗</span></a></div></div></article>
         <article class="talk-entry"><time datetime="2025-03-17"><span>Mar 17—20</span><small>2025</small></time><div class="talk-entry__body"><div class="talk-entry__type">Conference</div><h4><a href="https://spie.org/conferences-and-exhibitions/smart-structures-nde" target="_blank" rel="noopener">SPIE Smart Structures + NDE 2025</a></h4><p>Vancouver, Canada</p></div></article>
         <article class="talk-entry"><time datetime="2025-01-06"><span>Jan 06—10</span><small>2025</small></time><div class="talk-entry__body"><div class="talk-entry__type">Summit</div><h4><a href="https://www.gyss-one-north.sg/" target="_blank" rel="noopener">13th Global Young Scientists Summit</a></h4><p>Singapore</p></div></article>
       </div>
@@ -105,7 +144,7 @@ hide_title: true
 
     <section id="talks-2022" class="talks-year" aria-labelledby="talks-2022-title">
       <header><h3 id="talks-2022-title">2022</h3><span>1 appearance</span></header>
-      <div class="talks-year__list"><article class="talk-entry"><time datetime="2022-10-28"><span>Oct 28—30</span><small>2022</small></time><div class="talk-entry__body"><div class="talk-entry__type">Conference presentation</div><h4><a href="https://icus2022.c2.org.cn/" target="_blank" rel="noopener">5th IEEE International Conference on Unmanned Systems</a></h4><p>Guangzhou, China</p><p class="talk-entry__title">The Unified Tracking Controller for a Tilt-Rotor Unmanned Aerial Vehicle Based on the Dual Quaternion</p></div></article></div>
+      <div class="talks-year__list"><article class="talk-entry talk-entry--award"><time datetime="2022-10-28"><span>Oct 28—30</span><small>2022</small></time><div class="talk-entry__body"><div class="talk-entry__type">Conference presentation · Best Paper Award</div><h4><a href="https://icus2022.c2.org.cn/" target="_blank" rel="noopener">5th IEEE International Conference on Unmanned Systems</a></h4><p>Guangzhou, China</p><p class="talk-entry__title">The Unified Tracking Controller for a Tilt-Rotor Unmanned Aerial Vehicle Based on the Dual Quaternion</p></div></article></div>
     </section>
   </section>
 

@@ -186,6 +186,10 @@
   margin-bottom: clamp(4rem, 8vw, 6.5rem);
 }
 
+.talks-recognition {
+  scroll-margin-top: 1.5rem;
+}
+
 .talks-section__heading {
   display: grid;
   grid-template-columns: minmax(250px, 0.9fr) minmax(280px, 1.1fr);
@@ -216,8 +220,122 @@
 
 .talks-featured-grid {
   display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.talks-recognition-grid {
+  display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1rem;
+}
+
+.talks-recognition-card {
+  position: relative;
+  display: flex;
+  min-height: 18rem;
+  overflow: hidden;
+  padding: clamp(1.35rem, 2.8vw, 1.9rem);
+  border: 1px solid var(--talks-line);
+  background:
+    linear-gradient(135deg, rgba(50, 137, 167, 0.06), transparent 58%),
+    var(--talks-paper);
+  flex-direction: column;
+
+  &::after {
+    position: absolute;
+    right: -2rem;
+    bottom: -2.4rem;
+    width: 7.5rem;
+    height: 7.5rem;
+    border: 1px solid rgba(50, 137, 167, 0.16);
+    border-radius: 50%;
+    content: "";
+  }
+
+  h3 {
+    position: relative;
+    z-index: 1;
+    margin: 0.7rem 0 0.8rem;
+    color: var(--talks-ink);
+    font-family: $georgia;
+    font-size: clamp(1.12rem, 2vw, 1.4rem);
+    font-weight: 400;
+    line-height: 1.28;
+  }
+
+  > p:last-of-type {
+    position: relative;
+    z-index: 1;
+    margin: 0;
+    color: var(--talks-muted);
+    font-size: 0.7rem;
+  }
+
+  > a {
+    position: relative;
+    z-index: 1;
+    align-self: flex-start;
+    margin-top: auto;
+    padding-top: 1.25rem;
+    color: var(--talks-accent-dark);
+    font-size: 0.65rem;
+    font-weight: 700;
+  }
+}
+
+.talks-recognition-card__top {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  color: var(--talks-muted);
+  font-size: 0.62rem;
+
+  > span {
+    color: var(--talks-accent);
+    font-family: $georgia;
+    font-size: 1.8rem;
+  }
+}
+
+.talks-recognition-card__label {
+  position: relative;
+  z-index: 1;
+  margin: 2.5rem 0 0;
+  color: var(--talks-accent-dark) !important;
+  font-size: 0.62rem !important;
+  font-weight: 750;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+}
+
+.talks-recognition-card--primary {
+  border-color: var(--talks-ink);
+  color: #fff;
+  background:
+    radial-gradient(circle at 91% 13%, rgba(121, 196, 220, 0.2), transparent 28%),
+    var(--talks-ink);
+
+  &::after {
+    border-color: rgba(255, 255, 255, 0.18);
+  }
+
+  h3 {
+    color: #fff;
+  }
+
+  .talks-recognition-card__top,
+  > p:last-of-type {
+    color: #c7d4d9;
+  }
+
+  .talks-recognition-card__top > span,
+  .talks-recognition-card__label,
+  > a {
+    color: #79c4dc !important;
+  }
 }
 
 .talks-featured-card {
@@ -249,6 +367,24 @@
     font-size: 0.74rem;
     line-height: 1.6;
   }
+}
+
+.talks-featured-card--visual {
+  overflow: hidden;
+
+  h3 {
+    margin-top: 1.25rem;
+  }
+}
+
+.talks-featured-card__image {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 8.5;
+  margin: 0 0 1.2rem;
+  border: 1px solid var(--talks-line);
+  object-fit: cover;
+  object-position: center;
 }
 
 .talks-featured-card__meta,
@@ -424,6 +560,17 @@
   content: "";
 }
 
+.talk-entry--award::before {
+  position: absolute;
+  top: 1.45rem;
+  left: -1rem;
+  width: 0.35rem;
+  height: calc(100% - 2.9rem);
+  min-height: 2.2rem;
+  background: linear-gradient(180deg, #d3ad42, var(--talks-accent));
+  content: "";
+}
+
 .talk-entry__body {
   min-width: 0;
 
@@ -554,13 +701,13 @@
     max-width: 38rem;
   }
 
-  .talks-featured-grid {
+  .talks-featured-grid,
+  .talks-recognition-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
-  .talks-featured-card:last-child {
+  .talks-recognition-card:last-child {
     grid-column: 1 / -1;
-    min-height: 15rem;
   }
 }
 
@@ -607,10 +754,18 @@
     grid-template-columns: 1fr;
   }
 
-  .talks-featured-card,
-  .talks-featured-card:last-child {
-    grid-column: auto;
+  .talks-recognition-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .talks-featured-card {
     min-height: 0;
+  }
+
+  .talks-recognition-card,
+  .talks-recognition-card:last-child {
+    grid-column: auto;
+    min-height: 15.5rem;
   }
 
   .talks-featured-card__footer,
@@ -636,6 +791,11 @@
 
   .talk-entry--invited::before {
     display: none;
+  }
+
+  .talk-entry--award::before {
+    left: -0.55rem;
+    width: 0.22rem;
   }
 }
 
