@@ -1,8 +1,8 @@
 orcid: "0000-0001-6204-1922"
 source_url: "https://orcid.org/0000-0001-6204-1922"
-last_updated: "2026-10-31"
-total_reviews: 209
-total_journals: 39
+last_updated: "2026-11-05"
+total_reviews: 211
+total_journals: 40
 year_range: "2024-2026"
 # Impact factors are build-time sorting metadata only; do not render them in the CV.
 # Use the 2025 JIF (2026 release), including verified October corrections.
@@ -10,6 +10,10 @@ year_range: "2024-2026"
 impact_factor_year: 2025
 impact_factors_checked: "2026-11-03"
 journals:
+  - title: "Advanced Materials"
+    count: 2
+    impact_factor: 29.1
+    impact_factor_source: "https://advanced.onlinelibrary.wiley.com/journal/15214095"
   - title: "International Journal on Interactive Design and Manufacturing"
     count: 31
     impact_factor: 2.8
