@@ -5,7 +5,7 @@ main:
     url: /cv/
 
   - title: "Publications"
-    url: /my_publication/
+    url: /publication/
 
   - title: "Talks"
     url: /talks/

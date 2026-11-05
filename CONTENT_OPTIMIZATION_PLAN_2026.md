@@ -67,7 +67,7 @@
 |---|---|
 | 首页 `_pages/about.md` | 约 114 个空格分词词项，1 段介绍 + 1 张图片 |
 | 网页 CV `_pages/cv.md` | 约 1,179 个词项、106 个链接，信息密度过高 |
-| 主论文页 `_pages/mypublication.html` | 32 条手写成果、182 个链接、32 张图 |
+| 主论文页 `_pages/publication.html` | 32 条手写成果、182 个链接、32 张图 |
 | 第二论文页 `_pages/publications.md` | 仅渲染 13 条旧 collection 数据 |
 | Talks | 23 个活动，但没有稳定区分“演讲、展示、参会” |
 | Teaching | 20 门课程，多数仅链接 syllabus |
@@ -146,10 +146,10 @@
 
 | 位置 | 当前问题 | 建议 |
 |---|---|---|
-| `_pages/mypublication.html:132–137` 与 `260–265` | 两篇不同论文使用同一 DOI | 后一篇核对为 `10.1088/1361-665X/adcd19`；逐条对 DOI landing page |
+| `_pages/publication.html:132–137` 与 `260–265` | 两篇不同论文使用同一 DOI | 后一篇核对为 `10.1088/1361-665X/adcd19`；逐条对 DOI landing page |
 | `_publications/jin2024machine.md` | article number 写成 `113086` | 应核对并改为 `102373` |
 | `_publications/zhang2024high2.md` | YAML 因 `Poisson's` 单引号冲突而解析失败；PDF 指向另一篇论文 | 改用双引号或 block scalar，并修正 PDF |
-| `_pages/mypublication.html` | “Machine learning powered inverse design…”作者顺序错误 | 以正式论文为准重新导入 |
+| `_pages/publication.html` | “Machine learning powered inverse design…”作者顺序错误 | 以正式论文为准重新导入 |
 | `zhai2023isogeometric` | 两个页面的期刊名称不一致 | 统一正式 bibliographic container |
 | `jin2024spider` | 会议名称与出版容器混用 | 出版容器写 *MATEC Web of Conferences*，活动另列 |
 | 多个 BibTeX | 作者拼写、姓/名顺序、加粗命令和正式标题不一致 | 从 DOI/Crossref/出版社导出，不再手写 |
@@ -297,7 +297,7 @@ Home · About · Research · Publications · News · CV · Contact
 | Home | `/` | 保留 |
 | About | `/about/` | 当前首页 redirect 结构需拆分 |
 | Research | `/research/` | 新建核心页 |
-| Publications | `/publications/` | `/my_publication/` 301/redirect 到此 |
+| Publications | `/publication/` | 新版论文总览的唯一入口 |
 | News | `/news/` | 新建 |
 | CV | `/cv/` | 保留，但重写 |
 | Contact | `/contact/` | 新建 |
@@ -564,7 +564,7 @@ Watch particles evolve from material discovery to multimaterial fabrication and 
 
 | 数据源 | 数量 / 状态 | 问题 |
 |---|---:|---|
-| `_pages/mypublication.html` | 32 条 | 主导航使用；全手写；有 DOI/作者/年份错误 |
+| `_pages/publication.html` | 32 条 | 主导航使用；全手写；有 DOI/作者/年份错误 |
 | `_publications/` | 13 条，约 12 条完整 | CV 和第二论文页使用；缺少近两年大量成果 |
 | PDF CV | 34 条 | 与网页不同；仍有 under-review 列表和标题错误 |
 | 文件夹 PDF/BibTeX | 更多 | 文件存在不等于网页记录完整或正确 |
@@ -604,7 +604,7 @@ awards:
 由同一数据源生成：
 
 - 首页 Selected Publications；
-- `/publications/` 完整列表；
+- `/publication/` 完整列表；
 - CV 的 Selected Publications；
 - 每篇独立页面；
 - BibTeX 下载和 JSON-LD。
@@ -1431,7 +1431,7 @@ source_url:
 | `go_to_cuhk.md` | 中文校园出行指南 | 合并或归档 | 与楼宇/到校信息合成一个官方链接优先的指南 |
 | `hong_kong_before_arrival.md` | 新生指南 | 归档或重写 | 与 hkinfo 去重；高时效字段必须定期复核 |
 | `markdown.md` | Markdown 主题演示 | 删除/不发布 | 无 |
-| `mypublication.html` | 主论文页 | 停止手写 | 数据迁入唯一 publication source；旧 URL redirect |
+| `publication.html` | 主论文页 | 停止手写 | 数据迁入唯一 publication source；旧 URL redirect |
 | `non-menu-page.md` | 模板演示 | 删除/不发布 | 无 |
 | `page-archive.html` | 自动页面档案 | 不发布 | 使用人工策划 sitemap |
 | `portfolio.html` | Portfolio 入口 | 暂停发布 | 权利审查后重建为 Resources |

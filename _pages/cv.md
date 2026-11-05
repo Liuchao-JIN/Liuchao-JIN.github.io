@@ -25,7 +25,7 @@ redirect_from:
       <span>Soft Robotics</span>
     </div>
     <div class="cv-actions">
-      <a class="cv-button cv-button--primary" href="{{ base_path }}/my_publication/">View publications</a>
+      <a class="cv-button cv-button--primary" href="{{ base_path }}/publication/">View publications</a>
       <a class="cv-button" href="https://orcid.org/0000-0001-6204-1922" target="_blank" rel="noopener">ORCID profile</a>
       <button class="cv-button" type="button" data-cv-print>Print / Save PDF</button>
     </div>
@@ -147,7 +147,7 @@ redirect_from:
       <p class="cv-section__eyebrow">Research output</p>
       <h2 id="publications-title">Selected Publications</h2>
     </div>
-    <a href="{{ base_path }}/my_publication/">View complete list →</a>
+    <a href="{{ base_path }}/publication/">View complete list →</a>
   </div>
   <ol class="cv-publications">
     <li>

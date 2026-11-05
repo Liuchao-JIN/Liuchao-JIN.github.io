@@ -25,7 +25,7 @@ redirect_from:
       <p class="home-hero__role">Postdoctoral Fellow at The Chinese University of Hong Kong</p>
       <p class="home-hero__lead">I study how machine intelligence and advanced manufacturing can be used to design materials and structures with purposeful mechanical behavior.</p>
       <div class="home-hero__actions" aria-label="Primary links">
-        <a class="home-button home-button--primary" href="{{ base_path }}/my_publication/">Explore publications <span aria-hidden="true">→</span></a>
+        <a class="home-button home-button--primary" href="{{ base_path }}/publication/">Explore publications <span aria-hidden="true">→</span></a>
         <a class="home-button" href="{{ base_path }}/cv/">View curriculum vitae</a>
         <a class="home-text-link" href="https://scholar.google.com/citations?user=iYBWir4AAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar <span aria-hidden="true">↗</span></a>
       </div>
@@ -94,7 +94,7 @@ redirect_from:
         <p class="home-eyebrow">SELECTED WORK</p>
         <h2 id="work-title">Recent research</h2>
       </div>
-      <a class="home-section-link" href="{{ base_path }}/my_publication/">View all publications <span aria-hidden="true">→</span></a>
+      <a class="home-section-link" href="{{ base_path }}/publication/">View all publications <span aria-hidden="true">→</span></a>
     </div>
 
     <div class="home-work-grid">

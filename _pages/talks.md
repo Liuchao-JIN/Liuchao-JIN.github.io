@@ -150,6 +150,6 @@ hide_title: true
 
   <section class="talks-closing" aria-label="Research links">
     <div><p class="talks-eyebrow">CONTINUE EXPLORING</p><h2>Research behind the talks</h2><p>Explore the publications and projects that support this conference and seminar record.</p></div>
-    <div class="talks-closing__actions"><a class="talks-button talks-button--light" href="{{ base_path }}/my_publication/">Publications</a><a class="talks-button talks-button--outline-light" href="{{ base_path }}/cv/">Academic CV</a></div>
+    <div class="talks-closing__actions"><a class="talks-button talks-button--light" href="{{ base_path }}/publication/">Publications</a><a class="talks-button talks-button--outline-light" href="{{ base_path }}/cv/">Academic CV</a></div>
   </section>
 </div>
