@@ -344,6 +344,32 @@
   }
 }
 
+/* Keep the mobile Follow popover above the page hero. The sidebar uses a
+   transform for rendering, so it needs its own explicit stacking level. */
+@media (max-width: 924px),
+       (max-width: 1199px) and (hover: none),
+       (max-width: 1199px) and (pointer: coarse) {
+  #main > .sidebar--profile-drawer {
+    position: relative;
+    z-index: 90;
+    overflow: visible;
+
+    .author__urls-wrapper {
+      z-index: 91;
+    }
+
+    .author__urls {
+      z-index: 92;
+    }
+  }
+
+  #main > .sidebar--profile-drawer + .archive,
+  #main > .sidebar--profile-drawer + .page {
+    position: relative;
+    z-index: 1;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   #main > .sidebar--profile-drawer {
     transition-duration: 1ms;
