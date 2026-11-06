@@ -26,6 +26,7 @@ redirect_from:
     </div>
     <div class="cv-actions">
       <a class="cv-button cv-button--primary" href="{{ base_path }}/publication/">View publications</a>
+      <a class="cv-button" href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">Google Scholar</a>
       <a class="cv-button" href="https://orcid.org/0000-0001-6204-1922" target="_blank" rel="noopener">ORCID profile</a>
       <button class="cv-button" type="button" data-cv-print>Print / Save PDF</button>
     </div>
