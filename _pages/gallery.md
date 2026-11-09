@@ -10,7 +10,7 @@ hide_title: true
 <div class="artist-gallery" data-artist-gallery>
   <section class="artist-gallery__hero" aria-labelledby="gallery-title">
     <div class="artist-gallery__hero-copy">
-      <p class="artist-gallery__eyebrow">A VISUAL FIELD NOTEBOOK · 2017—2026</p>
+      <p class="artist-gallery__eyebrow">A VISUAL FIELD NOTEBOOK · 2023—2026</p>
       <h1 id="gallery-title">Light, distance,<br>and the spaces between.</h1>
       <p class="artist-gallery__lede">A personal archive gathered between research journeys: mountains emerging from cloud, cities after dark, rooms made quiet by art, and brief encounters with unfamiliar places.</p>
       <a class="artist-gallery__scroll" href="#gallery-archive">Enter the archive <span aria-hidden="true">↓</span></a>
