@@ -14,11 +14,6 @@ hide_title: true
       <h1 id="gallery-title">Light, distance,<br>and the spaces between.</h1>
       <p class="artist-gallery__lede">A personal archive gathered between research journeys: mountains emerging from cloud, cities after dark, rooms made quiet by art, and brief encounters with unfamiliar places.</p>
       <a class="artist-gallery__scroll" href="#gallery-archive">Enter the archive <span aria-hidden="true">↓</span></a>
-      <dl class="artist-gallery__facts" aria-label="Gallery overview">
-        <div><dt>51</dt><dd>photographs</dd></div>
-        <div><dt>10</dt><dd>countries &amp; regions</dd></div>
-        <div><dt>7</dt><dd>years observed</dd></div>
-      </dl>
     </div>
 
     <div class="artist-gallery__poster" aria-label="Selected photographs">
@@ -53,7 +48,7 @@ hide_title: true
     </header>
 
     <div class="artist-gallery__filters" role="group" aria-label="Filter photographs by theme">
-      <button class="is-active" type="button" data-gallery-filter="all" aria-pressed="true">All <span>51</span></button>
+      <button class="is-active" type="button" data-gallery-filter="all" aria-pressed="true">All <span>{{ site.data.gallery | size }}</span></button>
       <button type="button" data-gallery-filter="landscape" aria-pressed="false">Landscape</button>
       <button type="button" data-gallery-filter="city" aria-pressed="false">City</button>
       <button type="button" data-gallery-filter="culture" aria-pressed="false">Culture</button>
