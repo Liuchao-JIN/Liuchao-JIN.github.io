@@ -434,26 +434,26 @@
   {
     "id": 37,
     "src": "/images/gallery/2024-07-06_Paris_Louvre_Facade_1147_art.webp",
-    "alt": "The Louvre facade in measured summer light — Paris, France",
-    "caption": "The Louvre facade in measured summer light",
-    "place": "Paris, France",
+    "alt": "Ajaccio's waterfront and sandy beach beneath the Corsican sky — Ajaccio, Corsica, France",
+    "caption": "Ajaccio's waterfront and sandy beach beneath the Corsican sky",
+    "place": "Ajaccio, Corsica, France",
     "country": "France",
     "date": "2024-07-06",
     "year": "2024",
     "orientation": "landscape",
-    "theme": "culture"
+    "theme": "landscape"
   },
   {
     "id": 38,
     "src": "/images/gallery/2024-07-06_Paris_Street_Church_1147_art.webp",
-    "alt": "A Paris church emerging at the end of the street — Paris, France",
-    "caption": "A Paris church emerging at the end of the street",
-    "place": "Paris, France",
+    "alt": "Clear Mediterranean water along the Ajaccio shoreline — Ajaccio, Corsica, France",
+    "caption": "Clear Mediterranean water along the Ajaccio shoreline",
+    "place": "Ajaccio, Corsica, France",
     "country": "France",
     "date": "2024-07-06",
     "year": "2024",
     "orientation": "landscape",
-    "theme": "city"
+    "theme": "landscape"
   },
   {
     "id": 39,
@@ -862,18 +862,6 @@
     "year": "2024",
     "orientation": "portrait",
     "theme": "city"
-  },
-  {
-    "id": 73,
-    "src": "/images/gallery/2024-11-17_Shanwei_Bay_Panorama_1511_art.webp",
-    "alt": "A wide bay unfolding beneath the coastal sky — Shanwei, China",
-    "caption": "A wide bay unfolding beneath the coastal sky",
-    "place": "Shanwei, China",
-    "country": "China",
-    "date": "2024-11-17",
-    "year": "2024",
-    "orientation": "landscape",
-    "theme": "landscape"
   },
   {
     "id": 74,
