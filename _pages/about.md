@@ -23,11 +23,12 @@ redirect_from:
       <p class="home-eyebrow">MECHANICS · INTELLIGENCE · MANUFACTURING</p>
       <h1 id="home-title">Liuchao Jin</h1>
       <p class="home-hero__role">Postdoctoral Fellow at The Chinese University of Hong Kong</p>
-      <p class="home-hero__lead">I study how machine intelligence and advanced manufacturing can be used to design materials and structures with purposeful mechanical behavior.</p>
+      <p class="home-hero__lead">I combine machine learning, mechanics, and 3D/4D printing to design how materials deform, adapt, and absorb energy.</p>
       <div class="home-hero__actions" aria-label="Primary links">
         <a class="home-button home-button--primary" href="{{ base_path }}/publication/">Explore publications <span aria-hidden="true">→</span></a>
         <a class="home-button" href="{{ base_path }}/cv/">View curriculum vitae</a>
         <a class="home-text-link" href="https://scholar.google.com/citations?user=iYBWir4AAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar <span aria-hidden="true">↗</span></a>
+        <a class="home-text-link home-hero__contact" href="mailto:{{ site.author.email }}">Email me <span aria-hidden="true">↗</span></a>
       </div>
     </div>
   </section>

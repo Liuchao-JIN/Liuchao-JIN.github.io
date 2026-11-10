@@ -359,6 +359,32 @@
   font-weight: 700;
 }
 
+.amateur-credits {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem 1.4rem;
+  margin: 0 0 1.35rem;
+  padding-top: 0.8rem;
+  border-top: 1px solid var(--amateur-line);
+  font-family: $sans-serif;
+
+  > div { min-width: 0; }
+  dt {
+    margin: 0 0 0.2rem;
+    color: var(--amateur-muted);
+    font-size: 0.55rem;
+    font-weight: 500;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+  }
+  dd {
+    margin: 0;
+    color: var(--amateur-ink);
+    font-size: 0.7rem;
+    line-height: 1.4;
+  }
+}
+
 .amateur-work-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -456,6 +482,17 @@
   color: var(--amateur-muted);
   font-size: 0.6rem;
   text-transform: uppercase;
+}
+
+.amateur-report__details {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.85rem;
+  margin-top: 0.6rem;
+  color: var(--amateur-muted);
+  font-family: $sans-serif;
+  font-size: 0.62rem;
+  line-height: 1.5;
 }
 
 .amateur-report__link {

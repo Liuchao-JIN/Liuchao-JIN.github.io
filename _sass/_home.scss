@@ -221,6 +221,10 @@
   margin-bottom: clamp(4rem, 8vw, 6.5rem);
 }
 
+.home-hero__contact {
+  display: none;
+}
+
 .home-section__intro {
   display: grid;
   grid-template-columns: minmax(240px, 0.9fr) minmax(280px, 1.1fr);
@@ -594,32 +598,93 @@
 }
 
 @media (max-width: 660px) {
+  // The hero supplies the identity here; retain direct contact in its actions.
+  #main:has(.home-page) > .sidebar--profile-drawer {
+    display: none;
+  }
+
   .home-hero {
-    grid-template-columns: 1fr;
-    gap: 2rem;
+    grid-template-columns: 96px minmax(0, 1fr);
+    gap: 0.6rem 1rem;
     margin-right: -0.35rem;
     margin-left: -0.35rem;
-    padding: 2.35rem 1.2rem 1.35rem;
+    margin-bottom: 2.5rem;
+    padding: 1.5rem 1.1rem 1.1rem;
+  }
+
+  .home-hero__content {
+    display: contents;
+  }
+
+  .home-hero__content > * {
+    position: relative;
+    z-index: 1;
+    grid-column: 2;
+  }
+
+  .home-hero__content > .home-eyebrow {
+    margin-bottom: 0;
+    font-size: 0.55rem;
+    letter-spacing: 0.1em;
+
+    &::before { display: none; }
   }
 
   .home-hero__content h1 {
-    font-size: clamp(2.65rem, 15vw, 4rem);
+    margin-bottom: 0;
+    font-size: clamp(1.8rem, 8.5vw, 2.8rem);
+    line-height: 1.05;
+  }
+
+  .home-hero__role {
+    margin-bottom: 0;
+    font-size: 0.82rem;
+    line-height: 1.45;
+  }
+
+  .home-hero__content > .home-hero__lead {
+    grid-column: 1 / -1;
+    margin: 0.7rem 0 0.4rem;
+    font-size: 1.03rem;
+    line-height: 1.55;
   }
 
   .home-portrait {
     grid-column: 1;
-    width: min(100%, 230px);
+    grid-row: 1 / 4;
+    width: 100%;
+    align-self: start;
   }
 
-  .home-hero__actions,
+  .home-portrait__frame {
+    padding: 3px;
+    box-shadow: 0 8px 20px rgba(24, 48, 61, 0.09);
+  }
+
   .home-closing__actions {
     align-items: stretch;
     flex-direction: column;
   }
 
+  .home-hero__content > .home-hero__actions {
+    display: grid;
+    grid-column: 1 / -1;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.35rem 0.55rem;
+  }
+
   .home-button,
   .home-text-link {
     width: 100%;
+  }
+
+  .home-hero .home-button {
+    padding: 0.7rem 0.45rem;
+    font-size: 0.73rem;
+  }
+
+  .home-hero__contact {
+    display: inline-flex;
   }
 
   .home-text-link {
