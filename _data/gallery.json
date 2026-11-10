@@ -1,6 +1,162 @@
 [
   {
+    "id": 1,
+    "src": "/images/gallery/2022-02-05_Yingtan_Woodland_Architecture_1542_art.webp",
+    "alt": "Woodland architecture emerging through winter branches — Yingtan, China",
+    "caption": "Woodland architecture emerging through winter branches",
+    "place": "Yingtan, China",
+    "country": "China",
+    "date": "2022-02-05",
+    "year": "2022",
+    "orientation": "landscape",
+    "theme": "culture"
+  },
+  {
+    "id": 2,
+    "src": "/images/gallery/2022-02-16_Guangan_Sea_Of_Clouds_1121_art.webp",
+    "alt": "A sea of clouds stretching beneath an aircraft window — Guang'an, China",
+    "caption": "A sea of clouds stretching beneath an aircraft window",
+    "place": "Guang'an, China",
+    "country": "China",
+    "date": "2022-02-16",
+    "year": "2022",
+    "orientation": "landscape",
+    "theme": "journey"
+  },
+  {
+    "id": 3,
+    "src": "/images/gallery/2022-06-25_Baoji_Blue_Stone_Path_2029_art.webp",
+    "alt": "A blue-lit stone path after nightfall — Baoji, China",
+    "caption": "A blue-lit stone path after nightfall",
+    "place": "Baoji, China",
+    "country": "China",
+    "date": "2022-06-25",
+    "year": "2022",
+    "orientation": "portrait",
+    "theme": "culture"
+  },
+  {
+    "id": 4,
+    "src": "/images/gallery/2022-06-25_Baoji_Night_Buddha_2038_art.webp",
+    "alt": "A monumental Buddha illuminated beneath the trees — Baoji, China",
+    "caption": "A monumental Buddha illuminated beneath the trees",
+    "place": "Baoji, China",
+    "country": "China",
+    "date": "2022-06-25",
+    "year": "2022",
+    "orientation": "portrait",
+    "theme": "culture"
+  },
+  {
+    "id": 5,
+    "src": "/images/gallery/2022-06-25_Baoji_Night_Water_2034_art.webp",
+    "alt": "A quiet ribbon of light moving across dark water — Baoji, China",
+    "caption": "A quiet ribbon of light moving across dark water",
+    "place": "Baoji, China",
+    "country": "China",
+    "date": "2022-06-25",
+    "year": "2022",
+    "orientation": "portrait",
+    "theme": "landscape"
+  },
+  {
+    "id": 6,
+    "src": "/images/gallery/2023-06-06_Hengyang_Lakeside_Road_1019_art.webp",
+    "alt": "A lakeside road tracing the edge of still water — Hengyang, China",
+    "caption": "A lakeside road tracing the edge of still water",
+    "place": "Hengyang, China",
+    "country": "China",
+    "date": "2023-06-06",
+    "year": "2023",
+    "orientation": "landscape",
+    "theme": "journey"
+  },
+  {
     "id": 7,
+    "src": "/images/gallery/2023-06-25_Jinan_Emerald_Pond_1905_art.webp",
+    "alt": "An emerald pond beneath a canopy of summer green — Jinan, China",
+    "caption": "An emerald pond beneath a canopy of summer green",
+    "place": "Jinan, China",
+    "country": "China",
+    "date": "2023-06-25",
+    "year": "2023",
+    "orientation": "landscape",
+    "theme": "landscape"
+  },
+  {
+    "id": 8,
+    "src": "/images/gallery/2023-06-25_Jinan_Koi_And_Jade_Water_1857_art.webp",
+    "alt": "Koi drifting through jade-coloured water — Jinan, China",
+    "caption": "Koi drifting through jade-coloured water",
+    "place": "Jinan, China",
+    "country": "China",
+    "date": "2023-06-25",
+    "year": "2023",
+    "orientation": "landscape",
+    "theme": "landscape"
+  },
+  {
+    "id": 9,
+    "src": "/images/gallery/2023-06-25_Jinan_Lakeside_Trees_1906_art.webp",
+    "alt": "Lakeside trees gathering in the evening light — Jinan, China",
+    "caption": "Lakeside trees gathering in the evening light",
+    "place": "Jinan, China",
+    "country": "China",
+    "date": "2023-06-25",
+    "year": "2023",
+    "orientation": "landscape",
+    "theme": "landscape"
+  },
+  {
+    "id": 10,
+    "src": "/images/gallery/2023-06-25_Jinan_Night_Architecture_2117_art.webp",
+    "alt": "Historic architecture illuminated against the Jinan night — Jinan, China",
+    "caption": "Historic architecture illuminated against the Jinan night",
+    "place": "Jinan, China",
+    "country": "China",
+    "date": "2023-06-25",
+    "year": "2023",
+    "orientation": "portrait",
+    "theme": "city"
+  },
+  {
+    "id": 11,
+    "src": "/images/gallery/2023-06-25_Jinan_Old_City_Alley_2003_art.webp",
+    "alt": "An old-city alley held in warm evening light — Jinan, China",
+    "caption": "An old-city alley held in warm evening light",
+    "place": "Jinan, China",
+    "country": "China",
+    "date": "2023-06-25",
+    "year": "2023",
+    "orientation": "portrait",
+    "theme": "city"
+  },
+  {
+    "id": 12,
+    "src": "/images/gallery/2023-06-25_Jinan_Rock_Garden_1857_art.webp",
+    "alt": "Scholar stones and garden water in quiet balance — Jinan, China",
+    "caption": "Scholar stones and garden water in quiet balance",
+    "place": "Jinan, China",
+    "country": "China",
+    "date": "2023-06-25",
+    "year": "2023",
+    "orientation": "portrait",
+    "theme": "culture"
+  },
+  {
+    "id": 13,
+    "src": "/images/gallery/2023-06-25_Jinan_Skyscraper_Through_Trees_1856_art.webp",
+    "alt": "A skyscraper glimpsed through the trees — Jinan, China",
+    "caption": "A skyscraper glimpsed through the trees",
+    "place": "Jinan, China",
+    "country": "China",
+    "date": "2023-06-25",
+    "year": "2023",
+    "orientation": "portrait",
+    "theme": "city"
+  },
+  {
+    "id": 14,
     "src": "/images/gallery/2023-06-28_Qingdao_China_City_Skyline_135749.jpg",
     "alt": "Qingdao waterfront skyline seen across the bay — Qingdao, China",
     "caption": "Qingdao waterfront skyline seen across the bay",
@@ -12,7 +168,7 @@
     "theme": "city"
   },
   {
-    "id": 8,
+    "id": 15,
     "src": "/images/gallery/2023-07-09_Guangzhou_China_Aerial_Night_204904.jpg",
     "alt": "Guangzhou city lights viewed from the air at night — Guangzhou, China",
     "caption": "Guangzhou city lights viewed from the air at night",
@@ -24,7 +180,31 @@
     "theme": "city"
   },
   {
-    "id": 9,
+    "id": 16,
+    "src": "/images/gallery/2023-07-09_Guangzhou_City_Lights_From_Above_2048_art.webp",
+    "alt": "Guangzhou lights spreading beneath a night flight — Guangzhou, China",
+    "caption": "Guangzhou lights spreading beneath a night flight",
+    "place": "Guangzhou, China",
+    "country": "China",
+    "date": "2023-07-09",
+    "year": "2023",
+    "orientation": "landscape",
+    "theme": "journey"
+  },
+  {
+    "id": 17,
+    "src": "/images/gallery/2023-07-09_Guangzhou_Night_Aerial_2049_art.webp",
+    "alt": "Urban constellations seen from above Guangzhou — Guangzhou, China",
+    "caption": "Urban constellations seen from above Guangzhou",
+    "place": "Guangzhou, China",
+    "country": "China",
+    "date": "2023-07-09",
+    "year": "2023",
+    "orientation": "landscape",
+    "theme": "city"
+  },
+  {
+    "id": 18,
     "src": "/images/gallery/2023-12-17_Chongqing_China_City_Night.jpg",
     "alt": "Chongqing skyline and illuminated Hongya Cave at night — Chongqing, China",
     "caption": "Chongqing skyline and illuminated Hongya Cave at night",
@@ -36,7 +216,7 @@
     "theme": "city"
   },
   {
-    "id": 10,
+    "id": 19,
     "src": "/images/gallery/2024-03-12_Russia_Aircraft_Night_Sky_2257.jpg",
     "alt": "Stars and clouds seen through an aircraft window over Russia — Russia",
     "caption": "Stars and clouds seen through an aircraft window over Russia",
@@ -48,7 +228,19 @@
     "theme": "city"
   },
   {
-    "id": 11,
+    "id": 20,
+    "src": "/images/gallery/2024-04-12_Shantou_Bridge_Geometry_0916_art.webp",
+    "alt": "Bridge lines cutting through a pale coastal morning — Shantou, China",
+    "caption": "Bridge lines cutting through a pale coastal morning",
+    "place": "Shantou, China",
+    "country": "China",
+    "date": "2024-04-12",
+    "year": "2024",
+    "orientation": "landscape",
+    "theme": "journey"
+  },
+  {
+    "id": 21,
     "src": "/images/gallery/2024-04-14_Xiamen_China_Mountain_Lake.jpg",
     "alt": "Mountain-and-lake panorama in Xiamen — Xiamen, China",
     "caption": "Mountain-and-lake panorama in Xiamen",
@@ -60,10 +252,118 @@
     "theme": "landscape"
   },
   {
-    "id": 12,
-    "src": "/images/gallery/2024-07-02_Dubai_UAE_Burj_Al_Arab.jpg",
-    "alt": "Burj Al Arab and Madinat Jumeirah waterfront — Dubai, United Arab Emirates",
-    "caption": "Burj Al Arab and Madinat Jumeirah waterfront",
+    "id": 22,
+    "src": "/images/gallery/2024-04-26_Wenzhou_Flight_Cloudscape_1743_art.webp",
+    "alt": "Cloud layers opening beneath a flight from Wenzhou — Wenzhou, China",
+    "caption": "Cloud layers opening beneath a flight from Wenzhou",
+    "place": "Wenzhou, China",
+    "country": "China",
+    "date": "2024-04-26",
+    "year": "2024",
+    "orientation": "landscape",
+    "theme": "journey"
+  },
+  {
+    "id": 23,
+    "src": "/images/gallery/2024-04-30_Ningbo_Lotus_Pond_Texture_2203_art.webp",
+    "alt": "Lotus leaves becoming an abstract field of green — Ningbo, China",
+    "caption": "Lotus leaves becoming an abstract field of green",
+    "place": "Ningbo, China",
+    "country": "China",
+    "date": "2024-04-30",
+    "year": "2024",
+    "orientation": "landscape",
+    "theme": "landscape"
+  },
+  {
+    "id": 24,
+    "src": "/images/gallery/2024-04-30_Ningbo_Ornate_Traditional_Miniature_2203_art.webp",
+    "alt": "An ornate miniature held in museum light — Ningbo, China",
+    "caption": "An ornate miniature held in museum light",
+    "place": "Ningbo, China",
+    "country": "China",
+    "date": "2024-04-30",
+    "year": "2024",
+    "orientation": "portrait",
+    "theme": "culture"
+  },
+  {
+    "id": 25,
+    "src": "/images/gallery/2024-04-30_Ningbo_Rock_Garden_Blue_Sky_2202_art.webp",
+    "alt": "Garden stone rising into a clear blue sky — Ningbo, China",
+    "caption": "Garden stone rising into a clear blue sky",
+    "place": "Ningbo, China",
+    "country": "China",
+    "date": "2024-04-30",
+    "year": "2024",
+    "orientation": "portrait",
+    "theme": "landscape"
+  },
+  {
+    "id": 26,
+    "src": "/images/gallery/2024-04-30_Ningbo_Sunbeam_Over_Garden_Pond_2216_art.webp",
+    "alt": "A shaft of light crossing the garden pond — Ningbo, China",
+    "caption": "A shaft of light crossing the garden pond",
+    "place": "Ningbo, China",
+    "country": "China",
+    "date": "2024-04-30",
+    "year": "2024",
+    "orientation": "portrait",
+    "theme": "landscape"
+  },
+  {
+    "id": 27,
+    "src": "/images/gallery/2024-04-30_Ningbo_Traditional_Roof_Framed_Garden_2224_art.webp",
+    "alt": "A traditional roof framing the garden beyond — Ningbo, China",
+    "caption": "A traditional roof framing the garden beyond",
+    "place": "Ningbo, China",
+    "country": "China",
+    "date": "2024-04-30",
+    "year": "2024",
+    "orientation": "portrait",
+    "theme": "culture"
+  },
+  {
+    "id": 28,
+    "src": "/images/gallery/2024-05-26_Xianyang_Airport_Geometry_1524_art.webp",
+    "alt": "Airport structure arranged in geometric rhythm — Xianyang, China",
+    "caption": "Airport structure arranged in geometric rhythm",
+    "place": "Xianyang, China",
+    "country": "China",
+    "date": "2024-05-26",
+    "year": "2024",
+    "orientation": "landscape",
+    "theme": "journey"
+  },
+  {
+    "id": 29,
+    "src": "/images/gallery/2024-06-18_Chongqing_Red_Bridge_Night_Portrait_2135_art.webp",
+    "alt": "A solitary figure beneath Chongqing's red bridge — Chongqing, China",
+    "caption": "A solitary figure beneath Chongqing's red bridge",
+    "place": "Chongqing, China",
+    "country": "China",
+    "date": "2024-06-18",
+    "year": "2024",
+    "orientation": "portrait",
+    "theme": "people"
+  },
+  {
+    "id": 30,
+    "src": "/images/gallery/2024-07-02_Dubai_Burj_Al_Arab_Beach_0808_art.webp",
+    "alt": "Burj Al Arab beyond the open beach — Dubai, United Arab Emirates",
+    "caption": "Burj Al Arab beyond the open beach",
+    "place": "Dubai, United Arab Emirates",
+    "country": "United Arab Emirates",
+    "date": "2024-07-02",
+    "year": "2024",
+    "orientation": "landscape",
+    "theme": "landscape"
+  },
+  {
+    "id": 31,
+    "src": "/images/gallery/2024-07-02_Dubai_Museum_of_the_Future_0831_art.webp",
+    "alt": "Museum of the Future resting against the Dubai sky — Dubai, United Arab Emirates",
+    "caption": "Museum of the Future resting against the Dubai sky",
     "place": "Dubai, United Arab Emirates",
     "country": "United Arab Emirates",
     "date": "2024-07-02",
@@ -72,7 +372,7 @@
     "theme": "city"
   },
   {
-    "id": 13,
+    "id": 32,
     "src": "/images/gallery/2024-07-02_Dubai_UAE_Architecture_150548.jpg",
     "alt": "Architectural detail in the Dubai afternoon light — Dubai, United Arab Emirates",
     "caption": "Architectural detail in the Dubai afternoon light",
@@ -84,19 +384,7 @@
     "theme": "city"
   },
   {
-    "id": 14,
-    "src": "/images/gallery/2024-07-02_Dubai_UAE_Burj_Khalifa_1907.jpg",
-    "alt": "Burj Khalifa rising above the evening cityscape — Dubai, United Arab Emirates",
-    "caption": "Burj Khalifa rising above the evening cityscape",
-    "place": "Dubai, United Arab Emirates",
-    "country": "United Arab Emirates",
-    "date": "2024-07-02",
-    "year": "2024",
-    "orientation": "portrait",
-    "theme": "city"
-  },
-  {
-    "id": 15,
+    "id": 33,
     "src": "/images/gallery/2024-07-02_Dubai_UAE_Architecture_193139.jpg",
     "alt": "Dubai skyline in the evening glow — Dubai, United Arab Emirates",
     "caption": "Dubai skyline in the evening glow",
@@ -108,7 +396,31 @@
     "theme": "city"
   },
   {
-    "id": 16,
+    "id": 34,
+    "src": "/images/gallery/2024-07-02_Dubai_UAE_Burj_Al_Arab.jpg",
+    "alt": "Burj Al Arab and Madinat Jumeirah waterfront — Dubai, United Arab Emirates",
+    "caption": "Burj Al Arab and Madinat Jumeirah waterfront",
+    "place": "Dubai, United Arab Emirates",
+    "country": "United Arab Emirates",
+    "date": "2024-07-02",
+    "year": "2024",
+    "orientation": "landscape",
+    "theme": "city"
+  },
+  {
+    "id": 35,
+    "src": "/images/gallery/2024-07-02_Dubai_UAE_Burj_Khalifa_1907.jpg",
+    "alt": "Burj Khalifa rising above the evening cityscape — Dubai, United Arab Emirates",
+    "caption": "Burj Khalifa rising above the evening cityscape",
+    "place": "Dubai, United Arab Emirates",
+    "country": "United Arab Emirates",
+    "date": "2024-07-02",
+    "year": "2024",
+    "orientation": "portrait",
+    "theme": "city"
+  },
+  {
+    "id": 36,
     "src": "/images/gallery/2024-07-05_Chongqing_China_Art_Architecture.jpg",
     "alt": "Contemporary art architecture and reflective facade — Chongqing, China",
     "caption": "Contemporary art architecture and reflective facade",
@@ -120,31 +432,31 @@
     "theme": "culture"
   },
   {
-    "id": 17,
-    "src": "/images/gallery/2024-07-07_Paris_France_Eiffel_Trees_2104.jpg",
-    "alt": "The Eiffel Tower framed by riverside trees — Paris, France",
-    "caption": "The Eiffel Tower framed by riverside trees",
+    "id": 37,
+    "src": "/images/gallery/2024-07-06_Paris_Louvre_Facade_1147_art.webp",
+    "alt": "The Louvre facade in measured summer light — Paris, France",
+    "caption": "The Louvre facade in measured summer light",
     "place": "Paris, France",
     "country": "France",
-    "date": "2024-07-07",
+    "date": "2024-07-06",
     "year": "2024",
-    "orientation": "portrait",
-    "theme": "city"
+    "orientation": "landscape",
+    "theme": "culture"
   },
   {
-    "id": 18,
-    "src": "/images/gallery/2024-07-07_Paris_France_Riverside_Bridge_2131.jpg",
-    "alt": "Parisian bridge and riverside life beneath a pastel sky — Paris, France",
-    "caption": "Parisian bridge and riverside life beneath a pastel sky",
+    "id": 38,
+    "src": "/images/gallery/2024-07-06_Paris_Street_Church_1147_art.webp",
+    "alt": "A Paris church emerging at the end of the street — Paris, France",
+    "caption": "A Paris church emerging at the end of the street",
     "place": "Paris, France",
     "country": "France",
-    "date": "2024-07-07",
+    "date": "2024-07-06",
     "year": "2024",
     "orientation": "landscape",
     "theme": "city"
   },
   {
-    "id": 19,
+    "id": 39,
     "src": "/images/gallery/2024-07-07_Paris_France_Eiffel_Tower_221916.jpg",
     "alt": "Eiffel Tower rising above Paris at blue hour — Paris, France",
     "caption": "Eiffel Tower rising above Paris at blue hour",
@@ -156,19 +468,7 @@
     "theme": "city"
   },
   {
-    "id": 20,
-    "src": "/images/gallery/2024-07-07_Paris_France_Eiffel_Tower_Night.jpg",
-    "alt": "Eiffel Tower illuminated at night — Paris, France",
-    "caption": "Eiffel Tower illuminated at night",
-    "place": "Paris, France",
-    "country": "France",
-    "date": "2024-07-07",
-    "year": "2024",
-    "orientation": "portrait",
-    "theme": "city"
-  },
-  {
-    "id": 21,
+    "id": 40,
     "src": "/images/gallery/2024-07-07_Paris_France_Eiffel_Tower_223119.jpg",
     "alt": "Eiffel Tower sparkling in the night sky — Paris, France",
     "caption": "Eiffel Tower sparkling in the night sky",
@@ -180,7 +480,151 @@
     "theme": "city"
   },
   {
-    "id": 22,
+    "id": 41,
+    "src": "/images/gallery/2024-07-07_Paris_France_Eiffel_Tower_Night.jpg",
+    "alt": "Eiffel Tower illuminated at night — Paris, France",
+    "caption": "Eiffel Tower illuminated at night",
+    "place": "Paris, France",
+    "country": "France",
+    "date": "2024-07-07",
+    "year": "2024",
+    "orientation": "portrait",
+    "theme": "city"
+  },
+  {
+    "id": 42,
+    "src": "/images/gallery/2024-07-07_Paris_France_Eiffel_Trees_2104.jpg",
+    "alt": "The Eiffel Tower framed by riverside trees — Paris, France",
+    "caption": "The Eiffel Tower framed by riverside trees",
+    "place": "Paris, France",
+    "country": "France",
+    "date": "2024-07-07",
+    "year": "2024",
+    "orientation": "portrait",
+    "theme": "city"
+  },
+  {
+    "id": 43,
+    "src": "/images/gallery/2024-07-07_Paris_France_Riverside_Bridge_2131.jpg",
+    "alt": "Parisian bridge and riverside life beneath a pastel sky — Paris, France",
+    "caption": "Parisian bridge and riverside life beneath a pastel sky",
+    "place": "Paris, France",
+    "country": "France",
+    "date": "2024-07-07",
+    "year": "2024",
+    "orientation": "landscape",
+    "theme": "city"
+  },
+  {
+    "id": 44,
+    "src": "/images/gallery/2024-07-07_Paris_Louvre_Courtyard_Sculptures_1428_art.webp",
+    "alt": "Sculpture and stone across the Louvre courtyard — Paris, France",
+    "caption": "Sculpture and stone across the Louvre courtyard",
+    "place": "Paris, France",
+    "country": "France",
+    "date": "2024-07-07",
+    "year": "2024",
+    "orientation": "landscape",
+    "theme": "culture"
+  },
+  {
+    "id": 45,
+    "src": "/images/gallery/2024-07-07_Paris_Louvre_Gallery_Wall_1450_art.webp",
+    "alt": "Paintings unfolding along a quiet Louvre gallery — Paris, France",
+    "caption": "Paintings unfolding along a quiet Louvre gallery",
+    "place": "Paris, France",
+    "country": "France",
+    "date": "2024-07-07",
+    "year": "2024",
+    "orientation": "landscape",
+    "theme": "culture"
+  },
+  {
+    "id": 46,
+    "src": "/images/gallery/2024-07-07_Paris_Louvre_Grand_Staircase_1433_art.webp",
+    "alt": "The Louvre staircase rising through pale stone — Paris, France",
+    "caption": "The Louvre staircase rising through pale stone",
+    "place": "Paris, France",
+    "country": "France",
+    "date": "2024-07-07",
+    "year": "2024",
+    "orientation": "portrait",
+    "theme": "culture"
+  },
+  {
+    "id": 47,
+    "src": "/images/gallery/2024-07-07_Paris_Louvre_Ornate_Ceiling_1449_art.webp",
+    "alt": "Gold, plaster, and painted history above the Louvre — Paris, France",
+    "caption": "Gold, plaster, and painted history above the Louvre",
+    "place": "Paris, France",
+    "country": "France",
+    "date": "2024-07-07",
+    "year": "2024",
+    "orientation": "portrait",
+    "theme": "culture"
+  },
+  {
+    "id": 48,
+    "src": "/images/gallery/2024-07-07_Paris_Louvre_Pyramid_Clouds_1358_art.webp",
+    "alt": "The Louvre Pyramid beneath a sweeping cloudscape — Paris, France",
+    "caption": "The Louvre Pyramid beneath a sweeping cloudscape",
+    "place": "Paris, France",
+    "country": "France",
+    "date": "2024-07-07",
+    "year": "2024",
+    "orientation": "landscape",
+    "theme": "culture"
+  },
+  {
+    "id": 49,
+    "src": "/images/gallery/2024-07-13_White_Cliffs_of_Dover_Coastline_1714_art.webp",
+    "alt": "White cliffs dissolving into sea and sky — Dover, England",
+    "caption": "White cliffs dissolving into sea and sky",
+    "place": "Dover, England",
+    "country": "United Kingdom",
+    "date": "2024-07-13",
+    "year": "2024",
+    "orientation": "landscape",
+    "theme": "landscape"
+  },
+  {
+    "id": 50,
+    "src": "/images/gallery/2024-07-13_White_Cliffs_of_Dover_Grassland_Path_1711_art.webp",
+    "alt": "A grassland path following the White Cliffs of Dover — Dover, England",
+    "caption": "A grassland path following the White Cliffs of Dover",
+    "place": "Dover, England",
+    "country": "United Kingdom",
+    "date": "2024-07-13",
+    "year": "2024",
+    "orientation": "portrait",
+    "theme": "landscape"
+  },
+  {
+    "id": 51,
+    "src": "/images/gallery/2024-07-14_London_Kew_Gardens_Cacti_1255_art.webp",
+    "alt": "Cacti arranged beneath the glasshouse light — London, England",
+    "caption": "Cacti arranged beneath the glasshouse light",
+    "place": "London, England",
+    "country": "United Kingdom",
+    "date": "2024-07-14",
+    "year": "2024",
+    "orientation": "portrait",
+    "theme": "landscape"
+  },
+  {
+    "id": 52,
+    "src": "/images/gallery/2024-07-14_London_Kew_Gardens_Glasshouse_1252_art.webp",
+    "alt": "Kew's glasshouse drawn in iron, glass, and green — London, England",
+    "caption": "Kew's glasshouse drawn in iron, glass, and green",
+    "place": "London, England",
+    "country": "United Kingdom",
+    "date": "2024-07-14",
+    "year": "2024",
+    "orientation": "portrait",
+    "theme": "culture"
+  },
+  {
+    "id": 53,
     "src": "/images/gallery/2024-07-14_London_UK_Contemporary_Gallery_1513.jpg",
     "alt": "Quiet contemporary gallery interior with layered abstract paintings — London, England",
     "caption": "Quiet contemporary gallery interior with layered abstract paintings",
@@ -192,31 +636,7 @@
     "theme": "culture"
   },
   {
-    "id": 23,
-    "src": "/images/gallery/2024-07-14_London_UK_Thames_Big_Ben.jpg",
-    "alt": "The Thames and Big Ben viewed from beneath a bridge — London, United Kingdom",
-    "caption": "The Thames and Big Ben viewed from beneath a bridge",
-    "place": "London, United Kingdom",
-    "country": "United Kingdom",
-    "date": "2024-07-14",
-    "year": "2024",
-    "orientation": "portrait",
-    "theme": "city"
-  },
-  {
-    "id": 24,
-    "src": "/images/gallery/2024-07-14_London_UK_Westminster_Bridge_1618.jpg",
-    "alt": "The Palace of Westminster framed beneath a riverside bridge — London, England",
-    "caption": "The Palace of Westminster framed beneath a riverside bridge",
-    "place": "London, England",
-    "country": "United Kingdom",
-    "date": "2024-07-14",
-    "year": "2024",
-    "orientation": "portrait",
-    "theme": "city"
-  },
-  {
-    "id": 25,
+    "id": 54,
     "src": "/images/gallery/2024-07-14_London_UK_Landmarks_162128.jpg",
     "alt": "Historic London architecture and summer cityscape — London, United Kingdom",
     "caption": "Historic London architecture and summer cityscape",
@@ -228,7 +648,7 @@
     "theme": "city"
   },
   {
-    "id": 26,
+    "id": 55,
     "src": "/images/gallery/2024-07-14_London_UK_Landmarks_162234.jpg",
     "alt": "London landmark framed in a vertical composition — London, United Kingdom",
     "caption": "London landmark framed in a vertical composition",
@@ -240,7 +660,7 @@
     "theme": "city"
   },
   {
-    "id": 27,
+    "id": 56,
     "src": "/images/gallery/2024-07-14_London_UK_Landmarks_162415.jpg",
     "alt": "Architectural details of historic London — London, United Kingdom",
     "caption": "Architectural details of historic London",
@@ -252,7 +672,7 @@
     "theme": "city"
   },
   {
-    "id": 28,
+    "id": 57,
     "src": "/images/gallery/2024-07-14_London_UK_Landmarks_162837.jpg",
     "alt": "Westminster and the Thames in a wide city view — London, United Kingdom",
     "caption": "Westminster and the Thames in a wide city view",
@@ -264,7 +684,7 @@
     "theme": "city"
   },
   {
-    "id": 29,
+    "id": 58,
     "src": "/images/gallery/2024-07-14_London_UK_Landmarks_163942.jpg",
     "alt": "Palace of Westminster and London skyline — London, United Kingdom",
     "caption": "Palace of Westminster and London skyline",
@@ -276,7 +696,7 @@
     "theme": "city"
   },
   {
-    "id": 30,
+    "id": 59,
     "src": "/images/gallery/2024-07-14_London_UK_Landmarks_164315.jpg",
     "alt": "Gothic architecture in Westminster — London, United Kingdom",
     "caption": "Gothic architecture in Westminster",
@@ -288,7 +708,7 @@
     "theme": "city"
   },
   {
-    "id": 31,
+    "id": 60,
     "src": "/images/gallery/2024-07-14_London_UK_Landmarks_170126.jpg",
     "alt": "Interior architecture and light in Westminster — London, United Kingdom",
     "caption": "Interior architecture and light in Westminster",
@@ -300,7 +720,7 @@
     "theme": "city"
   },
   {
-    "id": 32,
+    "id": 61,
     "src": "/images/gallery/2024-07-14_London_UK_Landmarks_172838.jpg",
     "alt": "Stained glass and historic London craftsmanship — London, United Kingdom",
     "caption": "Stained glass and historic London craftsmanship",
@@ -312,7 +732,7 @@
     "theme": "city"
   },
   {
-    "id": 33,
+    "id": 62,
     "src": "/images/gallery/2024-07-14_London_UK_Landmarks_173514.jpg",
     "alt": "Westminster Abbey exterior and surrounding city — London, United Kingdom",
     "caption": "Westminster Abbey exterior and surrounding city",
@@ -324,7 +744,7 @@
     "theme": "city"
   },
   {
-    "id": 34,
+    "id": 63,
     "src": "/images/gallery/2024-07-14_London_UK_Landmarks_175533.jpg",
     "alt": "Historic interior in the heart of London — London, United Kingdom",
     "caption": "Historic interior in the heart of London",
@@ -336,7 +756,31 @@
     "theme": "culture"
   },
   {
-    "id": 35,
+    "id": 64,
+    "src": "/images/gallery/2024-07-14_London_UK_Thames_Big_Ben.jpg",
+    "alt": "The Thames and Big Ben viewed from beneath a bridge — London, United Kingdom",
+    "caption": "The Thames and Big Ben viewed from beneath a bridge",
+    "place": "London, United Kingdom",
+    "country": "United Kingdom",
+    "date": "2024-07-14",
+    "year": "2024",
+    "orientation": "portrait",
+    "theme": "city"
+  },
+  {
+    "id": 65,
+    "src": "/images/gallery/2024-07-14_London_UK_Westminster_Bridge_1618.jpg",
+    "alt": "The Palace of Westminster framed beneath a riverside bridge — London, England",
+    "caption": "The Palace of Westminster framed beneath a riverside bridge",
+    "place": "London, England",
+    "country": "United Kingdom",
+    "date": "2024-07-14",
+    "year": "2024",
+    "orientation": "portrait",
+    "theme": "city"
+  },
+  {
+    "id": 66,
     "src": "/images/gallery/2024-08-23_Shaoxing_China_Watertown_Window_1337.jpg",
     "alt": "A quiet water-town courtyard framed through an old wooden window — Shaoxing, China",
     "caption": "A quiet water-town courtyard framed through an old wooden window",
@@ -348,7 +792,7 @@
     "theme": "journey"
   },
   {
-    "id": 36,
+    "id": 67,
     "src": "/images/gallery/2024-08-24_Hangzhou_China_Museum_Vessel_1441.jpg",
     "alt": "Gilded ritual vessel displayed in a darkened museum gallery — Hangzhou, China",
     "caption": "Gilded ritual vessel displayed in a darkened museum gallery",
@@ -360,19 +804,31 @@
     "theme": "culture"
   },
   {
-    "id": 37,
-    "src": "/images/gallery/2024-10-20_Ningbo_China_Traditional_Nightscape_211833.jpg",
-    "alt": "Traditional-style architecture glowing in warm night light — Ningbo, China",
-    "caption": "Traditional-style architecture glowing in warm night light",
-    "place": "Ningbo, China",
+    "id": 68,
+    "src": "/images/gallery/2024-09-27_Xiamen_Harbour_Island_1148_art.webp",
+    "alt": "A harbour island resting in pale coastal light — Xiamen, China",
+    "caption": "A harbour island resting in pale coastal light",
+    "place": "Xiamen, China",
     "country": "China",
-    "date": "2024-10-20",
+    "date": "2024-09-27",
     "year": "2024",
     "orientation": "landscape",
-    "theme": "city"
+    "theme": "landscape"
   },
   {
-    "id": 38,
+    "id": 69,
+    "src": "/images/gallery/2024-10-12_Shanghai_Aerial_Cloudscape_1340_art.webp",
+    "alt": "Shanghai glimpsed between clouds from the air — Shanghai, China",
+    "caption": "Shanghai glimpsed between clouds from the air",
+    "place": "Shanghai, China",
+    "country": "China",
+    "date": "2024-10-12",
+    "year": "2024",
+    "orientation": "landscape",
+    "theme": "journey"
+  },
+  {
+    "id": 70,
     "src": "/images/gallery/2024-10-20_Ningbo_China_Modern_Nightscape_213400.jpg",
     "alt": "Modern waterfront buildings illuminated at night — Ningbo, China",
     "caption": "Modern waterfront buildings illuminated at night",
@@ -384,10 +840,34 @@
     "theme": "city"
   },
   {
-    "id": 39,
-    "src": "/images/gallery/2024-11-17_Shanwei_China_Rocky_Coast_163546.jpg",
-    "alt": "Rocky shoreline and distant coastal landmark — Shanwei, China",
-    "caption": "Rocky shoreline and distant coastal landmark",
+    "id": 71,
+    "src": "/images/gallery/2024-10-20_Ningbo_China_Traditional_Nightscape_211833.jpg",
+    "alt": "Traditional-style architecture glowing in warm night light — Ningbo, China",
+    "caption": "Traditional-style architecture glowing in warm night light",
+    "place": "Ningbo, China",
+    "country": "China",
+    "date": "2024-10-20",
+    "year": "2024",
+    "orientation": "landscape",
+    "theme": "city"
+  },
+  {
+    "id": 72,
+    "src": "/images/gallery/2024-10-20_Ningbo_Riverfront_Purple_Lights_2127_art.webp",
+    "alt": "Purple riverfront light reflected across Ningbo — Ningbo, China",
+    "caption": "Purple riverfront light reflected across Ningbo",
+    "place": "Ningbo, China",
+    "country": "China",
+    "date": "2024-10-20",
+    "year": "2024",
+    "orientation": "portrait",
+    "theme": "city"
+  },
+  {
+    "id": 73,
+    "src": "/images/gallery/2024-11-17_Shanwei_Bay_Panorama_1511_art.webp",
+    "alt": "A wide bay unfolding beneath the coastal sky — Shanwei, China",
+    "caption": "A wide bay unfolding beneath the coastal sky",
     "place": "Shanwei, China",
     "country": "China",
     "date": "2024-11-17",
@@ -396,7 +876,7 @@
     "theme": "landscape"
   },
   {
-    "id": 40,
+    "id": 74,
     "src": "/images/gallery/2024-11-17_Shanwei_China_Coast_163551.jpg",
     "alt": "Open sea and rocky coast under a clear blue sky — Shanwei, China",
     "caption": "Open sea and rocky coast under a clear blue sky",
@@ -408,19 +888,43 @@
     "theme": "landscape"
   },
   {
-    "id": 41,
-    "src": "/images/gallery/2024-11-23_Dongguan_China_Sunset_Skyline_180925.jpg",
-    "alt": "City silhouette beneath a dramatic sunset sky — Dongguan, China",
-    "caption": "City silhouette beneath a dramatic sunset sky",
-    "place": "Dongguan, China",
+    "id": 75,
+    "src": "/images/gallery/2024-11-17_Shanwei_China_Rocky_Coast_163546.jpg",
+    "alt": "Rocky shoreline and distant coastal landmark — Shanwei, China",
+    "caption": "Rocky shoreline and distant coastal landmark",
+    "place": "Shanwei, China",
     "country": "China",
-    "date": "2024-11-23",
+    "date": "2024-11-17",
     "year": "2024",
     "orientation": "landscape",
-    "theme": "city"
+    "theme": "landscape"
   },
   {
-    "id": 42,
+    "id": 76,
+    "src": "/images/gallery/2024-11-17_Shanwei_Rocky_Shore_1631_art.webp",
+    "alt": "Rock formations gathering at the water's edge — Shanwei, China",
+    "caption": "Rock formations gathering at the water's edge",
+    "place": "Shanwei, China",
+    "country": "China",
+    "date": "2024-11-17",
+    "year": "2024",
+    "orientation": "landscape",
+    "theme": "landscape"
+  },
+  {
+    "id": 77,
+    "src": "/images/gallery/2024-11-17_Shanwei_Sea_And_Rocks_1635_art.webp",
+    "alt": "Sea foam threading between dark coastal rocks — Shanwei, China",
+    "caption": "Sea foam threading between dark coastal rocks",
+    "place": "Shanwei, China",
+    "country": "China",
+    "date": "2024-11-17",
+    "year": "2024",
+    "orientation": "landscape",
+    "theme": "landscape"
+  },
+  {
+    "id": 78,
     "src": "/images/gallery/2024-11-23_Dongguan_China_Night_Architecture_185323.jpg",
     "alt": "Illuminated white landmark rising above the night skyline — Dongguan, China",
     "caption": "Illuminated white landmark rising above the night skyline",
@@ -432,7 +936,91 @@
     "theme": "city"
   },
   {
-    "id": 43,
+    "id": 79,
+    "src": "/images/gallery/2024-11-23_Dongguan_China_Sunset_Skyline_180925.jpg",
+    "alt": "City silhouette beneath a dramatic sunset sky — Dongguan, China",
+    "caption": "City silhouette beneath a dramatic sunset sky",
+    "place": "Dongguan, China",
+    "country": "China",
+    "date": "2024-11-23",
+    "year": "2024",
+    "orientation": "landscape",
+    "theme": "city"
+  },
+  {
+    "id": 80,
+    "src": "/images/gallery/2025-01-06_Singapore_Marina_Bay_Sands_From_Padang_1826_art.webp",
+    "alt": "Marina Bay Sands beneath a gathering blue-hour sky — Singapore",
+    "caption": "Marina Bay Sands beneath a gathering blue-hour sky",
+    "place": "Singapore",
+    "country": "Singapore",
+    "date": "2025-01-06",
+    "year": "2025",
+    "orientation": "portrait",
+    "theme": "city"
+  },
+  {
+    "id": 81,
+    "src": "/images/gallery/2025-01-06_Singapore_Merlion_Marina_Bay_1841_art.webp",
+    "alt": "The Merlion looking across Marina Bay — Singapore",
+    "caption": "The Merlion looking across Marina Bay",
+    "place": "Singapore",
+    "country": "Singapore",
+    "date": "2025-01-06",
+    "year": "2025",
+    "orientation": "portrait",
+    "theme": "culture"
+  },
+  {
+    "id": 82,
+    "src": "/images/gallery/2025-01-06_Singapore_National_Gallery_Canopy_1825_art.webp",
+    "alt": "A geometric canopy above Singapore's National Gallery — Singapore",
+    "caption": "A geometric canopy above Singapore's National Gallery",
+    "place": "Singapore",
+    "country": "Singapore",
+    "date": "2025-01-06",
+    "year": "2025",
+    "orientation": "portrait",
+    "theme": "culture"
+  },
+  {
+    "id": 83,
+    "src": "/images/gallery/2025-01-06_Singapore_National_Gallery_Facade_1829_art.webp",
+    "alt": "National Gallery Singapore in measured tropical light — Singapore",
+    "caption": "National Gallery Singapore in measured tropical light",
+    "place": "Singapore",
+    "country": "Singapore",
+    "date": "2025-01-06",
+    "year": "2025",
+    "orientation": "landscape",
+    "theme": "culture"
+  },
+  {
+    "id": 84,
+    "src": "/images/gallery/2025-01-06_Singapore_St_Andrews_Cathedral_Interior_1817_art.webp",
+    "alt": "St Andrew's Cathedral held in quiet white light — Singapore",
+    "caption": "St Andrew's Cathedral held in quiet white light",
+    "place": "Singapore",
+    "country": "Singapore",
+    "date": "2025-01-06",
+    "year": "2025",
+    "orientation": "portrait",
+    "theme": "culture"
+  },
+  {
+    "id": 85,
+    "src": "/images/gallery/2025-01-06_Singapore_Victoria_Memorial_Hall_1832_art.webp",
+    "alt": "Victoria Memorial Hall across the civic district — Singapore",
+    "caption": "Victoria Memorial Hall across the civic district",
+    "place": "Singapore",
+    "country": "Singapore",
+    "date": "2025-01-06",
+    "year": "2025",
+    "orientation": "portrait",
+    "theme": "city"
+  },
+  {
+    "id": 86,
     "src": "/images/gallery/2025-01-11_Singapore_Jewel_Rain_Vortex_1044.jpg",
     "alt": "Indoor rainforest and the Rain Vortex beneath Jewel Changi Airport — Singapore",
     "caption": "Indoor rainforest and the Rain Vortex beneath Jewel Changi Airport",
@@ -444,7 +1032,7 @@
     "theme": "journey"
   },
   {
-    "id": 44,
+    "id": 87,
     "src": "/images/gallery/2025-01-27_Hong_Kong_Harbour_Boat_1122.jpg",
     "alt": "Working boat crossing Victoria Harbour before the city skyline — Hong Kong",
     "caption": "Working boat crossing Victoria Harbour before the city skyline",
@@ -456,7 +1044,7 @@
     "theme": "city"
   },
   {
-    "id": 45,
+    "id": 88,
     "src": "/images/gallery/2025-03-29_Suzhou_China_Garden_Pavilion_0820.jpg",
     "alt": "Classical Suzhou garden pavilion framed by spring greenery — Suzhou, China",
     "caption": "Classical Suzhou garden pavilion framed by spring greenery",
@@ -468,7 +1056,19 @@
     "theme": "landscape"
   },
   {
-    "id": 46,
+    "id": 89,
+    "src": "/images/gallery/2025-03-29_Suzhou_Garden_Courtyard_0820_art.webp",
+    "alt": "A Suzhou courtyard opening through layered green — Suzhou, China",
+    "caption": "A Suzhou courtyard opening through layered green",
+    "place": "Suzhou, China",
+    "country": "China",
+    "date": "2025-03-29",
+    "year": "2025",
+    "orientation": "portrait",
+    "theme": "landscape"
+  },
+  {
+    "id": 90,
     "src": "/images/gallery/2025-06-07_Nepal_Himalayan_Valley_0804.jpg",
     "alt": "Himalayan ridges and terraced valleys rising through drifting clouds — Nepal",
     "caption": "Himalayan ridges and terraced valleys rising through drifting clouds",
@@ -480,7 +1080,7 @@
     "theme": "landscape"
   },
   {
-    "id": 47,
+    "id": 91,
     "src": "/images/gallery/2025-12-22_Nevada_USA_Red_Rock_Portrait_1353.jpg",
     "alt": "Liuchao Jin among sweeping red-rock formations — Nevada, United States",
     "caption": "Liuchao Jin among sweeping red-rock formations",
@@ -492,7 +1092,7 @@
     "theme": "people"
   },
   {
-    "id": 48,
+    "id": 92,
     "src": "/images/gallery/2025-12-22_Nevada_USA_Sandstone_Texture_1357.jpg",
     "alt": "Abstract sandstone textures in the desert — Nevada, United States",
     "caption": "Abstract sandstone textures in the desert",
@@ -504,7 +1104,7 @@
     "theme": "landscape"
   },
   {
-    "id": 49,
+    "id": 93,
     "src": "/images/gallery/2026-01-12_California_USA_Campus_Lawn_1147.jpg",
     "alt": "Sunlit campus lawn framed by mature trees — California, United States",
     "caption": "Sunlit campus lawn framed by mature trees",
@@ -516,19 +1116,7 @@
     "theme": "people"
   },
   {
-    "id": 50,
-    "src": "/images/gallery/2026-01-19_California_USA_Coast_Sunset.jpg",
-    "alt": "Pacific coast at sunset — California, United States",
-    "caption": "Pacific coast at sunset",
-    "place": "California, United States",
-    "country": "United States",
-    "date": "2026-01-19",
-    "year": "2026",
-    "orientation": "landscape",
-    "theme": "landscape"
-  },
-  {
-    "id": 51,
+    "id": 94,
     "src": "/images/gallery/2026-01-19_California_USA_Coast_170633.jpg",
     "alt": "Palm trees and the California sunset sky — California, United States",
     "caption": "Palm trees and the California sunset sky",
@@ -540,7 +1128,55 @@
     "theme": "landscape"
   },
   {
-    "id": 52,
+    "id": 95,
+    "src": "/images/gallery/2026-01-19_California_USA_Coast_Sunset.jpg",
+    "alt": "Pacific coast at sunset — California, United States",
+    "caption": "Pacific coast at sunset",
+    "place": "California, United States",
+    "country": "United States",
+    "date": "2026-01-19",
+    "year": "2026",
+    "orientation": "landscape",
+    "theme": "landscape"
+  },
+  {
+    "id": 96,
+    "src": "/images/gallery/2026-01-19_California_USA_Sun_Pillar_Reflection_1634_art.webp",
+    "alt": "A sun pillar mirrored on the California coast — California, United States",
+    "caption": "A sun pillar mirrored on the California coast",
+    "place": "California, United States",
+    "country": "United States",
+    "date": "2026-01-19",
+    "year": "2026",
+    "orientation": "portrait",
+    "theme": "landscape"
+  },
+  {
+    "id": 97,
+    "src": "/images/gallery/2026-02-13_Baoji_Courtyard_Tower_1254_art.webp",
+    "alt": "A courtyard tower rising through winter light — Baoji, China",
+    "caption": "A courtyard tower rising through winter light",
+    "place": "Baoji, China",
+    "country": "China",
+    "date": "2026-02-13",
+    "year": "2026",
+    "orientation": "portrait",
+    "theme": "culture"
+  },
+  {
+    "id": 98,
+    "src": "/images/gallery/2026-06-05_Huizhou_Window_Sky_Geometry_1156_art.webp",
+    "alt": "Sky and architecture reduced to a window geometry — Huizhou, China",
+    "caption": "Sky and architecture reduced to a window geometry",
+    "place": "Huizhou, China",
+    "country": "China",
+    "date": "2026-06-05",
+    "year": "2026",
+    "orientation": "portrait",
+    "theme": "city"
+  },
+  {
+    "id": 99,
     "src": "/images/gallery/2026-08-26_Yantai_China_Blue_Drone_Stage_194132_art.jpg",
     "alt": "Blue drone choreography above a coastal stage — Yantai, China",
     "caption": "Blue drone choreography above a coastal stage",
@@ -552,7 +1188,7 @@
     "theme": "culture"
   },
   {
-    "id": 53,
+    "id": 100,
     "src": "/images/gallery/2026-08-26_Yantai_China_Coastal_Interior_182350_art.jpg",
     "alt": "A quiet coastal interior washed in evening blue — Yantai, China",
     "caption": "A quiet coastal interior washed in evening blue",
@@ -564,7 +1200,7 @@
     "theme": "journey"
   },
   {
-    "id": 54,
+    "id": 101,
     "src": "/images/gallery/2026-08-26_Yantai_China_Coastal_Water_Show_154229_art.jpg",
     "alt": "Water and light arranged across the coast — Yantai, China",
     "caption": "Water and light arranged across the coast",
@@ -576,7 +1212,7 @@
     "theme": "culture"
   },
   {
-    "id": 55,
+    "id": 102,
     "src": "/images/gallery/2026-08-26_Yantai_China_Historic_Apple_Orchard_Alley_212235_art.jpg",
     "alt": "An orchard passage glowing after dark — Yantai, China",
     "caption": "An orchard passage glowing after dark",
@@ -588,7 +1224,7 @@
     "theme": "journey"
   },
   {
-    "id": 56,
+    "id": 103,
     "src": "/images/gallery/2026-08-26_Yantai_China_Illuminated_Pavilion_Dancer_192109_art.jpg",
     "alt": "A dancer framed by an illuminated pavilion — Yantai, China",
     "caption": "A dancer framed by an illuminated pavilion",
@@ -600,7 +1236,7 @@
     "theme": "culture"
   },
   {
-    "id": 57,
+    "id": 104,
     "src": "/images/gallery/2026-08-26_Yantai_China_Immersive_Stage_Performance_172727_art.jpg",
     "alt": "Immersive performance unfolding in coastal light — Yantai, China",
     "caption": "Immersive performance unfolding in coastal light",
@@ -612,7 +1248,7 @@
     "theme": "culture"
   },
   {
-    "id": 58,
+    "id": 105,
     "src": "/images/gallery/2026-08-26_Yantai_China_Lantern_City_Gate_210554_art.jpg",
     "alt": "Lantern-lit gate at the edge of night — Yantai, China",
     "caption": "Lantern-lit gate at the edge of night",
@@ -624,7 +1260,7 @@
     "theme": "culture"
   },
   {
-    "id": 59,
+    "id": 106,
     "src": "/images/gallery/2026-08-26_Yantai_China_Moon_Drone_Show_193237_art.jpg",
     "alt": "A moon drawn in light above the night stage — Yantai, China",
     "caption": "A moon drawn in light above the night stage",
@@ -636,7 +1272,7 @@
     "theme": "culture"
   },
   {
-    "id": 60,
+    "id": 107,
     "src": "/images/gallery/2026-08-26_Yantai_China_Pavilion_Spark_Performance_194044_art.jpg",
     "alt": "Sparks tracing the pavilion at night — Yantai, China",
     "caption": "Sparks tracing the pavilion at night",
@@ -648,7 +1284,7 @@
     "theme": "culture"
   },
   {
-    "id": 61,
+    "id": 108,
     "src": "/images/gallery/2026-08-27_Yantai_China_Airport_Geometric_Ceiling_165954_art.jpg",
     "alt": "Geometric airport ceiling in quiet symmetry — Yantai, China",
     "caption": "Geometric airport ceiling in quiet symmetry",
@@ -660,7 +1296,7 @@
     "theme": "journey"
   },
   {
-    "id": 62,
+    "id": 109,
     "src": "/images/gallery/2026-08-27_Yantai_China_Coastal_Aerial_View_124542_art.jpg",
     "alt": "Coastline seen from the air — Yantai, China",
     "caption": "Coastline seen from the air",
@@ -672,7 +1308,7 @@
     "theme": "landscape"
   },
   {
-    "id": 63,
+    "id": 110,
     "src": "/images/gallery/2026-08-27_Yantai_China_Coastline_Above_Clouds_124655_art.jpg",
     "alt": "The coast dissolving beneath cloud — Yantai, China",
     "caption": "The coast dissolving beneath cloud",
@@ -684,7 +1320,7 @@
     "theme": "landscape"
   },
   {
-    "id": 64,
+    "id": 111,
     "src": "/images/gallery/2026-09-20_Xinjiang_China_Desert_Mountains_Aerial_131239_art.jpg",
     "alt": "Desert mountains traced from the air — Xinjiang, China",
     "caption": "Desert mountains traced from the air",
@@ -696,7 +1332,7 @@
     "theme": "landscape"
   },
   {
-    "id": 65,
+    "id": 112,
     "src": "/images/gallery/2026-09-20_Xinjiang_China_Tianshan_Mountains_Aerial_132106_art.jpg",
     "alt": "Tianshan ridges beneath a mineral sky — Xinjiang, China",
     "caption": "Tianshan ridges beneath a mineral sky",
@@ -708,7 +1344,7 @@
     "theme": "landscape"
   },
   {
-    "id": 66,
+    "id": 113,
     "src": "/images/gallery/2026-09-22_Hotan_China_Jade_Lake_Desert_Jump_171510_art.jpg",
     "alt": "A suspended moment beside Jade Lake — Hotan, Xinjiang, China",
     "caption": "A suspended moment beside Jade Lake",
@@ -720,7 +1356,7 @@
     "theme": "people"
   },
   {
-    "id": 67,
+    "id": 114,
     "src": "/images/gallery/2026-09-22_Hotan_China_Jade_Lake_Desert_Landscape_164423_art.jpg",
     "alt": "Jade Lake held between desert and sky — Hotan, Xinjiang, China",
     "caption": "Jade Lake held between desert and sky",
@@ -732,7 +1368,7 @@
     "theme": "landscape"
   },
   {
-    "id": 68,
+    "id": 115,
     "src": "/images/gallery/2026-09-23_Hotan_China_Yotkan_Ancient_City_Dance_190615_art.jpg",
     "alt": "Dance unfolding before Yotkan's walls — Hotan, Xinjiang, China",
     "caption": "Dance unfolding before Yotkan's walls",
@@ -744,7 +1380,7 @@
     "theme": "culture"
   },
   {
-    "id": 69,
+    "id": 116,
     "src": "/images/gallery/2026-09-23_Hotan_China_Yotkan_Ancient_City_Gate_185848_art.jpg",
     "alt": "Yotkan's gate in the last light — Hotan, Xinjiang, China",
     "caption": "Yotkan's gate in the last light",
@@ -756,7 +1392,7 @@
     "theme": "culture"
   },
   {
-    "id": 70,
+    "id": 117,
     "src": "/images/gallery/2026-09-23_Hotan_China_Yotkan_Ancient_City_Twilight_Gate_205938_art.jpg",
     "alt": "Ancient walls entering the blue hour — Hotan, Xinjiang, China",
     "caption": "Ancient walls entering the blue hour",
@@ -768,7 +1404,7 @@
     "theme": "culture"
   },
   {
-    "id": 71,
+    "id": 118,
     "src": "/images/gallery/2026-09-23_Hotan_China_Yotkan_Fire_Performance_212303_art.jpg",
     "alt": "Fire performance against Yotkan's night — Hotan, Xinjiang, China",
     "caption": "Fire performance against Yotkan's night",
@@ -780,7 +1416,7 @@
     "theme": "culture"
   },
   {
-    "id": 72,
+    "id": 119,
     "src": "/images/gallery/2026-09-23_Hotan_China_Yotkan_Red_Tower_Reflection_211324_art.jpg",
     "alt": "A red tower mirrored after dark — Hotan, Xinjiang, China",
     "caption": "A red tower mirrored after dark",
@@ -792,7 +1428,7 @@
     "theme": "culture"
   },
   {
-    "id": 73,
+    "id": 120,
     "src": "/images/gallery/2026-09-24_Urumqi_China_Grand_Bazaar_Entrance_191713_art.jpg",
     "alt": "The Grand Bazaar illuminated at night — Urumqi, Xinjiang, China",
     "caption": "The Grand Bazaar illuminated at night",
@@ -804,7 +1440,7 @@
     "theme": "city"
   },
   {
-    "id": 74,
+    "id": 121,
     "src": "/images/gallery/2026-09-24_Urumqi_China_Hongguangshan_Golden_Buddha_121529_art.jpg",
     "alt": "Golden Buddha above Hongguangshan — Urumqi, Xinjiang, China",
     "caption": "Golden Buddha above Hongguangshan",
@@ -816,7 +1452,7 @@
     "theme": "culture"
   },
   {
-    "id": 75,
+    "id": 122,
     "src": "/images/gallery/2026-09-24_Urumqi_China_Hongguangshan_Golden_Sculptures_121239_art.jpg",
     "alt": "Golden figures gathered in mountain light — Urumqi, Xinjiang, China",
     "caption": "Golden figures gathered in mountain light",
@@ -828,7 +1464,7 @@
     "theme": "culture"
   },
   {
-    "id": 76,
+    "id": 123,
     "src": "/images/gallery/2026-09-24_Urumqi_China_Hongguangshan_Temple_Arch_120909_art.jpg",
     "alt": "Temple arch framing the Urumqi sky — Urumqi, Xinjiang, China",
     "caption": "Temple arch framing the Urumqi sky",
@@ -840,7 +1476,7 @@
     "theme": "culture"
   },
   {
-    "id": 77,
+    "id": 124,
     "src": "/images/gallery/2026-09-24_Urumqi_China_Museum_Modern_Architecture_114826_art.jpg",
     "alt": "Modern museum geometry in Urumqi — Urumqi, Xinjiang, China",
     "caption": "Modern museum geometry in Urumqi",
@@ -852,7 +1488,7 @@
     "theme": "city"
   },
   {
-    "id": 78,
+    "id": 125,
     "src": "/images/gallery/2026-09-24_Urumqi_China_Yidaoqiao_Mosque_Architecture_181349_art.jpg",
     "alt": "Yidaoqiao's facade in the evening — Urumqi, Xinjiang, China",
     "caption": "Yidaoqiao's facade in the evening",
@@ -864,7 +1500,7 @@
     "theme": "culture"
   },
   {
-    "id": 79,
+    "id": 126,
     "src": "/images/gallery/2026-09-25_Xinjiang_China_Night_Flight_Clouds_041927_art.jpg",
     "alt": "Cloud layers seen from a night flight — Xinjiang, China",
     "caption": "Cloud layers seen from a night flight",
@@ -876,7 +1512,7 @@
     "theme": "journey"
   },
   {
-    "id": 80,
+    "id": 127,
     "src": "/images/gallery/2026-10-12_Hong_Kong_Shenzhen_Huanggang_Checkpoint_China_City_Transit_Skyline_092106_art.jpg",
     "alt": "Transit lines between Shenzhen and Hong Kong — Huanggang Checkpoint, Shenzhen–Hong Kong",
     "caption": "Transit lines between Shenzhen and Hong Kong",
@@ -888,7 +1524,7 @@
     "theme": "city"
   },
   {
-    "id": 81,
+    "id": 128,
     "src": "/images/gallery/2026-10-13_Beijing_China_Futuristic_Exhibition_Corridor_193146_art.jpg",
     "alt": "A futuristic corridor of steel and light — Beijing, China",
     "caption": "A futuristic corridor of steel and light",
@@ -900,7 +1536,7 @@
     "theme": "city"
   },
   {
-    "id": 82,
+    "id": 129,
     "src": "/images/gallery/2026-10-14_Beijing_China_Beihang_Classic_Aircraft_174557_art.jpg",
     "alt": "Classic aircraft at Beihang — Beijing, China",
     "caption": "Classic aircraft at Beihang",
@@ -912,7 +1548,7 @@
     "theme": "journey"
   },
   {
-    "id": 83,
+    "id": 130,
     "src": "/images/gallery/2026-10-16_HongKong_China_Cargo_Ship_Harbour_114332_art.jpg",
     "alt": "A cargo ship crossing Hong Kong harbour — Hong Kong",
     "caption": "A cargo ship crossing Hong Kong harbour",
@@ -924,7 +1560,31 @@
     "theme": "journey"
   },
   {
-    "id": 84,
+    "id": 131,
+    "src": "/images/gallery/2026-10-17_Harbin_China_Central_Street_Night_Portrait_211034_art.webp",
+    "alt": "A winter portrait beneath the lights of Central Street — Harbin, China",
+    "caption": "A winter portrait beneath the lights of Central Street",
+    "place": "Harbin, China",
+    "country": "China",
+    "date": "2026-10-17",
+    "year": "2026",
+    "orientation": "portrait",
+    "theme": "people"
+  },
+  {
+    "id": 132,
+    "src": "/images/gallery/2026-10-17_Harbin_China_Historic_Street_201713_art.webp",
+    "alt": "Historic Harbin facades along the evening street — Harbin, China",
+    "caption": "Historic Harbin facades along the evening street",
+    "place": "Harbin, China",
+    "country": "China",
+    "date": "2026-10-17",
+    "year": "2026",
+    "orientation": "landscape",
+    "theme": "city"
+  },
+  {
+    "id": 133,
     "src": "/images/gallery/2026-10-17_Harbin_China_Musical_Sculpture_Facade_202951_art.jpg",
     "alt": "Music, flowers, and architecture after dark — Harbin, China",
     "caption": "Music, flowers, and architecture after dark",
@@ -936,7 +1596,7 @@
     "theme": "culture"
   },
   {
-    "id": 85,
+    "id": 134,
     "src": "/images/gallery/2026-10-17_Harbin_China_Neon_Historic_Facade_200040_art.jpg",
     "alt": "Harbin's layered signs and historic facades — Harbin, China",
     "caption": "Harbin's layered signs and historic facades",
@@ -948,7 +1608,19 @@
     "theme": "city"
   },
   {
-    "id": 86,
+    "id": 135,
+    "src": "/images/gallery/2026-10-17_Harbin_China_Saint_Sophia_Cathedral_202725_art.webp",
+    "alt": "Saint Sophia Cathedral glowing through the Harbin night — Harbin, China",
+    "caption": "Saint Sophia Cathedral glowing through the Harbin night",
+    "place": "Harbin, China",
+    "country": "China",
+    "date": "2026-10-17",
+    "year": "2026",
+    "orientation": "portrait",
+    "theme": "culture"
+  },
+  {
+    "id": 136,
     "src": "/images/gallery/2026-10-17_Harbin_China_Saint_Sophia_Facade_202019_art.jpg",
     "alt": "Saint Sophia rendered in brick and gold — Harbin, China",
     "caption": "Saint Sophia rendered in brick and gold",
@@ -960,7 +1632,7 @@
     "theme": "culture"
   },
   {
-    "id": 87,
+    "id": 137,
     "src": "/images/gallery/2026-10-19_Harbin_China_Airport_Wing_Sunlight_154437_art.jpg",
     "alt": "Sunlight across an airport wing — Harbin, China",
     "caption": "Sunlight across an airport wing",
@@ -972,7 +1644,7 @@
     "theme": "journey"
   },
   {
-    "id": 88,
+    "id": 138,
     "src": "/images/gallery/2026-10-21_Hangzhou_China_Traditional_Courtyard_Koi_Pond_155633_art.jpg",
     "alt": "Koi beneath a traditional Hangzhou courtyard — Hangzhou, China",
     "caption": "Koi beneath a traditional Hangzhou courtyard",
@@ -984,7 +1656,7 @@
     "theme": "culture"
   },
   {
-    "id": 89,
+    "id": 139,
     "src": "/images/gallery/2026-10-23_HongKong_China_CUHK_Engineering_Building_074740_art.jpg",
     "alt": "Engineering framed by mountain and sky — Hong Kong",
     "caption": "Engineering framed by mountain and sky",
@@ -996,7 +1668,7 @@
     "theme": "city"
   },
   {
-    "id": 90,
+    "id": 140,
     "src": "/images/gallery/2026-11-01_Huizhou_China_Coastal_Balcony_View_094251_art.jpg",
     "alt": "Coastal quiet above Huizhou — Huizhou, China",
     "caption": "Coastal quiet above Huizhou",
