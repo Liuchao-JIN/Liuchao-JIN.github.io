@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Films"
+title: "Amateur"
 permalink: /amateur/
 excerpt: "Film, visual storytelling, and television reporting beyond the lab."
 author_profile: true
@@ -12,8 +12,8 @@ redirect_from:
 <div class="amateur-page">
   <section class="amateur-hero" aria-labelledby="amateur-title">
     <div class="amateur-hero__content">
-      <p class="amateur-eyebrow">BEYOND THE LAB · MOVING IMAGES</p>
-      <h1 id="amateur-title">Films &amp;<br>visual stories.</h1>
+      <p class="amateur-eyebrow">BEYOND THE LAB</p>
+      <h1 id="amateur-title">Stories told through image, sound, and observation.</h1>
       <p class="amateur-hero__lead">Alongside research, I explore visual storytelling through short films, video essays, editing, and television reporting. These projects are another way of studying people, places, and the ideas that connect them.</p>
       <div class="amateur-hero__actions">
         <a class="amateur-button amateur-button--primary" href="#selected-work">Explore selected work <span aria-hidden="true">↓</span></a>
@@ -54,9 +54,6 @@ redirect_from:
         <div class="amateur-card__meta"><span>Film remix</span><span>Bilibili</span></div>
         <h3>Interstellar Remix</h3>
         <p>A visual remix bringing together Christopher Nolan’s <em>Interstellar</em> and Leonardo Dalessandri’s <em>Watchtower of Turkey</em>—exploring memory, travel, and wonder through color and rhythm.</p>
-        <dl class="amateur-credits">
-          <div><dt>My role</dt><dd>Remix editing</dd></div>
-        </dl>
         <span class="amateur-watch">Watch film <span aria-hidden="true">↗</span></span>
       </div>
     </a>
@@ -68,11 +65,8 @@ redirect_from:
           <span class="amateur-play amateur-play--small" aria-hidden="true">▶</span>
         </div>
         <div class="amateur-work-card__body">
-          <div class="amateur-card__meta"><span>Music video</span><span>YouTube</span></div>
+          <div class="amateur-card__meta"><span>Short film</span><span>YouTube</span></div>
           <h3>Intimate Lover</h3>
-          <dl class="amateur-credits">
-            <div><dt>My role</dt><dd>Video production</dd></div>
-          </dl>
           <span class="amateur-watch">Watch <span aria-hidden="true">↗</span></span>
         </div>
       </a>
@@ -85,9 +79,6 @@ redirect_from:
         <div class="amateur-work-card__body">
           <div class="amateur-card__meta"><span>Visual story</span><span>YouTube</span></div>
           <h3>Paintbrush on Manhole Cover</h3>
-          <dl class="amateur-credits">
-            <div><dt>My role</dt><dd>Video production</dd></div>
-          </dl>
           <span class="amateur-watch">Watch <span aria-hidden="true">↗</span></span>
         </div>
       </a>
@@ -100,9 +91,6 @@ redirect_from:
         <div class="amateur-work-card__body">
           <div class="amateur-card__meta"><span>Video essay</span><span>Bilibili</span></div>
           <h3>A Discussion on Female Characters in Science Fiction Movies</h3>
-          <dl class="amateur-credits">
-            <div><dt>My role</dt><dd>Video production</dd></div>
-          </dl>
           <span class="amateur-watch">Watch <span aria-hidden="true">↗</span></span>
         </div>
       </a>
@@ -121,57 +109,43 @@ redirect_from:
     <div class="amateur-report-list">
       <a class="amateur-report" href="https://youtu.be/oEgAy98JnBU" target="_blank" rel="noopener">
         <span class="amateur-report__number">01</span>
-        <span class="amateur-report__title">Floating Clouds Are in the Sky, Discussing Cloudy and Sunny
-          <span class="amateur-report__details"><span>My role · TV news production</span></span>
-        </span>
+        <span class="amateur-report__title">Floating Clouds Are in the Sky, Discussing Cloudy and Sunny</span>
         <span class="amateur-report__type">News report</span>
         <span class="amateur-report__link">Watch <span aria-hidden="true">↗</span></span>
       </a>
       <a class="amateur-report" href="https://youtu.be/xyUnZaI6moE" target="_blank" rel="noopener">
         <span class="amateur-report__number">02</span>
-        <span class="amateur-report__title">Internet + Education: Sichuan University Invites You to Get on the Bus
-          <span class="amateur-report__details"><span>My role · TV news production</span></span>
-        </span>
+        <span class="amateur-report__title">Internet + Education: Sichuan University Invites You to Get on the Bus</span>
         <span class="amateur-report__type">News report</span>
         <span class="amateur-report__link">Watch <span aria-hidden="true">↗</span></span>
       </a>
       <a class="amateur-report" href="https://youtu.be/35hdpaS5UXE" target="_blank" rel="noopener">
         <span class="amateur-report__number">03</span>
-        <span class="amateur-report__title">Globalization Forum at Sichuan University–Pittsburgh Institute
-          <span class="amateur-report__details"><span>My role · TV news production</span></span>
-        </span>
+        <span class="amateur-report__title">Globalization Forum at Sichuan University–Pittsburgh Institute</span>
         <span class="amateur-report__type">News report</span>
         <span class="amateur-report__link">Watch <span aria-hidden="true">↗</span></span>
       </a>
       <a class="amateur-report" href="https://youtu.be/tHhPA187ogE" target="_blank" rel="noopener">
         <span class="amateur-report__number">04</span>
-        <span class="amateur-report__title">Have You Watched the Graduation Drama of the Academy of Arts?
-          <span class="amateur-report__details"><span>My role · TV news production</span></span>
-        </span>
+        <span class="amateur-report__title">Have You Watched the Graduation Drama of the Academy of Arts?</span>
         <span class="amateur-report__type">News report</span>
         <span class="amateur-report__link">Watch <span aria-hidden="true">↗</span></span>
       </a>
       <a class="amateur-report" href="https://youtu.be/cubDTsCbvvw" target="_blank" rel="noopener">
         <span class="amateur-report__number">05</span>
-        <span class="amateur-report__title">In Sichuan University, Have You Slept Well?
-          <span class="amateur-report__details"><span>My role · TV news production</span></span>
-        </span>
+        <span class="amateur-report__title">In Sichuan University, Have You Slept Well?</span>
         <span class="amateur-report__type">News report</span>
         <span class="amateur-report__link">Watch <span aria-hidden="true">↗</span></span>
       </a>
       <a class="amateur-report" href="https://youtu.be/GArH4fv_qVY" target="_blank" rel="noopener">
         <span class="amateur-report__number">06</span>
-        <span class="amateur-report__title">The Red Movie Viewing Event at Jiang’an Campus, Sichuan University
-          <span class="amateur-report__details"><span>My role · TV news production</span></span>
-        </span>
+        <span class="amateur-report__title">The Red Movie Viewing Event at Jiang’an Campus, Sichuan University</span>
         <span class="amateur-report__type">News report</span>
         <span class="amateur-report__link">Watch <span aria-hidden="true">↗</span></span>
       </a>
       <a class="amateur-report" href="https://youtu.be/JwR4fW9vgnw" target="_blank" rel="noopener">
         <span class="amateur-report__number">07</span>
-        <span class="amateur-report__title">Straight-A Student Story
-          <span class="amateur-report__details"><span>My role · TV news production</span></span>
-        </span>
+        <span class="amateur-report__title">Straight-A Student Story</span>
         <span class="amateur-report__type">News report</span>
         <span class="amateur-report__link">Watch <span aria-hidden="true">↗</span></span>
       </a>
@@ -185,7 +159,7 @@ redirect_from:
       <p>Whether through a camera or a computational model, I am interested in how careful observation can reveal structure, meaning, and possibility.</p>
     </div>
     <div class="amateur-closing__actions">
-      <a class="amateur-button amateur-button--light" href="{{ '/gallery/' | relative_url }}">Explore photography</a>
+      <a class="amateur-button amateur-button--light" href="{{ '/' | relative_url }}">Return home</a>
       <a class="amateur-button amateur-button--outline-light" href="{{ '/talks/' | relative_url }}">Explore talks</a>
     </div>
   </section>

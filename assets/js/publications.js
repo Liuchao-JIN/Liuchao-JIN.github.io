@@ -277,19 +277,6 @@
       return;
     }
 
-    // Start compact on phones while preserving the expanded desktop overview.
-    var status = page.querySelector("[data-publication-status]");
-    var compactStatus = window.matchMedia("(max-width: 44em)");
-    function setStatusLayout() {
-      if (status) status.open = !compactStatus.matches;
-    }
-    setStatusLayout();
-    if (compactStatus.addEventListener) {
-      compactStatus.addEventListener("change", setStatusLayout);
-    } else {
-      compactStatus.addListener(setStatusLayout);
-    }
-
     var controls = page.querySelector("[data-publications-controls]");
     var search = page.querySelector("[data-publications-search]");
     var yearSelect = page.querySelector("[data-publications-year-select]");
