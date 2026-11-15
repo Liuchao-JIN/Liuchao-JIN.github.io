@@ -1666,5 +1666,113 @@
     "year": "2026",
     "orientation": "landscape",
     "theme": "landscape"
+  },
+  {
+    "id": 141,
+    "src": "/images/gallery/2026-11-15_HongKong_China_CUHK_Graduation_University_Sign_Bear_1208_art.webp",
+    "alt": "Graduation portrait with a commemorative bear at the Chinese University of Hong Kong — Hong Kong",
+    "caption": "A graduate and his commemorative bear beneath the university name",
+    "place": "Hong Kong",
+    "country": "China",
+    "date": "2026-11-15",
+    "year": "2026",
+    "orientation": "landscape",
+    "theme": "people"
+  },
+  {
+    "id": 142,
+    "src": "/images/gallery/2026-11-15_HongKong_China_CUHK_Graduation_Harbour_Bear_1209_art.webp",
+    "alt": "Graduate raising a commemorative bear above Tolo Harbour — Hong Kong",
+    "caption": "A small companion held above the harbour and distant mountains",
+    "place": "Hong Kong",
+    "country": "China",
+    "date": "2026-11-15",
+    "year": "2026",
+    "orientation": "landscape",
+    "theme": "people"
+  },
+  {
+    "id": 143,
+    "src": "/images/gallery/2026-11-15_HongKong_China_CUHK_Graduation_Campus_Garden_Tassel_1211_art.webp",
+    "alt": "Graduate holding his tassel in the campus garden at CUHK — Hong Kong",
+    "caption": "A playful tassel portrait among the geometric campus hedges",
+    "place": "Hong Kong",
+    "country": "China",
+    "date": "2026-11-15",
+    "year": "2026",
+    "orientation": "landscape",
+    "theme": "people"
+  },
+  {
+    "id": 144,
+    "src": "/images/gallery/2026-11-15_HongKong_China_CUHK_Graduation_Harbour_Portrait_1215_art.webp",
+    "alt": "Graduation portrait overlooking Tolo Harbour and the mountains — Hong Kong",
+    "caption": "Quiet confidence above the water and mountain haze",
+    "place": "Hong Kong",
+    "country": "China",
+    "date": "2026-11-15",
+    "year": "2026",
+    "orientation": "landscape",
+    "theme": "people"
+  },
+  {
+    "id": 145,
+    "src": "/images/gallery/2026-11-15_HongKong_China_CUHK_Graduation_University_Banner_Bear_1212_art.webp",
+    "alt": "Graduate balancing a commemorative bear beside a CUHK banner — Hong Kong",
+    "caption": "The university colours, carried with a little humour",
+    "place": "Hong Kong",
+    "country": "China",
+    "date": "2026-11-15",
+    "year": "2026",
+    "orientation": "portrait",
+    "theme": "people"
+  },
+  {
+    "id": 146,
+    "src": "/images/gallery/2026-11-15_HongKong_China_CUHK_Graduation_Science_Centre_Fountain_1213_art.webp",
+    "alt": "Graduate turning beside the Science Centre fountain at CUHK — Hong Kong",
+    "caption": "A turn beside the fountain, framed by the Science Centre",
+    "place": "Hong Kong",
+    "country": "China",
+    "date": "2026-11-15",
+    "year": "2026",
+    "orientation": "portrait",
+    "theme": "people"
+  },
+  {
+    "id": 147,
+    "src": "/images/gallery/2026-11-15_HongKong_China_CUHK_Graduation_Research_Group_1214_art.webp",
+    "alt": "Graduation portrait with research colleagues at CUHK — Hong Kong",
+    "caption": "A graduation shared with mentors, colleagues, and friends",
+    "place": "Hong Kong",
+    "country": "China",
+    "date": "2026-11-15",
+    "year": "2026",
+    "orientation": "landscape",
+    "theme": "people"
+  },
+  {
+    "id": 148,
+    "src": "/images/gallery/2026-11-15_HongKong_China_CUHK_Graduation_Campus_Garden_Wings_1216_art.webp",
+    "alt": "Graduate opening his gown like wings in the campus garden — Hong Kong",
+    "caption": "A brief pair of wings across the garden geometry",
+    "place": "Hong Kong",
+    "country": "China",
+    "date": "2026-11-15",
+    "year": "2026",
+    "orientation": "landscape",
+    "theme": "people"
+  },
+  {
+    "id": 149,
+    "src": "/images/gallery/2026-11-15_HongKong_China_CUHK_Graduation_Ceremony_Stage_1210_art.webp",
+    "alt": "Graduate presenting the CUHK graduation ceremony stage — Hong Kong",
+    "caption": "The ceremony stage, presented with the flourish it deserves",
+    "place": "Hong Kong",
+    "country": "China",
+    "date": "2026-11-15",
+    "year": "2026",
+    "orientation": "portrait",
+    "theme": "people"
   }
 ]
