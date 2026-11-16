@@ -7,13 +7,13 @@ author_profile: false
 hide_title: true
 ---
 
-<div class="artist-gallery" data-artist-gallery>
+<div class="artist-gallery">
   <section class="artist-gallery__hero" aria-labelledby="gallery-title">
     <div class="artist-gallery__hero-copy">
       <p class="artist-gallery__eyebrow">A VISUAL FIELD NOTEBOOK · 2022—2026</p>
       <h1 id="gallery-title">Light, distance,<br>and the spaces between.</h1>
       <p class="artist-gallery__lede">A personal archive gathered between research journeys: mountains emerging from cloud, cities after dark, rooms made quiet by art, and brief encounters with unfamiliar places.</p>
-      <a class="artist-gallery__scroll" href="#gallery-archive">Enter the archive <span aria-hidden="true">↓</span></a>
+      <a class="artist-gallery__scroll" href="#gallery-archive">Explore the albums <span aria-hidden="true">↓</span></a>
     </div>
 
     <div class="artist-gallery__poster" aria-label="Selected photographs">
@@ -44,42 +44,25 @@ hide_title: true
         <p class="artist-gallery__eyebrow">THE ARCHIVE</p>
         <h2 id="archive-title">Collected observations</h2>
       </div>
-      <p class="artist-gallery__archive-note">Select a photograph to enter the frame.</p>
+      <p class="artist-gallery__archive-note">{{ site.data.gallery_albums | size }} albums · {{ site.data.gallery | size }} photographs</p>
     </header>
 
-    <div class="artist-gallery__filters" role="group" aria-label="Filter photographs by theme">
-      <button class="is-active" type="button" data-gallery-filter="all" aria-pressed="true">All <span>{{ site.data.gallery | size }}</span></button>
-      <button type="button" data-gallery-filter="landscape" aria-pressed="false">Landscape</button>
-      <button type="button" data-gallery-filter="city" aria-pressed="false">City</button>
-      <button type="button" data-gallery-filter="culture" aria-pressed="false">Culture</button>
-      <button type="button" data-gallery-filter="people" aria-pressed="false">People</button>
-      <button type="button" data-gallery-filter="journey" aria-pressed="false">Journey</button>
-    </div>
-
-    {% assign gallery_photos = site.data.gallery | sort: "date" %}
-    <div class="artist-gallery__grid" data-gallery-grid aria-live="polite">
-      {% for photo in gallery_photos %}
-      <figure class="artist-gallery__card artist-gallery__card--{{ photo.orientation }}" data-gallery-theme="{{ photo.theme }}">
-        <button type="button"
-                class="artist-gallery__open"
-                data-gallery-item
-                data-src="{{ photo.src | relative_url }}"
-                data-caption="{{ photo.caption | escape }}"
-                data-meta="{{ photo.place | escape }} · {{ photo.year }}"
-                aria-label="Open photograph: {{ photo.caption | escape }}">
-          <span class="artist-gallery__image-wrap">
-            <img src="{{ photo.src | relative_url }}"
-                 alt="{{ photo.alt | escape }}"
-                 loading="lazy"
-                 decoding="async">
-            <span class="artist-gallery__image-index" aria-hidden="true">{{ forloop.index }}</span>
-          </span>
-          <span class="artist-gallery__caption">
-            <span>{{ photo.place }}</span>
-            <span>{{ photo.year }}</span>
-          </span>
-        </button>
-      </figure>
+    <div class="artist-gallery__albums">
+      {% for album in site.data.gallery_albums %}
+        {% assign album_url = '/gallery/' | append: album.slug | append: '/' %}
+        {% assign cover_url = '/images/gallery/covers/' | append: album.slug | append: '.webp' %}
+        {% assign cover = site.data.gallery | where: "id", album.cover_id | first %}
+        <a class="artist-gallery__album" href="{{ album_url | relative_url }}" aria-labelledby="album-{{ album.slug }}">
+          <div class="artist-gallery__album-cover">
+            <img src="{{ cover_url | relative_url }}" alt="{{ cover.alt | escape }}" width="900" height="600" loading="lazy" decoding="async">
+          </div>
+          <div class="artist-gallery__album-copy">
+            <p class="artist-gallery__album-count">{{ album.photo_ids | size }} photographs</p>
+            <h3 id="album-{{ album.slug }}">{{ album.title | escape }}</h3>
+            <p class="artist-gallery__album-description">{{ album.description | escape }}</p>
+            <span class="artist-gallery__album-arrow" aria-hidden="true">↗</span>
+          </div>
+        </a>
       {% endfor %}
     </div>
   </section>
@@ -91,18 +74,3 @@ hide_title: true
     <a href="{{ '/amateur/' | relative_url }}">Continue to film and visual storytelling <span aria-hidden="true">↗</span></a>
   </section>
 </div>
-
-<div class="artist-gallery__lightbox" data-gallery-lightbox aria-hidden="true" role="dialog" aria-modal="true" aria-label="Photograph viewer">
-  <button class="artist-gallery__lightbox-close" type="button" data-gallery-close aria-label="Close photograph viewer">Close <span aria-hidden="true">×</span></button>
-  <button class="artist-gallery__lightbox-nav artist-gallery__lightbox-nav--prev" type="button" data-gallery-prev aria-label="Previous photograph">←</button>
-  <div class="artist-gallery__lightbox-stage">
-    <img data-gallery-lightbox-image alt="">
-    <div class="artist-gallery__lightbox-copy">
-      <p data-gallery-lightbox-meta></p>
-      <h2 data-gallery-lightbox-caption></h2>
-    </div>
-  </div>
-  <button class="artist-gallery__lightbox-nav artist-gallery__lightbox-nav--next" type="button" data-gallery-next aria-label="Next photograph">→</button>
-</div>
-
-<script src="{{ '/assets/js/gallery-artist.js' | relative_url }}" defer></script>

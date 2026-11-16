@@ -2,44 +2,33 @@
   "use strict";
 
   var root = document.querySelector("[data-artist-gallery]");
-  if (!root) return;
-
-  var cards = Array.prototype.slice.call(root.querySelectorAll("[data-gallery-theme]"));
-  var filters = Array.prototype.slice.call(root.querySelectorAll("[data-gallery-filter]"));
   var lightbox = document.querySelector("[data-gallery-lightbox]");
+  if (!root || !lightbox) return;
+
+  var items = Array.prototype.slice.call(root.querySelectorAll("[data-gallery-item]"));
+  if (!items.length) return;
   var lightboxImage = document.querySelector("[data-gallery-lightbox-image]");
   var lightboxCaption = document.querySelector("[data-gallery-lightbox-caption]");
   var lightboxMeta = document.querySelector("[data-gallery-lightbox-meta]");
   var closeButton = document.querySelector("[data-gallery-close]");
   var previousButton = document.querySelector("[data-gallery-prev]");
   var nextButton = document.querySelector("[data-gallery-next]");
-  var activeItems = [];
   var activeIndex = -1;
   var lastTrigger = null;
   var touchStartX = null;
 
-  function refreshActiveItems() {
-    activeItems = cards
-      .filter(function (card) { return !card.hidden; })
-      .map(function (card) { return card.querySelector("[data-gallery-item]"); });
-  }
-
   function renderItem(index) {
-    if (!activeItems.length) return;
-    activeIndex = (index + activeItems.length) % activeItems.length;
-    var item = activeItems[activeIndex];
+    activeIndex = (index + items.length) % items.length;
+    var item = items[activeIndex];
     lightboxImage.src = item.getAttribute("data-src");
-    lightboxImage.alt = item.getAttribute("data-caption") || "Gallery photograph";
+    lightboxImage.alt = item.querySelector("img").alt;
     lightboxCaption.textContent = item.getAttribute("data-caption") || "";
     lightboxMeta.textContent = item.getAttribute("data-meta") || "";
   }
 
   function openLightbox(item) {
-    refreshActiveItems();
-    activeIndex = activeItems.indexOf(item);
-    if (activeIndex < 0) return;
     lastTrigger = item;
-    renderItem(activeIndex);
+    renderItem(items.indexOf(item));
     lightbox.classList.add("is-open");
     lightbox.setAttribute("aria-hidden", "false");
     document.body.classList.add("gallery-lightbox-open");
@@ -51,26 +40,11 @@
     lightbox.setAttribute("aria-hidden", "true");
     document.body.classList.remove("gallery-lightbox-open");
     lightboxImage.removeAttribute("src");
+    touchStartX = null;
     if (lastTrigger) lastTrigger.focus();
   }
 
-  filters.forEach(function (button) {
-    button.addEventListener("click", function () {
-      var filter = button.getAttribute("data-gallery-filter");
-      filters.forEach(function (candidate) {
-        var selected = candidate === button;
-        candidate.classList.toggle("is-active", selected);
-        candidate.setAttribute("aria-pressed", selected ? "true" : "false");
-      });
-      cards.forEach(function (card) {
-        card.hidden = filter !== "all" && card.getAttribute("data-gallery-theme") !== filter;
-      });
-      refreshActiveItems();
-    });
-  });
-
-  cards.forEach(function (card) {
-    var item = card.querySelector("[data-gallery-item]");
+  items.forEach(function (item) {
     item.addEventListener("click", function () { openLightbox(item); });
   });
 
@@ -96,9 +70,16 @@
   document.addEventListener("keydown", function (event) {
     if (!lightbox.classList.contains("is-open")) return;
     if (event.key === "Escape") closeLightbox();
-    if (event.key === "ArrowLeft") renderItem(activeIndex - 1);
-    if (event.key === "ArrowRight") renderItem(activeIndex + 1);
+    if (event.key === "ArrowLeft" || event.key === "ArrowRight") {
+      event.preventDefault();
+      renderItem(activeIndex + (event.key === "ArrowLeft" ? -1 : 1));
+    }
+    if (event.key === "Tab" && event.shiftKey && document.activeElement === closeButton) {
+      event.preventDefault();
+      nextButton.focus();
+    } else if (event.key === "Tab" && !event.shiftKey && document.activeElement === nextButton) {
+      event.preventDefault();
+      closeButton.focus();
+    }
   });
-
-  refreshActiveItems();
 })();

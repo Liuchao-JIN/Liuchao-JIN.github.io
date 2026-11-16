@@ -1,0 +1,62 @@
+---
+layout: gallery
+---
+{% assign album = site.data.gallery_albums | where: "slug", page.album | first %}
+{% assign archive_url = '/gallery/' | relative_url | append: '#gallery-archive' %}
+
+<div class="artist-gallery" data-artist-gallery>
+  <section class="artist-gallery__archive" aria-labelledby="album-title">
+    <a class="artist-gallery__back" href="{{ archive_url }}"><span aria-hidden="true">←</span> All albums</a>
+
+    <header class="artist-gallery__archive-head artist-gallery__album-head">
+      <div>
+        <h1 id="album-title">{{ album.title | escape }}</h1>
+        <p class="artist-gallery__album-description">{{ album.description | escape }}</p>
+      </div>
+      <p class="artist-gallery__archive-note">{{ album.photo_ids | size }} photographs</p>
+    </header>
+
+    <div class="artist-gallery__grid">
+      {% for photo_id in album.photo_ids %}
+        {% assign photo = site.data.gallery | where: "id", photo_id | first %}
+        <figure class="artist-gallery__card artist-gallery__card--{{ photo.orientation }}">
+          <button type="button"
+                  class="artist-gallery__open"
+                  data-gallery-item
+                  data-src="{{ photo.src | relative_url }}"
+                  data-caption="{{ photo.caption | escape }}"
+                  data-meta="{{ photo.place | escape }} · {{ photo.year }}"
+                  aria-label="Open photograph: {{ photo.caption | escape }}">
+            <span class="artist-gallery__image-wrap">
+              <img src="{{ photo.src | relative_url }}"
+                   alt="{{ photo.alt | escape }}"
+                   loading="lazy"
+                   decoding="async">
+            </span>
+            <span class="artist-gallery__caption">
+              <span>{{ photo.place | escape }}</span>
+              <span>{{ photo.year }}</span>
+            </span>
+          </button>
+        </figure>
+      {% endfor %}
+    </div>
+
+    <a class="artist-gallery__back artist-gallery__back--end" href="{{ archive_url }}"><span aria-hidden="true">←</span> All albums</a>
+  </section>
+</div>
+
+<div class="artist-gallery__lightbox" data-gallery-lightbox aria-hidden="true" role="dialog" aria-modal="true" aria-label="Photograph viewer">
+  <button class="artist-gallery__lightbox-close" type="button" data-gallery-close aria-label="Close photograph viewer">Close <span aria-hidden="true">×</span></button>
+  <button class="artist-gallery__lightbox-nav artist-gallery__lightbox-nav--prev" type="button" data-gallery-prev aria-label="Previous photograph">←</button>
+  <div class="artist-gallery__lightbox-stage">
+    <img data-gallery-lightbox-image alt="">
+    <div class="artist-gallery__lightbox-copy">
+      <p data-gallery-lightbox-meta></p>
+      <h2 data-gallery-lightbox-caption></h2>
+    </div>
+  </div>
+  <button class="artist-gallery__lightbox-nav artist-gallery__lightbox-nav--next" type="button" data-gallery-next aria-label="Next photograph">→</button>
+</div>
+
+<script src="{{ '/assets/js/gallery-artist.js' | relative_url }}" defer></script>

@@ -17,7 +17,6 @@
   --gallery-paper: #f3f0e8;
   --gallery-paper-deep: #e8e1d5;
   --gallery-line: rgba(23, 43, 49, 0.2);
-  --gallery-accent: #b96843;
   position: relative;
   left: 50%;
   width: calc(100vw - 2rem);
@@ -203,7 +202,7 @@
   padding-bottom: 2rem;
   border-bottom: 1px solid var(--gallery-line);
 
-  h2 {
+  h1, h2 {
     margin: 0;
     color: var(--gallery-ink);
     font-family: Georgia, "Times New Roman", serif;
@@ -225,26 +224,102 @@
   text-align: right;
 }
 
-.artist-gallery__filters {
+.artist-gallery__albums {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: clamp(1.25rem, 2.4vw, 2.5rem);
+  margin-top: clamp(1.75rem, 4vw, 3.5rem);
+}
+
+.artist-gallery__album {
   display: flex;
-  gap: 0.55rem;
-  flex-wrap: wrap;
-  margin: 1.5rem 0 4rem;
+  min-width: 0;
+  flex-direction: column;
+  color: var(--gallery-ink);
+  border: 1px solid var(--gallery-line);
+  background: #fff;
+  transition: border-color 200ms ease;
 
-  button {
-    padding: 0.65rem 1rem;
-    color: #667478;
-    border: 1px solid rgba(23, 43, 49, 0.16);
-    border-radius: 2rem;
-    background: transparent;
-    font-size: 0.73rem;
-    letter-spacing: 0.04em;
-    cursor: pointer;
-    transition: color 180ms ease, background 180ms ease, border-color 180ms ease;
+  &:visited { color: var(--gallery-ink); }
+  &:hover, &:focus-visible { color: var(--gallery-ink); border-color: #2e8cab; }
+  &:hover img { transform: scale(1.035); }
+}
 
-    span { margin-left: 0.4rem; opacity: 0.58; }
-    &:hover, &.is-active { color: #fff; border-color: var(--gallery-ink); background: var(--gallery-ink); }
+.artist-gallery__album-cover {
+  overflow: hidden;
+  background: var(--gallery-paper-deep);
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: transform 400ms ease;
   }
+}
+
+.artist-gallery__album-copy {
+  position: relative;
+  flex: 1;
+  padding: 1.2rem 2.65rem 1.3rem 1.15rem;
+
+  h3 {
+    margin: 0 0 0.55rem;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: clamp(1.35rem, 2.2vw, 2rem);
+    font-weight: 400;
+    line-height: 1.05;
+    letter-spacing: -0.025em;
+  }
+
+  .artist-gallery__album-description { margin: 0; font-size: 0.92rem; }
+}
+
+.artist-gallery__album-description {
+  max-width: 42rem;
+  margin: 1rem 0 0;
+  color: #496069;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1rem, 1.6vw, 1.25rem);
+  line-height: 1.55;
+}
+
+.artist-gallery__album-count {
+  margin: 0 0 0.6rem;
+  color: #59696d;
+  font-size: 0.68rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.artist-gallery__album-arrow {
+  position: absolute;
+  top: 1rem;
+  right: 1.1rem;
+  color: #2e8cab;
+  font-size: 1.15rem;
+}
+
+.artist-gallery__back {
+  display: inline-flex;
+  gap: 0.55rem;
+  align-items: center;
+  margin-bottom: 1.7rem;
+  padding: 0.55rem 0;
+  color: var(--gallery-ink);
+  border-bottom: 1px solid var(--gallery-line);
+  font-size: 0.82rem;
+  font-weight: 700;
+
+  &:hover { color: #2e8cab; border-color: #2e8cab; }
+}
+
+.artist-gallery__back--end { margin-bottom: 0; }
+
+.artist-gallery__album:focus-visible,
+.artist-gallery__back:focus-visible { outline: 2px solid #2e8cab; outline-offset: 4px; }
+
+.artist-gallery__album-head {
+  margin-bottom: clamp(1.75rem, 4vw, 3.5rem);
 }
 
 .artist-gallery__grid {
@@ -259,7 +334,8 @@
   break-inside: avoid;
   vertical-align: top;
 
-  &[hidden] { display: none; }
+  &--landscape img { aspect-ratio: auto 3 / 2; }
+  &--portrait img { aspect-ratio: auto 2 / 3; }
 }
 
 .artist-gallery__open {
@@ -273,7 +349,6 @@
   cursor: zoom-in;
 
   &:hover .artist-gallery__image-wrap img { transform: scale(1.022); }
-  &:hover .artist-gallery__image-index { color: #fff; background: var(--gallery-accent); }
   &:focus-visible { outline: 2px solid #2e8cab; outline-offset: 7px; }
 }
 
@@ -297,21 +372,6 @@
     height: auto;
     transition: transform 650ms cubic-bezier(0.2, 0.65, 0.25, 1);
   }
-}
-
-.artist-gallery__image-index {
-  position: absolute;
-  top: 0.8rem;
-  left: 0.8rem;
-  min-width: 2rem;
-  padding: 0.35rem 0.45rem;
-  color: var(--gallery-ink);
-  background: rgba(250, 249, 245, 0.9);
-  font-size: 0.63rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-align: center;
-  transition: color 180ms ease, background 180ms ease;
 }
 
 .artist-gallery__caption {
@@ -376,7 +436,7 @@
   background: rgba(11, 19, 22, 0.97);
   opacity: 0;
   visibility: hidden;
-  transition: opacity 250ms ease, visibility 250ms ease;
+  transition: opacity 250ms ease;
 
   &.is-open { opacity: 1; visibility: visible; }
 }
@@ -429,6 +489,7 @@ body.gallery-lightbox-open { overflow: hidden; }
 @media (max-width: 1100px) {
   .artist-gallery__hero { min-height: 680px; grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr); padding: 3rem; }
   .artist-gallery__poster { min-height: 540px; }
+  .artist-gallery__albums { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .artist-gallery__grid { column-count: 2; }
 }
 
@@ -446,8 +507,6 @@ body.gallery-lightbox-open { overflow: hidden; }
   .artist-gallery__archive { padding: 2.75rem 1rem; }
   .artist-gallery__archive-head { display: block; }
   .artist-gallery__archive-note { margin-top: 1.25rem; text-align: left; }
-  .artist-gallery__filters { margin-bottom: 2.5rem; }
-  .artist-gallery__filters button { padding: 0.58rem 0.78rem; font-size: 0.67rem; }
   .artist-gallery__grid { column-count: 1; }
   .artist-gallery__card { margin-bottom: 2.8rem; }
   .artist-gallery__closing { display: block; padding: 3.5rem 1.35rem; }
@@ -456,6 +515,10 @@ body.gallery-lightbox-open { overflow: hidden; }
   .artist-gallery__lightbox { grid-template-columns: 2.8rem 1fr 2.8rem; padding: 3.5rem 0.35rem 1.2rem; }
   .artist-gallery__lightbox-stage img { max-height: calc(100vh - 11.5rem); }
   .artist-gallery__lightbox-close { top: 0.8rem; right: 1rem; }
+}
+
+@media (max-width: 540px) {
+  .artist-gallery__albums { grid-template-columns: minmax(0, 1fr); }
 }
 
 @media (prefers-reduced-motion: reduce) {
