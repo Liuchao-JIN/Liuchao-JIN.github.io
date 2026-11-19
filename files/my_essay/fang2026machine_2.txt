@@ -1,0 +1,9 @@
+@article{fang2026nurbs,
+  title={Machine-Learning-Driven Inverse Design of NURBS-Parameterized Auxetic Piezoelectric Energy Harvesters for Self-Powered Wireless Sensing},
+  author={Fang, Shitong and Xue, Hongao and Chen, Keyu and Lin, Haobin and Chen, Miao and Wei, Liangdong and Xu, Qingyang and Gao, Qiang and Lai, Zhihui and Cai, Mingjing and Yuan, Xiaoting and Dong, Shuxiang and Jin, Liuchao and Liao, Wei-Hsin},
+  journal={Advanced Science},
+  pages={e78735},
+  year={2026},
+  doi={10.1002/advs.78735},
+  publisher={Wiley}
+}
