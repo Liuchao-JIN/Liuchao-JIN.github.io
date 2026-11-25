@@ -25,16 +25,17 @@ layout: gallery
                   data-gallery-item
                   data-src="{{ photo.src | relative_url }}"
                   data-caption="{{ photo.caption | escape }}"
-                  data-meta="{{ photo.place | escape }} · {{ photo.year }}"
+                  data-meta="{% if photo.place != empty %}{{ photo.place | escape }} · {% endif %}{{ photo.year }}"
                   aria-label="Open photograph: {{ photo.caption | escape }}">
             <span class="artist-gallery__image-wrap">
               <img src="{{ photo.src | relative_url }}"
                    alt="{{ photo.alt | escape }}"
+                   {% if photo.width and photo.height %}width="{{ photo.width }}" height="{{ photo.height }}"{% endif %}
                    loading="lazy"
                    decoding="async">
             </span>
             <span class="artist-gallery__caption">
-              <span>{{ photo.place | escape }}</span>
+              {% if photo.place != empty %}<span>{{ photo.place | escape }}</span>{% endif %}
               <span>{{ photo.year }}</span>
             </span>
           </button>

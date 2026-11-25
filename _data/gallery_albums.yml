@@ -8,28 +8,28 @@
   title: Where the Land Falls Quiet
   description: White cliffs, desert ridges, and coastlines that seem to go on past the frame.
   cover_id: 49
-  photo_ids: [49, 50, 37, 38, 30, 68, 74, 75, 76, 77, 21, 90, 111, 112, 114, 113, 91, 92, 94, 95, 96, 109, 110, 140]
+  photo_ids: [49, 169, 171, 172, 150, 195, 182, 50, 37, 38, 30, 68, 74, 75, 76, 77, 21, 90, 111, 112, 114, 113, 91, 92, 94, 95, 96, 109, 110, 140]
 
 - slug: the-night-keeps-its-lights
   title: The Night Keeps Its Lights
   description: Cities after dusk, a river of reflections, and the brief light of a stage.
   cover_id: 107
-  photo_ids: [107, 99, 104, 101, 106, 103, 105, 102, 115, 116, 117, 118, 119, 120, 3, 4, 5, 10, 11, 18, 29, 39, 40, 41, 70, 71, 72, 78, 79, 80, 131, 132, 133, 134, 135]
+  photo_ids: [107, 170, 166, 191, 155, 181, 193, 99, 104, 101, 106, 103, 105, 102, 115, 116, 117, 118, 119, 120, 3, 4, 5, 10, 11, 18, 29, 39, 40, 41, 70, 71, 72, 78, 79, 80, 131, 132, 133, 134, 135]
 
 - slug: the-geometry-of-light
   title: The Geometry of Light
   description: The lines of cities, galleries, and buildings as light moves across them.
   cover_id: 48
-  photo_ids: [48, 44, 45, 46, 47, 53, 51, 52, 36, 82, 83, 85, 124, 128, 31, 32, 34, 35, 33, 13, 14, 42, 43, 54, 55, 56, 59, 60, 61, 62, 63, 57, 58, 64, 65, 98, 139]
+  photo_ids: [48, 157, 158, 159, 164, 162, 177, 173, 160, 178, 161, 176, 163, 168, 183, 167, 196, 194, 44, 45, 46, 47, 53, 51, 52, 36, 82, 83, 85, 124, 128, 31, 32, 34, 35, 33, 13, 14, 42, 43, 54, 55, 56, 59, 60, 61, 62, 63, 57, 58, 64, 65, 98, 139]
 
 - slug: what-the-stone-remembers
   title: What the Stone Remembers
   description: Gardens, sacred spaces, and objects that carry the marks of time.
   cover_id: 138
-  photo_ids: [138, 1, 7, 8, 9, 12, 23, 24, 25, 26, 27, 66, 67, 81, 84, 88, 89, 97, 121, 122, 123, 125, 136, 93]
+  photo_ids: [138, 152, 151, 154, 180, 174, 175, 165, 186, 187, 188, 189, 190, 1, 7, 8, 9, 12, 23, 24, 25, 26, 27, 66, 67, 81, 84, 88, 89, 97, 121, 122, 123, 125, 136, 93]
 
 - slug: between-departures
   title: Between Departures
   description: The view from the window, across a harbour, and under airport roofs.
   cover_id: 69
-  photo_ids: [69, 2, 19, 22, 15, 16, 17, 20, 6, 28, 86, 87, 100, 108, 126, 127, 129, 130, 137]
+  photo_ids: [69, 156, 153, 185, 192, 184, 179, 2, 19, 22, 15, 16, 17, 20, 6, 28, 86, 87, 100, 108, 126, 127, 129, 130, 137]
